@@ -1,0 +1,1658 @@
+{
+  "meta": {
+    "home": {
+      "title": "Linimatic A/S — Denmark's Zinc Die-Casting Foundry",
+      "description": "Denmark's largest dedicated zinc die-casting foundry since 1967. Precision zamak components from prototype to series — ISO 9001 certified, all under one roof."
+    },
+    "services": {
+      "title": "Zinc Die-Casting Services in Denmark",
+      "description": "Full-service zinc die-casting under one roof: prototyping, high-pressure die casting, CNC machining, surface coating, quality assurance and assembly. Helsinge, DK."
+    },
+    "whyZinc": {
+      "title": "Why Zinc Die-Casting? Benefits & Alloys",
+      "description": "Zinc die-casting delivers ±0.05 mm tolerances, 1M+ shot die life and chrome-ready surfaces. Compare zinc vs aluminum vs plastic and find the right zamak alloy."
+    },
+    "about": {
+      "title": "About Linimatic — Zinc Die-Casting Experts Since 1967",
+      "description": "Founded in 1967, Linimatic A/S is Denmark's largest dedicated zinc die-casting foundry — 50+ specialists, ISO 9001 certified, full value chain under one roof."
+    },
+    "news": {
+      "title": "News from Linimatic",
+      "description": "News from Linimatic A/S — events, investments and stories from the zinc die-casting foundry in Helsinge."
+    },
+    "sustainability": {
+      "title": "Sustainability — Linimatic A/S",
+      "description": "Read about Linimatic's work with sustainability, CO2 emissions and ethical business conduct."
+    },
+    "co2": {
+      "title": "CO2 and Climate — Linimatic A/S",
+      "description": "Learn about Linimatic's work to reduce our CO2 footprint through efficient production and sustainable initiatives."
+    },
+    "codeOfConduct": {
+      "title": "Code of Conduct — Linimatic A/S",
+      "description": "Linimatic's guidelines for responsible and ethical business conduct."
+    },
+    "cases": {
+      "title": "Case Studies — Zinc Die-Casting Projects",
+      "description": "Zinc die-casting case studies from DeWalt, One Collection, VELUX and more. See how Linimatic solves complex manufacturing challenges with precision zamak parts."
+    },
+    "contact": {
+      "title": "Contact Linimatic — Get a Zinc Die-Casting Quote",
+      "description": "Send your drawings for a free zinc die-casting quote — reply within 24 hours. Call +45 4876 4040 or visit us in Helsinge, Denmark."
+    },
+    "contactPeople": {
+      "title": "Contact People at Linimatic",
+      "description": "Find the right contact person at Linimatic — management, technical, sales, production, finance and logistics."
+    },
+    "jobs": {
+      "title": "Careers at Linimatic — Zinc Die-Casting Jobs in Denmark",
+      "description": "Join Denmark's largest zinc die-casting foundry. Open roles in casting, machining, quality and engineering at Linimatic A/S in Helsinge."
+    },
+    "zinkers": {
+      "title": "Sinkers by Linimatic — Zinc Weights for Trawl & Fishing Gear",
+      "description": "Linimatic casts lead-free zinc sinkers for trawl, seine and industrial fishing gear. Ring and barrel sinkers from 50-2,000 grams, tailored to your needs."
+    },
+    "zinkTemadag": {
+      "title": "Zinc Info Day — free zinc die-casting seminar",
+      "description": "Free info day for designers, project managers and buyers on the possibilities of zinc die-casting. See the next scheduled dates and book a seat."
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you’re looking for doesn’t exist or has been moved.",
+    "backHome": "Back to homepage"
+  },
+  "navigation": {
+    "home": "Home"
+  },
+  "header": {
+    "logoAlt": "Linimatic — Innovative Die Casting",
+    "nav": {
+      "services": "Services",
+      "cases": "Cases",
+      "whyZinc": "Why Zinc",
+      "zinkers": "Sinkers",
+      "about": "About",
+      "sustainability": "Sustainability",
+      "jobs": "Jobs",
+      "contact": "Contact"
+    },
+    "servicesList": {
+      "prototyping": "Prototyping",
+      "dieCasting": "High-Pressure Die Casting",
+      "postProcessing": "CNC Post-Processing",
+      "surfaceTreatment": "Surface Treatment & Coating",
+      "quality": "Quality & Certification",
+      "assembly": "Assembly & Mounting",
+      "zinkTemadag": "Zinc Info Day"
+    },
+    "allServices": "All Services",
+    "aboutList": {
+      "about": "About Linimatic",
+      "news": "News"
+    },
+    "sustainabilityList": {
+      "co2": "CO2",
+      "codeOfConduct": "Code of Conduct"
+    },
+    "phone": "+45 4876 4040",
+    "getQuote": "Get a Quote",
+    "mobileMenuOpen": "Open menu",
+    "mobileMenuClose": "Close menu"
+  },
+  "hero": {
+    "watermark": "Zn",
+    "eyebrow": "Est. 1967 — Helsinge, Denmark",
+    "headline1": "High-pressure die casting",
+    "headline2": "in",
+    "headlineAccent": "zinc",
+    "tagline": "Precise, efficient and economical",
+    "description": "Linimatic A/S combines many years of experience with modern, automated production of high-pressure die-cast zinc components. Automation, robots and efficient process control enable us to deliver high quality at competitive prices – produced in Denmark. We help customers with parts where precision, function, finish and consistent quality are critical. With deep technical expertise and close dialogue from idea to finished part, we create solutions that last – even when the requirements are complex.",
+    "heroImageAlt": "Precision zinc die-casting mold with brass fittings",
+    "heroImageAlt2": "Two generations of Linimatic employees discussing a zinc die-cast component on the factory floor",
+    "heroImageAlt3": "Aerial view of Linimatic's production facility in Helsinge with rooftop solar panels",
+    "heroImageAlt4": "Zinc die-casting mould inside the machine and tumbling of the cast parts afterwards",
+    "ctaPrimary": "Contact Us to Get Started",
+    "ctaSecondary": "Our Services"
+  },
+  "stats": {
+    "items": [
+      { "value": "1967", "label": "Founded" },
+      { "value": "ISO 9001", "label": "Since 1993" },
+      { "value": "100%", "label": "Danish Production" },
+      { "value": "199 kWp", "label": "Solar Array" },
+      { "value": "30+", "label": "Specialists" }
+    ]
+  },
+  "valueChain": {
+    "eyebrow": "One Roof. Zero Handoffs.",
+    "heading": "From design to first production order",
+    "description": "Give us a CAD file. We return a finished, inspected component \u2014 cast, machined, coated, and assembled in a single facility. No supplier coordination. No quality gaps between steps.",
+    "steps": [
+      {
+        "number": "01",
+        "label": "Design",
+        "title": "Optimisation with respect for the design",
+        "description": "Together with you, we optimise the construction for efficient zinc die casting \u2013 with the greatest possible respect for the original design.",
+        "specs": "48h response \u00b7 50\u201310,000 pcs"
+      },
+      {
+        "number": "02",
+        "label": "Tooling",
+        "title": "3D Design of the Die-Casting Tool",
+        "description": "Based on the final 3D file, we design the die-casting tool, optimised for stable casting production and the longest possible tool life.",
+        "specs": "In-house tool design \u00b7 Optimised for long tool life"
+      },
+      {
+        "number": "03",
+        "label": "Try-Out",
+        "title": "Try-Out and Test Casting",
+        "description": "Once the mould tool is finished, we make the first test shots in one of our robotic die-casting cells, running in and fine-tuning the tool and the casting process.",
+        "specs": "Robotic die-casting cells \u00b7 Process fine-tuning"
+      },
+      {
+        "number": "04",
+        "label": "Approval",
+        "title": "Approval",
+        "description": "After the try-out, we measure the agreed number of parts. The parts are delivered to you together with the agreed quality and measurement documentation.",
+        "specs": "Measured samples \u00b7 Quality and measurement documentation"
+      },
+      {
+        "number": "05",
+        "label": "Production",
+        "title": "First Production Order",
+        "description": "Once the sample parts are approved, the tool and the process are ready for the first production order and subsequent series production.",
+        "specs": "Approved samples \u00b7 Ready for series production"
+      }
+    ],
+    "cta": "Contact Us to Get Started",
+    "allServices": "Explore All Services"
+  },
+  "cases": {
+    "eyebrow": "Case Studies",
+    "heading": "Customer cases",
+    "allCases": "All cases",
+    "items": [
+      {
+        "title": "There are benefits to having your supplier close by",
+        "client": "Ditlev Burke Industrial Tools A/S",
+        "metric": "It is possible to compete with Asia \u00b7 Automated die-casting in Denmark",
+        "result": "The entire handle is now manufactured in Denmark instead of in Asia."
+      },
+      {
+        "title": "Smooth collaboration with a forecast agreement",
+        "client": "VELUX",
+        "metric": "Forecast agreement renewed annually \u00b7 Robot introduced on the production line",
+        "result": "A close, smooth collaboration for both parties \u2014 no constant renegotiation, with ongoing sparring and knowledge-sharing between Linimatic and VELUX."
+      },
+      {
+        "title": "Faster, smarter - and made in Denmark",
+        "client": "Frandsen",
+        "metric": "Reshored from China to Denmark under time pressure \u00b7 Cast in a single process",
+        "result": "The lamps were delivered on time for the US market launch, made in Denmark instead of China \u2014 and Frandsen now increasingly turns to Linimatic for more projects."
+      }
+    ]
+  },
+  "industryTags": ["Automotive", "Furniture & Design", "Lighting", "Building & HVAC", "Electronics", "Industrial"],
+  "team": {
+    "eyebrow": "Your Contacts",
+    "heading": "Talk to the people who do the work",
+    "description": "No call centres. No account managers who\u2019ve never seen a casting machine. You talk directly to the engineers and specialists who handle your project.",
+    "members": [
+      {
+        "name": "Torben M. Jensen",
+        "role": "Technical & Sales",
+        "phone": "+45 5077 0218",
+        "email": "tmj@linimatic.dk"
+      },
+      {
+        "name": "Ren\u00e9 Johnsen",
+        "role": "Technical & Sales",
+        "phone": "+45 5077 0211",
+        "email": "rj@linimatic.dk"
+      },
+      {
+        "name": "Jan V. J\u00f8rgensen",
+        "role": "Managing Director",
+        "phone": "+45 2343 3667",
+        "email": "jaj@linimatic.dk"
+      }
+    ]
+  },
+  "clients": {
+    "trustedBy": "Trusted by",
+    "testimonials": [
+      {
+        "quote": "We are incredibly pleased with the projects we've run together with Linimatic A/S. Most recently, we collaborated on a new handle that includes a zinc part manufactured by Linimatic. As a result, we can now manufacture the plastic part ourselves and pre-assemble it, so the entire handle is now made in Denmark instead of, as before, in Asia.",
+        "author": "Camilla Burke Vedsmand",
+        "role": "Managing Director, Ditlev Burke Industrial Tools A/S"
+      },
+      {
+        "quote": "Things just run smoothly, and a clear advantage is that we don't have to keep renegotiating.",
+        "author": "Lars Daugaard Pedersen",
+        "role": "Strategic Buyer, VELUX"
+      }
+    ],
+    "logos": [
+      { "name": "Bang & Olufsen" },
+      { "name": "One Collection" },
+      { "name": "VELUX" },
+      { "name": "HOWE" },
+      { "name": "Montana" },
+      { "name": "Frandsen" },
+      { "name": "ClimaWin" }
+    ]
+  },
+  "cta": {
+    "heading": "Let\u2019s talk about your next project.",
+    "description": "Send us your drawings or specifications and we\u2019ll tell you exactly what\u2019s achievable \u2014 simple or complex.",
+    "getInTouch": "Contact Us to Get Started",
+    "phone": "+45 4876 4040",
+    "responsePromise": "Response within 24\u00a0hours"
+  },
+  "footer": {
+    "logoAlt": "Linimatic \u2014 Innovative Die Casting",
+    "brandDescription": "Denmark\u2019s largest dedicated zinc die-casting foundry. Precision zamak components \u2014 manufactured in Denmark, from prototype to series production.",
+    "linkedInAriaLabel": "Linimatic on LinkedIn",
+    "servicesHeading": "Services",
+    "serviceLinks": [
+      "Prototyping",
+      "High-Pressure Die Casting",
+      "CNC Post-Processing",
+      "Surface Treatment & Coating",
+      "Quality & Certification",
+      "Assembly & Mounting"
+    ],
+    "companyHeading": "Company",
+    "companyLinks": {
+      "aboutUs": "About Us",
+      "news": "News",
+      "cases": "Cases",
+      "whyZinc": "Why Zinc",
+      "careers": "Jobs",
+      "zinkers": "Sinkers"
+    },
+    "contactHeading": "Contact",
+    "address": {
+      "street": "Bomose All\u00e9 12",
+      "postalCity": "DK-3200 Helsinge",
+      "country": "Denmark"
+    },
+    "phone": "+45 4876 4040",
+    "email": "linimatic@linimatic.dk",
+    "copyright": "\u00a9 {year} Linimatic A/S \u00b7 CVR DK-20254386",
+    "privacy": "Privacy",
+    "cookies": "Cookies",
+    "cookieSettings": "Cookie settings"
+  },
+  "cookies": {
+    "heading": "Cookie Preferences",
+    "description": "Necessary cookies are always on so the site can work. Beyond that we would like to measure how the site is used so we can improve it — anonymously, and only if you agree.",
+    "readOur": "Read our",
+    "cookiePolicy": "Cookie Policy",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy",
+    "customize": "Customize",
+    "rejectAll": "Reject All",
+    "acceptAll": "Accept All",
+    "savePreferences": "Save Preferences",
+    "necessary": {
+      "title": "Necessary",
+      "status": "Always active",
+      "description": "Essential for the website to function. These cannot be disabled."
+    },
+    "analytics": {
+      "title": "Analytics",
+      "enabled": "Enabled",
+      "disabled": "Disabled",
+      "toggleAriaLabel": "Toggle analytics cookies",
+      "description": "Help us understand how visitors use our site to improve the experience."
+    }
+  },
+  "services": {
+    "breadcrumb": "Services",
+    "eyebrow": "Full Value Chain",
+    "heading": "Services \u2013 from casting to delivery",
+    "description": "Linimatic handles the entire process from zinc die-casting until the finished part is quality-checked, packed and ready for delivery. Processes such as tumbling, vibratory deburring, shot blasting, plastic media blasting, CNC machining and assembly are carried out in-house at our facility. Any surface treatment is handled by carefully selected and approved partners. Final quality control and packing is always carried out by Linimatic.",
+    "valueChainHeading": "From drawing to delivered component",
+    "catalogEyebrow": "Capabilities",
+    "catalogHeading": "Six disciplines, one responsibility",
+    "catalogDescription": "From first prototype to finished assembly, we manage every step of the value chain. Most of it happens in-house in Helsinge, while surface treatment is handled by trusted, approved partners. Explore each capability.",
+    "items": [
+      {
+        "title": "Prototyping",
+        "description": "Send your CAD files and get a physical zinc prototype within 2\u20134 weeks \u2014 cast on the same machines, with the same alloys, used in series production.",
+        "specs": "2\u20134 week delivery \u00b7 STEP/IGES/Solidworks \u00b7 50\u201310,000 pcs"
+      },
+      {
+        "title": "High-Pressure Die Casting",
+        "description": "9 robotized casting cells running around the clock. Parts from 1\u2009g to 4\u2009kg in Zamak 2, 3, 5, and 8 with as-cast tolerances to \u00b10.05\u2009mm.",
+        "specs": "20 \u2013 315T \u00b7 Zamak 2/3/5/8 \u00b7 \u00b10.05\u2009mm as-cast"
+      },
+      {
+        "title": "CNC Post-Processing",
+        "description": "In-house milling, drilling, threading, and deburring. Parts go from casting to machining without leaving the building \u2014 preserving traceability and cutting lead time.",
+        "specs": "Full CNC \u00b7 Tumbling \u00b7 Tight secondary tolerances"
+      },
+      {
+        "title": "Surface Treatment & Coating",
+        "description": "Chromium plating, powder coating, wet painting, e-coating, and laser engraving. Class\u00a0A cosmetic finishes from a chrome-ready as-cast surface at 0.8\u2009Ra\u2009\u03bcm.",
+        "specs": "Chrome \u00b7 Powder coat \u00b7 Wet paint \u00b7 Laser engrave"
+      },
+      {
+        "title": "Quality & Inspection",
+        "description": "CMM-verified dimensions, SPC-monitored process control, and full PPAP documentation. ISO 9001 certified since 1993 \u2014 over 30 years of audited quality systems.",
+        "specs": "ISO 9001 \u00b7 CMM \u00b7 SPC \u00b7 PPAP \u00b7 Full traceability"
+      },
+      {
+        "title": "Assembly & Mounting",
+        "description": "We handle assembly and mounting of die-cast zinc components with other parts \u2014 including quality control, labelling, packing and customer-specific packaging.",
+        "specs": "Assembly \u00b7 Labelling \u00b7 Packing \u00b7 Quality control"
+      }
+    ],
+    "matrixEyebrow": "At a Glance",
+    "matrixHeading": "Capability matrix",
+    "matrixCol1": "Capability",
+    "matrixCol2": "Key Specs",
+    "matrixCol3": "Certifications",
+    "capabilities": [
+      {
+        "service": "Prototyping",
+        "keySpecs": "First samples in 2\u20134 weeks",
+        "certifications": "\u2014"
+      },
+      {
+        "service": "High-Pressure Die Casting",
+        "keySpecs": "9 casting cells, 20 \u2013 315T \u00b7 Zamak 2/3/5/8 \u00b7 \u00b10.05\u2009mm \u00b7 1\u2009g \u2013 4\u2009kg",
+        "certifications": "ISO 9001"
+      },
+      {
+        "service": "CNC Post-Processing",
+        "keySpecs": "Milling \u00b7 Drilling \u00b7 Threading \u00b7 Deburring",
+        "certifications": "\u2014"
+      },
+      {
+        "service": "Surface Treatment & Coating",
+        "keySpecs": "Chrome \u00b7 Powder coat \u00b7 Wet paint \u00b7 E-coat \u00b7 Laser engrave",
+        "certifications": "\u2014"
+      },
+      {
+        "service": "Quality & Inspection",
+        "keySpecs": "CMM \u00b7 SPC \u00b7 PPAP \u00b7 First article inspection \u00b7 Full traceability",
+        "certifications": "ISO 9001 since 1993"
+      },
+      {
+        "service": "Assembly & Mounting",
+        "keySpecs": "Assembly \u00b7 Labelling \u00b7 Packing \u00b7 Quality control",
+        "certifications": "\u2014"
+      }
+    ],
+    "diffHeading": "Why the integrated model matters",
+    "diffDescription": "Competitors outsource post-processing, coating, or assembly to third parties. Every handoff introduces delay, variation, and finger-pointing when something goes wrong. Our model eliminates all of that.",
+    "differentiators": [
+      {
+        "title": "Zero Handoffs",
+        "text": "Your part never leaves our facility between casting and shipment. No transport damage, no lost traceability, no communication gaps between suppliers."
+      },
+      {
+        "title": "Consistent Quality",
+        "text": "One quality system governs every step. SPC data from casting feeds directly into machining parameters. Coating specs are verified against the same CMM that checked the casting."
+      },
+      {
+        "title": "Single Responsible Partner",
+        "text": "One purchase order, one point of contact, one company accountable for the finished component. When your production line depends on our parts, that simplicity matters."
+      }
+    ],
+    "ctaHeading": "Bring us your drawing.",
+    "ctaDescription": "Send your CAD files or specifications. We\u2019ll tell you exactly what\u2019s achievable and give you a quote within 48 hours.",
+    "ctaButton": "Contact Us to Get Started"
+  },
+  "whyZincPage": {
+    "breadcrumb": "Why Zinc",
+    "eyebrow": "Material Advantage",
+    "heading": "Why choose zinc die-casting?",
+    "heroImageAlt": "Two zinc die-cast components showing chrome-plated and powder-coated surface finishes",
+    "intro": "Zinc die-casting is an efficient and cost-effective solution for technical components that demand high precision, strength and attractive surface finishes. At Linimatic we produce zinc parts both small and large — from just a few grams up to 4 kg.\n\nCompared to aluminum die-casting, zinc offers shorter cycle times, lower energy consumption, and significantly longer tool life. Altogether, this often means lower production costs per part — especially for larger series and parts with a favorable material weight.\n\nZinc's excellent flow properties also make it possible to cast complex geometries, thin wall thicknesses, fine detail and tight tolerances. This reduces the need for CNC machining and other post-processing, further contributing to a competitive price on the finished part.",
+    "advantagesHeading": "10 reasons engineers specify zinc",
+    "advantages": [
+      {
+        "title": "Lower production costs",
+        "description": "Short cycle times and an efficient casting process can result in a lower price per part — especially in larger production series."
+      },
+      {
+        "title": "Complex geometries",
+        "description": "Zinc's excellent flow properties make it possible to die-cast advanced shapes, fine details, and integrated features into a single component."
+      },
+      {
+        "title": "Tight tolerances",
+        "description": "Zinc die-casting provides high dimensional accuracy and good dimensional stability, reducing the need for subsequent machining."
+      },
+      {
+        "title": "Thin wall thicknesses",
+        "description": "Zinc can fill very narrow sections of the mould, making it well suited for components with thin walls and fine details."
+      },
+      {
+        "title": "High strength and stiffness",
+        "description": "Zinc alloys combine high mechanical strength with good stiffness and are well suited for load-bearing technical components."
+      },
+      {
+        "title": "Long tool life",
+        "description": "Zinc's low melting temperature puts less stress on the mould than aluminum, often resulting in significantly longer tool life. As the tooling cost is amortized over more parts produced, it results in a lower tooling cost per part."
+      },
+      {
+        "title": "Attractive surfaces",
+        "description": "Zinc produces a smooth, uniform as-cast surface suited for both visible components and subsequent surface treatment."
+      },
+      {
+        "title": "Fewer parts and process steps",
+        "description": "Threads, ribs, bosses, logos and other features can often be integrated directly into the casting. This can reduce the number of components and assembly operations."
+      },
+      {
+        "title": "Effective electromagnetic shielding",
+        "description": "Zinc is electrically conductive and can be used for housings and components that need to shield electronics from electromagnetic interference."
+      },
+      {
+        "title": "A recyclable material",
+        "description": "Zinc can be recycled again and again without losing its fundamental properties. Production scrap can be remelted and returned to the material cycle."
+      }
+    ],
+    "comparison": {
+      "heading": "Zinc vs. the alternatives",
+      "description": "Side-by-side comparison of zinc die-casting against aluminum, magnesium, and plastic injection moulding. The data explains why zinc wins when precision, surface quality, and tool economics are the deciding factors.",
+      "headers": ["Property", "Zinc", "Aluminum", "Magnesium", "Plastic"],
+      "rows": [
+        {
+          "property": "Achievable Tolerance",
+          "zinc": "\u00b10.05 mm",
+          "aluminum": "\u00b10.1 mm",
+          "magnesium": "\u00b10.08 mm",
+          "plastic": "\u00b10.1 mm"
+        },
+        {
+          "property": "Die Life (shots)",
+          "zinc": "1M+",
+          "aluminum": "100\u2013200K",
+          "magnesium": "200\u2013300K",
+          "plastic": "500K\u20131M"
+        },
+        {
+          "property": "Cycle Time",
+          "zinc": "5\u201345s",
+          "aluminum": "30\u2013120s",
+          "magnesium": "20\u201360s",
+          "plastic": "15\u201360s"
+        },
+        {
+          "property": "Min. Wall Thickness",
+          "zinc": "0.6 mm",
+          "aluminum": "1.5 mm",
+          "magnesium": "1.0 mm",
+          "plastic": "0.5 mm"
+        },
+        {
+          "property": "Surface Finish (Ra)",
+          "zinc": "0.8 \u03bcm",
+          "aluminum": "1.6 \u03bcm",
+          "magnesium": "1.2 \u03bcm",
+          "plastic": "0.2 \u03bcm"
+        },
+        {
+          "property": "Tensile Strength",
+          "zinc": "280\u2013400 MPa",
+          "aluminum": "150\u2013300 MPa",
+          "magnesium": "200\u2013250 MPa",
+          "plastic": "30\u201380 MPa"
+        },
+        {
+          "property": "Recyclability",
+          "zinc": "100%",
+          "aluminum": "100%",
+          "magnesium": "100%",
+          "plastic": "Limited"
+        }
+      ],
+    "disclaimer": "The comparison applies to functionally equivalent components manufactured in series production. The values are indicative, as the result depends on the component's design and size, the alloy selected, the tooling, and the production setup."
+    },
+    "alloys": {
+      "heading": "Zamak alloy guide",
+      "description": "Zamak alloys are zinc-aluminium alloys optimised for die-casting. The right alloy depends on your part\u2019s mechanical requirements, surface finish needs, and casting complexity. We cast all four standard grades and advise on selection during DFM review.",
+      "colAlloy": "Alloy",
+      "colTensile": "Tensile Strength",
+      "colElongation": "Elongation",
+      "colHardness": "Hardness (Brinell)",
+      "colUse": "Primary Use",
+      "rows": [
+        {
+          "name": "Zamak 2",
+          "tensile": "397 MPa",
+          "elongation": "7%",
+          "hardness": "100",
+          "use": "High-strength structural components, die-cast bearings, heavy-duty hardware"
+        },
+        {
+          "name": "Zamak 3",
+          "tensile": "283 MPa",
+          "elongation": "10%",
+          "hardness": "82",
+          "use": "General purpose \u2014 the most widely cast zinc alloy. Excellent plating characteristics."
+        },
+        {
+          "name": "Zamak 5",
+          "tensile": "331 MPa",
+          "elongation": "7%",
+          "hardness": "91",
+          "use": "Higher strength than Zamak 3 with good ductility. Automotive and industrial components."
+        },
+        {
+          "name": "Zamak 8",
+          "tensile": "374 MPa",
+          "elongation": "8%",
+          "hardness": "103",
+          "use": "Highest strength and creep resistance of any zinc alloy. Suited to heavily loaded and heat-exposed parts."
+        }
+      ]
+    },
+    "faq": {
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "question": "What is zinc die-casting?",
+          "answer": "Zinc die-casting is a manufacturing process where molten zinc alloy is injected under high pressure into a steel die. The hot-chamber process keeps the alloy molten inside the machine, enabling cycle times as fast as 5–6 seconds. The result is a net-shape metal component with tight tolerances, excellent surface finish, and high repeatability — suitable for production volumes from hundreds to millions of parts."
+        },
+        {
+          "question": "What is a Zamak alloy?",
+          "answer": "Zamak is a family of zinc-aluminium alloys specifically developed for die-casting. The name comes from the German abbreviations of its constituents: Zink, Aluminium, Magnesium, and Kupfer (copper). The four standard grades — Zamak 2, 3, 5, and 8 — offer different balances of strength, ductility, and castability. Zamak 3 is the most widely used, while Zamak 2 provides the highest strength."
+        },
+        {
+          "question": "What is the difference between zinc and Zamak?",
+          "answer": "Zinc is the base element. Zamak is a specific family of zinc alloys engineered for die-casting, containing precisely controlled amounts of aluminium (3.5–4.3%), magnesium, and in some grades, copper. Pure zinc is too soft for most engineering applications — the alloying elements in Zamak provide the strength, hardness, and castability that make precision die-casting possible."
+        },
+        {
+          "question": "Is zinc die-casting stronger than aluminium?",
+          "answer": "Yes, in terms of tensile strength. Zamak alloys range from 283 to 397 MPa, while most die-cast aluminium alloys deliver 150–300 MPa. Zinc also achieves tighter as-cast tolerances (±0.05 mm vs. ±0.1 mm) and produces chrome-ready surfaces without secondary polishing. However, aluminium is lighter (2.7 g/cm³ vs. 6.6 g/cm³), so the choice depends on whether strength-to-weight ratio or absolute precision is the priority."
+        },
+        {
+          "question": "Why not choose magnesium instead of zinc?",
+          "answer": "Magnesium is the lightest of the three metals — lighter even than aluminium. However, zinc dies typically last over 1 million shots versus magnesium’s 200,000–300,000, tolerances are tighter (±0.05 mm vs. ±0.08 mm), and the strongest Zamak alloys exceed magnesium’s tensile strength (up to 397 MPa vs. 200–250 MPa). Magnesium can be the right choice when weight is the overriding factor — for most engineering parts, zinc offers better tooling economics, precision, and strength."
+        },
+        {
+          "question": "Can zinc die-cast parts be chrome plated?",
+          "answer": "Yes, and this is one of zinc’s strongest advantages. Zinc die-castings have a smooth, consistent surface straight from the die, giving an excellent starting point for chrome plating. The surface must still be polished before plating to achieve a flawless, mirror-bright result. This makes zinc the preferred material for visible, decorative components in furniture, lighting, and consumer products where a flawless chrome finish is mandatory."
+        },
+        {
+          "question": "Do zinc die-cast parts corrode without surface treatment?",
+          "answer": "Untreated zinc has good natural corrosion resistance and can often be used without surface treatment for indoor or hidden components. For outdoor use, humid environments, or where appearance and wear resistance matter, we offer a wide range of surface treatments — we help select the right option based on the part’s application."
+        },
+        {
+          "question": "What industries use zinc die-casting?",
+          "answer": "Zinc die-cast components are delivered to a wide range of segments: industrial equipment, automotive, telecommunications, camera housings, and furniture and design products. What these customers share is a need for high precision, complex geometry, and reliable quality — across both small and large production runs."
+        },
+        {
+          "question": "Is zinc die-casting environmentally friendly?",
+          "answer": "Zinc is 100% recyclable with no degradation of material properties. Its lower melting point (385°C vs. 660°C for aluminium) means less energy per casting cycle. At Linimatic, virtually all casting scrap — runners, overflows, and reject parts — is remelted and reused directly in production. We also offer lead-free zinc alloys through our Zinkers product line."
+        },
+        {
+          "question": "How much does zinc die-casting cost?",
+          "answer": "Tooling cost depends on part complexity and number of cavities, typically ranging from €10,000 to €80,000. However, zinc dies last over 1 million shots — 5–10× longer than aluminium dies — dramatically reducing per-part tooling cost at volume. Piece prices depend on part weight, alloy, cycle time, and secondary operations. Send us your drawing for a specific quote — we respond within 48 hours."
+        }
+      ]
+    },
+    "ctaHeading": "Still deciding? Talk to our engineers.",
+    "ctaDescription": "We\u2019ll tell you honestly whether zinc is right for your part \u2014 or recommend an alternative if it isn\u2019t. No sales pressure, just engineering expertise.",
+    "ctaButton": "Contact Us to Get Started"
+  },
+  "aboutPage": {
+    "breadcrumb": "About",
+    "eyebrow": "Since 1967",
+    "heading": "Denmark\u2019s largest dedicated zinc die-casting foundry.",
+    "story": [
+      "Linimatic is a Danish zinc die-casting foundry specialising in high-pressure die casting of zinc parts for industry. Since 1967 we have produced components in zinc in Helsinge, Denmark, with a focus on complex geometry, tight tolerances, high finish and stable quality.",
+      "As Denmark's largest dedicated zinc die-casting foundry, we help companies across Denmark and Europe with the development and production of technical zinc parts where the demands on precision, function and surface are high. Our experience with zinc die casting makes us a strong partner when the part is difficult and the solution has to perform reliably in series production. We even deliver to customers as far away as China.",
+      "At Linimatic we bring the decisive processes up to surface treatment together under one roof. This gives control over quality, process, delivery and documentation from the first sample to the finished part in zinc. Subsequent processes and surface treatment are carried out in close collaboration with fixed, specialised subcontractors.",
+      "Our customers choose Linimatic when they need high-pressure die-cast zinc parts with Danish production, high quality and competitive prices.",
+      "The best at the most difficult is not just a slogan. It is the way we work with zinc die casting."
+    ],
+    "facilityAlt": "Linimatic production facility in Helsinge, Denmark",
+    "stats": [
+      { "value": "1967", "label": "Founded" },
+      { "value": "ISO 9001", "label": "Since 1993" },
+      { "value": "100%", "label": "Danish Production" },
+      { "value": "199 kWp", "label": "Solar Array" },
+      { "value": "30+", "label": "Specialists" }
+    ],
+    "certificationsEyebrow": "Standards",
+    "certificationsHeading": "Certifications & compliance",
+    "certifications": [
+      {
+        "name": "ISO 9001 \u2014 Quality Management",
+        "detail": "Certified since 1993 \u2014 over 30 years of independently audited quality management. Covers the complete value chain from incoming material through casting, machining, surface treatment, assembly, and final inspection."
+      },
+      {
+        "name": "Environmental Compliance",
+        "detail": "Compliant with EU environmental regulations including REACH and RoHS. Active waste reduction and energy management programmes. Zinc scrap is recycled directly in production with near-zero material waste."
+      },
+      {
+        "name": "Material Certifications",
+        "detail": "Full material traceability on all Zamak alloys. Incoming material certificates verified against specification. Batch-level traceability from raw material through to finished component."
+      }
+    ],
+    "sustainabilityEyebrow": "Responsibility",
+    "sustainabilityHeading": "Sustainability that\u2019s measured, not claimed",
+    "sustainability": {
+      "p1": "Zinc is infinitely recyclable. At Linimatic, virtually all casting scrap \u2014 runners, overflows, and reject parts \u2014 is remelted and fed back into production. Our closed-loop recycling means near-zero zinc waste leaves the facility. The low melting point of zinc (385\u00b0C vs. 660\u00b0C for aluminium) translates directly to lower energy consumption per casting cycle.",
+      "p2": "We invest in energy-efficient equipment, LED facility lighting, and heat recovery systems. Our lead-free Zinkers product line demonstrates that environmental responsibility and product performance are not trade-offs. For procurement teams with sustainability reporting requirements, we provide verified data on recycling rates, energy consumption, and waste metrics."
+    },
+    "industriesHeading": "Trusted across industries",
+    "industriesDescription": "Zinc die-casting serves any industry where precision, surface quality, and reliability matter. Here are some of the sectors we work in\u2009—\u2009but if yours isn\u2019t listed, we\u2019d still love to hear from you.",
+    "industries": [
+      {
+        "name": "Furniture & Design",
+        "clients": "Fritz Hansen \u00b7 One Collection \u00b7 Montana \u00b7 HOWE"
+      },
+      {
+        "name": "Lighting",
+        "clients": "Frandsen \u00b7 Belux"
+      },
+      {
+        "name": "Building & HVAC",
+        "clients": "VELUX \u00b7 ClimaWin"
+      },
+      {
+        "name": "Consumer Electronics",
+        "clients": "Bang & Olufsen"
+      },
+      {
+        "name": "Automotive",
+        "clients": "European Tier 1 & 2 suppliers"
+      },
+      {
+        "name": "Industrial & Tools",
+        "clients": "DeWalt \u00b7 Ditlev Burke"
+      }
+    ],
+    "team": {
+      "heading": "Talk to the people who do the work",
+      "description": "No call centres. No account managers who\u2019ve never seen a casting machine. You talk directly to the engineers and specialists who handle your project.",
+      "members": [
+        {
+          "name": "Jan V. J\u00f8rgensen",
+          "role": "Managing Director",
+          "focus": "Strategy & key accounts",
+          "phone": "+45 2343 3667",
+          "email": "jaj@linimatic.dk"
+        },
+        {
+          "name": "Torben M. Jensen",
+          "role": "Technical & Sales",
+          "focus": "DFM review & project engineering",
+          "phone": "+45 5077 0218",
+          "email": "tmj@linimatic.dk"
+        },
+        {
+          "name": "Ren\u00e9 Johnsen",
+          "role": "Technical & Sales",
+          "focus": "New projects & customer support",
+          "phone": "+45 5077 0211",
+          "email": "rj@linimatic.dk"
+        }
+      ]
+    },
+    "ctaHeading": "Visit us in Helsinge.",
+    "ctaDescription": "See the facility, meet the team, and discuss your project face to face. We\u2019re 60\u2009km north of Copenhagen.",
+    "ctaButton": "Contact Us to Get Started"
+  },
+  "contactPage": {
+    "breadcrumb": "Contact",
+    "eyebrow": "Get in Touch",
+    "heading": "Let\u2019s start a conversation about your project.",
+    "description": "Fill in the contact form, or call one of our engineers directly, and get concrete technical guidance on the possibilities for zinc die-casting.",
+    "responsePromise": "Response within 24 hours",
+    "form": {
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "subjectSelect": "Select enquiry type",
+      "subjectNew": "New Project",
+      "subjectExisting": "Existing Project",
+      "subjectGeneral": "General Inquiry",
+      "subjectTemadag": "Zinc Info Day",
+      "volume": "Expected Volume",
+      "volumeSelect": "Select volume range",
+      "volume1to5k": "1,000\u20135,000 pcs",
+      "volume5to15k": "5,000\u201315,000 pcs",
+      "volume15to50k": "15,000\u201350,000 pcs",
+      "volume50to100k": "50,000\u2013100,000 pcs",
+      "volumeOver100k": "Over 100,000 pcs",
+      "message": "Project Description",
+      "privacyNotice": "When you submit this form, Linimatic A/S uses your information to answer your enquiry. The form is handled by Vercel and the message is delivered through Resend to our Linimatic mailbox. We can agree how to share technical drawings after we have spoken. See our <link>privacy policy</link> for details.",
+      "honeypotLabel": "Leave this field empty",
+      "submit": "Send Inquiry",
+      "sending": "Sending...",
+      "successTitle": "Message sent",
+      "successMessage": "Thank you for your inquiry. We will respond within 24 hours on business days.",
+      "error": {
+        "missing_fields": "Please fill in all required fields.",
+        "invalid_email": "Please enter a valid email address.",
+        "rate_limited": "Too many messages have been sent from this connection. Please wait a moment and try again, or write directly to linimatic@linimatic.dk.",
+        "too_long": "One or more fields exceed the maximum length.",
+        "send_failed": "Failed to send your message. Please try again or email us directly at linimatic@linimatic.dk."
+      }
+    },
+    "yourContacts": "Your Contacts",
+    "companyDetails": "Company Details",
+    "hours": "Office Hours",
+    "hoursWeekday": "Monday\u2013Friday: 07:00\u201316:00",
+    "hoursWeekend": "Saturday\u2013Sunday: Closed"
+  },
+  "contactTabs": {
+    "people": "Contact People",
+    "form": "Contact Form"
+  },
+  "contactPeoplePage": {
+    "breadcrumb": "Contact People",
+    "eyebrow": "Contact Us",
+    "heading": "Contact People",
+    "intro": "Don't hesitate to contact Linimatic to strengthen your solutions and optimise your possibilities.",
+    "team": [
+      {
+        "name": "Torben M. Jensen",
+        "role": "Technical & Sales",
+        "phone": "+45 5077 0218",
+        "email": "tmj@linimatic.dk"
+      },
+      {
+        "name": "Ren\u00e9 Johnsen",
+        "role": "Technical & Sales",
+        "phone": "+45 5077 0211",
+        "email": "rjo@linimatic.dk"
+      },
+      {
+        "name": "Jan V. J\u00f8rgensen",
+        "role": "Managing Director / Sales",
+        "phone": "+45 2343 3667",
+        "email": "jaj@linimatic.dk"
+      },
+      {
+        "name": "Rikke \u00d8strup Fisker",
+        "role": "Logistics",
+        "phone": "+45 5077 0224",
+        "email": "rif@linimatic.dk"
+      },
+      {
+        "name": "Thomas Hjorth",
+        "role": "Production",
+        "phone": "+45 5077 0216",
+        "email": "thj@linimatic.dk"
+      },
+      {
+        "name": "Dorthe Kondrup",
+        "role": "Finance",
+        "phone": "+45 5077 0225",
+        "email": "dmk@linimatic.dk"
+      }
+    ]
+  },
+  "newsPage": {
+    "breadcrumb": "News",
+    "eyebrow": "From Linimatic",
+    "heading": "News",
+    "description": "Events, investments and stories from the zinc die-casting foundry in Helsinge.",
+    "empty": "There is no news right now — please check back later.",
+    "readMore": "Read more",
+    "backToOverview": "All news",
+    "latestHeading": "Latest news",
+    "moreHeading": "More news",
+    "ctaHeading": "Shall we talk about your part?",
+    "ctaDescription": "Call or write to us — we will come back with a view on how zinc can solve the job.",
+    "ctaButton": "Contact us",
+    "items": {
+      "zink-temadag-september-2026": {
+        "title": "Zinc Info Day on 16 September 2026",
+        "excerpt": "A free info day on zinc die-casting at Linimatic in Helsinge — from material choice and design to production and finished part.",
+        "body": [
+          "On 16 September 2026 we open the doors to our production in Helsinge for a free info day on zinc die-casting. The day lasts around four hours and is aimed at design engineers, project managers and buyers who want to know more about what zinc can do.",
+          "The programme covers the whole ground: zinc as a material and where it comes from, a comparison with aluminium and plastic, the casting process itself, designing in zinc with the possibilities and limits that brings, CO2 footprint, surface treatment, casting tools and the options for prototypes. Along the way there is a guided tour of the production, so you see the machines at work.",
+          "Feel free to bring a potential component or a specific problem — we will go through it on the day. The programme is always adapted to the participants.",
+          "Registration and questions: Jan V. Jørgensen, jaj@linimatic.dk or +45 2343 3667."
+        ]
+      }
+    }
+  },
+  "casesPage": {
+    "breadcrumb": "Cases",
+    "eyebrow": "Case Studies",
+    "heading": "Cases",
+    "description": "See examples of how we work closely with our customers to turn ideas and technical requirements into finished zinc solutions. Here we present selected projects, challenges and results \u2014 supplemented by our customers\u2019 own experiences of working with us.",
+    "items": [
+      {
+        "slug": "supplier-proximity",
+        "client": "Ditlev Burke Industrial Tools A/S",
+        "title": "There are benefits to having your supplier close by",
+        "industry": "Industrial & Tools",
+        "metric": "It is possible to compete with Asia \u00b7 Automated die-casting in Denmark",
+        "result": "The entire handle is now manufactured in Denmark instead of in Asia."
+      },
+      {
+        "slug": "velux-kanban",
+        "client": "VELUX",
+        "title": "Smooth collaboration with a forecast agreement",
+        "industry": "Building & HVAC",
+        "metric": "Forecast agreement renewed annually \u00b7 Robot introduced on the production line",
+        "result": "A close, smooth collaboration for both parties \u2014 no constant renegotiation, with ongoing sparring and knowledge-sharing between Linimatic and VELUX."
+      },
+      {
+        "slug": "frandsen-downlight",
+        "client": "Frandsen",
+        "title": "Faster, smarter - and made in Denmark",
+        "industry": "Lighting",
+        "metric": "Reshored from China to Denmark under time pressure \u00b7 Cast in a single process",
+        "result": "The lamps were delivered on time for the US market launch, made in Denmark instead of China \u2014 and Frandsen now increasingly turns to Linimatic for more projects."
+      },
+      {
+        "slug": "one-collection-finn-juhl",
+        "client": "One Collection",
+        "title": "To relaunch a classic design",
+        "industry": "Furniture & Design",
+        "metric": "Finn Juhl logo cast directly into the fitting \u00b7 Exhibited at the Milan design fair, 2015",
+        "result": "The new Finn Juhl 'Nyhavn' dining table (model FJ 5360) launched with the precision-cast zinc fittings \u2014 with the Finn Juhl logo cast directly into the fitting \u2014 and was exhibited at the Milan design fair on 13 April 2015."
+      }
+    ],
+    "ctaHeading": "Have a similar challenge?",
+    "ctaDescription": "Send us your drawings and we\u2019ll tell you what\u2019s achievable. The projects others call difficult are the ones we built this company around.",
+    "ctaButton": "Contact Us to Get Started"
+  },
+  "caseDetail": {
+    "challengeHeading": "The challenge",
+    "approachHeading": "Our approach",
+    "resultHeading": "The result",
+    "capabilitiesHeading": "Capabilities applied",
+    "ctaHeading": "Have a part others won\u2019t quote?",
+    "ctaDescription": "Send us your drawings. The projects other foundries call difficult are the ones we built this company around.",
+    "ctaButton": "Contact Us to Get Started",
+    "items": {
+      "supplier-proximity": {
+        "metaTitle": "Ditlev Burke \u2014 a handle brought home from Asia",
+        "client": "Ditlev Burke Industrial Tools A/S",
+        "industry": "Industrial & Tools",
+        "title": "There are benefits to having your supplier close by",
+        "metric": "It is possible to compete with Asia \u00b7 Automated die-casting in Denmark",
+        "overview": "Linimatic A/S is seeing growing demand from customers who want to bring production of zinc die-cast parts home to Denmark. Ditlev Burke Industrial Tools A/S in Asn\u00e6s is one of them: a handle for professional tools now contains a zinc part from Linimatic, and the entire handle is assembled in Denmark instead of Asia.",
+        "challenge": "\"We are incredibly happy with the projects we have run in collaboration with Linimatic A/S. Most recently, we have collaborated on a new handle containing a zinc part manufactured by Linimatic. The result is that we can now manufacture the plastic part and pre-assemble it ourselves, so that the entire handle is manufactured in Denmark rather than as before in Asia,\" said Camilla Burke Vedsmand, Managing Director at Ditlev Burke Industrial Tools A/S, located in Asn\u00e6s on Zealand.",
+        "approach": "\"When, as with Linimatic, you have an automated production line, we have from our own experience been able to establish that it is possible to compete with Asia,\" said Camilla Burke Vedsmand. Among other obvious benefits of the partnership, she mentioned the close cooperation, the quality and the reliability: \"Communication within the country's borders is just so much faster, and therefore ensures progress in the projects. This has been a significant motivation in developing the long-term collaboration with Linimatic in North Zealand.\" \"It is important for us that we have the same uniform understanding and approach to the tasks. Linimatic A/S are extremely skilled technically, and we are particularly pleased that the collaboration also supports our philosophy of retaining jobs in Denmark,\" she added.",
+        "result": "The entire handle is now manufactured in Denmark instead of in Asia.",
+        "capabilities": ["die-casting", "quality"]
+      },
+      "velux-kanban": {
+        "metaTitle": "VELUX — forecast agreement and robot automation",
+        "client": "VELUX",
+        "industry": "Building & HVAC",
+        "title": "Smooth collaboration with a forecast agreement",
+        "metric": "Forecast agreement renewed annually · Robot introduced on the production line",
+        "overview": "VELUX's Gåsdal division has run on a standing Kanban and forecast agreement with Linimatic for several years, making the collaboration easier and more predictable for both sides. The agreement is renewed every year, includes built-in price protection against raw material and currency swings — and has, among other things, led to a robot now handling the parts in production.",
+        "challenge": "\"Of course there's a price agreement with built-in protection for both parties, for example against fluctuations in raw material prices and exchange rates. But perhaps even more importantly, the agreement also lets Linimatic plan and adjust production capacity, and so be able to deliver quickly, at the agreed quality and the agreed time,\" says Lars Daugaard Pedersen, strategic purchaser at VELUX.",
+        "approach": "\"We're of course always looking for savings, and we talked to Linimatic about ways to shave a bit off the price. Linimatic suggested implementing a robot on the production line. We didn't have to pay for the robot itself, just a small investment in a special gripper adapted to our parts. With the robot, we now save the wage cost of the operator who used to handle our part, and the result is a solid saving,\" explains Lars Daugaard Pedersen. \"Things just run — and a clear advantage is that we don't have to negotiate all the time. We have really good sparring with Linimatic's technicians, and there's always room to bring a new idea to the table.\"",
+        "result": "A close, smooth collaboration for both parties — no constant renegotiation, with ongoing sparring and knowledge-sharing between Linimatic and VELUX.",
+        "capabilities": ["die-casting", "quality"]
+      },
+      "frandsen-downlight": {
+        "metaTitle": "Frandsen — from China to Denmark on short notice",
+        "client": "Frandsen",
+        "industry": "Lighting",
+        "title": "Faster, smarter - and made in Denmark",
+        "metric": "Reshored from China to Denmark under time pressure · Cast in a single process",
+        "overview": "Frandsen was ready to deliver downlight lamps to the international design company Concrete for the US market when its Chinese supplier pulled out just before production was due to start. Linimatic redesigned the parts for zinc die-casting and got the process running on very short notice — cast in a single step instead of multiple tooling stages, with extra weekend shifts to hold the schedule.",
+        "challenge": "\"We had very little time to find an alternative. It looked really difficult. But when we contacted Linimatic and told Torben about the project, he just said: 'No problem, we'll make it happen!' And he said it so calmly. And they did it — we were honestly very surprised at how well it worked out,\" says Andreas Olesen, design engineer at Frandsen Project.",
+        "approach": "\"It really was an extremely fast process — I have to admit I didn't quite believe it myself. One of the advantages was that the lamps could be cast in a single process, which saved time. So all in all, we got a smoother, faster process — and a smarter product, made right here in Denmark,\" explains Andreas Olesen. \"The fast process is definitely unique for this project. A schedule was set, and only small slips were allowed to stay on track. And the few things that did slip, Linimatic handled with a weekend shift and extreme flexibility. It's very clear that they're skilled at project management — a really positive experience for us on this project. You know exactly how long everything takes — they control the processes 100%.\"",
+        "result": "The lamps were delivered on time for the US market launch, made in Denmark instead of China — and Frandsen now increasingly turns to Linimatic for more projects.",
+        "capabilities": ["prototyping", "die-casting"]
+      },
+      "one-collection-finn-juhl": {
+        "metaTitle": "One Collection — the Finn Juhl table relaunched in die-cast zinc",
+        "client": "One Collection",
+        "industry": "Furniture & Design",
+        "title": "To relaunch a classic design",
+        "metric": "Finn Juhl logo cast directly into the fitting · Exhibited at the Milan design fair, 2015",
+        "overview": "When furniture company One Collection decided to relaunch Finn Juhl's classic dining table with an advanced pull-out leaf, Linimatic was brought in to manufacture the precise fittings that carry the leaves. The leaves had to both hang and lie in a very specific way — and the fittings are both a technical function and a visible part of the iconic design.",
+        "challenge": "\"Fittings are often a necessary evil. But at Finn Juhl the fittings have a technical function, and they're also part of the visual design. That creates particular challenges for manufacturers. The simpler things look, the more complicated they can be to make. That's actually what we experienced,\" says Henrik Sørensen, CEO of One Collection.",
+        "approach": "\"By making the fittings in die-cast zinc, we could get the visual expression we wanted — while also having a high degree of precision. It was also possible to cast the Finn Juhl logo directly during the casting process, saving us a work step,\" says Henrik Sørensen, continuing: \"The collaboration throughout the process is very much a dialogue. Linimatic has skills we don't have, and they were brought in. It's also important to feel engagement, passion — that the supplier also finds the product interesting.\"",
+        "result": "The new Finn Juhl 'Nyhavn' dining table (model FJ 5360) launched with the precision-cast zinc fittings — with the Finn Juhl logo cast directly into the fitting — and was exhibited at the Milan design fair on 13 April 2015.",
+        "capabilities": ["die-casting", "quality"]
+      }
+    }
+  },
+  "zinkersPage": {
+    "breadcrumb": "Sinkers",
+    "eyebrow": "Lead-free fishing gear",
+    "heading": "Sinkers \u2014 zinc weights for trawl and industrial fishing gear.",
+    "intro": "Linimatic casts zinc sinkers for trawl, seine and other industrial fishing equipment \u2014 an environmentally friendly alternative to lead sinkers, which have been banned from import and sale in Denmark since 2002. The range spans 50 to 2,000 grams in ring and barrel shapes, with hole diameters matched to the customer\u2019s gear.",
+    "heroImageAlt": "Ring and barrel zinc sinkers by Linimatic",
+    "whyHeading": "Why zinc, not lead",
+    "whyDescription": "Lead has been banned as a sinker material in Denmark since 2002. Zinc matches lead\u2019s weight while being non-toxic.",
+    "why": [
+      {
+        "title": "Non-toxic",
+        "description": "Unlike lead, zinc poses no poisoning risk to seabirds or marine life if a sinker is lost or worn down in the water."
+      },
+      {
+        "title": "Legal since 2002",
+        "description": "Lead sinkers have been banned from import and sale in Denmark since 2002. Zinc is the direct, approved alternative with comparable weight."
+      },
+      {
+        "title": "Cast in Helsinge",
+        "description": "Sinkers are cast at Linimatic\u2019s own foundry in Helsinge and can be tailored in weight and hole diameter to match the customer\u2019s gear and production volume."
+      }
+    ],
+    "applicationsHeading": "Applications",
+    "applications": [
+      "Trawl fishing",
+      "Seine fishing",
+      "Industrial fishing gear",
+      "Ring and barrel sinkers, 50\u20132,000 grams"
+    ],
+    "ctaHeading": "Interested in sinkers?",
+    "ctaDescription": "Contact us for prices and specifications, or call us directly on +45 4876 4040.",
+    "ctaButton": "Contact Us"
+  },
+  "serviceDetail": {
+    "prototyping": {
+      "title": "Prototyping in Zinc",
+      "eyebrow": "From Concept to First Sample",
+      "overview": "In some projects, it can be an advantage to produce prototypes in zinc before investing in the final production tooling. The prototypes can be made by combining cast zinc with subsequent CNC machining.\n\nThis makes it possible to test function, assembly, fit, and appearance in the actual material. We assess together with the customer whether the method is relevant, and manage the whole process from initial clarification to finished prototypes.",
+      "processHeading": "How we make your zinc prototype",
+      "process": [
+        {
+          "step": "Clarification",
+          "description": "Together with you, we assess whether zinc prototyping is the right method for your project, and agree on scope and timeline."
+        },
+        {
+          "step": "Casting",
+          "description": "Small, specially made zinc blocks are cast, suited for the subsequent CNC machining."
+        },
+        {
+          "step": "CNC Machining",
+          "description": "The cast zinc blocks are CNC-machined into finished prototypes, precisely to your drawings and specifications."
+        },
+        {
+          "step": "Finished Prototype",
+          "description": "The finished prototype is delivered ready for testing function, assembly, fit, and appearance in the actual material. Typical turnaround is 2-4 weeks."
+        }
+      ],
+      "specsEyebrow": "Technical Specifications",
+      "specsHeading": "Prototyping capabilities at a glance",
+      "specsNote": "Total turnaround: 2-4 weeks",
+      "specs": [
+        { "label": "Step 01", "value": "Clarification" },
+        { "label": "Step 02", "value": "Casting" },
+        { "label": "Step 03", "value": "CNC Machining" },
+        { "label": "Step 04", "value": "Finished Prototype" },
+        { "label": "Total turnaround", "value": "2-4 weeks" }
+      ],
+      "advantagesHeading": "Why prototype with your production foundry",
+      "advantages": {
+        "p1": "In some cases, a zinc prototype can be a good and cost-effective way to validate your idea and confirm the material's suitability for your specific application \u2014 before you invest in the final production tool."
+      },
+      "faqHeading": "Frequently Asked Questions",
+      "faq": [
+        {
+          "question": "How fast can I get a zinc prototype?",
+          "answer": "It depends on the part's complexity and the amount of CNC machining involved. Contact us with your timeline, and we'll get back to you with a concrete estimate of feasibility and lead time."
+        },
+        {
+          "question": "How are casting and CNC machining combined in a prototype?",
+          "answer": "Small, specially made zinc blocks are cast, suited for the subsequent CNC machining."
+        }
+      ],
+      "relatedHeading": "Related Services",
+      "ctaHeading": "Ready to start prototyping?",
+      "ctaDescription": "Contact us, and we\u2019ll assess together whether zinc prototyping is the right solution for your project \u2014 with honest feedback on process, timeline, and price.",
+      "ctaButton": "Send Your Drawing"
+    },
+    "dieCasting": {
+      "title": "High-Pressure Die Casting",
+      "eyebrow": "Denmark\u2019s Largest Zinc Foundry",
+      "overview": "High-pressure die casting is at the core of everything we do. At our foundry in Helsinge, 9 robotized casting cells run around the clock, producing zinc parts from 1 gram to 4 kilos — from small precision components to large, complex parts. The process is monitored continuously, so quality stays the same from the first shot to the last. With as-cast tolerances down to \u00b10.05\u2009mm, many parts can be used without any secondary machining. That makes us Denmark’s largest dedicated zinc die-casting foundry — and the natural choice when the part is difficult and the requirements are high.",
+      "processHeading": "From molten alloy to finished casting",
+      "process": [
+        {
+          "step": "Alloy Melting",
+          "description": "The Zamak alloy is kept molten in the machine\u2019s integrated furnace at a tightly controlled temperature. The zinc is forced directly from the furnace into the die tool \u2014 fully controlled and automated, in one closed system, with no manual handling. The result is faster casting cycles and consistent quality, shot after shot."
+        },
+        {
+          "step": "High-Pressure Injection - The Shot",
+          "description": "Molten zinc is injected into the hardened die tool at pressures up to 200\u2009MPa. Fill times under 50\u2009ms ensure optimal cavity fill even in thin-walled and complex geometries, with minimal porosity."
+        },
+        {
+          "step": "Robotic Extraction & Reuse",
+          "description": "Parts are extracted by robotic arms within seconds of solidification. Runners and overflows are separated from the part and either returned immediately to the furnace or remelted for reuse \u2014 helping keep the CO2 footprint low."
+        },
+        {
+          "step": "In-Process Verification",
+          "description": "Process verification is carried out according to the requirements agreed with the customer at the quotation stage. CMM spot-check inspections and SPC data (statistical process control) are used to ensure the process remains stable."
+        }
+      ],
+      "specsEyebrow": "Technical Specifications",
+      "specsHeading": "Foundry capabilities and alloy data",
+      "specsNote": "",
+      "specs": [
+        { "label": "Casting cells", "value": "9 robotized" },
+        { "label": "Clamping Force", "value": "20 \u2013 315T" },
+        { "label": "Part Weight", "value": "1\u2009g \u2013 4\u2009kg" },
+        { "label": "As-Cast Tolerance", "value": "\u00b10.05\u2009mm" },
+        { "label": "Cycle Time", "value": "7 \u2013 \u221e seconds" },
+        { "label": "Alloys", "value": "Zamak 2 / 3 / 5 / 8" },
+        { "label": "Operation", "value": "24 hours" },
+        { "label": "Die Life", "value": "1M+ shots" }
+      ],
+      "advantagesHeading": "Why Linimatic is the best for the most complex",
+      "advantages": {
+        "p1": "Our 9 robotized casting cells cover the full tonnage range from 20T for small precision components to 315T for large structural parts \u2014 all with robotic handling. That singular focus gives us the deep process knowledge it takes to cast complex parts.",
+        "p2": "Our experience with casting process simulation is rare in the industry. We simulate fill, solidification, and porosity before the tool is even built, so we get an optimized die from the very first shot. That lets us cast highly complex products where others have to give up. The same experience makes us a natural choice for high-end products and other demanding projects \u2014 including complex solutions for casting other metal components directly into the part during the die-casting process, where tolerances and material interaction have to be precisely matched.",
+        "p3": "Many of our customers\u2019 parts move on to surface treatment and a thorough visual final inspection before they\u2019re ready for use. We have years of experience with this \u2014 from choosing the right post-treatment to the final check of appearance and finish before the part leaves the building."
+      },
+      "faqHeading": "Frequently Asked Questions",
+      "faq": [
+        {
+          "question": "What is high-pressure die casting?",
+          "answer": "Hot-chamber die casting of zinc is a fast and precise process in which molten zinc at 420\u00b0C is injected into a die tool under high pressure. The method is especially suited to series production of complex parts with tight tolerances, thin wall sections, and a fine surface finish."
+        },
+        {
+          "question": "Which Zamak alloy should I use?",
+          "answer": "About 95% of the parts we cast use Zamak 5, our standard alloy — a strong, well-rounded balance of strength, ductility, and castability (331\u2009MPa tensile strength). The remaining 5% we cast in Zamak 8, which we use when Zamak 5\u2019s strength isn\u2019t sufficient — it\u2019s the strongest and most creep-resistant zinc alloy we cast (374\u2009MPa). Beyond that, we can also cast in Zamak 2, which offers the highest hardness and suits bearing surfaces, or Zamak 3, which has the best plating characteristics. We advise on the right choice during the DFM review of your drawing."
+        },
+        {
+          "question": "What part sizes can you cast?",
+          "answer": "We cast parts from 1\u2009g to 4\u2009kg across our 9 casting cells. The optimal machine is selected based on part weight, projected area, and the required clamping force. The number of cavities is determined by the requirements for quality, complexity, and efficiency."
+        },
+        {
+          "question": "How long does a zinc die-casting tool last?",
+          "answer": "Zinc die-casting tools routinely exceed 1 million shots \u2014 5 to 10 times longer than aluminium die-casting tools. This is because zinc\u2019s lower casting temperature (385\u00b0C vs. 660\u00b0C for aluminium) creates significantly less thermal stress on the die steel. All tools are maintained under our preventive maintenance programme."
+        },
+        {
+          "question": "What tolerances can zinc die casting achieve?",
+          "answer": "As-cast tolerances to \u00b10.05\u2009mm are standard on our machines. For features requiring tighter control, secondary CNC machining can achieve even higher precision. We publish tolerance recommendations by feature type (linear, bore, flatness) during DFM review."
+        }
+      ],
+      "relatedHeading": "Related Services",
+      "ctaHeading": "Get a casting quote",
+      "ctaDescription": "Send us your part drawing and volume requirements. We\u2019ll recommend the right alloy, estimate tooling cost, and provide a piece price \u2014 within 48 hours.",
+      "ctaButton": "Get a Casting Quote"
+    },
+    "postProcessing": {
+      "title": "CNC Post-Processing",
+      "eyebrow": "In-House CNC Machining for 20+ Years",
+      "overview": "While zinc die casting offers great scope for casting very tight tolerances directly in the casting process, some parts require post-machining to achieve the desired tolerance on surfaces, holes, and milled threads. That is why CNC machining has been one of our in-house processes for more than 20 years: parts go from casting to finished, inspected component without leaving the building — and without external suppliers along the way. Our machining centre handles milling, drilling, thread cutting and thread milling — all under the same roof as the casting.",
+      "processHeading": "The production flow — from quotation to finished part",
+      "process": [
+        {
+          "step": "Process Planning",
+          "description": "Process planning starts as early as the quotation stage. Planning the entire production flow when we prepare the quotation is the foundation for the most efficient production process possible."
+        },
+        {
+          "step": "CNC Machining",
+          "description": "Multi-axis CNC milling centres machine critical features: bores, threads, mating surfaces, and tight-tolerance dimensions that exceed as-cast capability."
+        },
+        {
+          "step": "Deburring & Finishing",
+          "description": "After casting and CNC machining, the various deburring processes come into play. The process is chosen to match the customer's surface requirements: vibratory deburring, shot blasting, plastic media blasting, or tumbling."
+        },
+        {
+          "step": "In-Process Verification",
+          "description": "Process verification is carried out according to the requirements agreed with the customer at the quotation stage. CMM spot-check inspections and SPC data (statistical process control) are used to ensure the process remains stable."
+        }
+      ],
+      "specsEyebrow": "Technical Specifications",
+      "specsHeading": "Machining capabilities",
+      "specsNote": "",
+      "specs": [
+        { "label": "Operations", "value": "Mill / Drill / Thread" },
+        { "label": "Deburring", "value": "Matched to surface requirements" },
+        { "label": "As-Cast Tolerance", "value": "\u00b10.05\u2009mm" },
+        { "label": "Experience", "value": "20+ years of in-house CNC" },
+        { "label": "Location", "value": "Same building as casting" },
+        { "label": "Traceability", "value": "Batch-level preserved" }
+      ],
+      "advantagesHeading": "One supplier — one responsibility",
+      "advantages": {
+        "p1": "When casting, CNC machining, and deburring all happen under one roof, there is one supplier and one responsibility throughout. No coordination between foundry and machine shop, no transport between suppliers — and no quality gaps between steps. Parts move from casting to machining in hours instead of weeks."
+      },
+      "faqHeading": "Frequently Asked Questions",
+      "faq": [
+        {
+          "question": "Do zinc die-cast parts need machining?",
+          "answer": "Not always. Many features can be cast to final tolerance (\u00b10.05\u2009mm as-cast). However, machining is typically required for threaded holes, precision bores, critical mating surfaces, or any feature where the design tolerance is tighter than what the casting process can reliably achieve."
+        },
+        {
+          "question": "Can you mill threads in die-cast zinc parts?",
+          "answer": "Yes. Threaded holes and milled threads are produced as part of our in-house CNC post-processing. Because machining takes place in the same building and under the same quality system as casting, you get high precision and stable quality."
+        },
+        {
+          "question": "What tolerances can secondary machining achieve?",
+          "answer": "Secondary CNC machining on zinc die-cast parts can achieve tolerances significantly tighter than the \u00b10.05\u2009mm as-cast standard. The achievable tolerance depends on the specific feature type, part geometry, and fixturing. We specify achievable tolerances during DFM review."
+        },
+        {
+          "question": "What deburring methods do you use?",
+          "answer": "We use vibratory deburring, shot blasting, plastic media blasting, and tumbling. The process is chosen based on the customer's surface requirements and the geometry of the part."
+        }
+      ],
+      "relatedHeading": "Related Services",
+      "ctaHeading": "Need precision beyond as-cast?",
+      "ctaDescription": "Tell us which features need tighter tolerances and we\u2019ll plan the machining strategy alongside the die design \u2014 before any steel is cut.",
+      "ctaButton": "Discuss Your Tolerances"
+    },
+    "surfaceTreatment": {
+      "title": "Surface Treatment & Coating",
+      "eyebrow": "Finish That Defines the Product",
+      "overview": "Zinc lends itself well to a wide range of surface treatments, where function, durability and visual appearance can all be tailored to the finished product. At Linimatic we work with experienced surface-treatment specialists in both Denmark and abroad, so we can offer solutions that match your requirements for finish, corrosion protection and application.\n\nSurface treatment can give zinc parts a strong visual appearance, increase durability and protect against corrosion. This makes high-pressure die-cast, surface-treated zinc parts well suited to many different segments, including industry, technical components, furniture, interiors, design and the construction industry.",
+      "processHeading": "From raw casting to finished surface",
+      "process": [
+        {
+          "step": "Zinc – ideal for demanding surface treatment",
+          "description": "High-pressure die-cast zinc parts are well suited to many types of surface treatment, making them a strong choice for technical components with high demands on function and finish. At Linimatic A/S we produce precision die-cast zinc components that, after proper pre-treatment, can be finished with chromate/passivation, Chrome III, powder coating, wet painting and electroplated coatings, among others. The dense structure and good dimensional stability of zinc provide a solid basis for adhesion, corrosion protection and a uniform visual appearance."
+        },
+        {
+          "step": "Treatment Selection",
+          "description": "We help you choose the right surface finish based on your wishes and requirements for the surface. Multi-layer treatment is often necessary on zinc (e.g. copper-nickel-chrome) when it comes to the highest cosmetic standards."
+        },
+        {
+          "step": "Process control",
+          "description": "During the surface treatment, process-specific requirements for temperature, layer thickness and curing time are followed. The process is continuously monitored and documented, including measurement of coating thickness, to ensure consistent and stable quality across production batches."
+        },
+        {
+          "step": "Quality control",
+          "description": "Finished surface-treated products with special finish requirements are, as a rule, subject to 100% visual inspection at Linimatic before delivery. This ensures that the products meet the agreed quality and the desired visual appearance."
+        }
+      ],
+      "specsEyebrow": "Technical Specifications",
+      "specsHeading": "Available surface finishes",
+      "specsNote": "",
+      "specs": [
+        { "label": "Decorative and functional", "value": "Chrome" },
+        { "label": "Functional corrosion protection", "value": "Passivation" },
+        { "label": "Protective and decorative – full RAL range", "value": "Powder Coating" },
+        { "label": "Decorative and protective", "value": "Wet Paint" },
+        { "label": "Corrosion protective, decorative", "value": "Delta Seal Black" },
+        { "label": "Decorative, wear-resistant", "value": "PVD" },
+        { "label": "Decorative, corrosion protective", "value": "Nickel Plating" },
+        { "label": "Uniform, thin corrosion protection", "value": "KTL" }
+      ],
+      "advantagesHeading": "Surface treatment starts with the casting itself",
+      "advantages": {
+        "p1": "Linimatic knows the part, the material and the requirements from the casting process itself. That means we can ensure that design, casting, pre-treatment and surface treatment are all aligned with one another. We coordinate the surface treatment with carefully selected and approved subcontractors, and carry out the final quality control and packing at Linimatic. That gives you a single, complete delivery and one accountable partner."
+      },
+      "faqHeading": "Frequently Asked Questions",
+      "faq": [
+        {
+          "question": "What surface treatments can be applied to die-cast zinc?",
+          "answer": "Die-cast zinc parts can be powder coated, wet painted, chrome plated, nickel plated and passivated, among other options. Before final treatment, parts can be tumbled, vibratory deburred, bead blasted or shot blasted to achieve the desired surface texture."
+        },
+        {
+          "question": "How do we choose the right surface treatment?",
+          "answer": "The choice depends on requirements for appearance, corrosion resistance, wear resistance and price. It also matters whether the part will be used indoors or outdoors, and whether it will be exposed to moisture, chemicals or mechanical wear. Linimatic is happy to help find the solution that suits both function and budget."
+        },
+        {
+          "question": "Is surface treatment always necessary?",
+          "answer": "No. For certain indoor or hidden components, die-cast zinc can be used without further surface treatment. Treatment is typically chosen when there are specific requirements for appearance, corrosion protection, wear resistance or ease of cleaning."
+        },
+        {
+          "question": "Can die-cast zinc be powder coated?",
+          "answer": "Yes. Die-cast zinc parts can be powder coated in a wide range of colours and surface textures. The part's design, casting quality, pre-treatment and curing temperature all affect the final result, so powder coating requirements should be considered as early as the design phase."
+        },
+        {
+          "question": "Can zinc parts be chrome or nickel plated?",
+          "answer": "Yes. Die-cast zinc is well suited to electroplated coatings such as copper, nickel and chrome. These treatments can provide both a decorative appearance and functional protection. A good result requires a controlled casting process, proper pre-treatment and a part design suited to the treatment."
+        },
+        {
+          "question": "Can surface treatment hide marks and unevenness?",
+          "answer": "Only to a limited extent. A bright or high-gloss coating can actually make small imperfections more visible. High cosmetic requirements therefore need to be considered in the part's design, the die, the casting process and the mechanical pre-treatment."
+        },
+        {
+          "question": "Does the part need to be specially designed for surface treatment?",
+          "answer": "It can be a major advantage. Hanging points, contact surfaces, threads, tolerances, drainage of process fluids, and areas that must not be coated should be clarified early on. Early dialogue can prevent problems and reduce the need for rework."
+        },
+        {
+          "question": "Can Linimatic deliver parts fully surface-treated?",
+          "answer": "Yes. Linimatic manages the entire process, from casting and in-house post-processing to the desired external surface treatment. The coating itself is carried out by carefully selected and approved subcontractors. Final quality control and packing are done at Linimatic, so the customer receives a complete, delivery-ready solution."
+        }
+      ],
+      "relatedHeading": "Related Services",
+      "ctaHeading": "Need a specific finish?",
+      "ctaDescription": "Tell us your surface requirements \u2014 decorative, functional, or both \u2014 and we\u2019ll recommend the right treatment for your application and volume.",
+      "ctaButton": "Discuss Surface Options"
+    },
+    "quality": {
+      "title": "Quality & Certification",
+      "eyebrow": "More than 30 years of certified quality management",
+      "overview": "Linimatic has been ISO 9001 certified since 1993. Our quality management system forms the framework for all our business processes – from reviewing customer requirements and specifications to purchasing, incoming goods, production, quality control and delivery. All processes are carried out according to defined procedures and control plans, so quality is managed and documented throughout the entire process.",
+      "processHeading": "How we ensure quality at every step",
+      "process": [
+        {
+          "step": "Incoming Goods Inspection",
+          "description": "Material certificates are checked upon receipt of the zinc."
+        },
+        {
+          "step": "Ongoing Process Control",
+          "description": "Production is monitored continuously according to the defined control plan for each process."
+        },
+        {
+          "step": "Self-Inspection and QC Sampling",
+          "description": "Operators' self-inspection is supplemented by sample checks carried out by the quality department."
+        },
+        {
+          "step": "SPC Measurement and Recording",
+          "description": "When agreed, SPC is used for ongoing measurement and documentation of process stability."
+        },
+        {
+          "step": "Coordinate Measuring Machine Inspection",
+          "description": "Critical dimensions and geometric tolerances are checked on a coordinate measuring machine (CMM) when specified."
+        }
+      ],
+      "specsEyebrow": "Technical Specifications",
+      "specsHeading": "Quality infrastructure",
+      "specsNote": "",
+      "specs": [
+        { "label": "Certification", "value": "ISO 9001 since 1993" },
+        { "label": "Dimensional Inspection", "value": "CMM (3D coordinate)" },
+        { "label": "Process Control", "value": "Real-time SPC" },
+        { "label": "Documentation", "value": "PPAP Level 1\u20133" },
+        { "label": "Traceability", "value": "Batch-level" },
+        { "label": "First Article", "value": "FOT / FAI reports" },
+        { "label": "Production", "value": "Ongoing self- / QC inspection" },
+        { "label": "Calibration", "value": "Specialized measuring equipment" }
+      ],
+      "advantagesHeading": "What does ISO 9001 mean for you as a customer?",
+      "advantages": {
+        "p1": "A certified quality management system gives you assurance that requirements, specifications and changes are handled systematically throughout the entire process. Deviations are recorded, the root cause investigated, and corrective actions carried out – reducing the risk of recurrence.",
+        "p2": "In short, it means greater delivery reliability, fewer quality issues, and more predictable production."
+      },
+      "faqHeading": "Frequently Asked Questions",
+      "faq": [
+        {
+          "question": "What quality certifications does Linimatic hold?",
+          "answer": "Linimatic has been ISO 9001 certified since 1993 \u2014 over 30 years of uninterrupted, independently audited quality management. The certification covers the complete value chain: incoming material inspection, die-casting, CNC machining, surface treatment, assembly, and final inspection."
+        },
+        {
+          "question": "Can you provide PPAP documentation?",
+          "answer": "Yes. We provide PPAP documentation at Level 1 to 3 by agreement with the customer."
+        },
+        {
+          "question": "How does Linimatic ensure quality during ongoing production?",
+          "answer": "Quality is monitored throughout production according to a defined control plan for each component and process. Operators’ ongoing self-inspection is supplemented by sample checks from the quality department. When agreed, SPC measurements are also used to monitor process stability, along with inspection on a coordinate measuring machine."
+        },
+        {
+          "question": "What traceability do you provide per batch?",
+          "answer": "Every batch is traceable from raw material (alloy heat number, supplier certificate) through casting (machine, die, date, shift, process parameters) to machining, coating, inspection, and shipment."
+        }
+      ],
+      "relatedHeading": "Related Services",
+      "ctaHeading": "Need to audit our quality system?",
+      "ctaDescription": "We welcome customer audits and facility visits. Contact us to schedule a quality review or request our current ISO certificate and capability documentation.",
+      "ctaButton": "Request Quality Documentation"
+    },
+    "assembly": {
+      "title": "Assembly & Mounting",
+      "eyebrow": "Finished Products, Not Loose Parts",
+      "overview": "Do you need more than the finished die-cast zinc component? Linimatic can also handle assembly and mounting of die-cast zinc components with other parts, so you receive fully assembled units ready for use or further delivery.\n\nAmong other things, we can handle assembly kits, spare-parts kits and smaller subsystems, as well as quality control, labelling, packing and customer-specific packaging.\n\nBy consolidating several processes with one supplier, you get simpler logistics, fewer handling steps and a more efficient supply chain.\n\nContact us to hear how we can create value through assembly and mounting.",
+      "processHeading": "From component to fully assembled unit",
+      "process": [
+        {
+          "step": "Receiving Components",
+          "description": "We receive die-cast zinc components and other parts to be built into the finished unit."
+        },
+        {
+          "step": "Assembly & Mounting",
+          "description": "The parts are assembled into fully assembled units \u2014 such as assembly kits, spare-parts kits or smaller subsystems."
+        },
+        {
+          "step": "Labelling & Packaging",
+          "description": "Customer-specific packaging and labelling, tailored to your needs."
+        },
+        {
+          "step": "Quality Control & Delivery",
+          "description": "Quality control before delivery, ready for use or further delivery."
+        }
+      ],
+      "specsEyebrow": "What we offer",
+      "specsHeading": "Assembly & mounting",
+      "specsNote": "",
+      "specs": [
+        { "label": "Assembly", "value": "Assembly & mounting" },
+        { "label": "Kits & subsystems", "value": "Assembly kits / spare-parts kits" },
+        { "label": "Packaging", "value": "Standard / custom" },
+        { "label": "Labelling", "value": "Customer-specific labelling" },
+        { "label": "Quality", "value": "Quality control before delivery" },
+        { "label": "Delivery", "value": "Ready for use or further delivery" }
+      ],
+      "advantagesHeading": "The advantage of a single supplier",
+      "advantages": {
+        "p1": "When assembly and mounting happen at the same supplier that cast the components, you avoid coordinating several steps yourself.",
+        "p2": "By consolidating several processes with one supplier, you get simpler logistics, fewer handling steps and a more efficient supply chain."
+      },
+      "faqHeading": "Frequently Asked Questions",
+      "faq": [
+        {
+          "question": "Can you assemble zinc components with other parts?",
+          "answer": "Yes. We can handle assembly and mounting of die-cast zinc components with other parts, so you receive fully assembled units ready for use or further delivery."
+        },
+        {
+          "question": "What kits and subsystems can you handle?",
+          "answer": "Among other things, we can handle assembly kits, spare-parts kits and smaller subsystems."
+        },
+        {
+          "question": "Do you handle quality control, labelling and packaging?",
+          "answer": "Yes. We handle quality control, labelling, packing and customer-specific packaging."
+        },
+        {
+          "question": "How do we get started?",
+          "answer": "Contact us to hear how we can create value through assembly and mounting."
+        }
+      ],
+      "relatedHeading": "Related Services",
+      "ctaHeading": "Ready to have your components assembled?",
+      "ctaDescription": "Contact us to hear how we can create value through assembly and mounting.",
+      "ctaButton": "Contact Us"
+    }
+  },
+  "jobsPage": {
+    "breadcrumb": "Jobs",
+    "eyebrow": "Join Our Team",
+    "heading": "Your next job might start here",
+    "description": "At Linimatic we work with engineering, precision and solutions that make a difference. We\u2019re looking for skilled people with a sense of responsibility, curiosity and the drive to be part of a strong team.\n\nSee our open positions below \u2014 we look forward to hearing from you.",
+    "heroImageAlt": "Linimatic factory floor in Helsinge, Denmark",
+    "whyHeading": "Why Linimatic?",
+    "whyDescription": "We\u2019re based in Helsinge, North Zealand \u2014 close enough to Copenhagen to commute, far enough to avoid the noise. Here\u2019s what makes working here different.",
+    "perks": [
+      {
+        "title": "Craftsmanship and advanced technology",
+        "description": "At Linimatic, you work with advanced die-casting machines, robots and molten metal. It takes technical understanding, precision and real craftsmanship to produce complex zinc components in consistently high quality."
+      },
+      {
+        "title": "Stable & growing",
+        "description": "Founded in 1967 and still going strong. We invest in people and equipment for the long term, not the next quarter."
+      },
+      {
+        "title": "Small team, real impact",
+        "description": "With 30+ employees, you're not just a number. You get to know your colleagues and the production well, and you can clearly see how your work contributes to the finished result."
+      },
+      {
+        "title": "Continuous development",
+        "description": "New machines, new alloys, new processes \u2014 the field evolves and we evolve with it. Training and skill development are part of the job."
+      }
+    ],
+    "positionsEyebrow": "Open Positions",
+    "positionsHeading": "Current openings",
+    "responsibilitiesLabel": "What you\u2019ll do",
+    "requirementsLabel": "What we\u2019re looking for",
+    "contactLabel": "Contact",
+    "applyButton": "Apply Now",
+    "applySubject": "Application \u2014 {position} \u2014 Linimatic",
+    "noPositions": "No open positions right now \u2014 but we\u2019re always interested in hearing from skilled people. Send us an open application below.",
+    "positions": [
+      {
+        "title": "Machinist, Industrial Technician or Toolmaker — Mould Shop",
+        "department": "Mould Shop",
+        "type": "Full-time",
+        "description": "At Linimatic we’re facing a planned generational shift in our mould shop. Two of our experienced colleagues are approaching retirement, and we’re looking for a new team member who can be thoroughly trained and help secure the future of the mould shop. We know it takes time to learn such a specialised trade, so we set aside real time for thorough, hands-on training from our experienced colleagues. You don’t need experience with die-casting moulds — what matters most is strong mechanical understanding, careful work, and a willingness to learn a specialised trade.",
+        "responsibilities": [
+          "Preparing and maintaining die-casting moulds and stamping tools",
+          "Troubleshooting production stops related to tooling",
+          "Minor repairs, adjustments and improvements",
+          "Purchasing selected wear parts",
+          "Collaborating with production and production engineering"
+        ],
+        "requirements": [
+          "Practical technical experience with metal, machinery, tooling, maintenance or production",
+          "Strong mechanical understanding and an eye for detail",
+          "Works responsibly and independently",
+          "Motivated to become skilled in a specialised trade"
+        ],
+        "contactName": "Rikke Østrup Fisker, Logistics Manager",
+        "contactEmail": "rif@linimatic.dk"
+      },
+      {
+        "title": "Production Operator",
+        "department": "Foundry",
+        "type": "Full-time",
+        "description": "Do you have a technical mindset and a desire to learn a new trade? Linimatic A/S in Helsinge produces high-pressure die-cast zinc components for customers worldwide. We’re known for being ‘the best at the hardest jobs’ — and we’re now looking for new colleagues eager to be trained in die-casting. We know it takes time to learn the trade properly, so you’ll get thorough training along the way — and if you want to develop further, we also offer courses in casting theory and robot programming.",
+        "responsibilities": [
+          "Setting up and operating die-casting machines",
+          "Quality control of your own work",
+          "Supporting colleagues during machine stops",
+          "Commissioning robots in the casting cell"
+        ],
+        "requirements": [
+          "Technical interest and a willingness to learn",
+          "Collaborative and quality-conscious",
+          "Danish language proficiency (speaking, reading, writing)"
+        ],
+        "contactName": "Thomas Hjorth, Production Manager",
+        "contactPhone": "+45 50 77 02 16",
+        "contactEmail": "thj@linimatic.dk"
+      }
+    ],
+    "openApplicationHeading": "Don\u2019t see your role?",
+    "openApplicationDescription": "We\u2019re always interested in hearing from skilled people in manufacturing, engineering, quality, and sales. Send us your CV and tell us what you bring to the table.",
+    "openApplicationButton": "Send Open Application",
+    "learnMoreButton": "Learn More About Us",
+      "privacyNotice": "When you send an application by email, Linimatic A/S processes your information to assess it. We keep applications for 6 months after the position is filled, or 6 months after receipt or last contact for unsolicited applications, unless you agree to longer storage. See our <link>privacy policy</link> for details."
+  },
+  "sustainabilityPage": {
+    "breadcrumb": "Sustainability",
+    "eyebrow": "Sustainability",
+    "title": "Sustainability at Linimatic",
+    "intro": "We work purposefully to run our production responsibly — for people, society and the environment. Here you can read about our CO2 emissions and the guidelines we follow.",
+    "links": [
+      {
+        "title": "CO2 and Climate",
+        "description": "See the development in the company's CO2 emissions year by year.",
+        "href": "/about/co2"
+      },
+      {
+        "title": "Code of Conduct",
+        "description": "Our guidelines for responsible and ethical business conduct.",
+        "href": "/about/code-of-conduct"
+      }
+    ]
+  },
+  "co2Page": {
+    "eyebrow": "Sustainability",
+    "title": "CO2 and Climate",
+    "intro": "At Linimatic, we continuously work to reduce our CO2 footprint through efficient production, solar power, and responsible resource management. This page will be updated with concrete figures and initiatives.",
+    "dataLabel": "CO2 emissions over time",
+    "unit": "TONNES CO2e",
+    "note": "The figures cover the company's total operations and are location-based for scope 1, 2 and 3. Around 15% of our electricity comes from our own solar panels."
+  },
+  "codeOfConductPage": {
+    "eyebrow": "Ethics and Responsibility",
+    "title": "Code of Conduct",
+    "dateLabel": "Dated: 14 October 2025",
+    "intro": [
+      "Vendor responsibility in social and sustainable entrepreneurship is central to the worldwide community and also plays an increasing role in a company's competitiveness and profitability.",
+      "Linimatic's Code of Conduct was established in 2021 to support this social and sustainable entrepreneurship, especially in the following areas: human rights; occupational health & labour issues; environmental management; and anti-corruption measures.",
+      "Linimatic has based its Code of Conduct on the UN Global Compact, an international initiative supported by businesses around the world with the aim of ensuring compliance in the aforementioned areas."
+    ],
+    "purposeHeading": "Purpose",
+    "purpose": [
+      "In order to respect human rights and to promote fair employment, safe working conditions, and responsible environmental and ethical standards, this Code of Conduct is applied in the production, supply, and delivery of all Linimatic's products and services.",
+      "In addition to all applicable laws, rules, and standards in the countries where Linimatic operates, all employees must comply with Linimatic's Code of Conduct — even where these requirements are more stringent than national laws and regulations.",
+      "Linimatic actively supports its suppliers in securing long-term, continuous improvements. Linimatic supports the UN's \"Global Compact\".",
+      "To make this commitment clear to employees, suppliers, customers, and other stakeholders, our Code of Conduct is based on the Global Compact's ten principles and is made public."
+    ],
+    "workingConditionsHeading": "Working Conditions",
+    "freedomOfAssociationHeading": "Freedom of Association",
+    "freedomOfAssociationText": "As far as applicable laws permit, all employees are free to form and be a member of — or not be a member of — trade unions or similar external unions, and to bargain collectively.",
+    "forcedLaborHeading": "Forced Labor",
+    "forcedLaborText": "Forced or compulsory work is expressly forbidden, and all employees are free to terminate their employment after reasonable notice in accordance with national law and/or prior agreement. Employees are not required to deposit money or identity papers with their employer.",
+    "termsOfEmploymentHeading": "Terms of Employment",
+    "termsOfEmploymentText": "Employees can expect that their employment rights, pay, and conditions are fair and reasonable, and meet, as a minimum, national legal requirements and industry standards. Working hours are in accordance with national law and are not abusive.",
+    "accessToDataHeading": "Access to Personal Data",
+    "accessToDataText": "All employees have the right, at any time, to access their personal documents and information held by the company, in accordance with applicable data protection laws (GDPR). Requests for access should be directed to the company's HR department.",
+    "childLabourHeading": "Child Labour",
+    "childLabour": [
+      "No person employed is below the legal minimum age for employment. The minimum age is the age for completion of compulsory schooling, or a minimum of 15 years, in accordance with Article 2.4 of ILO Convention No. 138 on minimum age. Children are not hired for dangerous work, or for work that is not consistent with the child's personal development.",
+      "A child is a person under 18 years, as defined in Article 1 of the UN Convention on the Rights of the Child. Personal development includes a child's health, or physical, mental, spiritual, moral, or social development, as described in Article 32 of the UN Convention on the Rights of the Child."
+    ],
+    "discriminationHeading": "Elimination of Discrimination",
+    "discrimination": [
+      "Employees are treated with respect and dignity. Corporal punishment, physical, verbal, or other unlawful harassment, and any form of threat or intimidation, is prohibited. All forms of discrimination based on bias or prejudice are prohibited, such as discrimination based on race, colour, sex, sexual orientation, marital status, pregnancy, parental status, religion, political opinion, nationality, ethnic background, social origin, social status, disability, age, union membership, or any other characteristic or status protected by applicable local law.",
+      "Employees with the same qualifications, experience, and accomplishments receive equal pay for equal work with others who do the same work under similar working conditions."
+    ],
+    "workEnvironmentHeading": "Work Environment",
+    "workEnvironment": [
+      "A healthy and safe working environment and, if applicable, housing provided for employees, is in accordance with international standards and national laws. Appropriate information and training on health and safety is provided for employees.",
+      "Security also includes compliance with national laws and regulations regarding fire prevention, as well as plans for evacuation in case of fire, at least as required by the national legislation in force at any given time. Safe and proper handling and labelling of chemicals, mechanical equipment, and work processes is handled in accordance with national legislation. Workplaces, and if applicable housing, have acceptable temperature and noise levels, adequate ventilation, adequate lighting, clean toilets, clean drinking water, and, if appropriate, sanitary facilities for food storage."
+    ],
+    "environmentHeading": "Environment",
+    "environmentText": "Finite resources are used responsibly and with caution. Approaches and methods that reduce any environmental impact linked to our business are welcomed. Innovative development of products and services that provide environmental and social benefits is promoted.",
+    "antiCorruptionHeading": "Anti-Corruption",
+    "antiCorruption": [
+      "No form of extortion or bribery, including improper offers of payment to or from employees, business relations, or organisations, is tolerated.",
+      "We are committed to conducting our business in alignment with applicable national and international competition laws, and we adhere to antitrust regulations, maintain robust data protection, and prioritise information security to safeguard sensitive information.",
+      "We are dedicated to preventing money laundering and avoiding the financing of terrorism."
+    ],
+    "supplierSupplementHeading": "Code of Conduct — Supplement for Suppliers",
+    "supplierSupplementText": "This Code of Conduct (\"CODE\") applies to all activities of Linimatic and to mutually contributing products, services, and activities from other businesses (\"Suppliers\").",
+    "adherenceHeading": "Adherence",
+    "adherenceText": "Linimatic requires that the supplier and its subcontractors meet the requirements of this Code of Conduct (\"CODE\"), which may mean more stringent requirements than the applicable national law. A supplier shall, upon request, reasonably verify that it and its subcontractors comply with the CODE. This can be done by providing information and/or allowing Linimatic or one of our representatives access to the site(s) of the aforementioned supplier/subcontractor.",
+    "notificationHeading": "Notification Requirement",
+    "notificationText": "The supplier is responsible for ensuring that its employees and subcontractors are informed of this Code of Conduct (\"CODE\") and that they meet the requirements contained therein."
+  },
+  "privacyPage": {
+    "eyebrow": "Legal",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: August 2026",
+    "dataControllerHeading": "Data Controller",
+    "dataControllerIntro": "Linimatic A/S is the data controller for personal data processed through this website and when you contact us.",
+    "whatWeCollectHeading": "What Data We Collect",
+    "whatWeCollectIntro": "We may collect the following personal data through our website:",
+    "collectItems": [
+      "Contact form submissions: Name, company, email address, phone number, enquiry subject, expected production volume and project description.",
+      "Job applications: Name, contact details, CV, cover letter, and other information you include in an application sent by email.",
+      "Technical and security data: Our hosting provider receives the form request and processes technical request data, such as IP address and browser information, to deliver and protect the website. The contact form uses a short-lived in-memory IP limit to prevent abuse; we do not store submissions in a website database.",
+      "Optional analytics: If you consent, Vercel Analytics processes cookieless visit measurements so we can understand which pages are useful. It is not loaded when you decline.",
+      "Communication data: Records of correspondence if you contact us by email or phone."
+    ],
+    "dataSourceNote": "The form requires your name, company, email address and message so we can identify and answer your enquiry; phone number, subject and expected volume are optional. If a required field is omitted, the form cannot be submitted. Information in forms and emails comes from you. Some technical information, such as IP address and browser information, is generated automatically when you use the website.",
+    "legalBasisHeading": "Legal Basis for Processing",
+    "legalBasisIntro": "Under the General Data Protection Regulation (GDPR), we process personal data based on:",
+    "legalBasisItems": [
+      "Consent (Art. 6(1)(a)): For optional website analytics.",
+      "Legitimate interest (Art. 6(1)(f)): To receive and answer enquiries, assess applications, prevent abuse, and keep the website and our communication secure.",
+      "Pre-contractual steps (Art. 6(1)(b)): Where an enquiry leads to a request to prepare or enter into a contract.",
+      "Legal obligation (Art. 6(1)(c)): Where a law requires us to retain or process information."
+    ],
+    "howWeUseHeading": "How We Use Your Data",
+    "howWeUseItems": [
+      "To respond to quote requests and customer inquiries",
+      "To process job applications",
+      "To prevent abuse and protect the security of the website and our communication",
+      "To understand which pages are useful when you have consented to analytics",
+      "To comply with legal and regulatory obligations"
+    ],
+    "retentionHeading": "Data Retention",
+    "retentionIntro": "We retain personal data only as long as necessary for the purposes described above, or as required by law. Specifically:",
+    "retentionItems": [
+      "Contact enquiries: Normally reviewed and deleted from our mailboxes and related copies 2 years after the last contact. If an active business relationship or legal need requires longer retention, we keep only what is necessary and record the reason.",
+      "Job applications: Normally deleted 6 months after the position is filled, or 6 months after receipt or last contact for unsolicited applications, unless you consent to longer retention.",
+      "Security data: IP information used for the contact form's short-lived flood protection is kept in application memory, not in a contact database.",
+      "Analytics data: Collected only after consent and described as cookieless and anonymized by Vercel; see our Cookie Policy."
+    ],
+    "dataSharingHeading": "Data Sharing",
+    "dataSharingIntro": "We do not sell your personal data. We may share data with:",
+    "dataSharingItems": [
+      "Vercel (hosting and form runtime): Hosts the website and runs the server-side contact form. It may process the submitted form data and technical request metadata as part of providing the service. Vercel is a US company and processing may take place in the US and other countries under the applicable service terms and safeguards.",
+      "Resend (email delivery): Delivers contact form messages, including the visitor's contact details, message, reply address, and related email metadata. Resend states that its primary processing operations take place in the United States; choosing an Ireland sending region does not make customer data EU-only. Transfers are covered by Resend's Data Processing Addendum and the safeguards described there.",
+      "Microsoft 365 (email and collaboration): Hosts our email accounts, where contact-form enquiries, job applications and other correspondence are received and stored. Data is held within the EU/EFTA region.",
+      "Legal authorities: When required by law or to protect our rights."
+    ],
+    "dataSharingDpaNote": "For the providers' detailed data-processing terms, see the <vercel>Vercel Data Processing Addendum</vercel> and <resend>Resend Data Processing Addendum</resend>.",
+    "dataSharingNote": "We use providers only where needed to run the website and handle enquiries. Before publication and when a provider changes, we verify the provider's agreement, processing locations, sub-processors and retention in our internal processor register. Where personal data is transferred outside the EU/EEA, the applicable provider agreement and a valid GDPR transfer mechanism, such as Standard Contractual Clauses, are used where required.",
+    "yourRightsHeading": "Your Rights",
+    "yourRightsIntro": "Under GDPR, you have the right to:",
+    "yourRightsItems": [
+      "Access \u2014 Request a copy of the personal data we hold about you.",
+      "Rectification \u2014 Request correction of inaccurate data.",
+      "Erasure \u2014 Request deletion of your data (\u201cright to be forgotten\u201d).",
+      "Restriction \u2014 Request limitation of data processing.",
+      "Portability \u2014 Request your data in a structured, machine-readable format.",
+      "Objection \u2014 Object to processing based on legitimate interest.",
+      "Withdraw consent \u2014 Withdraw previously given consent at any time."
+    ],
+    "yourRightsContact": "To exercise any of these rights, contact us at linimatic@linimatic.dk. We will respond within one month, unless a lawful extension applies.",
+    "complaintsHeading": "Complaints",
+    "complaintsText": "If you believe your data protection rights have been violated, you have the right to lodge a complaint with the Danish Data Protection Agency (Datatilsynet):",
+    "changesHeading": "Changes to This Policy",
+    "changesText": "We may update this privacy policy from time to time. The \u201clast updated\u201d date at the top reflects the most recent revision. We encourage you to review this page periodically."
+  },
+  "cookiePolicyPage": {
+    "eyebrow": "Legal",
+    "title": "Cookie Policy",
+    "lastUpdated": "Last updated: August 2026",
+    "whatAreCookiesHeading": "What Are Cookies?",
+    "whatAreCookiesText": "Cookies are small text files placed on your device when you visit a website. They are widely used to make websites work more efficiently and provide information to website owners. Under EU regulation (the ePrivacy Directive and GDPR), we are required to obtain your consent before placing non-essential cookies.",
+    "howWeUseHeading": "How We Use Cookies",
+    "howWeUseText": "We use two categories: necessary, which is always on, and analytics, which we only use if you agree. We use no cookies for marketing and share no data with advertising networks. You can change your choice at any time via “Cookie settings” at the bottom of any page.",
+    "necessaryHeading": "Necessary Cookies",
+    "necessaryText": "These cookies are essential for the website to function properly. They support basic website functions and remember your cookie preferences. The website cannot function properly without them, and they cannot be disabled.",
+    "tableCookie": "Cookie",
+    "tablePurpose": "Purpose",
+    "tableDuration": "Duration",
+    "consentCookiePurpose": "Stores your cookie preference choices",
+    "consentCookieDuration": "1 year",
+    "localeCookiePurpose": "Remembers your language preference",
+    "localeCookieDuration": "Session",
+    "popupStoragePurpose": "Remembers that you closed the panel about our zinc info days, so it does not reappear straight away",
+    "popupStorageDuration": "Until you clear your browser",
+    "storageNote": "The last entry in the table is not a cookie but a note stored locally in your browser. It contains only a timestamp and is never sent to us or to anyone else.",
+    "analyticsHeading": "Visit analytics",
+    "analyticsText": "If you agree to analytics, we load Vercel Analytics to measure page visits and understand which pages are useful. It is not loaded when you decline. Vercel describes the service as cookieless and anonymized; its own privacy information explains how it handles analytics data.",
+    "managingHeading": "Managing Your Preferences",
+    "managingText1": "When you first visit our website, a cookie banner will appear allowing you to accept all cookies, reject all non-essential cookies, or customize your preferences by category.",
+    "managingText2": "You can change your choice or withdraw your consent at any time via the \"Cookie settings\" link at the bottom of every page.",
+    "managingText3": "You can also control cookies through your browser settings. Most browsers allow you to refuse or delete cookies. The methods for doing so vary from browser to browser \u2014 consult your browser\u2019s help documentation.",
+    "thirdPartyHeading": "Third parties",
+    "thirdPartyText": "We use no advertising networks, social media buttons, maps or videos that set cookies on our pages, and fonts are served from our own server. Vercel hosts the website and runs the contact form; if you agree to analytics, it also measures visits. Resend delivers contact-form messages to our business email provider, which stores them in our Linimatic mailbox. These services may process data outside the EU/EEA as described in our Privacy Policy.",
+    "contactHeading": "Contact",
+    "contactText": "If you have questions about our use of cookies, contact us at:"
+  },
+  "zinkTemadagPage": {
+    "breadcrumb": "Zinc Info Day",
+    "eyebrow": "Free seminar — approx. 4 hours",
+    "heading": "Zinc Die-Casting Info Day",
+    "intro": "Get practical knowledge about the possibilities of zinc die-casting – from material selection and design to production and the finished part.\n\nLinimatic holds free info days for designers, project managers and buyers at our facility in Helsinge. Feel free to bring along a potential component or a specific challenge for us to go through on the day. See the agenda below.",
+    "agendaHeading": "Agenda",
+    "agenda": [
+      "Zinc in general — and where it comes from",
+      "Zinc compared to aluminum and plastic",
+      "The casting process",
+      "Tour of the production floor",
+      "When should you choose zinc?",
+      "Designing in zinc — possibilities and limitations",
+      "CO2 footprint",
+      "Surface treatment",
+      "Casting tools",
+      "Prototyping options"
+    ],
+    "agendaNote": "The agenda can always be adjusted to suit the participants.",
+    "datesHeading": "Next scheduled info days",
+    "dates": ["20.05.2026", "16.09.2026"],
+    "datesNote": "Held at Linimatic in Helsinge",
+    "datePastLabel": "Completed",
+    "contactHeading": "Book an info day",
+    "contactDescription": "Contact Jan V. Jørgensen to book an upcoming info day or for more information.",
+    "contactName": "Jan V. Jørgensen",
+    "contactRole": "Managing Director",
+    "contactPhone": "+45 2343 3667",
+    "contactEmail": "jaj@linimatic.dk",
+    "heroImageAlt": "Attendees following a presentation at an info day, taking notes"
+  },
+  "zinkTemadagPopup": {
+    "eyebrow": "Upcoming event",
+    "heading": "Zinc info days at Linimatic",
+    "description": "Free info day for designers, project managers and buyers. See the next scheduled dates.",
+    "cta": "See dates",
+    "close": "Close",
+    "imageAlt": "Stacked zinc ingots ready for remelting"
+  }
+}

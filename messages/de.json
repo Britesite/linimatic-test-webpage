@@ -1,0 +1,1661 @@
+{
+  "meta": {
+    "home": {
+      "title": "Linimatic A/S — Zinkdruckguss-Gießerei in Dänemark",
+      "description": "Dänemarks größte spezialisierte Zinkdruckguss-Gießerei seit 1967. Präzise Zamak-Bauteile vom Prototyp bis zur Serie — ISO 9001-zertifiziert, aus einer Hand."
+    },
+    "services": {
+      "title": "Zinkdruckguss-Leistungen in Dänemark",
+      "description": "Zinkdruckguss aus einer Hand: Prototyping, Druckguss, CNC-Bearbeitung, Oberflächenveredelung, Qualitätssicherung und Montage in Helsinge, Dänemark."
+    },
+    "whyZinc": {
+      "title": "Warum Zinkdruckguss? Vorteile & Legierungen",
+      "description": "Zinkdruckguss bietet ±0,05 mm Toleranzen, über 1 Mio. Schuss Werkzeugstandzeit und verchromungsfähige Oberflächen. Zink, Aluminium und Kunststoff im Vergleich."
+    },
+    "about": {
+      "title": "Über Linimatic — Zinkdruckguss-Experten seit 1967",
+      "description": "1967 gegründet, ist Linimatic A/S Dänemarks größte spezialisierte Zinkdruckguss-Gießerei — über 50 Spezialisten, ISO 9001, gesamte Wertschöpfung aus einer Hand."
+    },
+    "news": {
+      "title": "Neuigkeiten von Linimatic",
+      "description": "Neues von Linimatic A/S — Veranstaltungen, Investitionen und Geschichten aus der Zinkdruckgießerei in Helsinge."
+    },
+    "sustainability": {
+      "title": "Nachhaltigkeit — Linimatic A/S",
+      "description": "Lesen Sie über Linimatics Arbeit im Bereich Nachhaltigkeit, CO2-Emissionen und ethisches Geschäftsverhalten."
+    },
+    "co2": {
+      "title": "CO2 und Klima — Linimatic A/S",
+      "description": "Erfahren Sie mehr über Linimatics Arbeit zur Reduzierung des CO2-Fußabdrucks durch effiziente Produktion und nachhaltige Initiativen."
+    },
+    "codeOfConduct": {
+      "title": "Code of Conduct — Linimatic A/S",
+      "description": "Linimatics Richtlinien für verantwortungsvolles und ethisches Geschäftsgebaren."
+    },
+    "cases": {
+      "title": "Referenzen — Zinkdruckguss-Projekte",
+      "description": "Zinkdruckguss-Referenzen von DeWalt, One Collection, VELUX u. a. So löst Linimatic komplexe Fertigungsaufgaben mit präzisen Zamak-Bauteilen."
+    },
+    "contact": {
+      "title": "Kontakt Linimatic — Angebot für Zinkdruckguss",
+      "description": "Senden Sie Ihre Zeichnungen für ein kostenloses Zinkdruckguss-Angebot — Antwort binnen 24 Stunden. Rufen Sie +45 4876 4040 an oder besuchen Sie uns in Helsinge."
+    },
+    "contactPeople": {
+      "title": "Ansprechpartner bei Linimatic",
+      "description": "Finden Sie die richtigen Ansprechpartner bei Linimatic — Geschäftsführung, Technik, Vertrieb, Produktion, Finanzen und Logistik."
+    },
+    "jobs": {
+      "title": "Karriere bei Linimatic — Jobs in Dänemark",
+      "description": "Werden Sie Teil von Dänemarks größter Zinkdruckguss-Gießerei. Offene Stellen in Guss, Bearbeitung, Qualität und Technik bei Linimatic A/S in Helsinge."
+    },
+    "zinkers": {
+      "title": "Sinkers von Linimatic — Zinksenker für Trawl & Fischereigerät",
+      "description": "Linimatic gießt bleifreie Zinksenker für Trawl-, Ring- und industrielles Fischereigerät. Ring- und Tonnensenker von 50-2.000 Gramm, angepasst an Ihren Bedarf."
+    },
+    "zinkTemadag": {
+      "title": "Zink-Infotag — kostenloses Seminar zum Zinkdruckguss",
+      "description": "Kostenloser Infotag für Konstrukteure, Projektleiter und Einkäufer über die Möglichkeiten des Zinkdruckgusses. Nächste geplante Termine und Anmeldung."
+    }
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "backHome": "Zurück zur Startseite"
+  },
+  "navigation": {
+    "home": "Startseite"
+  },
+  "header": {
+    "logoAlt": "Linimatic — Innovativer Zinkdruckguss",
+    "nav": {
+      "services": "Leistungen",
+      "cases": "Referenzen",
+      "whyZinc": "Warum Zink",
+      "zinkers": "Sinkers",
+      "about": "Über uns",
+      "sustainability": "Nachhaltigkeit",
+      "jobs": "Jobs",
+      "contact": "Kontakt"
+    },
+    "servicesList": {
+      "prototyping": "Prototypen",
+      "dieCasting": "Druckguss",
+      "postProcessing": "CNC-Nachbearbeitung",
+      "surfaceTreatment": "Oberflächenbehandlung & Beschichtung",
+      "quality": "Qualität & Zertifizierung",
+      "assembly": "Montage & Zusammenbau",
+      "zinkTemadag": "Zink-Infotag"
+    },
+    "allServices": "Alle Leistungen",
+    "aboutList": {
+      "about": "Über Linimatic",
+      "news": "Neuigkeiten"
+    },
+    "sustainabilityList": {
+      "co2": "CO2",
+      "codeOfConduct": "Code of Conduct"
+    },
+    "phone": "+45 4876 4040",
+    "getQuote": "Angebot anfordern",
+    "mobileMenuOpen": "Menü öffnen",
+    "mobileMenuClose": "Menü schließen"
+  },
+  "hero": {
+    "watermark": "Zn",
+    "eyebrow": "Gegründet 1967 — Helsinge, Dänemark",
+    "headline1": "Druckguss",
+    "headline2": "aus",
+    "headlineAccent": "Zink",
+    "tagline": "Präzise, effizient und wirtschaftlich",
+    "description": "Linimatic A/S verbindet langjährige Erfahrung mit moderner, automatisierter Produktion von Zinkdruckgussteilen. Automatisierung, Roboter und effiziente Prozesssteuerung ermöglichen es uns, hohe Qualität zu wettbewerbsfähigen Preisen zu liefern – produziert in Dänemark. Wir unterstützen Kunden bei Teilen, bei denen Präzision, Funktion, Finish und gleichbleibende Qualität entscheidend sind. Mit hohem technischem Know-how und engem Dialog von der Idee bis zum fertigen Teil schaffen wir Lösungen, die halten – auch wenn die Anforderungen komplex sind.",
+    "heroImageAlt": "Präzisions-Zinkdruckgussform mit Messinganschlüssen",
+    "heroImageAlt2": "Zwei Generationen von Linimatic-Mitarbeitern besprechen ein Zinkdruckgussteil in der Produktion",
+    "heroImageAlt3": "Luftaufnahme der Linimatic-Produktionsstätte in Helsinge mit Solaranlage auf dem Dach",
+    "heroImageAlt4": "Zinkdruckgussform in der Maschine und anschließendes Trommeln der Gussteile",
+    "ctaPrimary": "Kontaktieren Sie uns, um loszulegen",
+    "ctaSecondary": "Unsere Leistungen"
+  },
+  "stats": {
+    "items": [
+      { "value": "1967", "label": "Gegründet" },
+      { "value": "ISO 9001", "label": "Seit 1993" },
+      { "value": "100%", "label": "Dänische Produktion" },
+      { "value": "199 kWp", "label": "Solaranlage" },
+      { "value": "30+", "label": "Spezialisten" }
+    ]
+  },
+  "valueChain": {
+    "eyebrow": "Ein Dach. Keine Zwischenstationen.",
+    "heading": "Von der Konstruktion bis zum ersten Produktionsauftrag",
+    "description": "Geben Sie uns eine CAD-Datei. Wir liefern ein fertiges, geprüftes Bauteil — gegossen, bearbeitet, beschichtet und montiert in einer einzigen Anlage. Keine Lieferantenkoordination. Keine Qualitätslücken zwischen den Schritten.",
+    "steps": [
+      {
+        "number": "01",
+        "label": "Design",
+        "title": "Optimierung mit Respekt vor dem Design",
+        "description": "Gemeinsam mit Ihnen optimieren wir die Konstruktion für effizienten Zink-Druckguss – mit größtmöglichem Respekt vor dem ursprünglichen Design.",
+        "specs": "48h Antwort · 50–10.000 Stk."
+      },
+      {
+        "number": "02",
+        "label": "Werkzeug",
+        "title": "3D-Konstruktion des Gießwerkzeugs",
+        "description": "Auf Basis der finalen 3D-Datei konstruieren wir das Gießwerkzeug – optimiert für eine stabile Gussproduktion und eine möglichst lange Werkzeugstandzeit.",
+        "specs": "Eigene Werkzeugkonstruktion · Optimiert für lange Standzeit"
+      },
+      {
+        "number": "03",
+        "label": "Einfahren",
+        "title": "Einfahren und Abmusterung",
+        "description": "Sobald das Formwerkzeug fertig ist, führen wir die ersten Testabgüsse in einer unserer robotisierten Gießzellen durch. Dabei fahren wir das Werkzeug ein und optimieren den Gießprozess.",
+        "specs": "Robotisierte Gießzellen · Feinabstimmung des Prozesses"
+      },
+      {
+        "number": "04",
+        "label": "Freigabe",
+        "title": "Freigabe",
+        "description": "Nach dem Einfahren vermessen wir die vereinbarte Anzahl an Teilen. Die Teile erhalten Sie zusammen mit der vereinbarten Qualitäts- und Messdokumentation.",
+        "specs": "Vermessene Musterteile · Qualitäts- und Messdokumentation"
+      },
+      {
+        "number": "05",
+        "label": "Produktion",
+        "title": "Erster Produktionsauftrag",
+        "description": "Sobald die Musterteile freigegeben sind, sind Werkzeug und Prozess bereit für den ersten Produktionsauftrag und die anschließende Serienproduktion.",
+        "specs": "Freigegebene Musterteile · Bereit für die Serienproduktion"
+      }
+    ],
+    "cta": "Kontaktieren Sie uns, um loszulegen",
+    "allServices": "Alle Leistungen entdecken"
+  },
+  "cases": {
+    "eyebrow": "Referenzen",
+    "heading": "Kundenreferenzen",
+    "allCases": "Alle Referenzen",
+    "items": [
+      {
+        "title": "Es hat Vorteile, wenn Ihr Lieferant in der Nähe ist",
+        "client": "Ditlev Burke Industrial Tools A/S",
+        "metric": "Es ist möglich, mit Asien zu konkurrieren · Automatisierter Druckguss in Dänemark",
+        "result": "Der gesamte Griff wird heute in Dänemark statt in Asien hergestellt."
+      },
+      {
+        "title": "Reibungslose Zusammenarbeit mit Forecast-Vereinbarung",
+        "client": "VELUX",
+        "metric": "Jährlich verlängerte Forecast-Vereinbarung · Roboter in der Produktionslinie eingeführt",
+        "result": "Eine enge, reibungslose Zusammenarbeit für beide Seiten — ohne ständige Neuverhandlungen, mit laufendem Sparring und Wissensaustausch zwischen Linimatic und VELUX."
+      },
+      {
+        "title": "Schneller, smarter - und in Dänemark hergestellt",
+        "client": "Frandsen",
+        "metric": "Von China nach Dänemark verlagert unter Zeitdruck · In einem einzigen Prozess gegossen",
+        "result": "Die Leuchten wurden pünktlich für den Start auf dem US-Markt geliefert, hergestellt in Dänemark statt in China — und Frandsen setzt inzwischen zunehmend auf Linimatic für weitere Projekte."
+      }
+    ]
+  },
+  "industryTags": ["Automotive", "Möbel & Design", "Beleuchtung", "Bau & HVAC", "Elektronik", "Industrie"],
+  "team": {
+    "eyebrow": "Ihre Ansprechpartner",
+    "heading": "Sprechen Sie mit den Menschen, die die Arbeit machen",
+    "description": "Keine Callcenter. Keine Account Manager, die noch nie eine Gießmaschine gesehen haben. Sie sprechen direkt mit den Ingenieuren und Spezialisten, die Ihr Projekt betreuen.",
+    "members": [
+      {
+        "name": "Torben M. Jensen",
+        "role": "Technik & Vertrieb",
+        "focus": "DFM-Prüfung & Projektleitung",
+        "phone": "+45 5077 0218",
+        "email": "tmj@linimatic.dk"
+      },
+      {
+        "name": "René Johnsen",
+        "role": "Technik & Vertrieb",
+        "focus": "Neue Projekte & Kundenbetreuung",
+        "phone": "+45 5077 0211",
+        "email": "rj@linimatic.dk"
+      },
+      {
+        "name": "Jan V. Jørgensen",
+        "role": "Geschäftsführer",
+        "focus": "Strategie & Schlüsselkunden",
+        "phone": "+45 2343 3667",
+        "email": "jaj@linimatic.dk"
+      }
+    ]
+  },
+  "clients": {
+    "trustedBy": "Das Vertrauen von",
+    "testimonials": [
+      {
+        "quote": "Wir sind unglaublich zufrieden mit den Projekten, die wir gemeinsam mit Linimatic A/S durchgeführt haben. Zuletzt haben wir bei einem neuen Griff zusammengearbeitet, der ein von Linimatic gefertigtes Zinkteil enthält. Das Ergebnis ist, dass wir das Kunststoffteil jetzt selbst herstellen und vormontieren können, sodass der gesamte Griff nun in Dänemark statt wie zuvor in Asien hergestellt wird.",
+        "author": "Camilla Burke Vedsmand",
+        "role": "Geschäftsführerin, Ditlev Burke Industrial Tools A/S"
+      },
+      {
+        "quote": "Es läuft einfach rund, und ein klarer Vorteil ist, dass wir nicht ständig neu verhandeln müssen.",
+        "author": "Lars Daugaard Pedersen",
+        "role": "Strategischer Einkäufer, VELUX"
+      }
+    ],
+    "logos": [
+      { "name": "Bang & Olufsen" },
+      { "name": "One Collection" },
+      { "name": "VELUX" },
+      { "name": "HOWE" },
+      { "name": "Montana" },
+      { "name": "Frandsen" },
+      { "name": "ClimaWin" }
+    ]
+  },
+  "cta": {
+    "heading": "Lassen Sie uns über Ihr nächstes Projekt sprechen.",
+    "description": "Senden Sie uns Ihre Zeichnungen oder Spezifikationen und wir sagen Ihnen genau, was machbar ist — einfach oder komplex.",
+    "getInTouch": "Kontaktieren Sie uns, um loszulegen",
+    "phone": "+45 4876 4040",
+    "responsePromise": "Antwort innerhalb von 24\u00a0Stunden"
+  },
+  "footer": {
+    "logoAlt": "Linimatic — Innovativer Zinkdruckguss",
+    "brandDescription": "Dänemarks größte spezialisierte Zinkdruckgießerei. Präzisions-Zamak-Bauteile \u2014 gefertigt in Dänemark, vom Prototyp bis zur Serienproduktion.",
+    "linkedInAriaLabel": "Linimatic auf LinkedIn",
+    "servicesHeading": "Leistungen",
+    "serviceLinks": [
+      "Prototypen",
+      "Druckguss",
+      "CNC-Nachbearbeitung",
+      "Oberflächenbehandlung & Beschichtung",
+      "Qualität & Zertifizierung",
+      "Montage & Zusammenbau"
+    ],
+    "companyHeading": "Unternehmen",
+    "companyLinks": {
+      "aboutUs": "Über uns",
+      "news": "Neuigkeiten",
+      "cases": "Referenzen",
+      "whyZinc": "Warum Zink",
+      "careers": "Jobs",
+      "zinkers": "Sinkers"
+    },
+    "contactHeading": "Kontakt",
+    "address": {
+      "street": "Bomose Allé 12",
+      "postalCity": "DK-3200 Helsinge",
+      "country": "Dänemark"
+    },
+    "phone": "+45 4876 4040",
+    "email": "linimatic@linimatic.dk",
+    "copyright": "\u00a9 {year} Linimatic A/S · USt-IdNr. DK-20254386",
+    "privacy": "Datenschutz",
+    "cookies": "Cookies",
+    "cookieSettings": "Cookie-Einstellungen"
+  },
+  "cookies": {
+    "heading": "Cookie-Einstellungen",
+    "description": "Notwendige Cookies sind immer aktiv, damit die Website funktioniert. Darüber hinaus möchten wir anonym messen, wie die Website genutzt wird, um sie zu verbessern — das geschieht nur mit Ihrer Einwilligung.",
+    "readOur": "Lesen Sie unsere",
+    "cookiePolicy": "Cookie-Richtlinie",
+    "and": "und",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "customize": "Anpassen",
+    "rejectAll": "Alle ablehnen",
+    "acceptAll": "Alle akzeptieren",
+    "savePreferences": "Einstellungen speichern",
+    "necessary": {
+      "title": "Notwendig",
+      "status": "Immer aktiv",
+      "description": "Notwendig für die Funktion der Website. Diese können nicht deaktiviert werden."
+    },
+    "analytics": {
+      "title": "Analyse",
+      "enabled": "Aktiviert",
+      "disabled": "Deaktiviert",
+      "toggleAriaLabel": "Analyse-Cookies umschalten",
+      "description": "Helfen uns zu verstehen, wie Besucher unsere Seite nutzen, um das Erlebnis zu verbessern."
+    }
+  },
+  "services": {
+    "breadcrumb": "Leistungen",
+    "eyebrow": "Komplette Wertschöpfungskette",
+    "heading": "Leistungen – vom Guss bis zur Lieferung",
+    "description": "Linimatic übernimmt den gesamten Prozess vom Zinkdruckguss, bis das fertige Bauteil qualitätsgeprüft, verpackt und lieferbereit ist. Prozesse wie Trommeln, Vibrationsentgraten, Strahlen, Kunststoffstrahlen, CNC-Bearbeitung und Montage werden intern in unserem Werk durchgeführt. Eine eventuelle Oberflächenbehandlung übernehmen sorgfältig ausgewählte und geprüfte Partner. Die abschließende Qualitätskontrolle und Verpackung erfolgt immer bei Linimatic.",
+    "valueChainHeading": "Von der Zeichnung zum fertigen Bauteil",
+    "catalogEyebrow": "Kompetenzen",
+    "catalogHeading": "Sechs Disziplinen, eine Verantwortung",
+    "catalogDescription": "Vom ersten Prototyp bis zur fertigen Montage steuern wir jeden Schritt der Wertschöpfungskette. Die meisten davon erfolgen im eigenen Haus in Helsinge, während die Oberflächenbehandlung von festen, geprüften Partnern übernommen wird. Entdecken Sie jede Kompetenz.",
+    "items": [
+      {
+        "title": "Prototypen",
+        "description": "Senden Sie Ihre CAD-Dateien und erhalten Sie innerhalb von 2–4 Wochen einen physischen Zink-Prototyp — gegossen auf denselben Maschinen und mit denselben Legierungen wie in der Serienproduktion.",
+        "specs": "2–4 Wochen Lieferzeit · STEP/IGES/Solidworks · 50–10.000 Stk."
+      },
+      {
+        "title": "Druckguss",
+        "description": "9 robotisierte Gießzellen im 24-Stunden-Betrieb. Teile von 1\u2009g bis 4\u2009kg in Zamak 2, 3, 5 und 8 mit Gussmaßtoleranzen bis \u00b10,05\u2009mm.",
+        "specs": "20 – 315T · Zamak 2/3/5/8 · \u00b10,05\u2009mm im Guss"
+      },
+      {
+        "title": "CNC-Nachbearbeitung",
+        "description": "Hauseigenes Fräsen, Bohren, Gewindeschneiden und Entgraten. Teile gehen vom Guss zur Bearbeitung, ohne das Gebäude zu verlassen \u2014 Rückverfolgbarkeit erhalten, Durchlaufzeit verkürzt.",
+        "specs": "Volle CNC · Gleitschleifen · Enge sekundäre Toleranzen"
+      },
+      {
+        "title": "Oberflächenbehandlung & Beschichtung",
+        "description": "Verchromen, Pulverlackieren, Nasslackieren, E-Coat und Lasergravur. Klasse\u00a0A-Oberflächen direkt aus dem Gusswerkzeug bei 0,8\u2009Ra\u2009\u03bcm.",
+        "specs": "Chrom · Pulverlack · Nasslack · Lasergravur"
+      },
+      {
+        "title": "Qualität & Inspektion",
+        "description": "KMG-verifizierte Maße, SPC-überwachte Prozesssteuerung und vollständige PPAP-Dokumentation. ISO 9001-zertifiziert seit 1993 \u2014 über 30 Jahre auditierte Qualitätssysteme.",
+        "specs": "ISO 9001 · KMG · SPC · PPAP · Volle Rückverfolgbarkeit"
+      },
+      {
+        "title": "Montage & Zusammenbau",
+        "description": "Wir \u00fcbernehmen Montage und Zusammenbau von zinkgegossenen Komponenten mit weiteren Teilen \u2014 inklusive Qualit\u00e4tskontrolle, Kennzeichnung, Verpackung und kundenspezifischer Verpackung.",
+        "specs": "Montage · Kennzeichnung · Verpackung · Qualitätskontrolle"
+      }
+    ],
+    "matrixEyebrow": "Auf einen Blick",
+    "matrixHeading": "Fähigkeitenmatrix",
+    "matrixCol1": "Fähigkeit",
+    "matrixCol2": "Schlüsselspezifikationen",
+    "matrixCol3": "Zertifizierungen",
+    "capabilities": [
+      {
+        "service": "Prototypen",
+        "keySpecs": "Erste Muster in 2–4 Wochen",
+        "certifications": "—"
+      },
+      {
+        "service": "Druckguss",
+        "keySpecs": "9 Gießzellen, 20 – 315T · Zamak 2/3/5/8 · \u00b10,05\u2009mm · 1\u2009g \u2013 4\u2009kg",
+        "certifications": "ISO 9001"
+      },
+      {
+        "service": "CNC-Nachbearbeitung",
+        "keySpecs": "Fräsen · Bohren · Gewindeschneiden · Entgraten",
+        "certifications": "—"
+      },
+      {
+        "service": "Oberflächenbehandlung & Beschichtung",
+        "keySpecs": "Chrom · Pulverlack · Nasslack · E-Coat · Lasergravur",
+        "certifications": "—"
+      },
+      {
+        "service": "Qualität & Inspektion",
+        "keySpecs": "KMG · SPC · PPAP · Erstmusterprüfung · Volle Rückverfolgbarkeit",
+        "certifications": "ISO 9001 seit 1993"
+      },
+      {
+        "service": "Montage & Zusammenbau",
+        "keySpecs": "Montage · Kennzeichnung · Verpackung · Qualitätskontrolle",
+        "certifications": "—"
+      }
+    ],
+    "diffHeading": "Warum das integrierte Modell zählt",
+    "diffDescription": "Wettbewerber lagern Nachbearbeitung, Beschichtung oder Montage an Dritte aus. Jede Übergabe bringt Verzögerungen, Schwankungen und gegenseitige Schuldzuweisungen, wenn etwas schief geht. Unser Modell eliminiert all das.",
+    "differentiators": [
+      {
+        "title": "Keine Zwischenstationen",
+        "text": "Ihr Bauteil verlässt unsere Anlage nie zwischen Guss und Versand. Kein Transportschaden, keine verlorene Rückverfolgbarkeit, keine Kommunikationslücken zwischen Lieferanten."
+      },
+      {
+        "title": "Gleichbleibende Qualität",
+        "text": "Ein Qualitätssystem regelt jeden Schritt. SPC-Daten aus dem Guss fließen direkt in die Bearbeitungsparameter. Beschichtungsspezifikationen werden gegen dasselbe KMG verifiziert, das den Guss geprüft hat."
+      },
+      {
+        "title": "Ein verantwortlicher Partner",
+        "text": "Ein Auftrag, ein Ansprechpartner, ein Unternehmen verantwortlich für das fertige Bauteil. Wenn Ihre Produktionslinie von unseren Teilen abhängt, ist diese Einfachheit entscheidend."
+      }
+    ],
+    "ctaHeading": "Bringen Sie uns Ihre Zeichnung.",
+    "ctaDescription": "Senden Sie Ihre CAD-Dateien oder Spezifikationen. Wir sagen Ihnen genau, was machbar ist, und erstellen Ihnen innerhalb von 48 Stunden ein Angebot.",
+    "ctaButton": "Kontaktieren Sie uns, um loszulegen"
+  },
+  "whyZincPage": {
+    "breadcrumb": "Warum Zink",
+    "eyebrow": "Materialvorteil",
+    "heading": "Warum Zinkdruckguss wählen?",
+    "heroImageAlt": "Zwei Zinkdruckgussteile mit verchromter und pulverbeschichteter Oberfläche",
+    "intro": "Zinkdruckguss ist eine effiziente und wirtschaftliche Lösung für technische Bauteile mit hoher Präzision, hoher Festigkeit und ansprechenden Oberflächen. Bei Linimatic fertigen wir sowohl kleine als auch große Zinkbauteile – von wenigen Gramm bis zu 4 kg.\n\nIm Vergleich zum Aluminiumdruckguss bietet Zink kürzere Zykluszeiten, einen geringeren Energieverbrauch und eine deutlich längere Standzeit des Gusswerkzeugs. Insgesamt bedeutet das häufig niedrigere Produktionskosten pro Bauteil – insbesondere bei größeren Serien und Bauteilen mit einem vorteilhaften Materialgewicht.\n\nDie guten Fließeigenschaften von Zink ermöglichen zudem den Guss komplexer Geometrien, dünner Wandstärken, feiner Details und enger Toleranzen. Das reduziert den Bedarf an CNC-Bearbeitung und anderer Nachbearbeitung und trägt zusätzlich zu einem wettbewerbsfähigen Preis des fertigen Bauteils bei.",
+    "advantagesHeading": "10 Gründe, warum Ingenieure Zink spezifizieren",
+    "advantages": [
+      {
+        "title": "Niedrigere Produktionskosten",
+        "description": "Kurze Zykluszeiten und ein effizienter Gießprozess können zu einem niedrigeren Preis pro Bauteil führen — insbesondere bei größeren Produktionsserien."
+      },
+      {
+        "title": "Komplexe Geometrien",
+        "description": "Die guten Fließeigenschaften von Zink ermöglichen den Druckguss anspruchsvoller Formen, feiner Details und integrierter Funktionen in einem einzigen Bauteil."
+      },
+      {
+        "title": "Enge Toleranzen",
+        "description": "Zinkdruckguss bietet hohe Maßgenauigkeit und gute Dimensionsstabilität und reduziert damit den Bedarf an Nachbearbeitung."
+      },
+      {
+        "title": "Dünne Wandstärken",
+        "description": "Zink kann sehr schmale Bereiche des Werkzeugs ausfüllen und eignet sich daher für Bauteile mit dünnen Wänden und feinen Details."
+      },
+      {
+        "title": "Hohe Festigkeit und Steifigkeit",
+        "description": "Zinklegierungen verbinden hohe mechanische Festigkeit mit guter Steifigkeit und eignen sich für belastete technische Bauteile."
+      },
+      {
+        "title": "Lange Standzeit des Werkzeugs",
+        "description": "Die niedrige Schmelztemperatur von Zink belastet das Werkzeug weniger als Aluminium und sorgt oft für eine deutlich längere Werkzeugstandzeit. Da sich die Werkzeugkosten auf mehr produzierte Teile verteilen, ergibt sich ein niedrigerer Werkzeugkostenanteil pro Bauteil."
+      },
+      {
+        "title": "Ansprechende Oberflächen",
+        "description": "Zink erzeugt eine glatte, gleichmäßige Gussoberfläche, die sich sowohl für sichtbare Bauteile als auch für nachfolgende Oberflächenbehandlung eignet."
+      },
+      {
+        "title": "Weniger Teile und Arbeitsschritte",
+        "description": "Gewinde, Rippen, Zapfen, Logos und andere Funktionen lassen sich oft direkt in den Guss integrieren. Das kann die Anzahl der Bauteile und Montageschritte reduzieren."
+      },
+      {
+        "title": "Effektive elektromagnetische Abschirmung",
+        "description": "Zink ist elektrisch leitfähig und eignet sich für Gehäuse und Bauteile, die Elektronik vor elektromagnetischen Störungen schützen sollen."
+      },
+      {
+        "title": "Ein wiederverwertbares Material",
+        "description": "Zink lässt sich immer wieder recyceln, ohne seine grundlegenden Eigenschaften zu verlieren. Produktionsreste können eingeschmolzen und in den Materialkreislauf zurückgeführt werden."
+      }
+    ],
+    "comparison": {
+      "heading": "Zink vs. die Alternativen",
+      "description": "Direkter Vergleich von Zinkdruckguss gegenüber Aluminium, Magnesium und Kunststoff-Spritzguss. Die Daten zeigen, warum Zink die Nase vorn hat, wenn Präzision, Oberflächenqualität und Werkzeugwirtschaftlichkeit die entscheidenden Faktoren sind.",
+      "headers": ["Eigenschaft", "Zink", "Aluminium", "Magnesium", "Kunststoff"],
+      "rows": [
+        {
+          "property": "Erreichbare Toleranz",
+          "zinc": "\u00b10,05 mm",
+          "aluminum": "\u00b10,1 mm",
+          "magnesium": "\u00b10,08 mm",
+          "plastic": "\u00b10,1 mm"
+        },
+        {
+          "property": "Werkzeugstandzeit (Schuss)",
+          "zinc": "1M+",
+          "aluminum": "100–200K",
+          "magnesium": "200–300K",
+          "plastic": "500K–1M"
+        },
+        {
+          "property": "Zykluszeit",
+          "zinc": "5–45s",
+          "aluminum": "30–120s",
+          "magnesium": "20–60s",
+          "plastic": "15–60s"
+        },
+        {
+          "property": "Min. Wandstärke",
+          "zinc": "0,6 mm",
+          "aluminum": "1,5 mm",
+          "magnesium": "1,0 mm",
+          "plastic": "0,5 mm"
+        },
+        {
+          "property": "Oberflächengüte (Ra)",
+          "zinc": "0,8 \u03bcm",
+          "aluminum": "1,6 \u03bcm",
+          "magnesium": "1,2 \u03bcm",
+          "plastic": "0,2 \u03bcm"
+        },
+        {
+          "property": "Zugfestigkeit",
+          "zinc": "280–400 MPa",
+          "aluminum": "150–300 MPa",
+          "magnesium": "200–250 MPa",
+          "plastic": "30–80 MPa"
+        },
+        {
+          "property": "Recyclingfähigkeit",
+          "zinc": "100%",
+          "aluminum": "100%",
+          "magnesium": "100%",
+          "plastic": "Begrenzt"
+        }
+      ],
+    "disclaimer": "Der Vergleich bezieht sich auf funktional gleichwertige Bauteile, die in Serienproduktion gefertigt werden. Die Werte sind Richtwerte, da das Ergebnis von der Konstruktion und Größe des Bauteils, der gewählten Legierung, dem Werkzeug und dem Produktionsaufbau abhängt."
+    },
+    "alloys": {
+      "heading": "Zamak-Legierungsübersicht",
+      "description": "Zamak-Legierungen sind Zink-Aluminium-Legierungen, die für den Druckguss optimiert sind. Die richtige Legierung hängt von den mechanischen Anforderungen Ihres Bauteils, den Anforderungen an die Oberflächenqualität und der Giesskomplexität ab. Wir gießen alle vier Standardgüten und beraten Sie bei der Auswahl im Rahmen der DFM-Prüfung.",
+      "colAlloy": "Legierung",
+      "colTensile": "Zugfestigkeit",
+      "colElongation": "Dehnung",
+      "colHardness": "Härte (Brinell)",
+      "colUse": "Primäre Verwendung",
+      "rows": [
+        {
+          "name": "Zamak 2",
+          "tensile": "397 MPa",
+          "elongation": "7%",
+          "hardness": "100",
+          "use": "Hochfeste Strukturbauteile, Druckguss-Lager, Schwerlast-Beschläge"
+        },
+        {
+          "name": "Zamak 3",
+          "tensile": "283 MPa",
+          "elongation": "10%",
+          "hardness": "82",
+          "use": "Allzweck-Legierung — die am häufigsten vergossene Zinklegierung. Hervorragende Beschichtungseigenschaften."
+        },
+        {
+          "name": "Zamak 5",
+          "tensile": "331 MPa",
+          "elongation": "7%",
+          "hardness": "91",
+          "use": "Höhere Festigkeit als Zamak 3 bei guter Duktilität. Automotive- und Industriebauteile."
+        },
+        {
+          "name": "Zamak 8",
+          "tensile": "374 MPa",
+          "elongation": "8%",
+          "hardness": "103",
+          "use": "Höchste Festigkeit und Kriechbeständigkeit aller Zinklegierungen. Geeignet für stark belastete und wärmebeanspruchte Bauteile."
+        }
+      ]
+    },
+    "faq": {
+      "heading": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "question": "Was ist Zinkdruckguss?",
+          "answer": "Zinkdruckguss ist ein Fertigungsverfahren, bei dem flüssige Zinklegierung unter hohem Druck in ein Stahlwerkzeug eingespritzt wird. Die Warmkammer-Technologie hält die Legierung geschmolzen innerhalb der Maschine und ermöglicht Zykluszeiten von bis zu 5–6 Sekunden. Das Ergebnis ist ein endkonturnahes Metallbauteil mit engen Toleranzen, exzellenter Oberfläche und hoher Wiederholgenauigkeit — geeignet für Produktionsvolumina von Hunderten bis Millionen von Teilen."
+        },
+        {
+          "question": "Was ist eine Zamak-Legierung?",
+          "answer": "Zamak ist eine Familie von Zink-Aluminium-Legierungen, die speziell für den Druckguss entwickelt wurden. Der Name leitet sich von den deutschen Anfangsbuchstaben der Bestandteile ab: Zink, Aluminium, Magnesium und Kupfer. Die vier Standardgüten — Zamak 2, 3, 5 und 8 — bieten unterschiedliche Kombinationen aus Festigkeit, Duktilität und Gießbarkeit. Zamak 3 ist die am häufigsten verwendete Legierung, während Zamak 2 die höchste Festigkeit bietet."
+        },
+        {
+          "question": "Was ist der Unterschied zwischen Zink und Zamak?",
+          "answer": "Zink ist das Grundelement. Zamak ist eine spezifische Familie von Zinklegierungen, die für den Druckguss entwickelt wurden und präzise abgestimmte Anteile von Aluminium (3,5–4,3 %), Magnesium und in einigen Güten Kupfer enthalten. Reines Zink ist für die meisten technischen Anwendungen zu weich — die Legierungselemente in Zamak verleihen die Festigkeit, Härte und Gießbarkeit, die Präzisionsdruckguss erst ermöglichen."
+        },
+        {
+          "question": "Ist Zinkdruckguss stärker als Aluminium?",
+          "answer": "Ja, hinsichtlich der Zugfestigkeit. Zamak-Legierungen erreichen 283 bis 397 MPa, während die meisten Aluminium-Druckgusslegierungen 150–300 MPa liefern. Zink erzielt zudem engere Gussmaßtoleranzen (±0,05 mm gegenüber ±0,1 mm) und liefert chromierfertige Oberflächen ohne Nachpolieren. Aluminium ist jedoch leichter (2,7 g/cm³ gegenüber 6,6 g/cm³), sodass die Wahl davon abhängt, ob Festigkeit-Gewicht-Verhältnis oder absolute Präzision Vorrang hat."
+        },
+        {
+          "question": "Warum nicht Magnesium statt Zink wählen?",
+          "answer": "Magnesium ist das leichteste der drei Metalle — noch leichter als Aluminium. Zink-Druckgusswerkzeuge halten jedoch typischerweise über 1 Million Schüsse gegenüber 200.000–300.000 bei Magnesium, die Toleranzen sind enger (±0,05 mm gegenüber ±0,08 mm), und die stärksten Zamak-Legierungen übertreffen die Zugfestigkeit von Magnesium (bis zu 397 MPa gegenüber 200–250 MPa). Magnesium kann die richtige Wahl sein, wenn das Gewicht der entscheidende Faktor ist — für die meisten technischen Bauteile bietet Zink die bessere Werkzeugwirtschaftlichkeit, Präzision und Festigkeit."
+        },
+        {
+          "question": "Können Zinkdruckgussteile verchromt werden?",
+          "answer": "Ja, und das ist einer der stärksten Vorteile von Zink. Zinkdruckgussteile haben direkt aus dem Werkzeug eine glatte, gleichmäßige Oberfläche, die eine hervorragende Ausgangsbasis für die Verchromung bietet. Vor der Verchromung muss die Oberfläche jedoch poliert werden, um ein makelloses, spiegelglänzendes Ergebnis zu erzielen. Das macht Zink zum bevorzugten Werkstoff für sichtbare, dekorative Bauteile in Möbeln, Beleuchtung und Konsumgütern, bei denen ein makelloses Chromfinish unabdingbar ist."
+        },
+        {
+          "question": "Korrodieren Zinkdruckgussteile ohne Oberflächenbehandlung?",
+          "answer": "Unbehandeltes Zink besitzt eine gute natürliche Korrosionsbeständigkeit und kann bei Innen- oder verdeckten Bauteilen oft ohne Oberflächenbehandlung eingesetzt werden. Für den Außeneinsatz, feuchte Umgebungen oder wenn Optik und Verschleißfestigkeit wichtig sind, bieten wir eine breite Auswahl an Oberflächenbehandlungen — wir helfen bei der Auswahl je nach Einsatzzweck des Bauteils."
+        },
+        {
+          "question": "Welche Industrien nutzen Zinkdruckguss?",
+          "answer": "Zinkdruckguss-Bauteile werden in vielen verschiedenen Segmenten eingesetzt: Industrie, Automotive, Telekommunikation, Kameragehäuse sowie Möbel- und Designprodukte. Gemeinsam ist diesen Kunden der Bedarf an hoher Präzision, komplexer Geometrie und zuverlässiger Qualität — sowohl bei kleinen als auch bei großen Serien."
+        },
+        {
+          "question": "Ist Zinkdruckguss umweltfreundlich?",
+          "answer": "Zink ist zu 100 % recyclebar ohne Beeinträchtigung der Materialeigenschaften. Der niedrigere Schmelzpunkt (385 °C gegenüber 660 °C bei Aluminium) bedeutet weniger Energieverbrauch pro Gießzyklus. Bei Linimatic wird nahezu der gesamte Gussausschuss — Angüsse, Überläufe und Ausschussteile — direkt in der Produktion wieder eingeschmolzen und wiederverwendet. Über unsere Zinkers-Produktlinie bieten wir zudem bleifreie Zinklegierungen an."
+        },
+        {
+          "question": "Was kostet Zinkdruckguss?",
+          "answer": "Die Werkzeugkosten hängen von der Bauteilkomplexität und der Anzahl der Kavitäten ab und liegen typischerweise zwischen 10.000 und 80.000 Euro. Zinkdruckguss-Werkzeuge halten jedoch über 1 Million Schüsse — 5–10-mal länger als Aluminium-Werkzeuge — was die werkzeugbezogenen Stückkosten bei großen Volumina drastisch senkt. Stückpreise hängen von Bauteilgewicht, Legierung, Zykluszeit und Nebenoperationen ab. Senden Sie uns Ihre Zeichnung für ein konkretes Angebot — wir antworten innerhalb von 48 Stunden."
+        }
+      ]
+    },
+    "ctaHeading": "Noch unentschieden? Sprechen Sie mit unseren Ingenieuren.",
+    "ctaDescription": "Wir sagen Ihnen ehrlich, ob Zink für Ihr Bauteil richtig ist — oder empfehlen eine Alternative, wenn nicht. Kein Verkaufsdruck, nur Ingenieurkompetenz.",
+    "ctaButton": "Kontaktieren Sie uns, um loszulegen"
+  },
+  "aboutPage": {
+    "breadcrumb": "Über uns",
+    "eyebrow": "Seit 1967",
+    "heading": "Dänemarks größte spezialisierte Zinkdruckgießerei.",
+    "story": [
+      "Linimatic ist eine dänische Zinkdruckgießerei, die auf das Druckgießen von Zinkteilen für die Industrie spezialisiert ist. Seit 1967 fertigen wir Komponenten aus Zink in Helsinge, Dänemark, mit Fokus auf komplexe Geometrien, enge Toleranzen, hochwertiges Finish und stabile Qualität.",
+      "Als Dänemarks größte spezialisierte Zinkdruckgießerei unterstützen wir Unternehmen in ganz Dänemark und Europa bei der Entwicklung und Produktion technischer Zinkteile mit hohen Anforderungen an Präzision, Funktion und Oberfläche. Unsere Erfahrung im Zinkdruckguss macht uns zu einem starken Partner, wenn das Teil anspruchsvoll ist und die Lösung in der Serienproduktion zuverlässig funktionieren muss. Wir liefern sogar an Kunden bis nach China.",
+      "Bei Linimatic vereinen wir die entscheidenden Prozesse bis zur Oberflächenbehandlung unter einem Dach. Das gibt Kontrolle über Qualität, Prozess, Lieferung und Dokumentation vom ersten Muster bis zum fertigen Teil aus Zink. Nachgelagerte Prozesse und die Oberflächenbehandlung erfolgen in enger Zusammenarbeit mit festen, spezialisierten Unterlieferanten.",
+      "Unsere Kunden wählen Linimatic, wenn sie druckgegossene Zinkteile mit dänischer Produktion, hoher Qualität und wettbewerbsfähigen Preisen benötigen.",
+      "Die Besten für das Schwierigste ist nicht nur ein Slogan. Es ist die Art, wie wir mit Zinkdruckguss arbeiten."
+    ],
+    "facilityAlt": "Linimatic Produktionsstätte in Helsinge, Dänemark",
+    "stats": [
+      { "value": "1967", "label": "Gegründet" },
+      { "value": "ISO 9001", "label": "Seit 1993" },
+      { "value": "100%", "label": "Dänische Produktion" },
+      { "value": "199 kWp", "label": "Solaranlage" },
+      { "value": "30+", "label": "Spezialisten" }
+    ],
+    "certificationsEyebrow": "Standards",
+    "certificationsHeading": "Zertifizierungen & Compliance",
+    "certifications": [
+      {
+        "name": "ISO 9001 — Qualitätsmanagement",
+        "detail": "Zertifiziert seit 1993 — über 30 Jahre unabhängig auditiertes Qualitätsmanagement. Abdeckung der vollständigen Wertschöpfungskette von der Wareneingangskontrolle über Guss, Zerspanung, Oberflächenbehandlung und Montage bis zur Endkontrolle."
+      },
+      {
+        "name": "Umwelt-Compliance",
+        "detail": "Konform mit EU-Umweltvorschriften, einschließlich REACH und RoHS. Aktive Programme zur Abfallreduzierung und zum Energiemanagement. Zinkschrott wird direkt in der Produktion wiederverwertet — nahezu ohne Materialverlust."
+      },
+      {
+        "name": "Materialzertifizierungen",
+        "detail": "Vollständige Materialrückverfolgbarkeit für alle Zamak-Legierungen. Wareneingangszertifikate werden gegen die Spezifikation geprüft. Chargenniveau-Rückverfolgbarkeit vom Rohmaterial bis zum Fertigteil."
+      }
+    ],
+    "sustainabilityEyebrow": "Verantwortung",
+    "sustainabilityHeading": "Nachhaltigkeit, die gemessen wird, nicht behauptet",
+    "sustainability": {
+      "p1": "Zink ist unendlich oft recyclebar. Bei Linimatic wird nahezu der gesamte Gussausschuss — Angüsse, Überläufe und Ausschussteile — wieder eingeschmolzen und in die Produktion zurückgeführt. Unser geschlossener Recyclingkreislauf bedeutet, dass kaum Zinkabfall das Werk verlässt. Der niedrige Schmelzpunkt von Zink (385 °C gegenüber 660 °C bei Aluminium) führt direkt zu einem geringeren Energieverbrauch pro Gießzyklus.",
+      "p2": "Wir investieren in energieeffiziente Anlagen, LED-Hallenbeleuchtung und Wärmerückgewinnungssysteme. Unsere bleifreie Zinkers-Produktlinie zeigt, dass Umweltverantwortung und Produktleistung keine Gegensätze sind. Für Einkaufsteams mit Nachhaltigkeitsberichtspflichten stellen wir verifizierte Daten zu Recyclingquoten, Energieverbrauch und Abfallkennzahlen zur Verfügung."
+    },
+    "industriesHeading": "Vertraut in allen Branchen",
+    "industriesDescription": "Zinkdruckguss eignet sich für jede Branche, in der Präzision, Oberflächenqualität und Zuverlässigkeit entscheidend sind. Hier sind einige Sektoren, in denen wir tätig sind\u2009\u2014\u2009aber auch wenn Ihre Branche nicht aufgeführt ist, freuen wir uns auf Ihre Anfrage.",
+    "industries": [
+      {
+        "name": "Möbel & Design",
+        "clients": "Fritz Hansen · One Collection · Montana · HOWE"
+      },
+      {
+        "name": "Beleuchtung",
+        "clients": "Frandsen · Belux"
+      },
+      {
+        "name": "Bau & HVAC",
+        "clients": "VELUX · ClimaWin"
+      },
+      {
+        "name": "Unterhaltungselektronik",
+        "clients": "Bang & Olufsen"
+      },
+      {
+        "name": "Automotive",
+        "clients": "Europäische Tier-1- & Tier-2-Zulieferer"
+      },
+      {
+        "name": "Industrie & Werkzeuge",
+        "clients": "DeWalt · Ditlev Burke"
+      }
+    ],
+    "team": {
+      "heading": "Sprechen Sie mit den Menschen, die die Arbeit machen",
+      "description": "Keine Callcenter. Keine Account Manager, die noch nie eine Gießmaschine gesehen haben. Sie sprechen direkt mit den Ingenieuren und Spezialisten, die Ihr Projekt betreuen.",
+      "members": [
+        {
+          "name": "Jan V. Jørgensen",
+          "role": "Geschäftsführer",
+          "focus": "Strategie & Schlüsselkunden",
+          "phone": "+45 2343 3667",
+          "email": "jaj@linimatic.dk"
+        },
+        {
+          "name": "Torben M. Jensen",
+          "role": "Technik & Vertrieb",
+          "focus": "DFM-Prüfung & Projektleitung",
+          "phone": "+45 5077 0218",
+          "email": "tmj@linimatic.dk"
+        },
+        {
+          "name": "René Johnsen",
+          "role": "Technik & Vertrieb",
+          "focus": "Neue Projekte & Kundenbetreuung",
+          "phone": "+45 5077 0211",
+          "email": "rj@linimatic.dk"
+        }
+      ]
+    },
+    "ctaHeading": "Besuchen Sie uns in Helsinge.",
+    "ctaDescription": "Besichtigen Sie die Anlage, treffen Sie das Team und besprechen Sie Ihr Projekt persönlich. Wir sind 60\u2009km nördlich von Kopenhagen.",
+    "ctaButton": "Kontaktieren Sie uns, um loszulegen"
+  },
+  "contactPage": {
+    "breadcrumb": "Kontakt",
+    "eyebrow": "Kontakt aufnehmen",
+    "heading": "Lassen Sie uns ins Gespräch über Ihr Projekt kommen.",
+    "description": "Füllen Sie das Kontaktformular aus, oder rufen Sie direkt einen unserer Techniker an, und erhalten Sie konkrete technische Beratung zu den Möglichkeiten des Zink-Druckgusses.",
+    "responsePromise": "Antwort innerhalb von 24 Stunden",
+    "form": {
+      "name": "Name",
+      "company": "Unternehmen",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "subject": "Betreff",
+      "subjectSelect": "Betreff auswählen",
+      "subjectNew": "Neues Projekt",
+      "subjectExisting": "Bestehendes Projekt",
+      "subjectGeneral": "Allgemeine Anfrage",
+      "subjectTemadag": "Zink-Infotag",
+      "volume": "Erwartetes Volumen",
+      "volumeSelect": "Volumenbereich wählen",
+      "volume1to5k": "1.000–5.000 Stk.",
+      "volume5to15k": "5.000–15.000 Stk.",
+      "volume15to50k": "15.000–50.000 Stk.",
+      "volume50to100k": "50.000–100.000 Stk.",
+      "volumeOver100k": "Über 100.000 Stk.",
+      "message": "Projektbeschreibung",
+      "privacyNotice": "Wenn Sie dieses Formular absenden, verwendet Linimatic A/S Ihre Angaben zur Beantwortung Ihrer Anfrage. Das Formular wird von Vercel verarbeitet; Resend übermittelt die Nachricht an unser Linimatic-Postfach. Wie technische Zeichnungen geteilt werden, können wir nach dem ersten Gespräch vereinbaren. Details finden Sie in unserer <link>Datenschutzerklärung</link>.",
+      "honeypotLabel": "Dieses Feld bitte leer lassen",
+      "submit": "Anfrage senden",
+      "sending": "Wird gesendet...",
+      "successTitle": "Nachricht gesendet",
+      "successMessage": "Vielen Dank für Ihre Anfrage. Wir antworten innerhalb von 24 Stunden an Werktagen.",
+      "error": {
+        "missing_fields": "Bitte füllen Sie alle Pflichtfelder aus.",
+        "invalid_email": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+        "rate_limited": "Von dieser Verbindung wurden zu viele Nachrichten gesendet. Bitte warten Sie einen Moment und versuchen Sie es erneut, oder schreiben Sie direkt an linimatic@linimatic.dk.",
+        "too_long": "Ein oder mehrere Felder überschreiten die maximale Länge.",
+        "send_failed": "Ihre Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut oder schreiben Sie direkt an linimatic@linimatic.dk."
+      }
+    },
+    "yourContacts": "Ihre Ansprechpartner",
+    "companyDetails": "Firmenangaben",
+    "hours": "Geschäftszeiten",
+    "hoursWeekday": "Montag–Freitag: 07:00–16:00",
+    "hoursWeekend": "Samstag–Sonntag: Geschlossen"
+  },
+  "contactTabs": {
+    "people": "Ansprechpartner",
+    "form": "Kontaktformular"
+  },
+  "contactPeoplePage": {
+    "breadcrumb": "Ansprechpartner",
+    "eyebrow": "Kontaktieren Sie uns",
+    "heading": "Ansprechpartner",
+    "intro": "Zögern Sie nicht, Linimatic zu kontaktieren, um Ihre Lösungen zu stärken und Ihre Möglichkeiten zu optimieren.",
+    "team": [
+      {
+        "name": "Torben M. Jensen",
+        "role": "Technik & Vertrieb",
+        "phone": "+45 5077 0218",
+        "email": "tmj@linimatic.dk"
+      },
+      {
+        "name": "René Johnsen",
+        "role": "Technik & Vertrieb",
+        "phone": "+45 5077 0211",
+        "email": "rjo@linimatic.dk"
+      },
+      {
+        "name": "Jan V. Jørgensen",
+        "role": "Geschäftsführer / Vertrieb",
+        "phone": "+45 2343 3667",
+        "email": "jaj@linimatic.dk"
+      },
+      {
+        "name": "Rikke Østrup Fisker",
+        "role": "Logistik",
+        "phone": "+45 5077 0224",
+        "email": "rif@linimatic.dk"
+      },
+      {
+        "name": "Thomas Hjorth",
+        "role": "Produktion",
+        "phone": "+45 5077 0216",
+        "email": "thj@linimatic.dk"
+      },
+      {
+        "name": "Dorthe Kondrup",
+        "role": "Finanzen",
+        "phone": "+45 5077 0225",
+        "email": "dmk@linimatic.dk"
+      }
+    ]
+  },
+  "newsPage": {
+    "breadcrumb": "Neuigkeiten",
+    "eyebrow": "Neues von Linimatic",
+    "heading": "Neuigkeiten",
+    "description": "Veranstaltungen, Investitionen und Geschichten aus der Zinkdruckgießerei in Helsinge.",
+    "empty": "Zurzeit gibt es keine Neuigkeiten — schauen Sie später wieder vorbei.",
+    "readMore": "Weiterlesen",
+    "backToOverview": "Alle Neuigkeiten",
+    "latestHeading": "Neueste Beiträge",
+    "moreHeading": "Weitere Neuigkeiten",
+    "ctaHeading": "Sprechen wir über Ihr Bauteil?",
+    "ctaDescription": "Rufen Sie an oder schreiben Sie uns — wir melden uns mit einer Einschätzung, wie Zink die Aufgabe löst.",
+    "ctaButton": "Kontakt aufnehmen",
+    "items": {
+      "zink-temadag-september-2026": {
+        "title": "Zink-Infotag am 16. September 2026",
+        "excerpt": "Kostenloser Infotag zum Zinkdruckguss bei Linimatic in Helsinge — von Werkstoffwahl und Konstruktion bis zu Produktion und fertigem Bauteil.",
+        "body": [
+          "Am 16. September 2026 öffnen wir die Türen unserer Produktion in Helsinge für einen kostenlosen Infotag zum Zinkdruckguss. Der Tag dauert rund vier Stunden und richtet sich an Konstrukteure, Projektleiter und Einkäufer, die mehr darüber erfahren möchten, was Zink kann.",
+          "Das Programm deckt das gesamte Feld ab: Zink als Werkstoff und seine Herkunft, der Vergleich mit Aluminium und Kunststoff, der Gießprozess selbst, das Konstruieren in Zink mit seinen Möglichkeiten und Grenzen, CO2-Fußabdruck, Oberflächenbehandlung, Gießwerkzeuge und die Möglichkeiten für Prototypen. Dazwischen führen wir durch die Produktion, sodass Sie die Maschinen bei der Arbeit sehen.",
+          "Bringen Sie gerne ein mögliches Bauteil oder eine konkrete Fragestellung mit — wir gehen sie am Tag gemeinsam durch. Das Programm wird immer an die Teilnehmer angepasst.",
+          "Anmeldung und Fragen: Jan V. Jørgensen, jaj@linimatic.dk oder +45 2343 3667."
+        ]
+      }
+    }
+  },
+  "casesPage": {
+    "breadcrumb": "Referenzen",
+    "eyebrow": "Referenzen",
+    "heading": "Referenzen",
+    "description": "Sehen Sie Beispiele dafür, wie wir in enger Zusammenarbeit mit unseren Kunden Ideen und technische Anforderungen in fertige Zinklösungen umsetzen. Hier stellen wir ausgewählte Projekte, Herausforderungen und Ergebnisse vor – ergänzt durch die eigenen Erfahrungen unserer Kunden mit der Zusammenarbeit.",
+    "items": [
+      {
+        "slug": "supplier-proximity",
+        "client": "Ditlev Burke Industrial Tools A/S",
+        "title": "Es hat Vorteile, wenn Ihr Lieferant in der Nähe ist",
+        "industry": "Industrie & Werkzeuge",
+        "metric": "Es ist möglich, mit Asien zu konkurrieren · Automatisierter Druckguss in Dänemark",
+        "result": "Der gesamte Griff wird heute in Dänemark statt in Asien hergestellt."
+      },
+      {
+        "slug": "velux-kanban",
+        "client": "VELUX",
+        "title": "Reibungslose Zusammenarbeit mit Forecast-Vereinbarung",
+        "industry": "Bau & HVAC",
+        "metric": "Jährlich verlängerte Forecast-Vereinbarung · Roboter in der Produktionslinie eingeführt",
+        "result": "Eine enge, reibungslose Zusammenarbeit für beide Seiten — ohne ständige Neuverhandlungen, mit laufendem Sparring und Wissensaustausch zwischen Linimatic und VELUX."
+      },
+      {
+        "slug": "frandsen-downlight",
+        "client": "Frandsen",
+        "title": "Schneller, smarter - und in Dänemark hergestellt",
+        "industry": "Beleuchtung",
+        "metric": "Von China nach Dänemark verlagert unter Zeitdruck · In einem einzigen Prozess gegossen",
+        "result": "Die Leuchten wurden pünktlich für den Start auf dem US-Markt geliefert, hergestellt in Dänemark statt in China — und Frandsen setzt inzwischen zunehmend auf Linimatic für weitere Projekte."
+      },
+      {
+        "slug": "one-collection-finn-juhl",
+        "client": "One Collection",
+        "title": "Ein klassisches Design neu auflegen",
+        "industry": "Möbel & Design",
+        "metric": "Finn-Juhl-Logo direkt in den Beschlag gegossen · Ausgestellt auf der Design-Messe in Mailand, 2015",
+        "result": "Der neue Finn-Juhl-Esstisch 'Nyhavn' (Modell FJ 5360) wurde mit den präzisionsgegossenen Zinkbeschlägen eingeführt — mit dem Finn-Juhl-Logo direkt im Beschlag eingegossen — und auf der Design-Messe in Mailand am 13. April 2015 ausgestellt."
+      }
+    ],
+    "ctaHeading": "Haben Sie eine ähnliche Herausforderung?",
+    "ctaDescription": "Senden Sie uns Ihre Zeichnungen und wir sagen Ihnen, was machbar ist. Die Projekte, die andere als schwierig bezeichnen, sind die, für die wir dieses Unternehmen aufgebaut haben.",
+    "ctaButton": "Kontaktieren Sie uns, um loszulegen"
+  },
+  "caseDetail": {
+    "challengeHeading": "Die Herausforderung",
+    "approachHeading": "Unser Ansatz",
+    "resultHeading": "Das Ergebnis",
+    "capabilitiesHeading": "Eingesetzte Kompetenzen",
+    "ctaHeading": "Haben Sie ein Teil, das andere nicht anbieten wollen?",
+    "ctaDescription": "Senden Sie uns Ihre Zeichnungen. Die Projekte, die andere Gießereien als schwierig bezeichnen, sind genau die, für die wir dieses Unternehmen aufgebaut haben.",
+    "ctaButton": "Kontaktieren Sie uns, um loszulegen",
+    "items": {
+      "supplier-proximity": {
+        "metaTitle": "Ditlev Burke — ein Griff, heimgeholt aus Asien",
+        "client": "Ditlev Burke Industrial Tools A/S",
+        "industry": "Industrie & Werkzeuge",
+        "title": "Es hat Vorteile, wenn Ihr Lieferant in der Nähe ist",
+        "metric": "Es ist möglich, mit Asien zu konkurrieren · Automatisierter Druckguss in Dänemark",
+        "overview": "Linimatic A/S erhält wachsenden Zuspruch von Kunden, die die Produktion von Zinkgussteilen zurück nach Dänemark holen wollen. Ditlev Burke Industrial Tools A/S in Asnæs ist einer von ihnen: Ein Griff für professionelles Werkzeug enthält heute ein Zinkteil von Linimatic, und der gesamte Griff wird in Dänemark statt in Asien zusammengebaut.",
+        "challenge": "\"Wir sind mit den Projekten, die wir in Zusammenarbeit mit Linimatic A/S durchgeführt haben, sehr zufrieden. Zuletzt haben wir an einem neuen Griff mit einem von Linimatic hergestellten Zinkteil zusammengearbeitet. Das Ergebnis ist, dass wir jetzt das Kunststoffteil selbst herstellen und vormontieren können, so dass der gesamte Griff in Dänemark und nicht wie bisher in Asien hergestellt wird\", sagt Camilla Burke Vedsmand, Geschäftsführerin von Ditlev Burke Industrial Tools A/S mit Sitz in Asnæs auf Seeland.",
+        "approach": "\"Wenn man, wie bei Linimatic, eine automatisierte Produktionslinie hat, konnten wir aus eigener Erfahrung feststellen, dass es möglich ist, mit Asien zu konkurrieren\", sagt Camilla Burke Vedsmand. Als weitere Vorteile der Partnerschaft nennt sie die enge Zusammenarbeit, die Qualität und die Zuverlässigkeit: \"Die Kommunikation innerhalb der Landesgrenzen ist einfach viel schneller und sorgt so für Fortschritte bei den Projekten. Dies war eine wichtige Motivation für die Entwicklung einer langfristigen Zusammenarbeit mit Linimatic in Nordseeland.\" \"Für uns ist es wichtig, dass wir die Aufgaben mit demselben einheitlichen Verständnis und Ansatz angehen. Linimatic A/S ist technisch äußerst versiert, und wir freuen uns besonders, dass die Zusammenarbeit auch unsere Philosophie unterstützt, Arbeitsplätze in Dänemark zu erhalten\", fügt sie hinzu.",
+        "result": "Der gesamte Griff wird heute in Dänemark statt in Asien hergestellt.",
+        "capabilities": ["die-casting", "quality"]
+      },
+      "velux-kanban": {
+        "metaTitle": "VELUX — Forecast-Vereinbarung und Roboterautomatisierung",
+        "client": "VELUX",
+        "industry": "Bau & HVAC",
+        "title": "Reibungslose Zusammenarbeit mit Forecast-Vereinbarung",
+        "metric": "Jährlich verlängerte Forecast-Vereinbarung · Roboter in der Produktionslinie eingeführt",
+        "overview": "Die VELUX-Abteilung Gåsdal arbeitet seit mehreren Jahren mit einer festen Kanban- und Forecast-Vereinbarung mit Linimatic, die die Zusammenarbeit einfacher und planbarer für beide Seiten macht. Die Vereinbarung wird jährlich verlängert, enthält einen eingebauten Preisschutz gegen Schwankungen bei Rohstoffen und Währungen — und hat unter anderem dazu geführt, dass ein Roboter die Teile heute in der Produktion handhabt.",
+        "challenge": "\"Natürlich gibt es eine Preisvereinbarung mit eingebautem Schutz für beide Parteien, zum Beispiel gegenüber Schwankungen bei Rohstoffpreisen und Wechselkursen. Aber vielleicht noch wichtiger: Die Vereinbarung ermöglicht es Linimatic auch, die Produktionskapazität zu planen und anzupassen und dadurch schnell, in der vereinbarten Qualität und zum vereinbarten Zeitpunkt zu liefern,\" sagt Lars Daugaard Pedersen, strategischer Einkäufer bei VELUX.",
+        "approach": "\"Wir sind natürlich immer auf der Suche nach Einsparungen und haben mit Linimatic über Möglichkeiten gesprochen, den Preis etwas zu senken. Linimatic schlug vor, einen Roboter in die Produktionslinie zu integrieren. Wir mussten nicht für den Roboter selbst bezahlen, sondern nur eine kleine Investition in einen speziellen Greifer tätigen, der auf unsere Teile abgestimmt ist. Mit dem Roboter sparen wir jetzt die Lohnkosten für den Bediener, der zuvor unser Teil handhabte, und das Ergebnis ist eine ordentliche Einsparung,\" erklärt Lars Daugaard Pedersen. \"Die Dinge laufen einfach — und ein klarer Vorteil ist, dass wir nicht ständig verhandeln müssen. Wir haben ein wirklich gutes Sparring mit den Technikern von Linimatic, und es gibt immer Raum für eine neue Idee.\"",
+        "result": "Eine enge, reibungslose Zusammenarbeit für beide Seiten — ohne ständige Neuverhandlungen, mit laufendem Sparring und Wissensaustausch zwischen Linimatic und VELUX.",
+        "capabilities": ["die-casting", "quality"]
+      },
+      "frandsen-downlight": {
+        "metaTitle": "Frandsen — von China nach Dänemark in kürzester Zeit",
+        "client": "Frandsen",
+        "industry": "Beleuchtung",
+        "title": "Schneller, smarter - und in Dänemark hergestellt",
+        "metric": "Von China nach Dänemark verlagert unter Zeitdruck · In einem einzigen Prozess gegossen",
+        "overview": "Frandsen war bereit, Downlight-Leuchten für das internationale Designunternehmen Concrete für den US-Markt zu liefern, als der chinesische Lieferant kurz vor Produktionsbeginn ausfiel. Linimatic legte die Teile auf Zinkdruckguss um und brachte den Prozess mit sehr kurzer Vorlaufzeit in Gang — gegossen in einem einzigen Schritt statt mehrerer Werkzeugstufen, mit zusätzlichen Wochenendschichten, um den Zeitplan zu halten.",
+        "challenge": "\"Wir hatten sehr wenig Zeit, eine Alternative zu finden. Es sah wirklich schwierig aus. Aber als wir Linimatic kontaktierten und Torben von dem Projekt erzählten, sagte er nur: 'Kein Problem, wir schaffen das!' Und er sagte es auf eine so ruhige Art. Und sie haben es geschafft — wir waren ehrlich gesagt sehr überrascht, wie gut es funktioniert hat,\" erzählt Andreas Olesen, Konstruktionsingenieur bei Frandsen Project.",
+        "approach": "\"Es war wirklich ein extrem schneller Prozess — ich muss zugeben, ich habe es selbst kaum geglaubt. Einer der Vorteile war, dass die Leuchten in einem einzigen Prozess gegossen werden konnten, wodurch Zeit gespart wurde. Am Ende hatten wir also einen reibungsloseren, schnelleren Prozess — und ein smarteres Produkt, hergestellt direkt hier in Dänemark,\" sagt Andreas Olesen. \"Der schnelle Prozess ist für dieses Projekt definitiv einzigartig. Es wurde ein Zeitplan erstellt, und nur kleine Abweichungen waren erlaubt, um auf Kurs zu bleiben. Und die wenigen Dinge, die dennoch abwichen, hat Linimatic mit einer Wochenendschicht und extremer Flexibilität gelöst. Es ist sehr deutlich, dass sie im Projektmanagement kompetent sind — eine wirklich positive Erfahrung für uns bei diesem Projekt. Man weiß genau, wie lange alles dauert — sie steuern die Prozesse zu 100 %.\"",
+        "result": "Die Leuchten wurden pünktlich für den Start auf dem US-Markt geliefert, hergestellt in Dänemark statt in China — und Frandsen setzt inzwischen zunehmend auf Linimatic für weitere Projekte.",
+        "capabilities": ["prototyping", "die-casting"]
+      },
+      "one-collection-finn-juhl": {
+        "metaTitle": "One Collection — der Finn-Juhl-Tisch neu aufgelegt in Zinkdruckguss",
+        "client": "One Collection",
+        "industry": "Möbel & Design",
+        "title": "Ein klassisches Design neu auflegen",
+        "metric": "Finn-Juhl-Logo direkt in den Beschlag gegossen · Ausgestellt auf der Design-Messe in Mailand, 2015",
+        "overview": "Als das Möbelunternehmen One Collection beschloss, Finn Juhls klassischen Esstisch mit einer fortschrittlichen Auszugsplatte neu aufzulegen, wurde Linimatic mit der Herstellung der präzisen Beschläge betraut, die die Zusatzplatten tragen. Die Platten mussten auf eine ganz bestimmte Weise sowohl hängen als auch liegen können — und die Beschläge sind zugleich technische Funktion und sichtbarer Teil des ikonischen Designs.",
+        "challenge": "\"Beschläge sind oft ein notwendiges Übel. Aber bei Finn Juhl haben die Beschläge eine technische Funktion, und sie sind auch Teil des visuellen Designs. Das stellt Hersteller vor besondere Herausforderungen. Je einfacher die Dinge aussehen, desto komplizierter können sie in der Herstellung sein. Das haben wir tatsächlich erlebt,\" sagt Henrik Sørensen, Geschäftsführer von One Collection.",
+        "approach": "\"Durch die Herstellung der Beschläge in Zinkdruckguss konnten wir den gewünschten visuellen Ausdruck erzielen — und gleichzeitig ein hohes Maß an Präzision erreichen. Es war auch möglich, das Finn-Juhl-Logo direkt beim Gießen mit einzugießen, wodurch wir uns einen Arbeitsschritt sparten,\" sagt Henrik Sørensen und fährt fort: \"Die Zusammenarbeit während des Prozesses ist in hohem Maße ein Dialog. Linimatic verfügt über Kompetenzen, die wir nicht haben, und die wurden einbezogen. Außerdem ist es wichtig, Engagement und Leidenschaft zu spüren — dass der Lieferant das Produkt ebenfalls spannend findet.\"",
+        "result": "Der neue Finn-Juhl-Esstisch 'Nyhavn' (Modell FJ 5360) wurde mit den präzisionsgegossenen Zinkbeschlägen eingeführt — mit dem Finn-Juhl-Logo direkt im Beschlag eingegossen — und auf der Design-Messe in Mailand am 13. April 2015 ausgestellt.",
+        "capabilities": ["die-casting", "quality"]
+      }
+    }
+  },
+  "zinkersPage": {
+    "breadcrumb": "Sinkers",
+    "eyebrow": "Bleifreies Fischereizubehör",
+    "heading": "Sinkers — Zinksenker für Trawl- und industrielles Fischereigerät.",
+    "intro": "Linimatic gießt Senker aus Zink für Trawl-, Ring- und anderes industrielles Fischereigerät — eine umweltfreundliche Alternative zu Bleisenkern, deren Import und Verkauf in Dänemark seit 2002 verboten ist. Das Sortiment reicht von 50 bis 2.000 Gramm in Ring- und Tonnenform, mit Lochdurchmessern passend zum Gerät des Kunden.",
+    "heroImageAlt": "Ring- und Tonnensenker aus Zink von Linimatic",
+    "whyHeading": "Warum Zink statt Blei",
+    "whyDescription": "Blei ist als Senkermaterial in Dänemark seit 2002 verboten. Zink gleicht das Gewicht von Blei aus und ist dabei ungiftig.",
+    "why": [
+      {
+        "title": "Ungiftig",
+        "description": "Anders als Blei stellt Zink kein Vergiftungsrisiko für Seevögel oder Meereslebewesen dar, wenn ein Senker verloren geht oder im Wasser abgenutzt wird."
+      },
+      {
+        "title": "Legal seit 2002",
+        "description": "Bleisenker dürfen in Dänemark seit 2002 weder importiert noch verkauft werden. Zink ist die direkte, zugelassene Alternative mit vergleichbarem Gewicht."
+      },
+      {
+        "title": "Gegossen in Helsinge",
+        "description": "Sinkers werden in Linimatics eigener Gießerei in Helsinge gegossen und können in Gewicht und Lochdurchmesser an das Gerät und die Produktionsmenge des Kunden angepasst werden."
+      }
+    ],
+    "applicationsHeading": "Einsatzbereiche",
+    "applications": [
+      "Trawlfischerei",
+      "Ringwadenfischerei",
+      "Industrielles Fischereigerät",
+      "Ring- und Tonnensenker, 50–2.000 Gramm"
+    ],
+    "ctaHeading": "Interesse an Sinkers?",
+    "ctaDescription": "Kontaktieren Sie uns für Preise und Spezifikationen, oder rufen Sie uns direkt an unter +45 4876 4040.",
+    "ctaButton": "Kontakt aufnehmen"
+  },
+  "serviceDetail": {
+    "prototyping": {
+      "title": "Prototypen in Zink",
+      "eyebrow": "Vom Konzept zum ersten Muster",
+      "overview": "In manchen Projekten kann es von Vorteil sein, Prototypen in Zink herzustellen, bevor in das endgültige Produktionswerkzeug investiert wird. Die Prototypen können durch die Kombination von Zinkdruckguss mit anschließender CNC-Bearbeitung hergestellt werden.\n\nSo lassen sich Funktion, Montage, Passform und Anmutung im tatsächlichen Material testen. Wir prüfen gemeinsam mit dem Kunden, ob die Methode relevant ist, und begleiten den gesamten Prozess von der Abklärung bis zum fertigen Prototyp.",
+      "processHeading": "So stellen wir Ihren Prototyp in Zink her",
+      "process": [
+        {
+          "step": "Abklärung",
+          "description": "Gemeinsam mit Ihnen prüfen wir, ob Prototypen in Zink die richtige Methode für Ihr Projekt sind, und vereinbaren Umfang und Zeitplan."
+        },
+        {
+          "step": "Guss",
+          "description": "Es werden kleine, speziell angefertigte Zinkblöcke gegossen, die sich für die anschließende CNC-Bearbeitung eignen."
+        },
+        {
+          "step": "CNC-Bearbeitung",
+          "description": "Die gegossenen Zinkblöcke werden CNC-bearbeitet zu fertigen Prototypen, exakt nach Ihren Zeichnungen und Spezifikationen."
+        },
+        {
+          "step": "Fertiger Prototyp",
+          "description": "Der fertige Prototyp wird geliefert und ist bereit für die Prüfung von Funktion, Montage, Passform und Anmutung im tatsächlichen Material. Übliche Durchlaufzeit ist 2-4 Wochen."
+        }
+      ],
+      "specsEyebrow": "Technische Spezifikationen",
+      "specsHeading": "Prototypen-Kapazitäten auf einen Blick",
+      "specsNote": "Gesamtdauer: 2-4 Wochen",
+      "specs": [
+        { "label": "Schritt 01", "value": "Abklärung" },
+        { "label": "Schritt 02", "value": "Guss" },
+        { "label": "Schritt 03", "value": "CNC-Bearbeitung" },
+        { "label": "Schritt 04", "value": "Fertiger Prototyp" },
+        { "label": "Gesamtdauer", "value": "2-4 Wochen" }
+      ],
+      "advantagesHeading": "Warum Sie beim Produktionsgie\u00dfer prototypen sollten",
+      "advantages": {
+        "p1": "In manchen Fällen kann ein Zink-Prototyp eine gute und kostengünstige Lösung sein, um Ihre Idee und die Eignung des Materials für genau Ihre Anwendung zu überprüfen — bevor Sie in das endgültige Produktionswerkzeug investieren."
+      },
+      "faqHeading": "H\u00e4ufig gestellte Fragen",
+      "faq": [
+        {
+          "question": "Wie schnell kann ich einen Prototyp in Zink bekommen?",
+          "answer": "Das hängt von der Komplexität des Bauteils und dem Umfang der CNC-Bearbeitung ab. Kontaktieren Sie uns mit Ihrem Zeitplan, und wir melden uns mit einer konkreten Einschätzung zu Machbarkeit und Lieferzeit."
+        },
+        {
+          "question": "Wie werden Guss und CNC-Bearbeitung bei einem Prototyp kombiniert?",
+          "answer": "Es werden kleine, speziell angefertigte Zinkblöcke gegossen, die sich für die anschließende CNC-Bearbeitung eignen."
+        }
+      ],
+      "relatedHeading": "Verwandte Leistungen",
+      "ctaHeading": "Bereit f\u00fcr den Prototypenstart?",
+      "ctaDescription": "Kontaktieren Sie uns, damit wir gemeinsam prüfen können, ob Prototypen in Zink die richtige Lösung für Ihr Projekt sind — mit ehrlichem Feedback zu Prozess, Zeitplan und Preis.",
+      "ctaButton": "Zeichnung senden"
+    },
+    "dieCasting": {
+      "title": "Druckguss",
+      "eyebrow": "D\u00e4nemarks gr\u00f6\u00dfte Zinkgie\u00dferei",
+      "overview": "Druckguss ist der Kern von allem, was wir tun. In unserer Gießerei in Helsinge laufen 9 robotisierte Gießzellen rund um die Uhr und produzieren Zinkteile von 1 Gramm bis 4 Kilo — von kleinen Präzisionsteilen bis zu großen, komplexen Bauteilen. Der Prozess wird laufend überwacht, sodass die Qualität vom ersten bis zum letzten Schuss gleich bleibt. Mit Gusstoleranzen bis \u00b10,05\u2009mm direkt aus der Form können viele Teile ganz ohne Nachbearbeitung verwendet werden. Das macht uns zur größten spezialisierten Zinkdruckgießerei Dänemarks — und zur natürlichen Wahl, wenn das Bauteil schwierig ist und die Anforderungen hoch sind.",
+      "processHeading": "Von der fl\u00fcssigen Legierung zum fertigen Gussteil",
+      "process": [
+        {
+          "step": "Schmelzen der Legierung",
+          "description": "Die Zamak-Legierung wird im integrierten Ofen der Maschine bei genau geregelter Temperatur geschmolzen gehalten. Das Zink wird direkt vom Ofen in das Formwerkzeug gedrückt — alles läuft gesteuert, automatisch und in einem geschlossenen System, ganz ohne manuelle Handhabung. Das ergibt schnellere Gießzyklen und eine gleichbleibend hohe Qualität, Schuss für Schuss."
+        },
+        {
+          "step": "Hochdruckinjektion - Schuss",
+          "description": "Flüssiges Zink wird mit einem Druck von bis zu 200\u2009MPa in das gehärtete Formwerkzeug eingespritzt. Füllzeiten unter 50\u2009ms gewährleisten eine optimale Kavitätsfüllung auch bei dünnwandigen und geometrisch komplexen Teilen, mit minimaler Porosität."
+        },
+        {
+          "step": "Roboterentnahme & Wiederverwendung",
+          "description": "Teile werden innerhalb von Sekunden nach der Erstarrung von Roboterarmen entnommen. Angüsse und Überläufe werden vom Teil getrennt und entweder sofort in den Ofen zurückgeführt oder zur Wiederverwendung eingeschmolzen — das trägt zu einem niedrigen CO2-Fußabdruck bei."
+        },
+        {
+          "step": "Prozessverifikation",
+          "description": "Die Prozessverifikation erfolgt gemäß den Anforderungen, die zum Angebotszeitpunkt mit dem Kunden vereinbart wurden. KMG-Stichprobenkontrollen und SPC-Daten (statistische Prozesskontrolle) stellen sicher, dass der Prozess stabil bleibt."
+        }
+      ],
+      "specsEyebrow": "Technische Spezifikationen",
+      "specsHeading": "Gie\u00dfereikapazit\u00e4ten und Legierungsdaten",
+      "specsNote": "",
+      "specs": [
+        { "label": "Gießzellen", "value": "9 robotisierte" },
+        { "label": "Schlie\u00dfkraft", "value": "20 \u2013 315T" },
+        { "label": "Teilegewicht", "value": "1\u2009g \u2013 4\u2009kg" },
+        { "label": "Gusstoleranz", "value": "\u00b10,05\u2009mm" },
+        { "label": "Zykluszeit", "value": "7 \u2013 \u221e Sekunden" },
+        { "label": "Legierungen", "value": "Zamak 2 / 3 / 5 / 8" },
+        { "label": "Betrieb", "value": "24 Stunden" },
+        { "label": "Werkzeugstandzeit", "value": "1M+ Sch\u00fcsse" }
+      ],
+      "advantagesHeading": "Warum wir bei Linimatic die Besten f\u00fcr das Schwerste sind",
+      "advantages": {
+        "p1": "Unsere 9 robotisierten Gießzellen decken den gesamten Tonnagebereich ab — von 20T für kleine Präzisionsbauteile bis 315T für große Strukturteile — alle mit Roboterhandling. Dieser einzigartige Fokus gibt uns das tiefe Prozesswissen, das für den Guss komplexer Teile nötig ist.",
+        "p2": "Unsere Erfahrung mit der Simulation des Gussprozesses ist in der Branche selten. Wir simulieren Füllung, Erstarrung und Porosität, noch bevor das Werkzeug gefertigt wird — so erhalten wir ein optimiertes Gusswerkzeug schon beim ersten Schuss. Das ermöglicht uns den Guss sehr komplexer Produkte, bei denen andere aufgeben müssen. Dieselbe Erfahrung macht uns zur natürlichen Wahl für High-End-Produkte und andere anspruchsvolle Projekte — einschließlich komplexer Lösungen zum Eingießen von Bauteilen aus anderen Metallen direkt im Gussprozess, bei denen Toleranzen und Materialzusammenspiel exakt aufeinander abgestimmt sein müssen.",
+        "p3": "Viele Bauteile unserer Kunden gehen anschließend in die Oberflächenbehandlung und eine gründliche visuelle Endkontrolle, bevor sie einsatzbereit sind. Damit haben wir langjährige Erfahrung — von der Wahl der richtigen Nachbehandlung bis zur letzten Kontrolle von Aussehen und Oberfläche, bevor das Teil das Haus verlässt."
+      },
+      "faqHeading": "H\u00e4ufig gestellte Fragen",
+      "faq": [
+        {
+          "question": "Was ist Druckguss?",
+          "answer": "Warmkammer-Druckguss von Zink ist ein schnelles und präzises Verfahren, bei dem 420 °C heißes, geschmolzenes Zink unter hohem Druck in ein Formwerkzeug eingespritzt wird. Das Verfahren eignet sich besonders für die Serienproduktion komplexer Teile mit engen Toleranzen, dünnen Wandstärken und einer hochwertigen Oberfläche."
+        },
+        {
+          "question": "Welche Zamak-Legierung sollte ich verwenden?",
+          "answer": "Rund 95 % unserer Gussteile werden in Zamak 5 gefertigt — unserer Standardlegierung mit einer starken, ausgewogenen Kombination aus Festigkeit, Duktilität und Gießbarkeit (331\u2009MPa Zugfestigkeit). Die restlichen 5 % gießen wir in Zamak 8, das wir einsetzen, wenn die Festigkeit von Zamak 5 nicht ausreicht — es ist die stärkste und kriechbeständigste Zinklegierung, die wir verarbeiten (374\u2009MPa). Darüber hinaus können wir auch in Zamak 2 gießen, das die höchste Härte bietet und sich für Lagerflächen eignet, oder in Zamak 3, das die besten Beschichtungseigenschaften hat. Wir beraten Sie bei der richtigen Wahl im Rahmen der DFM-Prüfung Ihrer Zeichnung."
+        },
+        {
+          "question": "Welche Teilegr\u00f6\u00dfen k\u00f6nnen Sie gie\u00dfen?",
+          "answer": "Wir gießen Teile von 1\u2009g bis 4\u2009kg in unseren 9 Gießzellen. Die optimale Maschine wird anhand von Teilgewicht, projizierter Fläche und erforderlicher Schließkraft ausgewählt. Die Anzahl der Kavitäten wird anhand der Anforderungen an Qualität, Komplexität und Effizienz festgelegt."
+        },
+        {
+          "question": "Wie lange h\u00e4lt ein Zinkdruckguss-Werkzeug?",
+          "answer": "Zinkdruckguss-Werkzeuge überschreiten regelmäßig 1 Million Schuss — 5 bis 10-mal länger als Aluminium-Druckguss-Werkzeuge. Der Grund ist, dass Zinks niedrigere Gießtemperatur (385 °C gegenüber 660 °C bei Aluminium) erheblich weniger Thermospannungen im Werkzeugstahl erzeugt. Alle Werkzeuge werden im Rahmen unseres Wartungsprogramms gepflegt."
+        },
+        {
+          "question": "Welche Toleranzen kann Zinkdruckguss erreichen?",
+          "answer": "Gussmaßtoleranzen bis ±0,05\u2009mm sind auf unseren Maschinen Standard. Für Merkmale, die engere Kontrolle erfordern, kann die CNC-Nachbearbeitung noch höhere Präzision erzielen. Wir erstellen Toleranzempfehlungen nach Merkmaltyp (linear, Bohrung, Ebenheit) im Rahmen der DFM-Prüfung."
+        }
+      ],
+      "relatedHeading": "Verwandte Leistungen",
+      "ctaHeading": "Gussangebot anfordern",
+      "ctaDescription": "Senden Sie uns Ihre Teilezeichnung und Volumenanforderungen. Wir empfehlen die richtige Legierung, kalkulieren die Werkzeugkosten und erstellen einen St\u00fcckpreis \u2014 innerhalb von 48 Stunden.",
+      "ctaButton": "Gussangebot anfordern"
+    },
+    "postProcessing": {
+      "title": "CNC-Nachbearbeitung",
+      "eyebrow": "Hauseigene CNC-Bearbeitung seit über 20 Jahren",
+      "overview": "Auch wenn sich sehr enge Toleranzen direkt im Druckgussprozess erreichen lassen, erfordern manche Teile eine Nachbearbeitung, um die gewünschte Toleranz an Flächen, Bohrungen und gefrästen Gewinden zu erreichen. Deshalb ist die CNC-Bearbeitung seit über 20 Jahren einer unserer hauseigenen Prozesse: Die Teile gehen vom Guss zum fertigen, geprüften Teil, ohne das Gebäude zu verlassen — und ohne externe Lieferanten dazwischen. Unser Bearbeitungszentrum übernimmt Fräsen, Bohren, Gewindeschneiden und Gewindefräsen — alles unter demselben Dach wie der Guss.",
+      "processHeading": "Der Produktionsablauf \u2014 vom Angebot zum fertigen Teil",
+      "process": [
+        {
+          "step": "Prozessplanung",
+          "description": "Die Prozessplanung beginnt bereits bei der Angebotsabgabe. Die Planung des gesamten Produktionsablaufs im Rahmen des Angebots ist die Grundlage für einen möglichst effizienten Produktionsprozess."
+        },
+        {
+          "step": "CNC-Bearbeitung",
+          "description": "Mehrachsige CNC-Fräszentren bearbeiten kritische Merkmale: Bohrungen, Gewinde, Passungsflächen und engtolerierte Maße, die die Gussmöglichkeiten überschreiten."
+        },
+        {
+          "step": "Entgraten & Finish",
+          "description": "Nach dem Guss und der CNC-Bearbeitung kommen die verschiedenen Entgratungsprozesse zum Einsatz. Das Verfahren wird nach den Oberflächenanforderungen des Kunden gewählt: Vibrationsentgraten, Schleuderstrahlen, Kunststoffstrahlen oder Trommeln."
+        },
+        {
+          "step": "Prozessverifikation",
+          "description": "Die Prozessverifikation erfolgt gemäß den Anforderungen, die zum Angebotszeitpunkt mit dem Kunden vereinbart wurden. KMG-Stichprobenkontrollen und SPC-Daten (statistische Prozesskontrolle) stellen sicher, dass der Prozess stabil bleibt."
+        }
+      ],
+      "specsEyebrow": "Technische Spezifikationen",
+      "specsHeading": "Bearbeitungskapazit\u00e4ten",
+      "specsNote": "",
+      "specs": [
+        { "label": "Operationen", "value": "Fr\u00e4sen / Bohren / Gewinde" },
+        { "label": "Entgraten", "value": "Nach Oberflächenanforderung" },
+        { "label": "Gusstoleranz", "value": "\u00b10,05\u2009mm" },
+        { "label": "Erfahrung", "value": "20+ Jahre hauseigene CNC" },
+        { "label": "Standort", "value": "Selbes Geb\u00e4ude wie Gie\u00dferei" },
+        { "label": "R\u00fcckverfolgbarkeit", "value": "Chargenniveau erhalten" }
+      ],
+      "advantagesHeading": "Ein Lieferant \u2014 eine Verantwortung",
+      "advantages": {
+        "p1": "Wenn Guss, CNC-Bearbeitung und Entgraten im selben Haus stattfinden, gibt es einen Lieferanten und eine Verantwortung für den gesamten Ablauf. Keine Koordination zwischen Gießerei und Maschinenwerkstatt, kein Transport zwischen Lieferanten — und keine Qualitätslücken zwischen den Schritten. Die Teile gehen in Stunden statt Wochen vom Guss zur Bearbeitung."
+      },
+      "faqHeading": "H\u00e4ufig gestellte Fragen",
+      "faq": [
+        {
+          "question": "M\u00fcssen Zinkdruckgussteile bearbeitet werden?",
+          "answer": "Nicht immer. Viele Merkmale können auf Endtoleranz gegossen werden (±0,05\u2009mm im Guss). Bearbeitung ist jedoch typischerweise für Gewindebohrungen, Präzisionsbohrungen, kritische Passungsflächen oder jedes Merkmal erforderlich, bei dem die Konstruktionstoleranz enger ist als das, was der Gussprozess zuverlässig erreichen kann."
+        },
+        {
+          "question": "Können Sie Gewinde in Zinkdruckgussteile fräsen?",
+          "answer": "Ja. Gewindebohrungen und gefräste Gewinde entstehen als Teil unserer hauseigenen CNC-Nachbearbeitung. Da die Bearbeitung im selben Gebäude und unter demselben Qualitätssystem wie der Guss erfolgt, erhalten Sie hohe Präzision und stabile Qualität."
+        },
+        {
+          "question": "Welche Toleranzen kann die Nachbearbeitung erreichen?",
+          "answer": "CNC-Nachbearbeitung von Zinkdruckgussteilen kann Toleranzen erheblich enger als den Gussstandard von ±0,05\u2009mm erreichen. Die erreichbare Toleranz hängt vom spezifischen Merkmaltyp, der Bauteilgeometrie und der Aufspannung ab. Wir spezifizieren erreichbare Toleranzen während der DFM-Prüfung."
+        },
+        {
+          "question": "Welche Entgratungsmethoden verwenden Sie?",
+          "answer": "Wir verwenden Vibrationsentgraten, Schleuderstrahlen, Kunststoffstrahlen und Trommeln. Das Verfahren wird nach den Oberflächenanforderungen des Kunden und der Geometrie des Teils gewählt."
+        }
+      ],
+      "relatedHeading": "Verwandte Leistungen",
+      "ctaHeading": "Pr\u00e4zision \u00fcber die Gusstoleranz hinaus?",
+      "ctaDescription": "Sagen Sie uns, welche Merkmale engere Toleranzen ben\u00f6tigen, und wir planen die Bearbeitungsstrategie gemeinsam mit dem Werkzeugdesign \u2014 bevor Stahl geschnitten wird.",
+      "ctaButton": "Toleranzen besprechen"
+    },
+    "surfaceTreatment": {
+      "title": "Oberfl\u00e4chenbehandlung & Beschichtung",
+      "eyebrow": "Das Finish, das das Produkt definiert",
+      "overview": "Zink eignet sich gut für eine Vielzahl von Oberflächenbehandlungen, bei denen sich Funktion, Haltbarkeit und optisches Erscheinungsbild an das fertige Produkt anpassen lassen. Bei Linimatic arbeiten wir mit erfahrenen Spezialisten für Oberflächenbehandlung in Dänemark und im Ausland zusammen, sodass wir Lösungen anbieten können, die Ihren Anforderungen an Finish, Korrosionsschutz und Anwendung entsprechen.\n\nEine Oberflächenbehandlung kann Zinkteilen ein starkes optisches Erscheinungsbild verleihen, die Widerstandsfähigkeit erhöhen und vor Korrosion schützen. Das macht druckgegossene, oberflächenbehandelte Zinkteile für viele verschiedene Branchen geeignet, unter anderem Industrie, technische Komponenten, Möbelindustrie, Interieur, Design und Bauindustrie.",
+      "processHeading": "Vom Rohgussteil zur fertigen Oberfl\u00e4che",
+      "process": [
+        {
+          "step": "Zink – ideal für anspruchsvolle Oberflächenbehandlung",
+          "description": "Im Druckguss gefertigte Zinkteile eignen sich für viele Arten der Oberflächenbehandlung und sind daher eine starke Wahl für technische Komponenten mit hohen Anforderungen an Funktion und Finish. Bei Linimatic A/S fertigen wir präzisionsdruckgegossene Zinkkomponenten, die nach korrekter Vorbehandlung unter anderem mit Chromatierung/Passivierung, Chrom III, Pulverbeschichtung, Nasslackierung und galvanischen Beschichtungen behandelt werden können. Die dichte Struktur und gute Maßhaltigkeit von Zink bieten eine solide Grundlage für Haftung, Korrosionsschutz und ein gleichmäßiges optisches Erscheinungsbild."
+        },
+        {
+          "step": "Behandlungsauswahl",
+          "description": "Wir helfen Ihnen, die richtige Oberfläche auf Basis Ihrer Wünsche und Anforderungen an die Oberfläche auszuwählen. Eine mehrschichtige Behandlung ist bei Zink häufig erforderlich (z. B. Kupfer-Nickel-Chrom), wenn es um höchste kosmetische Standards geht."
+        },
+        {
+          "step": "Prozesskontrolle",
+          "description": "Während der Oberflächenbehandlung werden prozessspezifische Anforderungen an Temperatur, Schichtdicke und Aushärtezeit eingehalten. Der Prozess wird laufend kontrolliert und dokumentiert, einschließlich der Messung der Beschichtungsdicke, um eine gleichmäßige und stabile Qualität über alle Produktionschargen hinweg sicherzustellen."
+        },
+        {
+          "step": "Qualitätskontrolle",
+          "description": "Fertige oberflächenbehandelte Produkte mit besonderen Anforderungen an das Finish durchlaufen bei Linimatic grundsätzlich eine 100%ige Sichtkontrolle, bevor sie ausgeliefert werden. So wird sichergestellt, dass die Produkte der vereinbarten Qualität und dem gewünschten optischen Erscheinungsbild entsprechen."
+        }
+      ],
+      "specsEyebrow": "Technische Spezifikationen",
+      "specsHeading": "Verfügbare Oberflächentypen",
+      "specsNote": "",
+      "specs": [
+        { "label": "Dekorativ und funktional", "value": "Chrom" },
+        { "label": "Funktionaler Korrosionsschutz", "value": "Passivierung" },
+        { "label": "Schützend und dekorativ – volle RAL-Palette", "value": "Pulverlackierung" },
+        { "label": "Dekorativ und schützend", "value": "Nasslackierung" },
+        { "label": "Korrosionsschützend, dekorativ", "value": "Delta Seal Schwarz" },
+        { "label": "Dekorativ, verschleißfest", "value": "PVD" },
+        { "label": "Dekorativ, korrosionsschützend", "value": "Vernickelung" },
+        { "label": "Gleichmäßiger, dünner Korrosionsschutz", "value": "KTL" }
+      ],
+      "advantagesHeading": "Die Oberflächenbehandlung beginnt bereits beim Gießen",
+      "advantages": {
+        "p1": "Linimatic kennt das Bauteil, den Werkstoff und die Anforderungen bereits aus dem Gussprozess. Dadurch können wir sicherstellen, dass Konstruktion, Guss, Vorbehandlung und Oberflächenbehandlung aufeinander abgestimmt sind. Wir koordinieren die Oberflächenbehandlung bei sorgfältig ausgewählten und freigegebenen Unterauftragnehmern und übernehmen die abschließende Qualitätskontrolle und Verpackung bei Linimatic. So erhalten Sie eine einzige, vollständige Lieferung und einen verantwortlichen Ansprechpartner."
+      },
+      "faqHeading": "H\u00e4ufig gestellte Fragen",
+      "faq": [
+        {
+          "question": "Welche Oberflächenbehandlungen können bei Zinkdruckguss angewendet werden?",
+          "answer": "Zinkdruckgussteile können unter anderem pulverbeschichtet, nasslackiert, verchromt, vernickelt und passiviert werden. Vor der abschließenden Behandlung können die Teile beispielsweise trommelgleitgeschliffen, vibrationsentgratet, kunststoffgestrahlt oder strahlgereinigt werden, um die gewünschte Oberflächenstruktur zu erzielen."
+        },
+        {
+          "question": "Wie wählen wir die richtige Oberflächenbehandlung?",
+          "answer": "Die Wahl hängt von den Anforderungen an Aussehen, Korrosionsbeständigkeit, Verschleißfestigkeit und Preis ab. Wichtig ist auch, ob das Teil innen oder außen eingesetzt wird und ob es Feuchtigkeit, Chemikalien oder mechanischer Belastung ausgesetzt ist. Linimatic hilft gerne dabei, die Lösung zu finden, die sowohl funktional als auch wirtschaftlich passt."
+        },
+        {
+          "question": "Ist eine Oberflächenbehandlung immer notwendig?",
+          "answer": "Nein. Für bestimmte innenliegende oder verdeckte Bauteile kann Zinkdruckguss ohne weitere Oberflächenbehandlung eingesetzt werden. Eine Behandlung wird in der Regel gewählt, wenn besondere Anforderungen an Aussehen, Korrosionsschutz, Verschleißfestigkeit oder Reinigungsfreundlichkeit bestehen."
+        },
+        {
+          "question": "Kann Zinkdruckguss pulverbeschichtet werden?",
+          "answer": "Ja. Zinkdruckgussteile können in vielen Farben und Oberflächenstrukturen pulverbeschichtet werden. Die Konstruktion des Teils, die Gussqualität, die Vorbehandlung und die Lackiertemperatur beeinflussen das Endergebnis. Die Anforderungen an die Pulverbeschichtung sollten daher bereits in der Konstruktionsphase berücksichtigt werden."
+        },
+        {
+          "question": "Können Zinkteile verchromt oder vernickelt werden?",
+          "answer": "Ja. Zinkdruckguss eignet sich gut für galvanische Beschichtungen wie Kupfer, Nickel und Chrom. Die Behandlungen können sowohl ein dekoratives Aussehen als auch einen funktionalen Schutz bieten. Ein gutes Ergebnis erfordert einen kontrollierten Gussprozess, eine korrekte Vorbehandlung und eine für die Behandlung geeignete Bauteilkonstruktion."
+        },
+        {
+          "question": "Kann die Oberflächenbehandlung Markierungen und Unebenheiten verdecken?",
+          "answer": "Nur in begrenztem Umfang. Eine glänzende oder hochglänzende Beschichtung kann kleine Unebenheiten im Gegenteil sichtbarer machen. Hohe kosmetische Anforderungen müssen daher bereits bei der Bauteilkonstruktion, dem Gusswerkzeug, dem Gussprozess und der mechanischen Vorbehandlung berücksichtigt werden."
+        },
+        {
+          "question": "Muss das Bauteil speziell für die Oberflächenbehandlung konstruiert werden?",
+          "answer": "Das kann ein großer Vorteil sein. Aufhängepunkte, Kontaktflächen, Gewinde, Toleranzen, die Ableitung von Prozessflüssigkeiten und Bereiche, die nicht beschichtet werden dürfen, sollten frühzeitig geklärt werden. Ein früher Dialog kann Probleme vermeiden und den Nacharbeitsbedarf reduzieren."
+        },
+        {
+          "question": "Kann Linimatic die Teile fertig oberflächenbehandelt liefern?",
+          "answer": "Ja. Linimatic übernimmt den gesamten Ablauf vom Guss und der internen Nachbearbeitung bis zur gewünschten externen Oberflächenbehandlung. Die Beschichtung erfolgt bei sorgfältig ausgewählten und freigegebenen Unterauftragnehmern. Die abschließende Qualitätskontrolle und Verpackung erfolgt bei Linimatic, sodass der Kunde eine vollständige, versandfertige Lösung erhält."
+        }
+      ],
+      "relatedHeading": "Verwandte Leistungen",
+      "ctaHeading": "Bestimmtes Finish ben\u00f6tigt?",
+      "ctaDescription": "Teilen Sie uns Ihre Oberfl\u00e4chenanforderungen mit \u2014 dekorativ, funktional oder beides \u2014 und wir empfehlen die richtige Behandlung f\u00fcr Ihre Anwendung und Ihr Volumen.",
+      "ctaButton": "Oberfl\u00e4chenoptionen besprechen"
+    },
+    "quality": {
+      "title": "Qualit\u00e4t & Zertifizierung",
+      "eyebrow": "Mehr als 30 Jahre zertifiziertes Qualitätsmanagement",
+      "overview": "Linimatic ist seit 1993 nach ISO 9001 zertifiziert. Unser Qualitätsmanagementsystem bildet den Rahmen für alle unsere Geschäftsprozesse – von der Prüfung der Kundenanforderungen und Spezifikationen über Einkauf, Wareneingang, Produktion und Qualitätskontrolle bis hin zur Lieferung. Alle Prozesse werden nach festgelegten Verfahren und Prüfplänen durchgeführt, sodass die Qualität während des gesamten Ablaufs gesteuert und dokumentiert wird.",
+      "processHeading": "So sichern wir Qualit\u00e4t in jedem Schritt",
+      "process": [
+        {
+          "step": "Wareneingangskontrolle",
+          "description": "Materialzertifikate werden bei Anlieferung des Zinks geprüft."
+        },
+        {
+          "step": "Laufende Prozesskontrolle",
+          "description": "Die Produktion wird laufend gemäß dem festgelegten Prüfplan für jeden Prozess kontrolliert."
+        },
+        {
+          "step": "Eigenkontrolle und QC-Stichproben",
+          "description": "Die Eigenkontrolle der Bediener wird durch Stichprobenkontrollen der Qualitätsabteilung ergänzt."
+        },
+        {
+          "step": "SPC-Messung und Dokumentation",
+          "description": "Sofern vereinbart, wird SPC zur laufenden Messung und Dokumentation der Prozessstabilität eingesetzt."
+        },
+        {
+          "step": "Messung auf der Koordinatenmessmaschine",
+          "description": "Kritische Maße und geometrische Toleranzen werden bei Bedarf auf der Koordinatenmessmaschine (KMG) kontrolliert."
+        }
+      ],
+      "specsEyebrow": "Technische Spezifikationen",
+      "specsHeading": "Qualit\u00e4tsinfrastruktur",
+      "specsNote": "",
+      "specs": [
+        { "label": "Zertifizierung", "value": "ISO 9001 seit 1993" },
+        { "label": "Dimensionskontrolle", "value": "KMG (3D-Koordinate)" },
+        { "label": "Prozesssteuerung", "value": "SPC in Echtzeit" },
+        { "label": "Dokumentation", "value": "PPAP Stufe 1\u20133" },
+        { "label": "R\u00fcckverfolgbarkeit", "value": "Chargenniveau" },
+        { "label": "Erstmuster", "value": "EMPB / FAI-Berichte" },
+        { "label": "Produktion", "value": "Laufende Eigen- / QC-Kontrolle" },
+        { "label": "Kalibrierung", "value": "Spezielle Messausrüstung" }
+      ],
+      "advantagesHeading": "Was bedeutet ISO 9001 für Sie als Kunde?",
+      "advantages": {
+        "p1": "Ein zertifiziertes Qualitätsmanagementsystem gibt Ihnen die Gewissheit, dass Anforderungen, Spezifikationen und Änderungen während des gesamten Ablaufs systematisch gehandhabt werden. Abweichungen werden erfasst, die Ursache untersucht und Korrekturmaßnahmen umgesetzt – wodurch das Risiko einer Wiederholung verringert wird.",
+        "p2": "Kurz gesagt bedeutet das mehr Liefersicherheit, weniger Qualitätsprobleme und eine besser vorhersehbare Produktion."
+      },
+      "faqHeading": "H\u00e4ufig gestellte Fragen",
+      "faq": [
+        {
+          "question": "Welche Qualit\u00e4tszertifizierungen hat Linimatic?",
+          "answer": "Linimatic ist seit 1993 ISO 9001-zertifiziert — über 30 Jahre ununterbrochenes, unabhängig auditiertes Qualitätsmanagement. Die Zertifizierung deckt die vollständige Wertschöpfungskette ab: Wareneingangskontrolle, Druckguss, CNC-Zerspanung, Oberflächenbehandlung, Montage und Endkontrolle."
+        },
+        {
+          "question": "Können Sie PPAP-Dokumentation liefern?",
+          "answer": "Ja. Wir liefern PPAP-Dokumentation der Stufe 1 bis 3 nach Vereinbarung mit dem Kunden."
+        },
+        {
+          "question": "Wie stellt Linimatic die Qualität während der laufenden Produktion sicher?",
+          "answer": "Die Qualität wird während der gesamten Produktion gemäß einem festgelegten Prüfplan für das jeweilige Bauteil und den jeweiligen Prozess kontrolliert. Die laufende Eigenkontrolle der Bediener wird durch Stichproben der Qualitätsabteilung ergänzt. Sofern vereinbart, werden zudem SPC-Messungen zur Überwachung der Prozessstabilität sowie Kontrollen auf der Koordinatenmessmaschine eingesetzt."
+        },
+        {
+          "question": "Welche R\u00fcckverfolgbarkeit bieten Sie pro Charge?",
+          "answer": "Jede Charge ist vom Rohmaterial (Legierungs-Schmelznummer, Lieferantenzertifikat) über den Guss (Maschine, Werkzeug, Datum, Schicht, Prozessparameter) bis zur Zerspanung, Beschichtung, Inspektion und dem Versand rückverfolgbar."
+        }
+      ],
+      "relatedHeading": "Verwandte Leistungen",
+      "ctaHeading": "Unser Qualit\u00e4tssystem auditieren?",
+      "ctaDescription": "Wir begr\u00fc\u00dfen Kundenaudits und Werksbesuche. Kontaktieren Sie uns, um eine Qualit\u00e4tspr\u00fcfung zu vereinbaren oder unser aktuelles ISO-Zertifikat und unsere Kapazit\u00e4tsdokumentation anzufordern.",
+      "ctaButton": "Qualit\u00e4tsdokumentation anfordern"
+    },
+    "assembly": {
+      "title": "Montage & Zusammenbau",
+      "eyebrow": "Fertige Produkte, nicht lose Teile",
+      "overview": "Benötigen Sie mehr als die fertig gegossene Zinkkomponente? Linimatic kann auch die Montage und den Zusammenbau von zinkgegossenen Komponenten mit weiteren Teilen übernehmen, sodass Sie fertig montierte Einheiten erhalten, die einsatzbereit oder lieferbereit sind.\n\nWir können unter anderem Montagesätze, Ersatzteilsätze und kleinere Teilsysteme handhaben sowie Qualitätskontrolle, Kennzeichnung, Verpackung und kundenspezifische Verpackung übernehmen.\n\nDurch die Bündelung mehrerer Prozesse bei einem Lieferanten erhalten Sie eine einfachere Logistik, weniger Handhabungsschritte und eine effizientere Lieferkette.\n\nKontaktieren Sie uns, um zu erfahren, wie wir durch Montage und Zusammenbau Mehrwert schaffen können.",
+      "processHeading": "Von der Komponente zur fertig montierten Einheit",
+      "process": [
+        {
+          "step": "Annahme der Komponenten",
+          "description": "Wir nehmen zinkgegossene Komponenten und weitere Teile entgegen, die in die fertige Einheit einfließen."
+        },
+        {
+          "step": "Montage & Zusammenbau",
+          "description": "Die Teile werden zu fertig montierten Einheiten zusammengebaut — zum Beispiel Montagesätzen, Ersatzteilsätzen oder kleineren Teilsystemen."
+        },
+        {
+          "step": "Kennzeichnung & Verpackung",
+          "description": "Kundenspezifische Verpackung und Kennzeichnung, angepasst an Ihre Bedürfnisse."
+        },
+        {
+          "step": "Qualitätskontrolle & Lieferung",
+          "description": "Qualitätskontrolle vor der Lieferung, einsatzbereit oder lieferbereit."
+        }
+      ],
+      "specsEyebrow": "Das bieten wir",
+      "specsHeading": "Montage & Zusammenbau",
+      "specsNote": "",
+      "specs": [
+        { "label": "Montage", "value": "Montage & Zusammenbau" },
+        { "label": "S\u00e4tze & Teilsysteme", "value": "Montages\u00e4tze / Ersatzteils\u00e4tze" },
+        { "label": "Verpackung", "value": "Standard / kundenspezifisch" },
+        { "label": "Kennzeichnung", "value": "Kundenspezifische Kennzeichnung" },
+        { "label": "Qualit\u00e4t", "value": "Qualit\u00e4tskontrolle vor Lieferung" },
+        { "label": "Lieferung", "value": "Einsatzbereit oder lieferbereit" }
+      ],
+      "advantagesHeading": "Der Vorteil eines einzigen Lieferanten",
+      "advantages": {
+        "p1": "Wenn Montage und Zusammenbau bei demselben Lieferanten erfolgen, der die Komponenten gegossen hat, müssen Sie nicht selbst mehrere Schritte koordinieren.",
+        "p2": "Durch die Bündelung mehrerer Prozesse bei einem Lieferanten erhalten Sie eine einfachere Logistik, weniger Handhabungsschritte und eine effizientere Lieferkette."
+      },
+      "faqHeading": "H\u00e4ufig gestellte Fragen",
+      "faq": [
+        {
+          "question": "K\u00f6nnen Sie Zinkkomponenten mit anderen Teilen kombinieren?",
+          "answer": "Ja. Wir können die Montage und den Zusammenbau von zinkgegossenen Komponenten mit weiteren Teilen übernehmen, sodass Sie fertig montierte Einheiten erhalten, die einsatzbereit oder lieferbereit sind."
+        },
+        {
+          "question": "Welche Sätze und Teilsysteme können Sie handhaben?",
+          "answer": "Wir können unter anderem Montagesätze, Ersatzteilsätze und kleinere Teilsysteme handhaben."
+        },
+        {
+          "question": "Übernehmen Sie Qualitätskontrolle, Kennzeichnung und Verpackung?",
+          "answer": "Ja. Wir übernehmen Qualitätskontrolle, Kennzeichnung, Verpackung und kundenspezifische Verpackung."
+        },
+        {
+          "question": "Wie fangen wir an?",
+          "answer": "Kontaktieren Sie uns, um zu erfahren, wie wir durch Montage und Zusammenbau Mehrwert schaffen können."
+        }
+      ],
+      "relatedHeading": "Verwandte Leistungen",
+      "ctaHeading": "Bereit, Ihre Komponenten montieren zu lassen?",
+      "ctaDescription": "Kontaktieren Sie uns, um zu erfahren, wie wir durch Montage und Zusammenbau Mehrwert schaffen können.",
+      "ctaButton": "Kontakt aufnehmen"
+    }
+  },
+  "jobsPage": {
+    "breadcrumb": "Jobs",
+    "eyebrow": "Werden Sie Teil unseres Teams",
+    "heading": "Vielleicht beginnt hier Ihr nächster Job",
+    "description": "Bei Linimatic arbeiten wir mit Technik, Präzision und Lösungen, die einen Unterschied machen. Wir suchen fähige Menschen mit Verantwortungsbewusstsein, Neugier und Lust, Teil eines starken Teams zu sein.\n\nSehen Sie sich unten unsere offenen Stellen an – wir freuen uns, von Ihnen zu hören.",
+    "heroImageAlt": "Linimatic Produktionshalle in Helsinge, Dänemark",
+    "whyHeading": "Warum Linimatic?",
+    "whyDescription": "Unser Standort ist Helsinge, Nordseeland \u2014 nah genug an Kopenhagen zum Pendeln, weit genug entfernt für Ruhe. Das macht uns besonders.",
+    "perks": [
+      {
+        "title": "Handwerk und fortschrittliche Technologie",
+        "description": "Bei Linimatic arbeiten Sie mit fortschrittlichen Druckgussmaschinen, Robotern und flüssigem Metall. Das erfordert technisches Verständnis, Präzision und echtes Handwerk, um komplexe Zinkkomponenten in gleichbleibend hoher Qualität herzustellen."
+      },
+      {
+        "title": "Stabil und wachsend",
+        "description": "Gegründet 1967 und immer noch stark. Wir investieren langfristig in Menschen und Ausrüstung, nicht für das nächste Quartal."
+      },
+      {
+        "title": "Kleines Team, große Bedeutung",
+        "description": "Mit über 30 Mitarbeitern sind Sie keine Nummer. Sie lernen Ihre Kollegen und die Produktion gut kennen und sehen deutlich, wie Ihr Beitrag zum fertigen Ergebnis beiträgt."
+      },
+      {
+        "title": "Kontinuierliche Entwicklung",
+        "description": "Neue Maschinen, neue Legierungen, neue Verfahren \u2014 das Fachgebiet entwickelt sich und wir uns mit. Schulung und Kompetenzentwicklung gehören zum Job."
+      }
+    ],
+    "positionsEyebrow": "Offene Stellen",
+    "positionsHeading": "Aktuelle Stellenangebote",
+    "responsibilitiesLabel": "Ihre Aufgaben",
+    "requirementsLabel": "Was wir suchen",
+    "contactLabel": "Kontakt",
+    "applyButton": "Jetzt bewerben",
+    "applySubject": "Bewerbung \u2014 {position} \u2014 Linimatic",
+    "noPositions": "Derzeit keine offenen Stellen \u2014 aber wir sind immer an qualifizierten Fachkräften interessiert. Senden Sie uns eine Initiativbewerbung.",
+    "positions": [
+      {
+        "title": "Maschinist, Industrietechniker oder Werkzeugmacher — Formenbau",
+        "department": "Formenbau",
+        "type": "Vollzeit",
+        "description": "Bei Linimatic steht ein geplanter Generationswechsel in unserem Formenbau bevor. Zwei unserer erfahrenen Kollegen nähern sich dem Ruhestand, und wir suchen eine neue Kollegin oder einen neuen Kollegen, die/der gründlich eingearbeitet wird und langfristig die Zukunft des Formenbaus sichert. Uns ist bewusst, dass es Zeit braucht, ein so spezialisiertes Handwerk zu erlernen, deshalb nehmen wir uns ausreichend Zeit für eine gründliche Einarbeitung durch unsere erfahrenen Kollegen. Erfahrung mit Druckgussformen ist nicht erforderlich — wichtiger sind mechanisches Verständnis, sorgfältiges Arbeiten und die Bereitschaft, ein spezialisiertes Handwerk zu erlernen.",
+        "responsibilities": [
+          "Vorbereitung und Wartung von Druckgussformen und Stanzwerkzeugen",
+          "Fehlerbehebung bei Produktionsstopps im Zusammenhang mit Werkzeugen",
+          "Kleinere Reparaturen, Anpassungen und Verbesserungen",
+          "Einkauf ausgewählter Verschleißteile",
+          "Zusammenarbeit mit Produktion und Produktionstechnik"
+        ],
+        "requirements": [
+          "Praktische technische Erfahrung mit Metall, Maschinen, Werkzeug, Instandhaltung oder Produktion",
+          "Gutes mechanisches Verständnis und Sinn für Details",
+          "Verantwortungsbewusstes und selbstständiges Arbeiten",
+          "Motivation, ein spezialisiertes Handwerk zu erlernen"
+        ],
+        "contactName": "Rikke Østrup Fisker, Logistikleiterin",
+        "contactEmail": "rif@linimatic.dk"
+      },
+      {
+        "title": "Produktionsmitarbeiter",
+        "department": "Gießerei",
+        "type": "Vollzeit",
+        "description": "Haben Sie technisches Flair und Lust, ein neues Fach zu erlernen? Linimatic A/S in Helsinge produziert im Druckgussverfahren hergestellte Zinkkomponenten für Kunden weltweit. Wir sind bekannt dafür, „die Besten im Schwierigsten“ zu sein — und suchen nun neue Kollegen, die sich im Druckguss einarbeiten lassen möchten. Uns ist bewusst, dass es Zeit braucht, das Fach richtig zu erlernen, daher erhalten Sie eine gründliche Einarbeitung — und wenn Sie sich weiterentwickeln möchten, bieten wir auch Kurse in Gusstheorie und Roboterprogrammierung an.",
+        "responsibilities": [
+          "Einrichten und Bedienen von Druckgussmaschinen",
+          "Qualitätskontrolle der eigenen Arbeit",
+          "Unterstützung der Kollegen bei Maschinenstopps",
+          "Inbetriebnahme des Roboters in der Gießzelle"
+        ],
+        "requirements": [
+          "Technisches Interesse und Lernbereitschaft",
+          "Teamorientiert und qualitätsbewusst",
+          "Dänische Sprachkenntnisse (Sprechen, Lesen, Schreiben)"
+        ],
+        "contactName": "Thomas Hjorth, Produktionsleiter",
+        "contactPhone": "+45 50 77 02 16",
+        "contactEmail": "thj@linimatic.dk"
+      }
+    ],
+    "openApplicationHeading": "Ihre Rolle nicht dabei?",
+    "openApplicationDescription": "Wir sind immer an qualifizierten Fachkräften in den Bereichen Fertigung, Technik, Qualität und Vertrieb interessiert. Senden Sie uns Ihren Lebenslauf und erzählen Sie uns, was Sie mitbringen.",
+    "openApplicationButton": "Initiativbewerbung senden",
+    "learnMoreButton": "Mehr über uns erfahren",
+      "privacyNotice": "Wenn Sie eine Bewerbung per E-Mail senden, verarbeitet Linimatic A/S Ihre Angaben, um die Bewerbung zu prüfen. Wir bewahren Bewerbungen 6 Monate nach Besetzung der Stelle auf, oder 6 Monate nach Eingang oder dem letzten Kontakt bei Initiativbewerbungen, sofern Sie keiner längeren Speicherung zustimmen. Details finden Sie in unserer <link>Datenschutzerklärung</link>."
+  },
+  "sustainabilityPage": {
+    "breadcrumb": "Nachhaltigkeit",
+    "eyebrow": "Nachhaltigkeit",
+    "title": "Nachhaltigkeit bei Linimatic",
+    "intro": "Wir arbeiten zielgerichtet daran, unsere Produktion verantwortungsvoll zu führen — für Menschen, Gesellschaft und Umwelt. Hier erfahren Sie mehr über unsere CO2-Emissionen und die Richtlinien, nach denen wir arbeiten.",
+    "links": [
+      {
+        "title": "CO2 und Klima",
+        "description": "Sehen Sie die Entwicklung der CO2-Emissionen des Unternehmens im Jahresvergleich.",
+        "href": "/about/co2"
+      },
+      {
+        "title": "Code of Conduct",
+        "description": "Unsere Richtlinien für verantwortungsvolles und ethisches Geschäftsverhalten.",
+        "href": "/about/code-of-conduct"
+      }
+    ]
+  },
+  "co2Page": {
+    "eyebrow": "Nachhaltigkeit",
+    "title": "CO2 und Klima",
+    "intro": "Bei Linimatic arbeiten wir kontinuierlich daran, unseren CO2-Fußabdruck durch effiziente Produktion, Solarenergie und verantwortungsvolles Ressourcenmanagement zu reduzieren. Diese Seite wird laufend mit konkreten Zahlen und Initiativen aktualisiert.",
+    "dataLabel": "Entwicklung der CO2-Emissionen",
+    "unit": "TONNEN CO2e",
+    "note": "Die Zahlen umfassen den gesamten Betrieb des Unternehmens und sind standortbasiert für Scope 1, 2 und 3. Rund 15% unseres Stromverbrauchs stammt aus eigenen Solaranlagen."
+  },
+  "codeOfConductPage": {
+    "eyebrow": "Ethik und Verantwortung",
+    "title": "Code of Conduct",
+    "dateLabel": "Stand: 14. Oktober 2025",
+    "intro": [
+      "Lieferantenverantwortung im Bereich soziales und nachhaltiges Unternehmertum ist von zentraler Bedeutung für die weltweite Gemeinschaft und spielt zudem eine zunehmend wichtige Rolle für die Wettbewerbsfähigkeit und Profitabilität eines Unternehmens.",
+      "Linimatics Code of Conduct wurde 2021 eingeführt, um dieses soziale und nachhaltige Unternehmertum zu unterstützen — insbesondere in den Bereichen Menschenrechte, Arbeitsschutz und Arbeitsbedingungen, Umweltmanagement sowie Korruptionsbekämpfung.",
+      "Linimatic hat seinen Code of Conduct auf Grundlage des UN Global Compact entwickelt, einer internationalen Initiative, die von Unternehmen weltweit unterstützt wird, um die Einhaltung der genannten Bereiche sicherzustellen."
+    ],
+    "purposeHeading": "Zweck",
+    "purpose": [
+      "Um Menschenrechte zu respektieren und faire Beschäftigung, sichere Arbeitsbedingungen sowie verantwortungsvolle Umwelt- und Ethikstandards zu fördern, wird dieser Code of Conduct bei der Produktion, Lieferung und Auslieferung aller Produkte und Dienstleistungen von Linimatic angewendet.",
+      "Zusätzlich zu allen geltenden Gesetzen, Vorschriften und Standards in den Ländern, in denen Linimatic tätig ist, müssen alle Mitarbeitenden den Code of Conduct von Linimatic einhalten — auch dann, wenn diese Anforderungen strenger sind als die nationalen Gesetze und Vorschriften.",
+      "Linimatic unterstützt seine Lieferanten aktiv dabei, langfristige, kontinuierliche Verbesserungen sicherzustellen. Linimatic unterstützt den „Global Compact\" der Vereinten Nationen.",
+      "Um diese Verpflichtung gegenüber Mitarbeitenden, Lieferanten, Kunden und anderen Interessengruppen deutlich zu machen, basiert unser Code of Conduct auf den zehn Prinzipien des Global Compact und wird veröffentlicht."
+    ],
+    "workingConditionsHeading": "Arbeitsbedingungen",
+    "freedomOfAssociationHeading": "Vereinigungsfreiheit",
+    "freedomOfAssociationText": "Soweit die geltenden Gesetze dies zulassen, steht es allen Mitarbeitenden frei, Gewerkschaften oder ähnliche externe Vereinigungen zu gründen, ihnen beizutreten oder nicht beizutreten sowie Kollektivverhandlungen zu führen.",
+    "forcedLaborHeading": "Zwangsarbeit",
+    "forcedLaborText": "Zwangs- oder Pflichtarbeit ist ausdrücklich verboten, und alle Mitarbeitenden können ihr Beschäftigungsverhältnis nach angemessener Kündigungsfrist gemäß nationalem Recht und/oder vorheriger Vereinbarung beenden. Mitarbeitende sind nicht verpflichtet, Geld oder Ausweisdokumente bei ihrem Arbeitgeber zu hinterlegen.",
+    "termsOfEmploymentHeading": "Beschäftigungsbedingungen",
+    "termsOfEmploymentText": "Mitarbeitende können davon ausgehen, dass ihre Beschäftigungsrechte, Bezahlung und Arbeitsbedingungen fair und angemessen sind und mindestens den nationalen gesetzlichen Anforderungen und Branchenstandards entsprechen. Die Arbeitszeiten richten sich nach nationalem Recht und sind nicht überzogen.",
+    "accessToDataHeading": "Zugang zu personenbezogenen Daten",
+    "accessToDataText": "Alle Mitarbeitenden haben jederzeit das Recht, auf ihre beim Unternehmen gespeicherten persönlichen Unterlagen und Informationen zuzugreifen, im Einklang mit den geltenden Datenschutzgesetzen (DSGVO). Anfragen zum Zugang sind an die Personalabteilung des Unternehmens zu richten.",
+    "childLabourHeading": "Kinderarbeit",
+    "childLabour": [
+      "Keine beschäftigte Person ist jünger als das gesetzliche Mindestalter für eine Beschäftigung. Das Mindestalter entspricht dem Alter zum Abschluss der Schulpflicht oder mindestens 15 Jahren, gemäß Artikel 2.4 des ILO-Übereinkommens Nr. 138 über das Mindestalter. Kinder werden nicht für gefährliche Arbeiten oder Arbeiten eingesetzt, die mit der persönlichen Entwicklung des Kindes unvereinbar sind.",
+      "Als Kind gilt eine Person unter 18 Jahren, wie in Artikel 1 des UN-Übereinkommens über die Rechte des Kindes definiert. Die persönliche Entwicklung umfasst die Gesundheit sowie die körperliche, geistige, seelische, moralische oder soziale Entwicklung des Kindes, wie in Artikel 32 des UN-Übereinkommens über die Rechte des Kindes beschrieben."
+    ],
+    "discriminationHeading": "Beseitigung von Diskriminierung",
+    "discrimination": [
+      "Mitarbeitende werden mit Respekt und Würde behandelt. Körperliche Züchtigung, physische, verbale oder sonstige unrechtmäßige Belästigung sowie jede Form von Drohung oder Einschüchterung sind untersagt. Jede Form von Diskriminierung aufgrund von Vorurteilen ist untersagt, etwa aufgrund von Rasse, Hautfarbe, Geschlecht, sexueller Orientierung, Familienstand, Schwangerschaft, Elternschaft, Religion, politischer Überzeugung, Nationalität, ethnischer Herkunft, sozialer Herkunft, sozialem Status, Behinderung, Alter, Gewerkschaftszugehörigkeit oder anderen durch geltendes lokales Recht geschützten Merkmalen.",
+      "Mitarbeitende mit gleicher Qualifikation, Erfahrung und Leistung erhalten gleichen Lohn für gleiche Arbeit wie andere, die unter vergleichbaren Arbeitsbedingungen dieselbe Arbeit verrichten."
+    ],
+    "workEnvironmentHeading": "Arbeitsumfeld",
+    "workEnvironment": [
+      "Ein gesundes und sicheres Arbeitsumfeld sowie gegebenenfalls für Mitarbeitende bereitgestellte Unterkünfte entsprechen internationalen Standards und nationalem Recht. Mitarbeitende erhalten angemessene Informationen und Schulungen zu Gesundheit und Sicherheit.",
+      "Sicherheit umfasst auch die Einhaltung nationaler Gesetze und Vorschriften zum Brandschutz sowie Evakuierungspläne im Brandfall, mindestens im Umfang der jeweils geltenden nationalen Gesetzgebung. Der sichere und ordnungsgemäße Umgang mit sowie die Kennzeichnung von Chemikalien, mechanischen Anlagen und Arbeitsprozessen erfolgt gemäß nationalem Recht. Arbeitsplätze und gegebenenfalls Unterkünfte verfügen über eine angemessene Temperatur und ein angemessenes Lärmniveau, ausreichende Belüftung, ausreichende Beleuchtung, saubere Toiletten, sauberes Trinkwasser und, sofern erforderlich, sanitäre Einrichtungen für die Lebensmittellagerung."
+    ],
+    "environmentHeading": "Umwelt",
+    "environmentText": "Begrenzte Ressourcen werden verantwortungsvoll und mit Bedacht eingesetzt. Ansätze und Methoden, die die mit unserem Geschäft verbundenen Umweltauswirkungen verringern, sind willkommen. Die innovative Entwicklung von Produkten und Dienstleistungen mit ökologischem und sozialem Nutzen wird gefördert.",
+    "antiCorruptionHeading": "Korruptionsbekämpfung",
+    "antiCorruption": [
+      "Keine Form von Erpressung oder Bestechung, einschließlich unzulässiger Zahlungsangebote an oder von Mitarbeitenden, Geschäftspartnern oder Organisationen, wird toleriert.",
+      "Wir verpflichten uns, unser Geschäft im Einklang mit den geltenden nationalen und internationalen Wettbewerbsgesetzen zu führen, halten uns an kartellrechtliche Vorschriften, gewährleisten einen soliden Datenschutz und legen großen Wert auf Informationssicherheit zum Schutz sensibler Daten.",
+      "Wir setzen uns dafür ein, Geldwäsche zu verhindern und die Finanzierung von Terrorismus zu vermeiden."
+    ],
+    "supplierSupplementHeading": "Code of Conduct — Ergänzung für Lieferanten",
+    "supplierSupplementText": "Dieser Code of Conduct („CODE\") gilt für alle Aktivitäten von Linimatic sowie für Produkte, Dienstleistungen und Aktivitäten, zu denen andere Unternehmen („Lieferanten\") beitragen.",
+    "adherenceHeading": "Einhaltung",
+    "adherenceText": "Linimatic verlangt, dass der Lieferant und seine Unterauftragnehmer die Anforderungen dieses Code of Conduct („CODE\") erfüllen, was strengere Anforderungen als das geltende nationale Recht bedeuten kann. Ein Lieferant muss auf Anfrage in angemessenem Umfang nachweisen, dass er und seine Unterauftragnehmer den CODE einhalten. Dies kann durch die Bereitstellung von Informationen und/oder durch die Gewährung von Zugang für Linimatic oder einen unserer Vertreter zu den Standorten des genannten Lieferanten/Unterauftragnehmers erfolgen.",
+    "notificationHeading": "Informationspflicht",
+    "notificationText": "Der Lieferant ist dafür verantwortlich sicherzustellen, dass seine Mitarbeitenden und Unterauftragnehmer über diesen Code of Conduct („CODE\") informiert sind und die darin enthaltenen Anforderungen erfüllen."
+  },
+  "privacyPage": {
+    "eyebrow": "Rechtliches",
+    "title": "Datenschutzrichtlinie",
+    "lastUpdated": "Zuletzt aktualisiert: August 2026",
+    "dataControllerHeading": "Verantwortlicher",
+    "dataControllerIntro": "Linimatic A/S ist der Verantwortliche für personenbezogene Daten, die über diese Website und bei Ihrer Kontaktaufnahme verarbeitet werden.",
+    "whatWeCollectHeading": "Welche Daten wir erheben",
+    "whatWeCollectIntro": "Wir können die folgenden personenbezogenen Daten über unsere Website erheben:",
+    "collectItems": [
+      "Kontaktformular: Name, Unternehmen, E-Mail-Adresse, Telefonnummer, Betreff, erwartetes Produktionsvolumen und Projektbeschreibung.",
+      "Bewerbungen: Name, Kontaktdaten, Lebenslauf, Anschreiben und weitere Angaben, die Sie in einer Bewerbung per E-Mail übermitteln.",
+      "Technische und sicherheitsbezogene Daten: Unser Hosting-Anbieter empfängt die Formularanfrage und verarbeitet technische Angaben wie IP-Adresse und Browserinformationen, um die Website bereitzustellen und zu schützen. Das Kontaktformular nutzt eine kurzzeitig im Arbeitsspeicher gehaltene IP-Begrenzung gegen Missbrauch; wir speichern Einsendungen nicht in einer Website-Datenbank.",
+      "Optionale Analyse: Wenn Sie zustimmen, verarbeitet Vercel Analytics cookielose Besuchsmessungen, damit wir verstehen, welche Seiten nützlich sind. Bei Ablehnung wird der Dienst nicht geladen.",
+      "Kommunikationsdaten: Aufzeichnungen der Korrespondenz bei Kontakt per E-Mail oder Telefon."
+    ],
+    "dataSourceNote": "Das Formular erfordert Ihren Namen, Ihr Unternehmen, Ihre E-Mail-Adresse und Ihre Nachricht, damit wir Sie identifizieren und Ihre Anfrage beantworten können; Telefonnummer, Betreff und erwartetes Volumen sind optional. Fehlt ein Pflichtfeld, kann das Formular nicht abgesendet werden. Angaben in Formularen und E-Mails stammen von Ihnen. Einige technische Angaben, etwa IP-Adresse und Browserinformationen, entstehen automatisch bei der Nutzung der Website.",
+    "legalBasisHeading": "Rechtsgrundlage der Verarbeitung",
+    "legalBasisIntro": "Gemäß der Datenschutz-Grundverordnung (DSGVO) verarbeiten wir personenbezogene Daten auf Grundlage von:",
+    "legalBasisItems": [
+      "Einwilligung (Art. 6 Abs. 1 lit. a): Für optionale Website-Analysen.",
+      "Berechtigtes Interesse (Art. 6 Abs. 1 lit. f): Zur Entgegennahme und Beantwortung von Anfragen, Prüfung von Bewerbungen, Vermeidung von Missbrauch und zum Schutz der Website und unserer Kommunikation.",
+      "Vorvertragliche Maßnahmen (Art. 6 Abs. 1 lit. b): Wenn aus einer Anfrage der Wunsch entsteht, einen Vertrag vorzubereiten oder abzuschließen.",
+      "Rechtliche Verpflichtung (Art. 6 Abs. 1 lit. c): Wenn ein Gesetz die Aufbewahrung oder Verarbeitung von Informationen verlangt."
+    ],
+    "howWeUseHeading": "Wie wir Ihre Daten verwenden",
+    "howWeUseItems": [
+      "Zur Beantwortung von Angebotsanfragen und Kundenanfragen",
+      "Zur Bearbeitung von Bewerbungen",
+      "Zur Vermeidung von Missbrauch und zum Schutz der Website und unserer Kommunikation",
+      "Um bei erteilter Einwilligung zu verstehen, welche Seiten nützlich sind",
+      "Zur Einhaltung rechtlicher und regulatorischer Verpflichtungen"
+    ],
+    "retentionHeading": "Datenspeicherung",
+    "retentionIntro": "Wir speichern personenbezogene Daten nur so lange, wie es für die beschriebenen Zwecke erforderlich ist oder gesetzlich vorgeschrieben. Im Einzelnen:",
+    "retentionItems": [
+      "Kontaktanfragen: Werden normalerweise 2 Jahre nach dem letzten Kontakt aus unseren Postfächern und zugehörigen Kopien gelöscht. Erfordert eine aktive Geschäftsbeziehung oder eine gesetzliche Pflicht eine längere Aufbewahrung, speichern wir nur das Erforderliche und halten den Grund fest.",
+      "Bewerbungen: Werden normalerweise 6 Monate nach Besetzung der Stelle gelöscht, oder 6 Monate nach Eingang oder dem letzten Kontakt bei Initiativbewerbungen, sofern Sie keiner längeren Speicherung zustimmen.",
+      "Sicherheitsdaten: IP-Informationen für den kurzzeitigen Schutz des Kontaktformulars vor wiederholten Anfragen werden im Anwendungsspeicher und nicht in einer Kontaktdatenbank gehalten.",
+      "Analysedaten: Werden nur nach Einwilligung erhoben und von Vercel als cookielos und anonymisiert beschrieben; siehe unsere Cookie-Richtlinie."
+    ],
+    "dataSharingHeading": "Datenweitergabe",
+    "dataSharingIntro": "Wir verkaufen Ihre personenbezogenen Daten nicht. Wir können Daten teilen mit:",
+    "dataSharingItems": [
+      "Vercel (Hosting und Formularlaufzeit): Hostet die Website und führt das serverseitige Kontaktformular aus. Im Rahmen des Dienstes kann Vercel die übermittelten Formulardaten und technische Metadaten der Anfrage verarbeiten. Vercel ist ein US-Unternehmen; die Verarbeitung kann in den USA und anderen Ländern nach den geltenden Vertragsbedingungen und Schutzmaßnahmen erfolgen.",
+      "Resend (E-Mail-Zustellung): Übermittelt Kontaktformulardaten einschließlich Kontaktdaten, Nachricht, Antwortadresse und zugehörigen E-Mail-Metadaten. Resend gibt an, dass die primären Verarbeitungsvorgänge in den USA stattfinden; eine Versandregion Irland macht Kundendaten nicht automatisch EU-intern. Übermittlungen sind durch Resends Data Processing Addendum und die dort beschriebenen Schutzmaßnahmen abgedeckt.",
+      "Microsoft 365 (E-Mail und Zusammenarbeit): Hostet unsere E-Mail-Konten, in denen Anfragen aus dem Kontaktformular, Bewerbungen und sonstige Korrespondenz eingehen und gespeichert werden. Die Daten werden im EU/EFTA-Raum gespeichert.",
+      "Behörden: Wenn gesetzlich vorgeschrieben oder zum Schutz unserer Rechte."
+    ],
+    "dataSharingDpaNote": "Die detaillierten Auftragsverarbeitungsbedingungen finden Sie im <vercel>Data Processing Addendum von Vercel</vercel> und im <resend>Data Processing Addendum von Resend</resend>.",
+    "dataSharingNote": "Wir nutzen Anbieter nur, soweit sie für den Betrieb der Website und die Bearbeitung von Anfragen erforderlich sind. Vor der Veröffentlichung und bei Änderungen eines Anbieters prüfen wir Vertrag, Verarbeitungsorte, Unterauftragsverarbeiter und Aufbewahrung im internen Verzeichnis der Auftragsverarbeiter. Bei Übermittlungen außerhalb der EU/des EWR werden, soweit erforderlich, der jeweilige Anbieter-Vertrag und ein gültiger DSGVO-Transfermechanismus wie die EU-Standardvertragsklauseln verwendet.",
+    "yourRightsHeading": "Ihre Rechte",
+    "yourRightsIntro": "Gemäß der DSGVO haben Sie das Recht auf:",
+    "yourRightsItems": [
+      "Auskunft — Fordern Sie eine Kopie der personenbezogenen Daten an, die wir über Sie gespeichert haben.",
+      "Berichtigung — Fordern Sie die Korrektur unrichtiger Daten an.",
+      "Löschung — Fordern Sie die Löschung Ihrer Daten an (\u201eRecht auf Vergessenwerden\u201c).",
+      "Einschränkung — Fordern Sie die Einschränkung der Datenverarbeitung an.",
+      "Datenübertragbarkeit — Fordern Sie Ihre Daten in einem strukturierten, maschinenlesbaren Format an.",
+      "Widerspruch — Widersprechen Sie der Verarbeitung auf Grundlage berechtigter Interessen.",
+      "Widerruf der Einwilligung — Widerrufen Sie eine zuvor erteilte Einwilligung jederzeit."
+    ],
+    "yourRightsContact": "Zur Ausübung dieser Rechte kontaktieren Sie uns unter linimatic@linimatic.dk. Wir antworten innerhalb eines Monats, sofern keine gesetzliche Verlängerung gilt.",
+    "complaintsHeading": "Beschwerden",
+    "complaintsText": "Wenn Sie der Ansicht sind, dass Ihre Datenschutzrechte verletzt wurden, haben Sie das Recht, eine Beschwerde bei der dänischen Datenschutzbehörde (Datatilsynet) einzureichen:",
+    "changesHeading": "Änderungen dieser Richtlinie",
+    "changesText": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Das Datum \u201ezuletzt aktualisiert\u201c oben zeigt die jüngste Überarbeitung an. Wir empfehlen Ihnen, diese Seite regelmäßig zu überprüfen."
+  },
+  "cookiePolicyPage": {
+    "eyebrow": "Rechtliches",
+    "title": "Cookie-Richtlinie",
+    "lastUpdated": "Zuletzt aktualisiert: August 2026",
+    "whatAreCookiesHeading": "Was sind Cookies?",
+    "whatAreCookiesText": "Cookies sind kleine Textdateien, die auf Ihrem Gerät platziert werden, wenn Sie eine Website besuchen. Sie werden häufig verwendet, um Websites effizienter zu gestalten und den Webseitenbetreibern Informationen zu liefern. Gemäß EU-Regulierung (ePrivacy-Richtlinie und DSGVO) sind wir verpflichtet, Ihre Einwilligung einzuholen, bevor wir nicht-essenzielle Cookies setzen.",
+    "howWeUseHeading": "Wie wir Cookies verwenden",
+    "howWeUseText": "Wir verwenden zwei Kategorien: notwendige Cookies, die immer aktiv sind, und Analyse, die wir nur mit Ihrer Einwilligung einsetzen. Wir verwenden keine Cookies für Marketing und geben keine Daten an Werbenetzwerke weiter. Sie können Ihre Auswahl jederzeit über „Cookie-Einstellungen“ am Seitenende ändern.",
+    "necessaryHeading": "Notwendige Cookies",
+    "necessaryText": "Diese Cookies sind für das ordnungsgemäße Funktionieren der Website unerlässlich. Sie unterstützen grundlegende Website-Funktionen und speichern Ihre Cookie-Einstellungen. Die Website kann ohne sie nicht ordnungsgemäß funktionieren, und sie können nicht deaktiviert werden.",
+    "tableCookie": "Cookie",
+    "tablePurpose": "Zweck",
+    "tableDuration": "Dauer",
+    "consentCookiePurpose": "Speichert Ihre Cookie-Einstellungen",
+    "consentCookieDuration": "1 Jahr",
+    "localeCookiePurpose": "Speichert Ihre Sprachauswahl",
+    "localeCookieDuration": "Sitzung",
+    "popupStoragePurpose": "Merkt sich, dass Sie das Fenster zu unseren Zink-Thementagen geschlossen haben, damit es nicht sofort erneut erscheint",
+    "popupStorageDuration": "Bis Sie Ihren Browser leeren",
+    "storageNote": "Der letzte Eintrag in der Tabelle ist kein Cookie, sondern ein lokal in Ihrem Browser gespeicherter Vermerk. Er enthält lediglich einen Zeitstempel und wird niemals an uns oder an Dritte übermittelt.",
+    "analyticsHeading": "Besuchsanalyse",
+    "analyticsText": "Wenn Sie der Analyse zustimmen, laden wir Vercel Analytics, um Besuche zu messen und zu verstehen, welche Seiten nützlich sind. Bei Ablehnung wird der Dienst nicht geladen. Vercel beschreibt den Dienst als cookielos und anonymisiert; die eigenen Datenschutzinformationen von Vercel erklären die Verarbeitung der Analysedaten.",
+    "managingHeading": "Verwaltung Ihrer Einstellungen",
+    "managingText1": "Wenn Sie unsere Website zum ersten Mal besuchen, erscheint ein Cookie-Banner, mit dem Sie alle Cookies akzeptieren, alle nicht-essenziellen Cookies ablehnen oder Ihre Einstellungen nach Kategorie anpassen können.",
+    "managingText2": "Sie können Ihre Wahl jederzeit ändern oder Ihre Einwilligung widerrufen — über den Link \"Cookie-Einstellungen\" unten auf jeder Seite.",
+    "managingText3": "Sie können Cookies auch über Ihre Browsereinstellungen steuern. Die meisten Browser ermöglichen es Ihnen, Cookies abzulehnen oder zu löschen. Die Methoden variieren je nach Browser — konsultieren Sie die Hilfe-Dokumentation Ihres Browsers.",
+    "thirdPartyHeading": "Drittanbieter",
+    "thirdPartyText": "Wir verwenden keine Werbenetzwerke, Social-Media-Schaltflächen, Karten oder Videos, die auf unseren Seiten Cookies setzen; Schriftarten werden von unserem eigenen Server ausgeliefert. Vercel hostet die Website und führt das Kontaktformular aus; sofern Sie zugestimmt haben, misst Vercel außerdem Besuche. Resend übermittelt Kontaktformulardaten an unseren geschäftlichen E-Mail-Anbieter, der sie in unserem Linimatic-Postfach speichert. Diese Dienste können Daten außerhalb der EU/des EWR verarbeiten, wie in unserer Datenschutzrichtlinie beschrieben.",
+    "contactHeading": "Kontakt",
+    "contactText": "Bei Fragen zu unserer Verwendung von Cookies kontaktieren Sie uns unter:"
+  },
+  "zinkTemadagPage": {
+    "breadcrumb": "Zink-Infotag",
+    "eyebrow": "Kostenloses Seminar — ca. 4 Stunden",
+    "heading": "Infotag zum Zinkdruckguss",
+    "intro": "Erhalten Sie praktisches Wissen über die Möglichkeiten des Zinkdruckgusses – von der Materialwahl und Konstruktion bis zur Produktion und dem fertigen Bauteil.\n\nLinimatic veranstaltet kostenlose Infotage für Konstrukteure, Projektleiter und Einkäufer bei uns in Helsinge. Bringen Sie gerne ein mögliches Bauteil oder eine konkrete Fragestellung mit, die wir an dem Tag gemeinsam durchgehen können. Siehe Programm unten.",
+    "agendaHeading": "Programm",
+    "agenda": [
+      "Zink im Allgemeinen — und woher es kommt",
+      "Zink im Vergleich zu Aluminium und Kunststoff",
+      "Der Gießprozess",
+      "Rundgang durch die Produktion",
+      "Wann sollte man Zink wählen?",
+      "Konstruktion in Zink — Möglichkeiten und Grenzen",
+      "CO2-Fußabdruck",
+      "Oberflächenbehandlung",
+      "Gießwerkzeuge",
+      "Möglichkeiten für Prototypen"
+    ],
+    "agendaNote": "Das Programm kann jederzeit an die Teilnehmer angepasst werden.",
+    "datesHeading": "Nächste geplante Infotage",
+    "dates": ["20.05.2026", "16.09.2026"],
+    "datesNote": "Findet bei Linimatic in Helsinge statt",
+    "datePastLabel": "Stattgefunden",
+    "contactHeading": "Infotag buchen",
+    "contactDescription": "Kontaktieren Sie Jan V. Jørgensen, um einen kommenden Infotag zu buchen oder weitere Informationen zu erhalten.",
+    "contactName": "Jan V. Jørgensen",
+    "contactRole": "Geschäftsführer",
+    "contactPhone": "+45 2343 3667",
+    "contactEmail": "jaj@linimatic.dk",
+    "heroImageAlt": "Teilnehmer verfolgen einen Vortrag beim Infotag und machen sich Notizen"
+  },
+  "zinkTemadagPopup": {
+    "eyebrow": "Bevorstehende Veranstaltung",
+    "heading": "Zink-Infotage bei Linimatic",
+    "description": "Kostenloser Infotag für Konstrukteure, Projektleiter und Einkäufer. Nächste geplante Termine ansehen.",
+    "cta": "Termine ansehen",
+    "close": "Schließen",
+    "imageAlt": "Gestapelte Zinkbarren, bereit zum Einschmelzen"
+  }
+}

@@ -1,0 +1,1662 @@
+{
+  "meta": {
+    "home": {
+      "title": "Linimatic A/S — Danmarks zinktrykstøberi siden 1967",
+      "description": "Danmarks største dedikerede zinktrykstøberi siden 1967. Præcise zamak-komponenter fra prototype til serie — ISO 9001-certificeret, alt under ét tag."
+    },
+    "services": {
+      "title": "Zinktrykstøbning i Danmark",
+      "description": "Full-service zinktrykstøbning under ét tag: prototyping, højtryksstøbning, CNC-bearbejdning, overfladebehandling, kvalitetssikring og montage i Helsinge."
+    },
+    "whyZinc": {
+      "title": "Hvorfor zink? Fordele og legeringer",
+      "description": "Zinktrykstøbning giver ±0,05 mm tolerancer, 1 mio.+ skud levetid og krombare overflader. Sammenlign zink, aluminium og plast — og find den rette zamak-legering."
+    },
+    "about": {
+      "title": "Om Linimatic — eksperter i zinktrykstøbning siden 1967",
+      "description": "Grundlagt i 1967 er Linimatic A/S Danmarks største dedikerede zinktrykstøberi — 50+ specialister, ISO 9001-certificeret, hele værdikæden under ét tag."
+    },
+    "news": {
+      "title": "Nyheder fra Linimatic",
+      "description": "Nyt fra Linimatic A/S — arrangementer, investeringer og historier fra zinktrykstøberiet i Helsinge."
+    },
+    "sustainability": {
+      "title": "Bæredygtighed — Linimatic A/S",
+      "description": "Læs om Linimatics arbejde med bæredygtighed, CO2-udledning og etisk forretningsadfærd."
+    },
+    "co2": {
+      "title": "CO2 og klima — Linimatic A/S",
+      "description": "Læs om Linimatics arbejde med at reducere CO2-aftrykket gennem effektiv produktion og bæredygtige initiativer."
+    },
+    "codeOfConduct": {
+      "title": "Code of Conduct — Linimatic A/S",
+      "description": "Linimatics retningslinjer for ansvarlig og etisk forretningsadfærd."
+    },
+    "cases": {
+      "title": "Cases — projekter i zinktrykstøbning",
+      "description": "Cases i zinktrykstøbning fra DeWalt, One Collection, VELUX m.fl. Se hvordan Linimatic løser komplekse produktionsopgaver med præcise zamak-komponenter."
+    },
+    "contact": {
+      "title": "Kontakt Linimatic — få tilbud på zinktrykstøbning",
+      "description": "Send dine tegninger og få et uforpligtende tilbud på zinktrykstøbning — svar inden for 24 timer. Ring +45 4876 4040 eller besøg os i Helsinge."
+    },
+    "contactPeople": {
+      "title": "Kontaktpersoner hos Linimatic",
+      "description": "Find de rette kontaktpersoner hos Linimatic — ledelse, teknik, salg, produktion, finans og logistik."
+    },
+    "jobs": {
+      "title": "Job hos Linimatic — ledige stillinger i Helsinge",
+      "description": "Bliv en del af Danmarks største zinktrykstøberi. Ledige stillinger inden for støbning, bearbejdning, kvalitet og teknik hos Linimatic A/S i Helsinge."
+    },
+    "zinkers": {
+      "title": "Sinkers fra Linimatic — synk til trawl og fiskegrej",
+      "description": "Linimatic støber blyfrie sinkers i zink til trawl, not og industrielt fiskegrej. Ring- og tøndesinkers fra 50-2000 gram, tilpasset kundens behov."
+    },
+    "zinkTemadag": {
+      "title": "Zink Temadag — gratis temadag om zinktrykstøbning",
+      "description": "Gratis temadag for konstruktører, projektledere og indkøbere om mulighederne i zinktrykstøbning. Se næste planlagte datoer og book en plads."
+    }
+  },
+  "notFound": {
+    "title": "Siden blev ikke fundet",
+    "description": "Siden, du leder efter, findes ikke eller er blevet flyttet.",
+    "backHome": "Tilbage til forsiden"
+  },
+  "navigation": {
+    "home": "Forside"
+  },
+  "header": {
+    "logoAlt": "Linimatic — Innovativ trykstøbning",
+    "nav": {
+      "services": "Ydelser",
+      "cases": "Cases",
+      "whyZinc": "Hvorfor zink",
+      "zinkers": "Sinkers",
+      "about": "Om os",
+      "sustainability": "Bæredygtighed",
+      "jobs": "Job",
+      "contact": "Kontakt"
+    },
+    "servicesList": {
+      "prototyping": "Prototyper",
+      "dieCasting": "Højtryksstøbning",
+      "postProcessing": "CNC-efterbearbejdning",
+      "surfaceTreatment": "Overfladebehandling & coating",
+      "quality": "Kvalitet & certificering",
+      "assembly": "Montage og samling",
+      "zinkTemadag": "Zink Temadag"
+    },
+    "allServices": "Alle ydelser",
+    "aboutList": {
+      "about": "Om Linimatic",
+      "news": "Nyheder"
+    },
+    "sustainabilityList": {
+      "co2": "CO2",
+      "codeOfConduct": "Code of Conduct"
+    },
+    "phone": "+45 4876 4040",
+    "getQuote": "Få et tilbud",
+    "mobileMenuOpen": "Åbn menu",
+    "mobileMenuClose": "Luk menu"
+  },
+  "hero": {
+    "watermark": "Zn",
+    "eyebrow": "Grundlagt 1967 — Helsinge, Danmark",
+    "headline1": "Højtryksstøbning",
+    "headline2": "af",
+    "headlineAccent": "zink",
+    "tagline": "Præcist, effektivt og økonomisk",
+    "description": "Linimatic A/S kombinerer mange års erfaring med moderne, automatiseret produktion af højtryksstøbte zinkkomponenter. Automatisering, robotter og effektiv processtyring gør det muligt for os at levere høj kvalitet til konkurrencedygtige priser – med produktion i Danmark. Vi hjælper kunder med emner, hvor præcision, funktion, finish og stabil kvalitet er afgørende. Med høj teknisk knowhow og tæt dialog fra idé til færdigt emne skaber vi løsninger, der holder – også når kravene er komplekse.",
+    "heroImageAlt": "Præcisions-zinktrykstøbeform med messingfittings",
+    "heroImageAlt2": "To generationer af Linimatic-medarbejdere taler sammen om en zinktrykstøbt komponent i produktionen",
+    "heroImageAlt3": "Luftfoto af Linimatics produktionsbygning i Helsinge med solcelleanlæg på taget",
+    "heroImageAlt4": "Zinktrykstøbeform i maskinen og efterfølgende tromling af de støbte emner",
+    "ctaPrimary": "Kontakt os for at komme i gang",
+    "ctaSecondary": "Vores ydelser"
+  },
+  "stats": {
+    "items": [
+      { "value": "1967", "label": "Grundlagt" },
+      { "value": "ISO 9001", "label": "Siden 1993" },
+      { "value": "100%", "label": "Dansk produktion" },
+      { "value": "199 kWp", "label": "Solcelleanlæg" },
+      { "value": "30+", "label": "Specialister" }
+    ]
+  },
+  "valueChain": {
+    "eyebrow": "Ét tag. Ingen mellemled.",
+    "heading": "Fra konstruktion til første produktionsordre",
+    "description": "Giv os en CAD-fil. Vi returnerer et færdigt, inspiceret emne — støbt, bearbejdet, overfladebehandlet og monteret i én facilitet. Ingen leverandørkoordinering. Ingen kvalitetshuller mellem trin.",
+    "steps": [
+      {
+        "number": "01",
+        "label": "Design",
+        "title": "Optimering med respekt for designet",
+        "description": "Sammen med jer optimerer vi konstruktionen til effektiv zinktrykstøbning – med størst mulig respekt for det oprindelige design.",
+        "specs": "48t respons · 50–10.000 stk."
+      },
+      {
+        "number": "02",
+        "label": "Værktøj",
+        "title": "3D-konstruktion af støbeværktøjet",
+        "description": "Ud fra den endelige 3D-fil konstruerer vi støbeværktøjet, så det er optimeret til stabil støbeproduktion og længst mulig værktøjslevetid.",
+        "specs": "Egen værktøjskonstruktion · Optimeret til lang levetid"
+      },
+      {
+        "number": "03",
+        "label": "Indkøring",
+        "title": "Indkøring og teststøbning",
+        "description": "Når formværktøjet er færdigt, foretager vi de første testskud i en af vores robotiserede støbeceller. Her indkører og finjusterer vi formværktøjet og støbeprocessen.",
+        "specs": "Robotiserede støbeceller · Finjustering af processen"
+      },
+      {
+        "number": "04",
+        "label": "Godkend",
+        "title": "Godkendelse",
+        "description": "Efter indkøringen opmåler vi det aftalte antal emner. Emnerne leveres til jer sammen med den aftalte kvalitets- og måledokumentation.",
+        "specs": "Opmålte emner · Kvalitets- og måledokumentation"
+      },
+      {
+        "number": "05",
+        "label": "Produktion",
+        "title": "Første produktionsordre",
+        "description": "Når prøveemnerne er godkendt, er værktøj og proces klar til den første produktionsordre og den efterfølgende serieproduktion.",
+        "specs": "Godkendte prøveemner · Klar til serieproduktion"
+      }
+    ],
+    "cta": "Kontakt os for at komme i gang",
+    "allServices": "Se alle ydelser"
+  },
+  "cases": {
+    "eyebrow": "Kundeeksempler",
+    "heading": "Kunde cases",
+    "allCases": "Alle cases",
+    "items": [
+      {
+        "title": "Der er fordele ved at have din leverandør tæt på",
+        "client": "Ditlev Burke Industrial Tools A/S",
+        "metric": "Det er muligt at konkurrere med Asien · Automatiseret trykstøbning i Danmark",
+        "result": "Hele håndtaget produceres i dag i Danmark i stedet for i Asien."
+      },
+      {
+        "title": "Smidigt samarbejde med forecast aftale",
+        "client": "VELUX",
+        "metric": "Årligt fornyet forecast-aftale · Robot indført i produktionslinjen",
+        "result": "Et tæt og smidigt samarbejde for begge parter — uden konstant genforhandling, med løbende sparring og videndeling mellem Linimatic og VELUX."
+      },
+      {
+        "title": "Hurtigere, smartere - og fremstillet i Danmark",
+        "client": "Frandsen",
+        "metric": "Omlagt fra kinesisk til dansk produktion under tidspres · Støbt i én proces",
+        "result": "Lamperne blev leveret til tiden til det amerikanske marked, produceret i Danmark i stedet for Kina — og Frandsen bruger nu i stigende grad Linimatic til flere projekter."
+      }
+    ]
+  },
+  "industryTags": ["Automotive", "Møbler & design", "Belysning", "Byggeri & HVAC", "Elektronik", "Industri"],
+  "team": {
+    "eyebrow": "Dine kontakter",
+    "heading": "Tal med dem, der udfører arbejdet",
+    "description": "Ingen callcentre. Ingen account managers, der aldrig har set en støbemaskine. Du taler direkte med de ingeniører og specialister, der håndterer dit projekt.",
+    "members": [
+      {
+        "name": "Torben M. Jensen",
+        "role": "Teknisk & salg",
+        "focus": "DFM-gennemgang & projektledelse",
+        "phone": "+45 5077 0218",
+        "email": "tmj@linimatic.dk"
+      },
+      {
+        "name": "René Johnsen",
+        "role": "Teknisk & salg",
+        "focus": "Nye projekter & kundesupport",
+        "phone": "+45 5077 0211",
+        "email": "rj@linimatic.dk"
+      },
+      {
+        "name": "Jan V. Jørgensen",
+        "role": "Administrerende direktør",
+        "focus": "Strategi & nøglekunder",
+        "phone": "+45 2343 3667",
+        "email": "jaj@linimatic.dk"
+      }
+    ]
+  },
+  "clients": {
+    "trustedBy": "Betroet af",
+    "testimonials": [
+      {
+        "quote": "Vi er utroligt glade for de projekter, vi har kørt i samarbejde med Linimatic A/S. Senest har vi samarbejdet om et nyt håndtag, som indeholder en zinkdel, der er fremstillet af Linimatic. Resultatet er, at vi nu selv kan fremstille plastdelen og formontere den, så hele håndtaget bliver fremstillet i Danmark i stedet for som tidligere i Asien.",
+        "author": "Camilla Burke Vedsmand",
+        "role": "Administrerende direktør, Ditlev Burke Industrial Tools A/S"
+      },
+      {
+        "quote": "Tingene kører bare, og en klar fordel er, at vi ikke behøver at forhandle hele tiden.",
+        "author": "Lars Daugaard Pedersen",
+        "role": "Strategisk indkøber, VELUX"
+      }
+    ],
+    "logos": [
+      { "name": "Bang & Olufsen" },
+      { "name": "One Collection" },
+      { "name": "VELUX" },
+      { "name": "HOWE" },
+      { "name": "Montana" },
+      { "name": "Frandsen" },
+      { "name": "ClimaWin" }
+    ]
+  },
+  "cta": {
+    "heading": "Lad os tale om dit næste projekt.",
+    "description": "Send os dine tegninger eller specifikationer, og vi fortæller dig præcis, hvad der kan lade sig gøre — simpelt eller komplekst.",
+    "getInTouch": "Kontakt os for at komme i gang",
+    "phone": "+45 4876 4040",
+    "responsePromise": "Svar inden for 24\u00a0timer"
+  },
+  "footer": {
+    "logoAlt": "Linimatic — Innovativ trykstøbning",
+    "brandDescription": "Danmarks største dedikerede zinktrykstøberi. Præcisions-zamakemner, produceret i Danmark — fra prototype til serieproduktion.",
+    "linkedInAriaLabel": "Linimatic på LinkedIn",
+    "servicesHeading": "Ydelser",
+    "serviceLinks": [
+      "Prototyper",
+      "Højtryksstøbning",
+      "CNC-efterbearbejdning",
+      "Overfladebehandling & coating",
+      "Kvalitet & certificering",
+      "Montage og samling"
+    ],
+    "companyHeading": "Virksomhed",
+    "companyLinks": {
+      "aboutUs": "Om os",
+      "news": "Nyheder",
+      "cases": "Cases",
+      "whyZinc": "Hvorfor zink",
+      "careers": "Job",
+      "zinkers": "Sinkers"
+    },
+    "contactHeading": "Kontakt",
+    "address": {
+      "street": "Bomose Allé 12",
+      "postalCity": "DK-3200 Helsinge",
+      "country": "Danmark"
+    },
+    "phone": "+45 4876 4040",
+    "email": "linimatic@linimatic.dk",
+    "copyright": "\u00a9 {year} Linimatic A/S · CVR DK-20254386",
+    "privacy": "Privatlivspolitik",
+    "cookies": "Cookiepolitik",
+    "cookieSettings": "Cookieindstillinger"
+  },
+  "cookies": {
+    "heading": "Cookieindstillinger",
+    "description": "Nødvendige cookies er altid slået til, så siden kan fungere. Derudover vil vi gerne måle, hvordan siden bruges, så vi kan gøre den bedre — det sker anonymt og kun, hvis du siger ja.",
+    "readOur": "Læs vores",
+    "cookiePolicy": "cookiepolitik",
+    "and": "og",
+    "privacyPolicy": "privatlivspolitik",
+    "customize": "Tilpas",
+    "rejectAll": "Afvis alle",
+    "acceptAll": "Acceptér alle",
+    "savePreferences": "Gem præferencer",
+    "necessary": {
+      "title": "Nødvendige",
+      "status": "Altid aktive",
+      "description": "Nødvendige for at hjemmesiden fungerer. Disse kan ikke deaktiveres."
+    },
+    "analytics": {
+      "title": "Analyse",
+      "enabled": "Aktiveret",
+      "disabled": "Deaktiveret",
+      "toggleAriaLabel": "Slå analysecookies til/fra",
+      "description": "Hjælper os med at forstå, hvordan besøgende bruger vores side, så vi kan forbedre oplevelsen."
+    }
+  },
+  "services": {
+    "breadcrumb": "Ydelser",
+    "eyebrow": "Komplet værdikæde",
+    "heading": "Ydelser – fra støbning til levering",
+    "description": "Linimatic håndterer hele processen fra zinktrykstøbning til det færdige emne er kvalitetskontrolleret, pakket og klar til levering. Processer som tromling, vibrationsafgratning, slyngrensning, plastblæsning, CNC-bearbejdning og montage udføres internt på vores fabrik. Eventuel overfladebehandling varetages af nøje udvalgte og godkendte samarbejdspartnere. Den afsluttende kvalitetskontrol og pakning foretages altid hos Linimatic.",
+    "valueChainHeading": "Fra tegning til færdigt emne",
+    "catalogEyebrow": "Kompetencer",
+    "catalogHeading": "Seks discipliner, ét ansvar",
+    "catalogDescription": "Fra første prototype til færdig montage styrer vi hvert trin i værdikæden. De fleste af dem foregår i eget hus i Helsinge, mens overfladebehandling varetages af faste, godkendte samarbejdspartnere. Udforsk hver kompetence.",
+    "items": [
+      {
+        "title": "Prototyper",
+        "description": "Send dine CAD-filer, og få en fysisk prototype i zink inden for 2–4 uger — støbt på de samme maskiner og med de samme legeringer, som bruges i serieproduktionen.",
+        "specs": "2–4 ugers levering · STEP/IGES/Solidworks · 50–10.000 stk."
+      },
+      {
+        "title": "Højtryksstøbning",
+        "description": "9 robotiserede støbeceller i døgndrift. Emner fra 1\u2009g til 4\u2009kg i Zamak 2, 3, 5 og 8 med tolerancer i støbning ned til \u00b10,05\u2009mm.",
+        "specs": "20 – 315T · Zamak 2/3/5/8 · \u00b10,05\u2009mm i støbning"
+      },
+      {
+        "title": "CNC-efterbearbejdning",
+        "description": "Intern fræsning, boring, gevindskæring og afgratning. Emner bevæger sig fra støbning til bearbejdning uden at forlade bygningen — bevarer sporbarhed og reducerer leveringstid.",
+        "specs": "Fuld CNC · Tromling · Stramme sekundære tolerancer"
+      },
+      {
+        "title": "Overfladebehandling & coating",
+        "description": "Forkromning, pulverlakering, vådlakering, e-coating og lasergravering. Klasse\u00a0A kosmetiske finishes fra en kromklar støbeoverflade på 0,8\u2009Ra\u2009\u03bcm.",
+        "specs": "Krom · Pulverlak · Vådlak · Lasergravering"
+      },
+      {
+        "title": "Kvalitet & certificering",
+        "description": "CMM-verificerede dimensioner, SPC-overvåget processtyring og fuld PPAP-dokumentation. ISO 9001-certificeret siden 1993 — over 30 år med auditerede kvalitetssystemer.",
+        "specs": "ISO 9001 · CMM · SPC · PPAP · Fuld sporbarhed"
+      },
+      {
+        "title": "Montage og samling",
+        "description": "Vi står for montage og samling af zinkstøbte komponenter med øvrige dele — inklusive kvalitetskontrol, mærkning, pakning og kundespecifik emballering.",
+        "specs": "Montage · Mærkning · Pakning · Kvalitetskontrol"
+      }
+    ],
+    "matrixEyebrow": "Overblik",
+    "matrixHeading": "Kapabilitetsmatrix",
+    "matrixCol1": "Kapabilitet",
+    "matrixCol2": "Nøglespecifikationer",
+    "matrixCol3": "Certificeringer",
+    "capabilities": [
+      {
+        "service": "Prototyper",
+        "keySpecs": "Første prøver 2–4 uger",
+        "certifications": "—"
+      },
+      {
+        "service": "Højtryksstøbning",
+        "keySpecs": "9 støbeceller, 20 – 315T · Zamak 2/3/5/8 · \u00b10,05\u2009mm · 1\u2009g \u2013 4\u2009kg",
+        "certifications": "ISO 9001"
+      },
+      {
+        "service": "CNC-efterbearbejdning",
+        "keySpecs": "Fræsning · Boring · Gevindskæring · Afgratning",
+        "certifications": "—"
+      },
+      {
+        "service": "Overfladebehandling & coating",
+        "keySpecs": "Krom · Pulverlak · Vådlak · E-coat · Lasergravering",
+        "certifications": "—"
+      },
+      {
+        "service": "Kvalitet & certificering",
+        "keySpecs": "CMM · SPC · PPAP · Første-emne-inspektion · Fuld sporbarhed",
+        "certifications": "ISO 9001 siden 1993"
+      },
+      {
+        "service": "Montage og samling",
+        "keySpecs": "Montage · Mærkning · Pakning · Kvalitetskontrol",
+        "certifications": "—"
+      }
+    ],
+    "diffHeading": "Hvorfor den integrerede model betyder noget",
+    "diffDescription": "Konkurrenter outsourcer efterbearbejdning, coating eller montage til tredjeparter. Hvert overdrag introducerer forsinkelse, variation og gensidige bebrejdelser, når noget går galt. Vores model eliminerer alt det.",
+    "differentiators": [
+      {
+        "title": "Nul mellemled",
+        "text": "Dit emne forlader aldrig vores facilitet fra støbning til forsendelse. Ingen transportskader, ingen tabt sporbarhed, ingen kommunikationshuller mellem leverandører."
+      },
+      {
+        "title": "Ensartet kvalitet",
+        "text": "Ét kvalitetssystem styrer hvert trin. SPC-data fra støbningen indgår direkte i bearbejdningsparametrene. Coatingspecifikationer verificeres mod den samme CMM, der kontrollerede støbeemnet."
+      },
+      {
+        "title": "Én ansvarlig partner",
+        "text": "Én indkøbsordre, ét kontaktpunkt, én virksomhed ansvarlig for det færdige emne. Når din produktionslinje afhænger af vores emner, er den enkelhed afgørende."
+      }
+    ],
+    "ctaHeading": "Bring os din tegning.",
+    "ctaDescription": "Send dine CAD-filer eller specifikationer. Vi fortæller dig præcis, hvad der kan lade sig gøre, og giver dig et tilbud inden for 48 timer.",
+    "ctaButton": "Kontakt os for at komme i gang"
+  },
+  "whyZincPage": {
+    "breadcrumb": "Hvorfor zink",
+    "eyebrow": "Materialefordel",
+    "heading": "Hvorfor vælge zinktrykstøbning?",
+    "heroImageAlt": "To zinktrykstøbte emner med forkromet og pulverlakeret overflade",
+    "intro": "Zinktrykstøbning er en effektiv og økonomisk løsning til tekniske komponenter med høj præcision, stor styrke og flotte overflader. Hos Linimatic fremstiller vi både små og store zinkemner – fra få gram og op til 4 kg.\n\nSammenlignet med trykstøbning i aluminium giver zink kortere cyklustider, lavere energiforbrug og væsentligt længere levetid på støbeværktøjet. Samlet betyder det ofte lavere produktionsomkostninger pr. emne – især ved større serier og emner med en fordelagtig materialevægt.\n\nZinks gode flydeegenskaber gør det samtidig muligt at støbe komplekse geometrier, tynde godstykkelser, fine detaljer og snævre tolerancer. Det reducerer behovet for CNC-bearbejdning og anden efterbearbejdning og bidrager yderligere til en konkurrencedygtig pris på det færdige emne.",
+    "advantagesHeading": "10 grunde til at ingeniører vælger zink",
+    "advantages": [
+      {
+        "title": "Lavere produktionsomkostninger",
+        "description": "Korte cyklustider og en effektiv støbeproces kan give en lavere pris pr. emne – især ved produktion i større serier."
+      },
+      {
+        "title": "Komplekse geometrier",
+        "description": "Zinks gode flydeegenskaber gør det muligt at trykstøbe avancerede former, fine detaljer og integrerede funktioner i én komponent."
+      },
+      {
+        "title": "Snævre tolerancer",
+        "description": "Zinktrykstøbning giver høj målnøjagtighed og god dimensionsstabilitet, hvilket reducerer behovet for efterfølgende bearbejdning."
+      },
+      {
+        "title": "Tynde godstykkelser",
+        "description": "Zink kan udfylde meget smalle sektioner i støbeværktøjet og er derfor velegnet til komponenter med tynde vægge og fine detaljer."
+      },
+      {
+        "title": "Høj styrke og stivhed",
+        "description": "Zinklegeringer kombinerer stor mekanisk styrke med god stivhed og er velegnede til belastede tekniske komponenter."
+      },
+      {
+        "title": "Lang levetid på støbeværktøjet",
+        "description": "Zinks lave smeltetemperatur belaster støbeværktøjet mindre end aluminium og giver ofte en væsentligt længere værktøjslevetid. Når værktøjsomkostningen amortiseres over flere producerede emner, opnås en lavere værktøjsomkostning pr. emne."
+      },
+      {
+        "title": "Flotte overflader",
+        "description": "Zink giver en glat og ensartet støbt overflade, som er velegnet til både synlige komponenter og efterfølgende overfladebehandling."
+      },
+      {
+        "title": "Færre dele og arbejdsgange",
+        "description": "Gevind, ribber, tappe, logoer og andre funktioner kan ofte integreres direkte i støbningen. Det kan reducere antallet af komponenter og montageoperationer."
+      },
+      {
+        "title": "Effektiv elektromagnetisk afskærmning",
+        "description": "Zink er elektrisk ledende og kan anvendes til kabinetter og komponenter, der skal beskytte elektronik mod elektromagnetisk interferens."
+      },
+      {
+        "title": "Et genanvendeligt materiale",
+        "description": "Zink kan genanvendes igen og igen uden at miste sine grundlæggende egenskaber. Produktionsrester kan omsmeltes og føres tilbage i materialekredsløbet."
+      }
+    ],
+    "comparison": {
+      "heading": "Zink vs. alternativerne",
+      "description": "Direkte sammenligning af zinktrykstøbning mod aluminium, magnesium og plastinjektion. Dataene forklarer, hvorfor zink vinder, når præcision, overfladekvalitet og værktøjsøkonomi er de afgørende faktorer.",
+      "headers": ["Egenskab", "Zink", "Aluminium", "Magnesium", "Plast"],
+      "rows": [
+        {
+          "property": "Opnåelig tolerance",
+          "zinc": "\u00b10,05 mm",
+          "aluminum": "\u00b10,1 mm",
+          "magnesium": "\u00b10,08 mm",
+          "plastic": "\u00b10,1 mm"
+        },
+        {
+          "property": "Værktøjslevetid (skud)",
+          "zinc": "1M+",
+          "aluminum": "100–200K",
+          "magnesium": "200–300K",
+          "plastic": "500K–1M"
+        },
+        {
+          "property": "Cyklustid",
+          "zinc": "5–45s",
+          "aluminum": "30–120s",
+          "magnesium": "20–60s",
+          "plastic": "15–60s"
+        },
+        {
+          "property": "Min. vægtykkelse",
+          "zinc": "0,6 mm",
+          "aluminum": "1,5 mm",
+          "magnesium": "1,0 mm",
+          "plastic": "0,5 mm"
+        },
+        {
+          "property": "Overfladefinish (Ra)",
+          "zinc": "0,8 \u03bcm",
+          "aluminum": "1,6 \u03bcm",
+          "magnesium": "1,2 \u03bcm",
+          "plastic": "0,2 \u03bcm"
+        },
+        {
+          "property": "Trækstyrke",
+          "zinc": "280–400 MPa",
+          "aluminum": "150–300 MPa",
+          "magnesium": "200–250 MPa",
+          "plastic": "30–80 MPa"
+        },
+        {
+          "property": "Genanvendelighed",
+          "zinc": "100%",
+          "aluminum": "100%",
+          "magnesium": "100%",
+          "plastic": "Begrænset"
+        }
+      ],
+    "disclaimer": "Sammenligningen gælder funktionelt tilsvarende komponenter fremstillet i serieproduktion. Værdierne er vejledende, da resultatet afhænger af komponentens konstruktion og størrelse, den valgte legering, værktøjet og produktionsopsætningen."
+    },
+    "alloys": {
+      "heading": "Zamak-legeringsguide",
+      "description": "Zamak-legeringer er zink-aluminium-legeringer optimeret til trykstøbning. Den rette legering afhænger af dit emnes mekaniske krav, overfladefinishbehov og støbningskompleksitet. Vi støber alle fire standardkvaliteter og rådgiver om valg under DFM-gennemgangen.",
+      "colAlloy": "Legering",
+      "colTensile": "Trækstyrke",
+      "colElongation": "Forlængelse",
+      "colHardness": "Hårdhed (Brinell)",
+      "colUse": "Primær anvendelse",
+      "rows": [
+        {
+          "name": "Zamak 2",
+          "tensile": "397 MPa",
+          "elongation": "7%",
+          "hardness": "100",
+          "use": "Højstyrkede strukturelle emner, trykstøbte lejer, tungbelastede beslag"
+        },
+        {
+          "name": "Zamak 3",
+          "tensile": "283 MPa",
+          "elongation": "10%",
+          "hardness": "82",
+          "use": "Almen formål — den mest udbredte zinklegering. Fremragende belægningsegenskaber."
+        },
+        {
+          "name": "Zamak 5",
+          "tensile": "331 MPa",
+          "elongation": "7%",
+          "hardness": "91",
+          "use": "Højere styrke end Zamak 3 med god duktilitet. Automotive- og industrikomponenter."
+        },
+        {
+          "name": "Zamak 8",
+          "tensile": "374 MPa",
+          "elongation": "8%",
+          "hardness": "103",
+          "use": "Højeste styrke og krybestyrke af alle zinklegeringer. Velegnet til tungt belastede og varmepåvirkede emner."
+        }
+      ]
+    },
+    "faq": {
+      "heading": "Ofte stillede spørgsmål",
+      "items": [
+        {
+          "question": "Hvad er zinktrykstøbning?",
+          "answer": "Zinktrykstøbning er en fremstillingsproces, hvor smeltet zinklegering injiceres under højt tryk ind i en stålform. Varmkammerprocessen holder legeringen smeltet inde i maskinen, hvilket muliggør cyklustider på helt ned til 5–6 sekunder. Resultatet er et metalemne i netform med stramme tolerancer, fremragende overfladefinish og høj gentagelighed — egnet til produktionsvolumener fra hundredvis til millioner af emner."
+        },
+        {
+          "question": "Hvad er en Zamak-legering?",
+          "answer": "Zamak er en familie af zink-aluminium-legeringer, der specifikt er udviklet til trykstøbning. Navnet stammer fra de tyske forkortelser for bestanddelene: Zink, Aluminium, Magnesium og Kupfer (kobber). De fire standardkvaliteter — Zamak 2, 3, 5 og 8 — tilbyder forskellige balancer mellem styrke, duktilitet og støbbarhed. Zamak 3 er den mest udbredte, mens Zamak 2 har den højeste styrke."
+        },
+        {
+          "question": "Hvad er forskellen mellem zink og Zamak?",
+          "answer": "Zink er grundelementet. Zamak er en specifik familie af zinklegeringer, der er konstrueret til trykstøbning og indeholder præcist kontrollerede mængder aluminium (3,5–4,3%), magnesium og i nogle kvaliteter kobber. Rent zink er for blødt til de fleste tekniske applikationer — legeringselementerne i Zamak giver den styrke, hårdhed og støbbarhed, der muliggør præcisionstrykstøbning."
+        },
+        {
+          "question": "Er zinktrykstøbning stærkere end aluminium?",
+          "answer": "Ja, hvad angår trækstyrke. Zamak-legeringer varierer fra 283 til 397 MPa, mens de fleste trykstøbte aluminiumlegeringer leverer 150–300 MPa. Zink opnår også strammere tolerancer i støbning (±0,05 mm vs. ±0,1 mm) og producerer kromklare overflader uden sekundær polering. Aluminium er dog lettere (2,7 g/cm³ vs. 6,6 g/cm³), så valget afhænger af, om styrke-til-vægt-forholdet eller absolut præcision er prioriteten."
+        },
+        {
+          "question": "Hvorfor ikke vælge magnesium i stedet for zink?",
+          "answer": "Magnesium er det letteste af de tre metaller — endnu lettere end aluminium. Til gengæld holder zinks trykstøbeforme typisk over 1 million skud mod magnesiums 200.000–300.000, tolerancerne er strammere (±0,05 mm vs. ±0,08 mm), og de stærkeste zamak-legeringer overgår magnesiums trækstyrke (op til 397 MPa vs. 200–250 MPa). Magnesium kan være det rigtige valg, når vægt er den altafgørende faktor — for de fleste tekniske emner giver zink bedre værktøjsøkonomi, præcision og styrke."
+        },
+        {
+          "question": "Kan zinktrykstøbte emner forkrommes?",
+          "answer": "Ja, og det er en af zinks stærkeste fordele. Zinktrykstøbninger har en glat, ensartet overflade direkte fra formen, hvilket giver et fremragende udgangspunkt for forkromning. Overfladen skal dog altid poleres, før den forkromes, for at opnå et fejlfrit, spejlblankt resultat. Det gør zink til det foretrukne materiale til synlige, dekorative komponenter i møbler, belysning og forbrugerprodukter, hvor en fejlfri kromoverflade er ufravigelig."
+        },
+        {
+          "question": "Korroderer zinktrykstøbte emner uden overfladebehandling?",
+          "answer": "Ubehandlet zink har god naturlig korrosionsbestandighed og kan i mange tilfælde bruges uden overfladebehandling til indendørs eller skjulte komponenter. Til udendørs brug, fugtige miljøer eller når udseende og slidstyrke er vigtige, tilbyder vi et bredt udvalg af overfladebehandlinger — vi hjælper med at vælge den rette ud fra emnets anvendelse."
+        },
+        {
+          "question": "Hvilke industrier bruger zinktrykstøbning?",
+          "answer": "Zinktrykstøbte emner leveres til mange forskellige segmenter: industri, automotive, telekommunikation, kamerahuse samt møbel- og designprodukter. Fælles for kunderne er behovet for høj præcision, kompleks geometri og pålidelig kvalitet — i både små og store serier."
+        },
+        {
+          "question": "Er zinktrykstøbning miljøvenligt?",
+          "answer": "Zink er 100% genanvendeligt uden forringelse af materialegenskaberne. Det lavere smeltepunkt (385°C vs. 660°C for aluminium) betyder mindre energi pr. støbecyklus. Hos Linimatic genindsmæltes stort set alt støbespild — indløb, overløb og fejlemner — og genanvendes direkte i produktionen. Vi tilbyder desuden blyfrie zinklegeringer via vores Zinkers-produktlinje."
+        },
+        {
+          "question": "Hvad koster zinktrykstøbning?",
+          "answer": "Værktøjsomkostningen afhænger af emtets kompleksitet og antal hulrum og varierer typisk fra 80.000 til 600.000 kr. Zinkforme holder dog over 1 million skud — 5–10× længere end aluminiumforme — hvilket dramatisk reducerer pr.-emne-værktøjsomkostningen ved volumen. Stykpriser afhænger af emnevægt, legering, cyklustid og sekundære operationer. Send os din tegning for et specifikt tilbud — vi svarer inden for 48 timer."
+        }
+      ]
+    },
+    "ctaHeading": "Stadig i tvivl? Tal med vores ingeniører.",
+    "ctaDescription": "Vi fortæller dig ærligt, om zink er det rigtige til dit emne — eller anbefaler et alternativ, hvis det ikke er. Intet salgspres, bare teknisk ekspertise.",
+    "ctaButton": "Kontakt os for at komme i gang"
+  },
+  "aboutPage": {
+    "breadcrumb": "Om os",
+    "eyebrow": "Siden 1967",
+    "heading": "Danmarks største dedikerede zinktrykstøberi.",
+    "story": [
+      "Linimatic er et dansk zinktrykstøberi med speciale i højtryksstøbning af zinkemner til industrien. Siden 1967 har vi produceret komponenter i zink i Helsinge, Danmark, med fokus på kompleks geometri, snævre tolerancer, høj finish og stabil kvalitet.",
+      "Som Danmarks største dedikerede zinktrykstøberi hjælper vi virksomheder i hele Danmark og Europa med udvikling og produktion af tekniske zinkemner, hvor kravene til præcision, funktion og overflade er høje. Vores erfaring med zinktrykstøbning gør os til en stærk partner, når emnet er vanskeligt, og løsningen skal fungere sikkert i serieproduktion. Vi leverer endda til kunder helt i Kina.",
+      "Hos Linimatic samler vi de afgørende processer frem til overfladebehandling under ét tag. Det giver kontrol over kvalitet, proces, levering og dokumentation fra første prøve til færdigt emne i zink. Efterfølgende processer og overfladebehandling udføres i tæt samarbejde med faste, specialiserede underleverandører.",
+      "Vores kunder vælger Linimatic, når de har brug for højtryksstøbte zinkemner med dansk produktion, høj kvalitet og konkurrencedygtige priser.",
+      "De bedste til det sværeste er ikke blot et slogan. Det er den måde, vi arbejder med zinktrykstøbning på."
+    ],
+    "facilityAlt": "Linimatics produktionsfacilitet i Helsinge, Danmark",
+    "stats": [
+      { "value": "1967", "label": "Grundlagt" },
+      { "value": "ISO 9001", "label": "Siden 1993" },
+      { "value": "100%", "label": "Dansk produktion" },
+      { "value": "199 kWp", "label": "Solcelleanlæg" },
+      { "value": "30+", "label": "Specialister" }
+    ],
+    "certificationsEyebrow": "Standarder",
+    "certificationsHeading": "Certificeringer & compliance",
+    "certifications": [
+      {
+        "name": "ISO 9001 — Kvalitetsledelse",
+        "detail": "Certificeret siden 1993 — over 30 år med uafhængigt auditeret kvalitetsstyring. Dækker den komplette værdikæde fra indgående materiale til støbning, bearbejdning, overfladebehandling, montage og slutinspektion."
+      },
+      {
+        "name": "Miljøcompliance",
+        "detail": "Overholder EU's miljøregler, herunder REACH og RoHS. Aktive programmer for affaldsreduktion og energistyring. Zinkspild genanvendes direkte i produktion med nærmest nul materialespild."
+      },
+      {
+        "name": "Materialecertificeringer",
+        "detail": "Fuld materialesporing på alle Zamak-legeringer. Indgående materialcertifikater verificeres mod specifikation. Batchniveausporbarhed fra råmateriale til færdigt emne."
+      }
+    ],
+    "sustainabilityEyebrow": "Ansvar",
+    "sustainabilityHeading": "Bæredygtighed der er målt, ikke påstået",
+    "sustainability": {
+      "p1": "Zink er uendeligt genanvendeligt. Hos Linimatic genindsmæltes stort set alt støbningsspild — indløb, overløb og kasserede emner — og genindføres i produktionen. Vores lukkede kredsløbsgenanvendelse betyder, at nærmest intet zinkspild forlader faciliteten. Det lave smeltepunkt for zink (385\u00b0C vs. 660\u00b0C for aluminium) oversættes direkte til lavere energiforbrug pr. støbecyklus.",
+      "p2": "Vi investerer i energieffektivt udstyr, LED-belysning i faciliteten og varmegenvindingssystemer. Vores blyfrie Zinkers-produktlinje demonstrerer, at miljøansvar og produktpræstation ikke er modsætninger. For indkøbsteams med bæredygtighedsrapporteringskrav leverer vi verificerede data om genanvendelsesrater, energiforbrug og affaldsmålinger."
+    },
+    "industriesHeading": "Betroet på tværs af brancher",
+    "industriesDescription": "Zinktrykstøbning er relevant for alle industrier, hvor præcision, overfladekvalitet og pålidelighed er afgørende. Her er nogle af de sektorer vi arbejder med\u2009\u2014\u2009men er din branche ikke nævnt, vil vi stadig gerne høre fra dig.",
+    "industries": [
+      {
+        "name": "Møbler & design",
+        "clients": "Fritz Hansen · One Collection · Montana · HOWE"
+      },
+      {
+        "name": "Belysning",
+        "clients": "Frandsen · Belux"
+      },
+      {
+        "name": "Byggeri & HVAC",
+        "clients": "VELUX · ClimaWin"
+      },
+      {
+        "name": "Forbrugerelektronik",
+        "clients": "Bang & Olufsen"
+      },
+      {
+        "name": "Automotive",
+        "clients": "Europæiske Tier 1 & 2-leverandører"
+      },
+      {
+        "name": "Industri & værktøj",
+        "clients": "DeWalt · Ditlev Burke"
+      }
+    ],
+    "team": {
+      "heading": "Tal med dem, der udfører arbejdet",
+      "description": "Ingen callcentre. Ingen account managers, der aldrig har set en støbemaskine. Du taler direkte med de ingeniører og specialister, der håndterer dit projekt.",
+      "members": [
+        {
+          "name": "Jan V. Jørgensen",
+          "role": "Administrerende direktør",
+          "focus": "Strategi & nøglekunder",
+          "phone": "+45 2343 3667",
+          "email": "jaj@linimatic.dk"
+        },
+        {
+          "name": "Torben M. Jensen",
+          "role": "Teknisk & salg",
+          "focus": "DFM-gennemgang & projektledelse",
+          "phone": "+45 5077 0218",
+          "email": "tmj@linimatic.dk"
+        },
+        {
+          "name": "René Johnsen",
+          "role": "Teknisk & salg",
+          "focus": "Nye projekter & kundesupport",
+          "phone": "+45 5077 0211",
+          "email": "rj@linimatic.dk"
+        }
+      ]
+    },
+    "ctaHeading": "Besøg os i Helsinge.",
+    "ctaDescription": "Se faciliteten, mød teamet, og drøft dit projekt ansigt til ansigt. Vi ligger 60\u2009km nord for København.",
+    "ctaButton": "Kontakt os for at komme i gang"
+  },
+  "contactPage": {
+    "breadcrumb": "Kontakt",
+    "eyebrow": "Kontakt os",
+    "heading": "Lad os tage hul på en dialog om dit projekt.",
+    "description": "Udfyld kontaktformularen, eller ring direkte til en af vores teknikere, og få konkret teknisk sparring om mulighederne for trykstøbning i zink.",
+    "responsePromise": "Svar inden for 24 timer",
+    "form": {
+      "name": "Navn",
+      "company": "Virksomhed",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "subject": "Emne",
+      "subjectSelect": "Vælg emne",
+      "subjectNew": "Nyt projekt",
+      "subjectExisting": "Eksisterende projekt",
+      "subjectGeneral": "Generel henvendelse",
+      "subjectTemadag": "Temadag",
+      "volume": "Forventet volumen",
+      "volumeSelect": "Vælg volumeninterval",
+      "volume1to5k": "1.000–5.000 stk.",
+      "volume5to15k": "5.000–15.000 stk.",
+      "volume15to50k": "15.000–50.000 stk.",
+      "volume50to100k": "50.000–100.000 stk.",
+      "volumeOver100k": "Over 100.000 stk.",
+      "message": "Projektbeskrivelse",
+      "privacyNotice": "Når du sender formularen, bruger Linimatic A/S dine oplysninger til at besvare din henvendelse. Formularen håndteres af Vercel, og beskeden leveres via Resend til vores Linimatic-postkasse. Vi kan aftale, hvordan tekniske tegninger deles, efter vi har talt sammen. Læs mere i vores <link>privatlivspolitik</link>.",
+      "honeypotLabel": "Lad dette felt stå tomt",
+      "submit": "Send forespørgsel",
+      "sending": "Sender...",
+      "successTitle": "Besked sendt",
+      "successMessage": "Tak for din henvendelse. Vi svarer inden for 24 timer på hverdage.",
+      "error": {
+        "missing_fields": "Udfyld venligst alle påkrævede felter.",
+        "invalid_email": "Indtast venligst en gyldig e-mailadresse.",
+        "rate_limited": "Der er sendt for mange beskeder fra denne forbindelse. Vent et øjeblik og prøv igen, eller skriv direkte til linimatic@linimatic.dk.",
+        "too_long": "Et eller flere felter overskrider den maksimale længde.",
+        "send_failed": "Din besked kunne ikke sendes. Prøv igen eller skriv direkte til linimatic@linimatic.dk."
+      }
+    },
+    "yourContacts": "Dine kontakter",
+    "companyDetails": "Virksomhedsoplysninger",
+    "hours": "Åbningstider",
+    "hoursWeekday": "Mandag–fredag: 07:00–16:00",
+    "hoursWeekend": "Lørdag–søndag: Lukket"
+  },
+  "contactTabs": {
+    "people": "Kontaktpersoner",
+    "form": "Kontaktformular"
+  },
+  "contactPeoplePage": {
+    "breadcrumb": "Kontaktpersoner",
+    "eyebrow": "Kontakt os",
+    "heading": "Kontaktpersoner",
+    "intro": "Tøv ikke med at kontakte Linimatic for at styrke dine løsninger og dermed optimere dine muligheder.",
+    "team": [
+      {
+        "name": "Torben M. Jensen",
+        "role": "Teknik og salg",
+        "phone": "+45 5077 0218",
+        "email": "tmj@linimatic.dk"
+      },
+      {
+        "name": "René Johnsen",
+        "role": "Teknik og salg",
+        "phone": "+45 5077 0211",
+        "email": "rjo@linimatic.dk"
+      },
+      {
+        "name": "Jan V. Jørgensen",
+        "role": "Administrerende direktør / salg",
+        "phone": "+45 2343 3667",
+        "email": "jaj@linimatic.dk"
+      },
+      {
+        "name": "Rikke Østrup Fisker",
+        "role": "Logistik",
+        "phone": "+45 5077 0224",
+        "email": "rif@linimatic.dk"
+      },
+      {
+        "name": "Thomas Hjorth",
+        "role": "Produktion",
+        "phone": "+45 5077 0216",
+        "email": "thj@linimatic.dk"
+      },
+      {
+        "name": "Dorthe Kondrup",
+        "role": "Finans",
+        "phone": "+45 5077 0225",
+        "email": "dmk@linimatic.dk"
+      }
+    ]
+  },
+  "newsPage": {
+    "breadcrumb": "Nyheder",
+    "eyebrow": "Nyt fra Linimatic",
+    "heading": "Nyheder",
+    "description": "Arrangementer, investeringer og historier fra zinktrykstøberiet i Helsinge.",
+    "empty": "Der er ingen nyheder lige nu — kig forbi igen senere.",
+    "readMore": "Læs mere",
+    "backToOverview": "Alle nyheder",
+    "latestHeading": "Seneste nyt",
+    "moreHeading": "Flere nyheder",
+    "ctaHeading": "Skal vi tale om dit emne?",
+    "ctaDescription": "Ring eller skriv — så vender vi tilbage med et bud på, hvordan zink kan løse opgaven.",
+    "ctaButton": "Kontakt os",
+    "items": {
+      "zink-temadag-september-2026": {
+        "title": "Zink Temadag den 16. september 2026",
+        "excerpt": "Vi holder gratis temadag om zinktrykstøbning hos Linimatic i Helsinge — fra materialevalg og konstruktion til produktion og færdigt emne.",
+        "body": [
+          "Den 16. september 2026 åbner vi dørene til produktionen i Helsinge for en gratis temadag om zinktrykstøbning. Dagen varer omkring fire timer og henvender sig til konstruktører, projektledere og indkøbere, der vil vide mere om, hvad zink kan.",
+          "Programmet kommer hele vejen rundt: zink som materiale og hvor det kommer fra, sammenligning med aluminium og plast, selve støbeprocessen, konstruktion i zink med de muligheder og begrænsninger det giver, CO2-aftryk, overfladebehandling, støbeværktøjer og mulighederne for prototyper. Undervejs er der rundvisning i produktionen, så deltagerne ser maskinerne arbejde.",
+          "Tag gerne en potentiel komponent eller en konkret problemstilling med — så gennemgår vi den på dagen. Programmet tilpasses altid deltagerne.",
+          "Tilmelding og spørgsmål: Jan V. Jørgensen, jaj@linimatic.dk eller +45 2343 3667."
+        ]
+      }
+    }
+  },
+  "casesPage": {
+    "breadcrumb": "Cases",
+    "eyebrow": "Kundeeksempler",
+    "heading": "Cases",
+    "description": "Se eksempler på, hvordan vi i tæt samarbejde med vores kunder omsætter idéer og tekniske krav til færdige løsninger i zink. Her præsenterer vi udvalgte projekter, udfordringer og resultater – suppleret med kundernes egne erfaringer med samarbejdet.",
+    "items": [
+      {
+        "slug": "supplier-proximity",
+        "client": "Ditlev Burke Industrial Tools A/S",
+        "title": "Der er fordele ved at have din leverandør tæt på",
+        "industry": "Industri & værktøj",
+        "metric": "Det er muligt at konkurrere med Asien · Automatiseret trykstøbning i Danmark",
+        "result": "Hele håndtaget produceres i dag i Danmark i stedet for i Asien."
+      },
+      {
+        "slug": "velux-kanban",
+        "client": "VELUX",
+        "title": "Smidigt samarbejde med forecast aftale",
+        "industry": "Byggeri & HVAC",
+        "metric": "Årligt fornyet forecast-aftale · Robot indført i produktionslinjen",
+        "result": "Et tæt og smidigt samarbejde for begge parter — uden konstant genforhandling, med løbende sparring og videndeling mellem Linimatic og VELUX."
+      },
+      {
+        "slug": "frandsen-downlight",
+        "client": "Frandsen",
+        "title": "Hurtigere, smartere - og fremstillet i Danmark",
+        "industry": "Belysning",
+        "metric": "Omlagt fra kinesisk til dansk produktion under tidspres · Støbt i én proces",
+        "result": "Lamperne blev leveret til tiden til det amerikanske marked, produceret i Danmark i stedet for Kina — og Frandsen bruger nu i stigende grad Linimatic til flere projekter."
+      },
+      {
+        "slug": "one-collection-finn-juhl",
+        "client": "One Collection",
+        "title": "At relancere et klassisk design",
+        "industry": "Møbler & design",
+        "metric": "Finn Juhl-logo støbt direkte i beslaget · Udstillet på designmessen i Milano, 2015",
+        "result": "Det nye Finn Juhl 'Nyhavn'-spisebord (model FJ 5360) blev lanceret med de præcisionsstøbte zinkbeslag — med Finn Juhl-logoet støbt direkte ind i beslaget — og udstillet på designmessen i Milano den 13. april 2015."
+      }
+    ],
+    "ctaHeading": "Har du en lignende udfordring?",
+    "ctaDescription": "Send os dine tegninger, og vi fortæller dig, hvad der kan lade sig gøre. De projekter, andre kalder vanskelige, er dem, vi har bygget denne virksomhed op omkring.",
+    "ctaButton": "Kontakt os for at komme i gang"
+  },
+  "caseDetail": {
+    "challengeHeading": "Udfordringen",
+    "approachHeading": "Vores tilgang",
+    "resultHeading": "Resultatet",
+    "capabilitiesHeading": "Anvendte kompetencer",
+    "ctaHeading": "Har du et emne, andre ikke vil byde på?",
+    "ctaDescription": "Send os dine tegninger. De projekter, andre støberier kalder vanskelige, er dem, vi har bygget denne virksomhed op omkring.",
+    "ctaButton": "Kontakt os for at komme i gang",
+    "items": {
+      "supplier-proximity": {
+        "metaTitle": "Ditlev Burke — håndtag hjemtaget fra Asien",
+        "client": "Ditlev Burke Industrial Tools A/S",
+        "industry": "Industri & værktøj",
+        "title": "Der er fordele ved at have din leverandør tæt på",
+        "metric": "Det er muligt at konkurrere med Asien · Automatiseret trykstøbning i Danmark",
+        "overview": "Linimatic A/S oplever stigende efterspørgsel fra kunder, der ønsker at flytte produktionen af zinkstøbte emner hjem til Danmark. Ditlev Burke Industrial Tools A/S i Asnæs er én af dem: et håndtag til professionelt værktøj indeholder i dag en zinkdel fra Linimatic, og hele håndtaget samles nu i Danmark i stedet for i Asien.",
+        "challenge": "\"Vi er utroligt glade for de projekter, vi har kørt i samarbejde med Linimatic A/S. Senest har vi samarbejdet om et nyt håndtag, som indeholder en zinkdel, der er fremstillet af Linimatic. Resultatet er, at vi nu selv kan fremstille plastdelen og formontere den, så hele håndtaget bliver fremstillet i Danmark i stedet for som tidligere i Asien,\" siger Camilla Burke Vedsmand, administrerende direktør hos Ditlev Burke Industrial Tools A/S, der ligger i Asnæs på Sjælland.",
+        "approach": "\"Når man som med Linimatic har en automatiseret produktionslinje, har vi ud fra vores egne erfaringer kunnet konstatere, at det er muligt at konkurrere med Asien,\" siger Camilla Burke Vedsmand. Blandt andre åbenlyse fordele ved partnerskabet nævner hun det tætte samarbejde, kvaliteten og pålideligheden: \"Kommunikationen inden for landets grænser er bare så meget hurtigere og sikrer derfor fremdrift i projekterne. Det har været en væsentlig motivation for at udvikle det langsigtede samarbejde med Linimatic i Nordsjælland.\" \"Det er vigtigt for os, at vi har den samme ensartede forståelse og tilgang til opgaverne. Linimatic A/S er ekstremt dygtige teknisk, og vi er særligt glade for, at samarbejdet også understøtter vores filosofi om at fastholde arbejdspladser i Danmark,\" tilføjer hun.",
+        "result": "Hele håndtaget produceres i dag i Danmark i stedet for i Asien.",
+        "capabilities": ["die-casting", "quality"]
+      },
+      "velux-kanban": {
+        "metaTitle": "VELUX — forecast-aftale og robotautomatisering",
+        "client": "VELUX",
+        "industry": "Byggeri & HVAC",
+        "title": "Smidigt samarbejde med forecast aftale",
+        "metric": "Årligt fornyet forecast-aftale · Robot indført i produktionslinjen",
+        "overview": "VELUX-afdelingen Gåsdal har i flere år kørt på en fast Kanban- og forecast-aftale med Linimatic, der gør samarbejdet lettere og mere forudsigeligt for begge parter. Aftalen fornyes hvert år, indeholder indbygget prisbeskyttelse mod udsving i råvarer og valuta — og har blandt andet ført til, at en robot nu håndterer emnerne i produktionen.",
+        "challenge": "\"Selvfølgelig er der en prisaftale med indbygget beskyttelse af begge parter, f.eks. i forhold til udsving i råvarepriser og valutakurser. Men måske endnu vigtigere gør aftalen det også muligt for Linimatic at planlægge og tilpasse produktionskapaciteten og dermed være i stand til at levere hurtigt, i den aftalte kvalitet og til den aftalte tid,\" fortæller Lars Daugaard Pedersen, strategisk indkøber hos VELUX.",
+        "approach": "\"Vi er selvfølgelig altid på jagt efter besparelser og talte med Linimatic om mulighederne for at reducere prisen en smule. Linimatic foreslog, at man kunne implementere en robot i produktionslinjen. Vi skulle ikke betale for robotten, men en lille investering i en særlig griber, der er specielt tilpasset vores emner. Med robotten sparer vi nu lønnen til den operatør, der havde til opgave at håndtere vores emne, og resultatet er en fornuftig besparelse,\" forklarer Lars Daugaard Pedersen. \"Tingene kører bare — og en klar fordel er, at vi ikke behøver at forhandle hele tiden. Vi har en rigtig god sparring med Linimatics teknikere, og der er altid mulighed for at komme med en ny idé.\"",
+        "result": "Et tæt og smidigt samarbejde for begge parter — uden konstant genforhandling, med løbende sparring og videndeling mellem Linimatic og VELUX.",
+        "capabilities": ["die-casting", "quality"]
+      },
+      "frandsen-downlight": {
+        "metaTitle": "Frandsen — fra Kina til Danmark på kort varsel",
+        "client": "Frandsen",
+        "industry": "Belysning",
+        "title": "Hurtigere, smartere - og fremstillet i Danmark",
+        "metric": "Omlagt fra kinesisk til dansk produktion under tidspres · Støbt i én proces",
+        "overview": "Frandsen stod klar til at levere downlight-lamper til den internationale designvirksomhed Concrete til det amerikanske marked, da den kinesiske leverandør meldte fra kort før produktionsstart. Linimatic omlagde delene til trykstøbt zink og fik processen i gang med meget kort varsel — støbt i ét trin i stedet for flere værktøjstrin, og med ekstra skift i weekenden for at holde tidsplanen.",
+        "challenge": "\"Vi havde meget kort tid til at finde et alternativ. Det så meget svært ud. Men da vi kontaktede Linimatic og fortalte Torben om projektet, sagde han bare: 'Intet problem, vi skal nok lave det!' Og han sagde det på sådan en rolig måde. Og de gjorde det — vi var faktisk meget overraskede over, i hvor høj grad det lykkedes,\" fortæller Andreas Olesen, konstruktionsingeniør hos Frandsen Project.",
+        "approach": "\"Det var virkelig en ekstremt hurtig proces — faktisk troede jeg ikke på det, må jeg indrømme. En af fordelene var, at lamperne kunne støbes i én proces — og dermed blev der sparet tid. Så når alt kommer til alt, fik vi en smidigere og hurtigere proces — og et smartere produkt, produceret lige her i Danmark,\" forklarer Andreas Olesen. \"Den hurtige proces er helt sikkert unik for dette projekt. Der blev lavet en tidsplan, og kun små fejl var tilladt for at holde sig på sporet. Og de små ting, som trods alt mislykkedes, dem klarede Linimatic med et weekendskift og en ekstrem fleksibilitet. Det er meget tydeligt, at de er kompetente inden for projektledelse — en meget positiv oplevelse for os under dette projekt. Man ved præcist, hvor lang tid alting tager — de styrer processerne 100%.\"",
+        "result": "Lamperne blev leveret til tiden til det amerikanske marked, produceret i Danmark i stedet for Kina — og Frandsen bruger nu i stigende grad Linimatic til flere projekter.",
+        "capabilities": ["prototyping", "die-casting"]
+      },
+      "one-collection-finn-juhl": {
+        "metaTitle": "One Collection — Finn Juhl-bordet relanceret i trykstøbt zink",
+        "client": "One Collection",
+        "industry": "Møbler & design",
+        "title": "At relancere et klassisk design",
+        "metric": "Finn Juhl-logo støbt direkte i beslaget · Udstillet på designmessen i Milano, 2015",
+        "overview": "Da møbelvirksomheden One Collection besluttede at relancere Finn Juhls klassiske spisebord med en avanceret udtræksplade, blev Linimatic involveret i at fremstille de præcise beslag, der skulle bære tillægspladerne. Pladerne skulle både kunne hænge og ligge på en helt bestemt måde — og beslagene er både en teknisk funktion og en synlig del af det ikoniske design.",
+        "challenge": "\"Ofte er beslag et nødvendigt onde. Men hos Finn Juhl har beslagene en teknisk funktion, og de er også en del af det visuelle design. Det giver nogle særlige udfordringer for producenterne. Jo mere enkle tingene ser ud, jo mere komplicerede kan de være at fremstille. Det er faktisk det, vi har oplevet,\" fortæller Henrik Sørensen, administrerende direktør i One Collection.",
+        "approach": "\"Ved at fremstille beslagene i trykstøbt zink kunne vi få det ønskede visuelle udtryk — og samtidig have den høje grad af præcision. Det var også muligt at støbe Finn Juhl-logoet under støbeprocessen — og dermed sparede vi en arbejdsgang,\" fortæller Henrik Sørensen og fortsætter: \"Samarbejdet under processen er i høj grad en dialog. Linimatic har nogle kompetencer, som vi ikke har, og de blev inddraget. Desuden er det vigtigt, at man føler engagement, passion — at leverandøren også synes, at produktet er interessant.\"",
+        "result": "Det nye Finn Juhl 'Nyhavn'-spisebord (model FJ 5360) blev lanceret med de præcisionsstøbte zinkbeslag — med Finn Juhl-logoet støbt direkte ind i beslaget — og udstillet på designmessen i Milano den 13. april 2015.",
+        "capabilities": ["die-casting", "quality"]
+      }
+    }
+  },
+  "zinkersPage": {
+    "breadcrumb": "Sinkers",
+    "eyebrow": "Blyfrit fiskegrej",
+    "heading": "Sinkers — synk til trawl og industrielt fiskegrej.",
+    "intro": "Linimatic støber sinkers i zink til trawl, not og andet industrielt fiskeudstyr — et miljøvenligt alternativ til blysinkers, der har været forbudt at importere og sælge i Danmark siden 2002. Sortimentet spænder fra 50 til 2.000 gram i ring- og tøndeform, med huldiametre tilpasset kundens grej.",
+    "heroImageAlt": "Ring- og tøndesinkers i zink fra Linimatic",
+    "whyHeading": "Hvorfor zink og ikke bly",
+    "whyDescription": "Bly har været forbudt som sinkermateriale i Danmark siden 2002. Zink vejer op imod bly og er samtidig ugiftigt.",
+    "why": [
+      {
+        "title": "Ugiftigt",
+        "description": "I modsætning til bly udgør zink ingen forgiftningsrisiko for havfugle og havmiljø, hvis en sinker går tabt eller slides ned i vandet."
+      },
+      {
+        "title": "Lovligt siden 2002",
+        "description": "Blysinkers har været forbudt at importere og sælge i Danmark siden 2002. Zink er det direkte, godkendte alternativ med sammenlignelig vægt."
+      },
+      {
+        "title": "Støbt i Helsinge",
+        "description": "Sinkers støbes på Linimatics eget støberi i Helsinge og kan tilpasses i vægt og huldiameter efter kundens grej og produktionsvolumen."
+      }
+    ],
+    "applicationsHeading": "Anvendelsesområder",
+    "applications": [
+      "Trawlfiskeri",
+      "Notfiskeri",
+      "Industrielt fiskegrej",
+      "Ring- og tøndesinkers, 50–2.000 gram"
+    ],
+    "ctaHeading": "Interesseret i sinkers?",
+    "ctaDescription": "Kontakt os for priser og specifikationer, eller ring direkte på +45 4876 4040.",
+    "ctaButton": "Kontakt os"
+  },
+  "serviceDetail": {
+    "prototyping": {
+      "title": "Prototyper i zink",
+      "eyebrow": "Fra koncept til første prøve",
+      "overview": "I nogle projekter kan det være en fordel at fremstille prototyper i zink, før der investeres i det endelige formværktøj. Prototyperne kan fremstilles ved at kombinere støbt zink med efterfølgende CNC-bearbejdning.\n\nDet giver mulighed for at afprøve blandt andet funktion, montage, pasform og udtryk i det rigtige materiale. Vi vurderer sammen med kunden, om metoden er relevant, og sørger for hele forløbet fra afklaring til færdige prototyper.",
+      "processHeading": "Sådan fremstiller vi din prototype i zink",
+      "process": [
+        {
+          "step": "Afklaring",
+          "description": "Sammen med jer vurderer vi, om prototyper i zink er den rette metode til jeres projekt, og aftaler omfang og tidsplan for forløbet."
+        },
+        {
+          "step": "Støbning",
+          "description": "Der udstøbes små, specialfremstillede zinkklodser, som er egnet til den videre CNC-bearbejdning."
+        },
+        {
+          "step": "CNC-bearbejdning",
+          "description": "De udstøbte zinkklodser CNC-bearbejdes til færdige prototyper, helt efter jeres tegninger og specifikationer."
+        },
+        {
+          "step": "Færdig prototype",
+          "description": "Den færdige prototype leveres klar til afprøvning af funktion, montage, pasform og udtryk i det rigtige materiale. Normalt forløb er 2-4 uger."
+        }
+      ],
+      "specsEyebrow": "Tekniske specifikationer",
+      "specsHeading": "Prototypekapabiliteter i overblik",
+      "specsNote": "Samlet forløb: 2-4 uger",
+      "specs": [
+        { "label": "Trin 01", "value": "Afklaring" },
+        { "label": "Trin 02", "value": "Støbning" },
+        { "label": "Trin 03", "value": "CNC-bearbejdning" },
+        { "label": "Trin 04", "value": "Færdig prototype" }
+      ],
+      "advantagesHeading": "Hvorfor prototypen bør laves hos dit produktionsstøberi",
+      "advantages": {
+        "p1": "I nogle tilfælde kan en zink-prototype være en god og billig løsning til at få eftervist jeres idé og materialets egnethed til netop jeres anvendelse — før I investerer i det endelige produktionsværktøj."
+      },
+      "faqHeading": "Ofte stillede spørgsmål",
+      "faq": [
+        {
+          "question": "Hvor hurtigt kan jeg få en prototype i zink?",
+          "answer": "Det afhænger af emnets kompleksitet og omfanget af CNC-bearbejdning. Kontakt os med din tidsplan, og vi vender tilbage med et konkret bud på gennemførlighed og leveringstid."
+        },
+        {
+          "question": "Hvordan kombineres støbning og CNC-bearbejdning i en prototype?",
+          "answer": "Der udstøbes små, specialfremstillede zinkklodser, som er egnet til den videre CNC-bearbejdning."
+        }
+      ],
+      "relatedHeading": "Relaterede ydelser",
+      "ctaHeading": "Klar til at starte prototypen?",
+      "ctaDescription": "Kontakt os, så vurderer vi sammen, om prototyper i zink er den rette løsning til dit projekt — med ærlig feedback om proces, tidsplan og pris.",
+      "ctaButton": "Send din tegning"
+    },
+    "dieCasting": {
+      "title": "Højtryksstøbning",
+      "eyebrow": "Danmarks største zinkstøberi",
+      "overview": "Højtryksstøbning er kernen i alt, hvad vi laver. I støberiet i Helsinge kører 9 robotiserede støbeceller døgnet rundt og producerer zinkemner fra 1 gram til 4 kilo — fra små præcisionsdele til store, komplekse emner. Processen overvåges løbende, så kvaliteten er den samme fra første til sidste skud. Med tolerancer ned til \u00b10,05\u2009mm direkte fra formen kan mange emner bruges helt uden efterbearbejdning. Det gør os til Danmarks største dedikerede zinktrykstøberi — og til det naturlige valg, når emnet er svært, og kravene er høje.",
+      "processHeading": "Fra smeltet legering til færdigt støbeemne",
+      "process": [
+        {
+          "step": "Smeltning af legering",
+          "description": "Zamak-legeringen holdes smeltet i maskinens indbyggede ovn ved en nøje styret temperatur. Zinken trykkes direkte fra ovnen ind i formværktøjet — alt foregår styret, automatisk og i et lukket system, helt uden manuel håndtering. Det giver hurtigere støbecyklusser og en ensartet høj kvalitet, skud efter skud."
+        },
+        {
+          "step": "Højtryksinjektion - Støbeskud",
+          "description": "Smeltet zink injiceres i det hærdede støbeværktøj ved tryk op til 200\u2009MPa. Fyldningstider under 50\u2009ms sikrer optimal hulrumsfyldning selv i tyndvæggede og komplekse geometrier med minimal porøsitet."
+        },
+        {
+          "step": "Robot udtagning & genanvendelse",
+          "description": "Emner udtages med robot inden for sekunder efter størkning. Indløb og overløb adskilles fra emnet og returneres med det samme til ovnen eller omsmeltes for genanvendelse, hvilket medvirker til et lavt CO2-aftryk."
+        },
+        {
+          "step": "Procesverifikation",
+          "description": "Procesverifikationen foretages i henhold til de krav, der er aftalt med kunden på tilbudstidspunktet. CMM-stikprøvekontrol og SPC-data (statistisk proceskontrol) bruges til at sikre, at processen er stabil."
+        }
+      ],
+      "specsEyebrow": "Tekniske specifikationer",
+      "specsHeading": "Støberikapabiliteter og legeringsdata",
+      "specsNote": "",
+      "specs": [
+        { "label": "Støbeceller", "value": "9 robotiserede" },
+        { "label": "Lukkekraft", "value": "20 \u2013 315T" },
+        { "label": "Emnevægt", "value": "1\u2009g \u2013 4\u2009kg" },
+        { "label": "Tolerance i støbning", "value": "\u00b10,05\u2009mm" },
+        { "label": "Cyklustid", "value": "7 \u2013 \u221e sekunder" },
+        { "label": "Legeringer", "value": "Zamak 2 / 3 / 5 / 8" },
+        { "label": "Drift", "value": "24 timer" },
+        { "label": "Værktøjslevetid", "value": "1M+ skud" }
+      ],
+      "advantagesHeading": "Hvorfor Linimatic er de bedste til det sværeste",
+      "advantages": {
+        "p1": "Vores 9 robotiserede støbeceller dækker det fulde tonnageområde fra 20T til små præcisionsemner til 315T til store strukturdele — alle med robothåndtering. Det entydige fokus giver dybere proceskendskab, der skal til for at støbe komplekse emner.",
+        "p2": "Vores erfaring med simulering af støbeprocessen er sjælden i branchen. Vi simulerer fyldning, størkning og porøsitet, allerede før værktøjet bliver fremstillet, så vi har optimeret formværktøjet fra første skud. Dette giver os mulighed for at støbe meget komplekse produkter, hvor andre må give op. Den samme erfaring gør os til et naturligt valg til high end-produkter og andre krævende opgaver — herunder komplicerede løsninger med indstøbning af andre metaller direkte i støbeprocessen, hvor tolerancer og materialesamspil skal være helt præcist afstemt.",
+        "p3": "Mange af vores kunders emner skal videre til overfladebehandling og en grundig visuel slutkontrol, før de er klar til brug. Det har vi mange års erfaring med — fra valg af den rette efterbehandling til den sidste kontrol af udseende og finish, inden emnet forlader huset."
+      },
+      "faqHeading": "Ofte stillede spørgsmål",
+      "faq": [
+        {
+          "question": "Hvad er højtryksstøbning?",
+          "answer": "Højtryksstøbning i zink er en hurtig og præcis proces, hvor 420\u00b0C varmt smeltet zink, under højt tryk sprøjtes ind i et formværktøj. Metoden egner sig især til serieproduktion af komplekse emner med små tolerancer, tynde godstykkelser og en flot overflade."
+        },
+        {
+          "question": "Hvilken Zamak-legering skal jeg bruge?",
+          "answer": "Omkring 95% af de emner, vi støber, bruger Zamak 5 — vores standardlegering med en stærk, alsidig balance mellem styrke, duktilitet og støbbarhed (331\u2009MPa trækstyrke). De resterende 5% støber vi i Zamak 8, som vi vælger, når styrken i Zamak 5 ikke er tilstrækkelig — det er den stærkeste og mest krybefaste zinklegering, vi støber (374\u2009MPa). Derudover har vi også mulighed for at støbe i Zamak 2, som har den højeste hårdhed og er velegnet til lejeflader, eller Zamak 3, som har de bedste belægningsegenskaber. Vi rådgiver om det rette valg under DFM-gennemgangen af din tegning."
+        },
+        {
+          "question": "Hvilke emnestørrelser kan I støbe?",
+          "answer": "Vi støber emner fra 1\u2009g til 4\u2009kg på tværs af vores 9 støbeceller. Den optimale maskine vælges ud fra emnevægt, projiceret areal og den nødvendige lukkekraft. Antallet af kaviteter besluttes ud fra krav til kvalitet, kompleksitet og effektivitet."
+        },
+        {
+          "question": "Hvor længe holder et zinktrykstøbeværktøj?",
+          "answer": "Zinktrykstøbningsværktøjer overstiger rutinemæssigt 1 million skud — 5 til 10 gange længere end aluminiumtrykstøbningsværktøjer. Det skyldes, at zinks lavere støbetemperatur (385\u00b0C vs. 660\u00b0C for aluminium) skaber betydeligt mindre termisk belastning på formstålet. Alle værktøjer vedligeholdes under vores forebyggende vedligeholdelsesprogram."
+        },
+        {
+          "question": "Hvilke tolerancer kan zinktrykstøbning opnå?",
+          "answer": "Tolerancer i støbning ned til \u00b10,05\u2009mm er standard på vores maskiner. Til features, der kræver strammere kontrol, kan sekundær CNC-bearbejdning opnå endnu højere præcision. Vi offentliggør toleranceanbefalinger efter featuretype (lineær, boring, fladhed) under DFM-gennemgangen."
+        }
+      ],
+      "relatedHeading": "Relaterede ydelser",
+      "ctaHeading": "Få et støbetilbud",
+      "ctaDescription": "Send os din emnetegning og volumenforventning. Vi anbefaler den rette legering, estimerer værktøjsomkostningen og giver dig en stykomkostning — inden for 48 timer.",
+      "ctaButton": "Få et støbetilbud"
+    },
+    "postProcessing": {
+      "title": "CNC-efterbearbejdning",
+      "eyebrow": "Intern CNC-bearbejdning i over 20 år",
+      "overview": "Selv om der er store muligheder for at støbe meget skrappe tolerancer direkte i selve støbeprocessen, kræver nogle emner efterbearbejdning for at opnå den ønskede tolerance på flader, i huller og med fræst gevind. Derfor har CNC-bearbejdning i mere end 20 år været en af vores interne processer: Emnerne går fra støbning til færdigt, kontrolleret emne uden at forlade huset — og uden eksterne leverandører undervejs. Vores bearbejdningscenter håndterer fræsning, boring, gevindskæring og gevindfræsning — alt under samme tag som støbningen.",
+      "processHeading": "Produktionsforløbet — fra tilbud til færdigt emne",
+      "process": [
+        {
+          "step": "Procesplanlægning",
+          "description": "Procesplanlægningen starter allerede, når vi afgiver tilbud. At planlægge hele produktionsforløbet i forbindelse med tilbudsafgivelsen er grundlaget for at sikre en så effektiv produktionsproces som overhovedet muligt."
+        },
+        {
+          "step": "CNC-bearbejdning",
+          "description": "Fleraksede CNC-fræsecentre bearbejder kritiske features: boringer, gevind, fladeforbindelser og tættolerancedimensioner, der overstiger støbningskapabiliteten."
+        },
+        {
+          "step": "Afgratning & finish",
+          "description": "Efter støbning og CNC-bearbejdning tages de forskellige afgratningsprocesser i brug. Processen vælges ud fra kundens krav til overfladen: vibrationsafgratning, slyngrensning, plastblæsning eller tromling."
+        },
+        {
+          "step": "Procesverifikation",
+          "description": "Procesverifikationen foretages i henhold til de krav, der er aftalt med kunden på tilbudstidspunktet. CMM-stikprøvekontrol og SPC-data (statistisk proceskontrol) bruges til at sikre, at processen er stabil."
+        }
+      ],
+      "specsEyebrow": "Tekniske specifikationer",
+      "specsHeading": "Bearbejdningskapabiliteter",
+      "specsNote": "",
+      "specs": [
+        { "label": "Placering", "value": "Samme bygning som støberiet" },
+        { "label": "Erfaring", "value": "20+ år med intern CNC" },
+        { "label": "Operationer", "value": "Fræs / Bor / Gevind" },
+        { "label": "Tolerance i støbning", "value": "±0,005 mm på udvalgte mål" },
+        { "label": "Positioneringsnøjagtighed", "value": "±0,006 mm" },
+        { "label": "Gentagelsesnøjagtighed", "value": "±0,004 mm" },
+        { "label": "Antal akser", "value": "4" },
+        { "label": "Hulplaceringsnøjagtighed", "value": "±0,01–0,02 mm" }
+      ],
+      "advantagesHeading": "Én leverandør — ét ansvar",
+      "advantages": {
+        "p1": "Når støbning, CNC-bearbejdning og afgratning foregår i samme hus, er der én leverandør og ét ansvar hele vejen. Ingen koordinering mellem støberi og maskinværksted, ingen transport mellem leverandører — og ingen kvalitetshuller mellem trinnene. Emnerne går fra støbning til bearbejdning på timer i stedet for uger."
+      },
+      "faqHeading": "Ofte stillede spørgsmål",
+      "faq": [
+        {
+          "question": "Skal zinktrykstøbte emner bearbejdes?",
+          "answer": "Ikke altid. Mange features kan støbes til endelig tolerance (\u00b10,05\u2009mm i støbning). Bearbejdning kræves dog typisk til gevindhuller, præcisionsboringer, kritiske fladeforbindelser eller enhver feature, hvor designtolerancen er strammere end, hvad støbningsprocessen pålideligt kan opnå."
+        },
+        {
+          "question": "Kan I lave gevind i trykstøbte zinkemner?",
+          "answer": "Ja. Gevindhuller og fræst gevind laves som en del af vores interne CNC-efterbearbejdning. Det giver høj præcision og stabil kvalitet, fordi bearbejdningen sker i samme hus og under samme kvalitetssystem som støbningen."
+        },
+        {
+          "question": "Hvilke tolerancer kan sekundær bearbejdning opnå?",
+          "answer": "Sekundær CNC-bearbejdning på zinktrykstøbte emner kan opnå tolerancer, der er væsentligt strammere end \u00b10,05\u2009mm i støbning. Den opnåelige tolerance afhænger af den specifikke featuretype, emnegeometri og fastsætning. Vi specificerer opnåelige tolerancer under DFM-gennemgangen."
+        },
+        {
+          "question": "Hvilke afgratningsmetoder bruger I?",
+          "answer": "Vi bruger vibrationsafgratning, slyngrensning, plastblæsning og tromling. Processen vælges ud fra kundens krav til overfladen og emnets geometri."
+        }
+      ],
+      "relatedHeading": "Relaterede ydelser",
+      "ctaHeading": "Brug for præcision ud over støbetolerancen?",
+      "ctaDescription": "Fortæl os, hvilke features der kræver strammere tolerancer, og vi planlægger bearbejdningsstrategien sammen med værktøjsdesignet — før der skæres i stål.",
+      "ctaButton": "Drøft dine tolerancer"
+    },
+    "surfaceTreatment": {
+      "title": "Overfladebehandling & coating",
+      "eyebrow": "Finishen der definerer produktet",
+      "overview": "Zink egner sig godt til en lang række overfladebehandlinger, hvor både funktion, holdbarhed og visuelt udtryk kan tilpasses det færdige produkt. Hos Linimatic samarbejder vi med erfarne specialister inden for overfladebehandling i både Danmark og udlandet, så vi kan tilbyde løsninger, der matcher Jeres krav til finish, korrosionsbeskyttelse og anvendelse.\n\nOverfladebehandling kan give zinkemner et stærkt visuelt udtryk, øge modstandsdygtigheden og beskytte mod korrosion. Det gør højtryksstøbte overfladebehandlede zinkemner velegnede til mange forskellige segmenter, blandt andet industri, tekniske komponenter, møbelindustri, interiør, design, bygnings industri.",
+      "processHeading": "Fra råemne til færdig overflade",
+      "process": [
+        {
+          "step": "Zink – ideelt til krævende overfladebehandling",
+          "description": "Højtryksstøbte zinkemner er velegnede til mange typer overfladebehandling og er derfor et stærkt valg til tekniske komponenter med høje krav til funktion og finish. Hos Linimatic A/S producerer vi præcisionsstøbte zinkkomponenter, der efter korrekt forbehandling kan behandles med blandt andet cromat/passivering, Chrom III, pulvermaling, vådlakering og galvaniske belægninger. Zinks tætte struktur og gode dimensionsstabilitet giver et solidt grundlag for vedhæftning, korrosionsbeskyttelse og et ensartet visuelt udtryk."
+        },
+        {
+          "step": "Behandlingsvalg",
+          "description": "Vi hjælper jer med at vælge den korrekte overflade ud fra jeres ønsker og krav til overfladen. Flerlags behandling er ofte nødvendig på zink (feks. kobber-nikkel-krom) når vi taler højeste kosmetiske standarder."
+        },
+        {
+          "step": "Proceskontrol",
+          "description": "Under udførelsen af overfladebehandlingen følges processpecifikke krav til temperatur, lagtykkelse og hærdetid. Der foretages løbende kontrol og dokumentation af processen, herunder måling af coating tykkelse, for at sikre en ensartet og stabil kvalitet på tværs af produktionsbatches."
+        },
+        {
+          "step": "Kvalitetskontrol",
+          "description": "Færdige overfladebehandlede produkter med særlige krav til finish gennemgår som udgangspunkt 100% visuel kontrol hos Linimatic, inden de leveres. Dette sikrer, at produkterne lever op til den aftalte kvalitet og det ønskede visuelle udtryk."
+        }
+      ],
+      "specsEyebrow": "Tekniske specifikationer",
+      "specsHeading": "Udvalg af mulige overfladetyper",
+      "specsNote": "",
+      "specs": [
+        { "label": "Dekorativ og funktionel", "value": "Krom" },
+        { "label": "Funktionel korrosionsbeskyttelse", "value": "Passivering" },
+        { "label": "Beskyttende og dekorativ - fuld RAL palette", "value": "Pulver maling" },
+        { "label": "Dekorativ og beskyttende", "value": "Våd lakering" },
+        { "label": "Korrosionsbeskyttende, dekorativ", "value": "Delta Seal sort" },
+        { "label": "Dekorativ, slidstærk", "value": "PVD" },
+        { "label": "Dekorativ, korrosionsbeskyttende", "value": "Fornikling" },
+        { "label": "Ensartet tynd korrosionsbeskyttelse", "value": "KTL" }
+      ],
+      "advantagesHeading": "Overfladebehandling begynder allerede ved støbningen",
+      "advantages": {
+        "p1": "Linimatic kender emnet, materialet og kravene helt fra støbeprocessen. Derfor kan vi sikre, at både konstruktion, støbning, forbehandling og overfladebehandling er afstemt med hinanden. Vi koordinerer overfladebehandlingen hos nøje udvalgte og godkendte underleverandører og foretager den afsluttende kvalitetskontrol og pakning hos Linimatic. Det giver dig én samlet leverance og én ansvarlig samarbejdspartner."
+      },
+      "faqHeading": "Ofte stillede spørgsmål",
+      "faq": [
+        {
+          "question": "Hvilke overfladebehandlinger kan anvendes på trykstøbt zink?",
+          "answer": "Trykstøbte zinkemner kan blandt andet pulverlakeres, vådlakeres, forkromes, fornikles og passiveres. Før den afsluttende behandling kan emnerne eksempelvis tromles, vibrationsafgrates, plastblæses eller slyngrenses for at opnå den ønskede overfladestruktur."
+        },
+        {
+          "question": "Hvordan vælger vi den rigtige overfladebehandling?",
+          "answer": "Valget afhænger af kravene til udseende, korrosionsbestandighed, slidstyrke og pris. Det er også vigtigt, om emnet skal anvendes inden- eller udendørs, og om det udsættes for fugt, kemikalier eller mekanisk påvirkning. Linimatic hjælper gerne med at finde den løsning, der passer til både funktion og økonomi."
+        },
+        {
+          "question": "Er overfladebehandling altid nødvendig?",
+          "answer": "Nej. Til visse indendørs eller skjulte komponenter kan trykstøbt zink anvendes uden yderligere overfladebehandling. Behandling vælges typisk, når der stilles særlige krav til udseende, korrosionsbeskyttelse, slidstyrke eller rengøringsvenlighed."
+        },
+        {
+          "question": "Kan trykstøbt zink pulverlakeres?",
+          "answer": "Ja. Trykstøbte zinkemner kan pulverlakeres i mange farver og overfladestrukturer. Emnets konstruktion, støbekvalitet, forbehandling og lakeringstemperatur har betydning for det endelige resultat. Kravene til pulverlakering bør derfor indgå allerede i konstruktionsfasen."
+        },
+        {
+          "question": "Kan zinkemner forkromes eller fornikles?",
+          "answer": "Ja. Trykstøbt zink er velegnet til galvaniske belægninger som kobber, nikkel og krom. Behandlingerne kan give både et dekorativt udseende og en funktionel beskyttelse. Et godt resultat kræver en kontrolleret støbeproces, korrekt forbehandling og en emnekonstruktion, der er egnet til behandlingen."
+        },
+        {
+          "question": "Kan overfladebehandlingen skjule mærker og ujævnheder?",
+          "answer": "Kun i begrænset omfang. En blank eller højglansbelægning kan tværtimod gøre små ujævnheder mere synlige. Høje kosmetiske krav skal derfor tænkes ind i emnets konstruktion, støbeværktøjet, støbeprocessen og den mekaniske forbehandling."
+        },
+        {
+          "question": "Skal emnet konstrueres specielt til overfladebehandling?",
+          "answer": "Det kan være en stor fordel. Ophængningspunkter, kontaktflader, gevind, tolerancer, dræning af procesvæsker og områder, der ikke må belægges, bør afklares tidligt. En tidlig dialog kan forebygge problemer og reducere behovet for efterbearbejdning."
+        },
+        {
+          "question": "Kan Linimatic levere emnerne færdigt overfladebehandlede?",
+          "answer": "Ja. Linimatic varetager hele forløbet fra støbning og intern efterbehandling til den ønskede eksterne overfladebehandling. Belægningen udføres hos nøje udvalgte og godkendte underleverandører. Den afsluttende kvalitetskontrol og pakning foretages hos Linimatic, så kunden modtager en samlet og leveringsklar løsning."
+        }
+      ],
+      "relatedHeading": "Relaterede ydelser",
+      "ctaHeading": "Brug for en bestemt finish?",
+      "ctaDescription": "Fortæl os dine overfladekrav — dekorative, funktionelle eller begge — og vi anbefaler den rette behandling til din applikation og dit volumen.",
+      "ctaButton": "Drøft overfladebehandling"
+    },
+    "quality": {
+      "title": "Kvalitet & certificering",
+      "eyebrow": "Mere end 30 års certificeret kvalitetsstyring",
+      "overview": "Linimatic har været ISO 9001-certificeret siden 1993. Kvalitetsledelsessystemet danner rammen om alle vores forretningsgange – fra gennemgang af kundekrav og specifikationer til indkøb, varemodtagelse, produktion, kvalitetskontrol og levering. Alle processer gennemføres efter fastlagte procedurer og kontrolplaner, så kvaliteten styres og dokumenteres gennem hele forløbet.",
+      "processHeading": "Sådan sikrer vi kvalitet i hvert trin",
+      "process": [
+        {
+          "step": "Kontrol ved varemodtagelse",
+          "description": "Materialecertifikater kontrolleres ved modtagelse af zink."
+        },
+        {
+          "step": "Løbende proceskontrol",
+          "description": "Produktionen kontrolleres løbende efter den fastlagte kontrolplan for hver proces."
+        },
+        {
+          "step": "Egenkontrol og QC-stikprøver",
+          "description": "Operatørernes egenkontrol suppleres med stikprøvekontrol udført af kvalitetsafdelingen."
+        },
+        {
+          "step": "SPC-måling og registrering",
+          "description": "Når det er aftalt, anvendes SPC til løbende måling og dokumentation af processens stabilitet."
+        },
+        {
+          "step": "Måling på koordinatmålemaskine",
+          "description": "Kritiske mål og geometriske tolerancer kontrolleres på koordinatmålemaskine, når det er specificeret."
+        }
+      ],
+      "specsEyebrow": "Tekniske specifikationer",
+      "specsHeading": "Kvalitetsinfrastruktur",
+      "specsNote": "",
+      "specs": [
+        { "label": "Certificering", "value": "ISO 9001 siden 1993" },
+        { "label": "Dimensionskontrol", "value": "CMM (3D-koordinat)" },
+        { "label": "Processtyring", "value": "SPC i realtid" },
+        { "label": "Dokumentation", "value": "PPAP niveau 1\u20133" },
+        { "label": "Sporbarhed", "value": "Batchniveau" },
+        { "label": "Første emne", "value": "FOT / FAI-rapporter" },
+        { "label": "Produktion", "value": "Løbende egen- / QC kontrol" },
+        { "label": "Kalibrering", "value": "Speciel måleudstyr" }
+      ],
+      "advantagesHeading": "Hvad betyder ISO 9001 for dig som kunde?",
+      "advantages": {
+        "p1": "Et certificeret kvalitetsledelsessystem giver dig sikkerhed for, at krav, specifikationer og ændringer bliver håndteret systematisk gennem hele forløbet. Afvigelser bliver registreret, årsagen undersøgt, og korrigerende handlinger gennemført – så risikoen for gentagelser reduceres.",
+        "p2": "Kort sagt giver det større leveringssikkerhed, færre kvalitetsproblemer og en mere forudsigelig produktion."
+      },
+      "faqHeading": "Ofte stillede spørgsmål",
+      "faq": [
+        {
+          "question": "Hvilke kvalitetscertificeringer har Linimatic?",
+          "answer": "Linimatic har haft ISO 9001-certificering siden 1993 — over 30 år med uafbrudt, uafhængigt auditeret kvalitetsstyring. Certificeringen dækker den komplette værdikæde: indgående materialinspektion, trykstøbning, CNC-bearbejdning, overfladebehandling, montage og slutinspektion."
+        },
+        {
+          "question": "Kan I levere PPAP-dokumentation?",
+          "answer": "Ja. Vi leverer PPAP-dokumentation på Niveau 1 til 3 efter aftale med kunden."
+        },
+        {
+          "question": "Hvordan sikrer Linimatic kvaliteten under den løbende produktion?",
+          "answer": "Kvaliteten kontrolleres gennem hele produktionen efter en fastlagt kontrolplan for den enkelte komponent og proces. Operatørernes løbende egenkontrol suppleres med stikprøver fra kvalitetsafdelingen. Når det er aftalt, anvendes desuden SPC-målinger til overvågning af processens stabilitet samt kontrol på koordinatmålemaskine."
+        },
+        {
+          "question": "Hvilken sporbarhed leverer I pr. batch?",
+          "answer": "Hvert batch er sporbart fra råmateriale (legeringens chargenummer, leverandørcertifikat) gennem støbning (maskine, form, dato, skift, procesparametre) til bearbejdning, coating, inspektion og forsendelse."
+        }
+      ],
+      "relatedHeading": "Relaterede ydelser",
+      "ctaHeading": "Vil du auditere vores kvalitetssystem?",
+      "ctaDescription": "Vi byder kundeaudits og besøg velkommen. Kontakt os for at planlægge en kvalitetsgennemgang eller anmode om vores aktuelle ISO-certifikat og kapabilitetsdokumentation.",
+      "ctaButton": "Anmod om kvalitetsdokumentation"
+    },
+    "assembly": {
+      "title": "Montage og samling",
+      "eyebrow": "Færdige produkter, ikke løse dele",
+      "overview": "Har du brug for mere end den færdigstøbte zinkkomponent? Linimatic kan også stå for montage og samling af zinkstøbte komponenter med øvrige dele, så du modtager færdigmonterede enheder, der er klar til brug eller videre levering.\n\nVi kan blandt andet håndtere monteringssæt, reservedelssæt og mindre delsystemer samt stå for kvalitetskontrol, mærkning, pakning og kundespecifik emballering.\n\nVed at samle flere processer hos én leverandør får du enklere logistik, færre håndteringer og en mere effektiv forsyningskæde.\n\nKontakt os for at høre, hvordan vi kan skabe værdi gennem montage og samling.",
+      "processHeading": "Fra komponent til færdigmonteret enhed",
+      "process": [
+        {
+          "step": "Modtagelse af komponenter",
+          "description": "Vi modtager zinkstøbte komponenter og øvrige dele, som skal indgå i den færdige enhed."
+        },
+        {
+          "step": "Montage & samling",
+          "description": "Delene samles til færdigmonterede enheder — f.eks. monteringssæt, reservedelssæt eller mindre delsystemer."
+        },
+        {
+          "step": "Mærkning & emballering",
+          "description": "Kundespecifik emballering og mærkning, tilpasset jeres behov."
+        },
+        {
+          "step": "Kvalitetskontrol & levering",
+          "description": "Kvalitetskontrol inden levering, klar til brug eller videre levering."
+        }
+      ],
+      "specsEyebrow": "Det kan vi tilbyde",
+      "specsHeading": "Montage & samling",
+      "specsNote": "",
+      "specs": [
+        { "label": "Montage", "value": "Montage & samling" },
+        { "label": "Sæt & delsystemer", "value": "Monteringssæt / reservedelssæt" },
+        { "label": "Emballering", "value": "Standard / kundespecifik" },
+        { "label": "Mærkning", "value": "Kundespecifik mærkning" },
+        { "label": "Kvalitet", "value": "Kvalitetskontrol før levering" },
+        { "label": "Levering", "value": "Klar til brug eller videre levering" }
+      ],
+      "advantagesHeading": "Fordelen ved én leverandør",
+      "advantages": {
+        "p1": "Når montage og samling foregår hos den samme leverandør, der har støbt komponenterne, undgår I selv at skulle koordinere flere led.",
+        "p2": "Ved at samle flere processer hos én leverandør får I enklere logistik, færre håndteringer og en mere effektiv forsyningskæde."
+      },
+      "faqHeading": "Ofte stillede spørgsmål",
+      "faq": [
+        {
+          "question": "Kan I samle zinkkomponenter med andre dele?",
+          "answer": "Ja. Vi kan stå for montage og samling af zinkstøbte komponenter med øvrige dele, så I modtager færdigmonterede enheder, der er klar til brug eller videre levering."
+        },
+        {
+          "question": "Hvad kan I håndtere af sæt og delsystemer?",
+          "answer": "Vi kan blandt andet håndtere monteringssæt, reservedelssæt og mindre delsystemer."
+        },
+        {
+          "question": "Står I for kvalitetskontrol, mærkning og emballering?",
+          "answer": "Ja. Vi står for kvalitetskontrol, mærkning, pakning og kundespecifik emballering."
+        },
+        {
+          "question": "Hvordan kommer vi i gang?",
+          "answer": "Kontakt os for at høre, hvordan vi kan skabe værdi gennem montage og samling."
+        }
+      ],
+      "relatedHeading": "Relaterede ydelser",
+      "ctaHeading": "Klar til at få samlet jeres komponenter?",
+      "ctaDescription": "Kontakt os for at høre, hvordan vi kan skabe værdi gennem montage og samling.",
+      "ctaButton": "Kontakt os"
+    }
+  },
+  "jobsPage": {
+    "breadcrumb": "Job",
+    "eyebrow": "Bliv en del af holdet",
+    "heading": "Dit næste job starter måske her",
+    "description": "Hos Linimatic arbejder vi med teknik, præcision og løsninger, der gør en forskel. Vi leder efter dygtige mennesker med ansvar, nysgerrighed og lyst til at være en del af et stærkt team.\n\nSe vores ledige stillinger herunder – vi glæder os til at høre fra dig.",
+    "heroImageAlt": "Linimatic fabriksgulv i Helsinge, Danmark",
+    "whyHeading": "Hvorfor Linimatic?",
+    "whyDescription": "Vi holder til i Helsinge, Nordsjælland \u2014 tæt nok på København til at pendle, langt nok væk til at undgå støjen. Her er, hvad der gør os anderledes.",
+    "perks": [
+      {
+        "title": "Håndværk og avanceret teknologi",
+        "description": "Hos Linimatic arbejder du med avancerede støbemaskiner, robotter og flydende metal. Det kr\u00e6ver b\u00e5de teknisk forst\u00e5else, pr\u00e6cision og godt h\u00e5ndv\u00e6rk at fremstille komplekse zinkkomponenter i ensartet h\u00f8j kvalitet."
+      },
+      {
+        "title": "Stabil og voksende",
+        "description": "Grundlagt i 1967 og stadig i fuld fart. Vi investerer i mennesker og udstyr på lang sigt, ikke næste kvartal."
+      },
+      {
+        "title": "Lille team, stor betydning",
+        "description": "Med 30+ medarbejdere er du ikke bare et nummer. Du lærer dine kolleger og produktionen godt at kende, og du kan tydeligt se, hvordan din indsats bidrager til det færdige resultat."
+      },
+      {
+        "title": "Løbende udvikling",
+        "description": "Nye maskiner, nye legeringer, nye processer \u2014 faget udvikler sig, og vi udvikler os med det. Træning og kompetenceudvikling er en del af jobbet."
+      }
+    ],
+    "positionsEyebrow": "Ledige stillinger",
+    "positionsHeading": "Aktuelle åbninger",
+    "responsibilitiesLabel": "Arbejdsopgaver",
+    "requirementsLabel": "Det ser vi efter",
+    "contactLabel": "Kontakt",
+    "applyButton": "Ansøg nu",
+    "applySubject": "Ansøgning \u2014 {position} \u2014 Linimatic",
+    "noPositions": "Ingen ledige stillinger lige nu \u2014 men vi er altid interesserede i at høre fra dygtige folk. Send en uopfordret ansøgning herunder.",
+    "positions": [
+      {
+        "title": "Maskinarbejder, Industritekniker eller Værktøjsmager til Formværkstedet",
+        "department": "Formværkstedet",
+        "type": "Fuldtid",
+        "description": "Hos Linimatic står vi foran et planlagt generationsskifte i vores formværksted. To af vores erfarne medarbejdere nærmer sig pensionsalderen, og vi søger en ny kollega, som kan blive oplært grundigt og på sigt være med til at sikre fremtiden i formværkstedet. Vi ved godt, at det tager tid at lære et så specialiseret håndværk, og vi sætter derfor god tid af til en grundig oplæring hos vores erfarne medarbejdere. Du behøver ikke have erfaring med støbeforme — det vigtigste er, at du har god mekanisk forståelse, arbejder omhyggeligt og har lyst til at lære et specialiseret fagområde.",
+        "responsibilities": [
+          "Klargøring og vedligehold af støbeforme og stanseværktøjer",
+          "Fejlfinding ved produktionsstop relateret til værktøjer",
+          "Mindre reparationer, tilpasninger og forbedringer",
+          "Indkøb af udvalgte sliddele",
+          "Samarbejde med produktion og produktionsteknisk afdeling"
+        ],
+        "requirements": [
+          "Praktisk teknisk erfaring fra metal, maskiner, værktøj, vedligehold eller produktion",
+          "God mekanisk forståelse og sans for detaljer",
+          "Arbejder ansvarligt og selvstændigt",
+          "Lyst til at blive dygtig til et specialiseret håndværk"
+        ],
+        "contactName": "Rikke Østrup Fisker, Logistikchef",
+        "contactEmail": "rif@linimatic.dk"
+      },
+      {
+        "title": "Produktionsmedarbejder",
+        "department": "Støberiet",
+        "type": "Fuldtid",
+        "description": "Har du teknisk flair og lyst til at lære et nyt fag? Linimatic A/S i Helsinge producerer højtryksstøbte zinkkomponenter til kunder i hele verden. Vi er kendt for at være ”de bedste til det sværeste” — og søger nu nye kolleger, der har mod på at blive oplært i trykstøbning. Vi ved, at det tager tid at lære faget ordentligt, så du får en grundig oplæring — og har du lyst til at udvikle dig yderligere, tilbyder vi også kurser i støbeteori og robotprogrammering.",
+        "responsibilities": [
+          "Opstilling og drift af trykstøbemaskiner",
+          "Kvalitetskontrol af eget arbejde",
+          "Support til kolleger ved maskinstop",
+          "Indkøring af robot i støbecellen"
+        ],
+        "requirements": [
+          "Teknisk interesse og lyst til at lære",
+          "Samarbejdsorienteret og kvalitetsbevidst",
+          "Taler, læser og skriver dansk"
+        ],
+        "contactName": "Thomas Hjorth, Produktionschef",
+        "contactPhone": "50 77 02 16",
+        "contactEmail": "thj@linimatic.dk"
+      }
+    ],
+    "openApplicationHeading": "Ser du ikke din rolle?",
+    "openApplicationDescription": "Vi er altid interesserede i at høre fra dygtige folk inden for produktion, ingeniørarbejde, kvalitet og salg. Send os dit CV og fortæl, hvad du kan bidrage med.",
+    "openApplicationButton": "Send uopfordret ansøgning",
+    "learnMoreButton": "Læs mere om os",
+      "privacyNotice": "Når du sender en ansøgning via e-mail, behandler Linimatic A/S dine oplysninger for at vurdere den. Vi opbevarer ansøgninger i 6 måneder efter, at stillingen er besat, eller 6 måneder efter modtagelse eller seneste kontakt ved uopfordrede ansøgninger, medmindre du siger ja til længere opbevaring. Læs mere i vores <link>privatlivspolitik</link>."
+  },
+  "sustainabilityPage": {
+    "breadcrumb": "Bæredygtighed",
+    "eyebrow": "Bæredygtighed",
+    "title": "Bæredygtighed hos Linimatic",
+    "intro": "Vi arbejder målrettet med at drive vores produktion ansvarligt — for mennesker, samfund og miljø. Her kan du læse om vores CO2-udledning og de retningslinjer, vi arbejder efter.",
+    "links": [
+      {
+        "title": "CO2 og klima",
+        "description": "Se udviklingen i virksomhedens CO2-udledning år for år.",
+        "href": "/about/co2"
+      },
+      {
+        "title": "Code of Conduct",
+        "description": "Vores retningslinjer for ansvarlig og etisk forretningsadfærd.",
+        "href": "/about/code-of-conduct"
+      }
+    ]
+  },
+  "co2Page": {
+    "eyebrow": "Bæredygtighed",
+    "title": "CO2 og klima",
+    "intro": "Hos Linimatic arbejder vi løbende på at reducere vores CO2-aftryk gennem effektiv produktion, solceller og ansvarlig ressourceforvaltning. Denne side opdateres løbende med konkrete tal og initiativer.",
+    "dataLabel": "Udvikling i CO2-udledning",
+    "unit": "TON CO2e",
+    "note": "Tallene dækker virksomhedens samlede drift og er lokationsbaserede for scope 1, 2 og 3. Cirka 15% af vores elforbrug kommer fra egne solceller."
+  },
+  "codeOfConductPage": {
+    "eyebrow": "Etik og ansvarlighed",
+    "title": "Code of Conduct",
+    "dateLabel": "Dateret: 14. oktober 2025",
+    "intro": [
+      "Leverandøransvar inden for social og bæredygtig virksomhedsdrift er centralt for det globale samfund og spiller en stigende rolle for en virksomheds konkurrenceevne og indtjening.",
+      "Linimatics Code of Conduct blev etableret i 2021 for at understøtte denne sociale og bæredygtige virksomhedsdrift, særligt inden for følgende områder: menneskerettigheder, arbejdsmiljø- og arbejdsforhold, miljøledelse samt antikorruption.",
+      "Linimatic har baseret sin Code of Conduct på FN's Global Compact, et internationalt initiativ støttet af virksomheder verden over med det formål at sikre efterlevelse inden for ovennævnte områder."
+    ],
+    "purposeHeading": "Formål",
+    "purpose": [
+      "For at respektere menneskerettigheder og fremme fair ansættelsesforhold, sikre arbejdsforhold samt ansvarlige miljømæssige og etiske standarder anvendes denne Code of Conduct i produktion, forsyning og levering af alle Linimatics produkter og ydelser.",
+      "Ud over alle gældende love, regler og standarder i de lande, hvor Linimatic opererer, skal alle medarbejdere overholde Linimatics Code of Conduct — også i tilfælde hvor disse krav er strengere end den nationale lovgivning.",
+      "Linimatic støtter aktivt sine leverandører i at sikre langsigtede, løbende forbedringer. Linimatic bakker op om FN's \"Global Compact\".",
+      "For at gøre denne forpligtelse tydelig for medarbejdere, leverandører, kunder og andre interessenter er vores Code of Conduct baseret på Global Compacts ti principper og offentliggøres."
+    ],
+    "workingConditionsHeading": "Arbejdsforhold",
+    "freedomOfAssociationHeading": "Foreningsfrihed",
+    "freedomOfAssociationText": "I det omfang gældende lovgivning tillader det, er alle medarbejdere frit stillet til at danne og være medlem af — eller undlade at være medlem af — fagforeninger eller lignende eksterne organisationer samt til at føre kollektive forhandlinger.",
+    "forcedLaborHeading": "Tvangsarbejde",
+    "forcedLaborText": "Tvangsarbejde eller pligtarbejde er udtrykkeligt forbudt, og alle medarbejdere kan frit opsige deres ansættelse med et rimeligt varsel i overensstemmelse med national lovgivning og/eller forudgående aftale. Medarbejdere er ikke forpligtet til at deponere penge eller identitetspapirer hos deres arbejdsgiver.",
+    "termsOfEmploymentHeading": "Ansættelsesvilkår",
+    "termsOfEmploymentText": "Medarbejdere kan forvente, at deres ansættelsesrettigheder, løn og vilkår er fair og rimelige og som minimum lever op til nationale lovkrav og branchestandarder. Arbejdstiden følger national lovgivning og må ikke være urimelig.",
+    "accessToDataHeading": "Adgang til personoplysninger",
+    "accessToDataText": "Alle medarbejdere har til enhver tid ret til at få adgang til egne personlige dokumenter og oplysninger, som virksomheden opbevarer, i overensstemmelse med gældende databeskyttelseslovgivning (GDPR). Anmodninger om adgang skal rettes til virksomhedens HR-afdeling.",
+    "childLabourHeading": "Børnearbejde",
+    "childLabour": [
+      "Ingen ansatte er under den lovlige minimumsalder for beskæftigelse. Minimumsalderen er alderen for afslutning af undervisningspligten, eller minimum 15 år, i overensstemmelse med artikel 2.4 i ILO-konvention nr. 138 om minimumsalder. Børn ansættes ikke til farligt arbejde eller arbejde, der ikke er foreneligt med barnets personlige udvikling.",
+      "Et barn er en person under 18 år, som defineret i artikel 1 i FN's Børnekonvention. Personlig udvikling omfatter barnets sundhed samt fysiske, mentale, åndelige, moralske eller sociale udvikling, som beskrevet i artikel 32 i FN's Børnekonvention."
+    ],
+    "discriminationHeading": "Afskaffelse af diskrimination",
+    "discrimination": [
+      "Medarbejdere behandles med respekt og værdighed. Korporlig afstraffelse, fysisk, verbal eller anden ulovlig chikane samt enhver form for trussel eller intimidering er forbudt. Enhver form for diskrimination baseret på fordomme eller forudindtagethed er forbudt, herunder diskrimination på grund af race, hudfarve, køn, seksuel orientering, civilstand, graviditet, forældrestatus, religion, politisk overbevisning, nationalitet, etnisk baggrund, social oprindelse, social status, handicap, alder, fagforeningsmedlemskab eller andre forhold beskyttet af gældende lokal lovgivning.",
+      "Medarbejdere med samme kvalifikationer, erfaring og præstationer modtager lige løn for lige arbejde som andre, der udfører det samme arbejde under tilsvarende arbejdsforhold."
+    ],
+    "workEnvironmentHeading": "Arbejdsmiljø",
+    "workEnvironment": [
+      "Et sundt og sikkert arbejdsmiljø samt eventuel indkvartering stillet til rådighed for medarbejdere lever op til internationale standarder og national lovgivning. Medarbejdere modtager relevant information og oplæring i sundhed og sikkerhed.",
+      "Sikkerhed omfatter også overholdelse af national lovgivning vedrørende brandforebyggelse samt planer for evakuering i tilfælde af brand, mindst i det omfang national lovgivning til enhver tid kræver det. Sikker og korrekt håndtering og mærkning af kemikalier, mekanisk udstyr og arbejdsprocesser sker i overensstemmelse med national lovgivning. Arbejdspladsen, og eventuel indkvartering, har en acceptabel temperatur og støjniveau, tilstrækkelig ventilation, tilstrækkelig belysning, rene toiletter, rent drikkevand og, hvor relevant, sanitære faciliteter til fødevareopbevaring."
+    ],
+    "environmentHeading": "Miljø",
+    "environmentText": "Begrænsede ressourcer anvendes ansvarligt og med omtanke. Metoder og tiltag, der reducerer virksomhedens miljøpåvirkning, hilses velkommen. Innovativ udvikling af produkter og ydelser, der giver miljømæssige og sociale fordele, fremmes.",
+    "antiCorruptionHeading": "Antikorruption",
+    "antiCorruption": [
+      "Ingen form for afpresning eller bestikkelse, herunder utilbørlige tilbud om betaling til eller fra medarbejdere, forretningsforbindelser eller organisationer, tolereres.",
+      "Vi forpligter os til at drive vores forretning i overensstemmelse med gældende national og international konkurrencelovgivning, overholder konkurrenceregler, opretholder solid databeskyttelse og prioriterer informationssikkerhed for at beskytte følsomme oplysninger.",
+      "Vi arbejder aktivt for at forebygge hvidvask og undgå finansiering af terrorisme."
+    ],
+    "supplierSupplementHeading": "Code of Conduct — tillæg for leverandører",
+    "supplierSupplementText": "Denne Code of Conduct (\"CODE\") gælder for alle Linimatics aktiviteter samt for produkter, ydelser og aktiviteter, som andre virksomheder (\"leverandører\") bidrager til.",
+    "adherenceHeading": "Overholdelse",
+    "adherenceText": "Linimatic kræver, at leverandøren og dennes underleverandører opfylder kravene i denne Code of Conduct (\"CODE\"), hvilket kan indebære strengere krav end gældende national lovgivning. En leverandør skal på anmodning i rimeligt omfang kunne dokumentere, at leverandøren og dennes underleverandører overholder CODE. Dette kan ske ved at fremlægge information og/eller give Linimatic eller en af vores repræsentanter adgang til de pågældende leverandørers/underleverandørers lokationer.",
+    "notificationHeading": "Oplysningspligt",
+    "notificationText": "Leverandøren er ansvarlig for at sikre, at dennes medarbejdere og underleverandører er informeret om denne Code of Conduct (\"CODE\"), og at de opfylder de krav, den indeholder."
+  },
+  "privacyPage": {
+    "eyebrow": "Juridisk",
+    "title": "Privatlivspolitik",
+    "lastUpdated": "Sidst opdateret: august 2026",
+    "dataControllerHeading": "Dataansvarlig",
+    "dataControllerIntro": "Linimatic A/S er dataansvarlig for personoplysninger, der behandles via denne hjemmeside, og når du kontakter os.",
+    "whatWeCollectHeading": "Hvilke data vi indsamler",
+    "whatWeCollectIntro": "Vi kan indsamle følgende personoplysninger via vores hjemmeside:",
+    "collectItems": [
+      "Kontaktformular: Navn, virksomhed, e-mailadresse, telefonnummer, emne, forventet produktionsvolumen og projektbeskrivelse.",
+      "Jobansøgninger: Navn, kontaktoplysninger, CV, ansøgning og andre oplysninger, du sender i en ansøgning via e-mail.",
+      "Tekniske og sikkerhedsrelaterede data: Vores hostingudbyder modtager formularanmodningen og behandler tekniske oplysninger som IP-adresse og browseroplysninger for at levere og beskytte hjemmesiden. Kontaktformularen bruger en kortvarig IP-begrænsning i hukommelsen for at forebygge misbrug; vi gemmer ikke henvendelser i en database på hjemmesiden.",
+      "Valgfri analyse: Hvis du giver samtykke, behandler Vercel Analytics cookiefri besøgsdata, så vi kan forstå, hvilke sider der er nyttige. Analysen indlæses ikke, hvis du siger nej.",
+      "Kommunikationsdata: Optegnelser over korrespondance, hvis du kontakter os via e-mail eller telefon."
+    ],
+    "dataSourceNote": "Formularen kræver dit navn, din virksomhed, din e-mailadresse og din besked, så vi kan identificere og besvare din henvendelse; telefonnummer, emne og forventet volumen er valgfri. Hvis et obligatorisk felt mangler, kan formularen ikke sendes. Oplysninger i formularer og e-mails kommer fra dig. Nogle tekniske oplysninger, som IP-adresse og browseroplysninger, opstår automatisk, når du bruger hjemmesiden.",
+    "legalBasisHeading": "Retsgrundlag for behandling",
+    "legalBasisIntro": "I henhold til databeskyttelsesforordningen (GDPR) behandler vi personoplysninger baseret på:",
+    "legalBasisItems": [
+      "Samtykke (art. 6, stk. 1, litra a): Til valgfri analyse af hjemmesiden.",
+      "Legitim interesse (art. 6, stk. 1, litra f): Til at modtage og besvare henvendelser, vurdere ansøgninger, forebygge misbrug og beskytte hjemmesiden og vores kommunikation.",
+      "Forberedelse af kontrakt (art. 6, stk. 1, litra b): Når en henvendelse fører til et ønske om at forberede eller indgå en aftale.",
+      "Retlig forpligtelse (art. 6, stk. 1, litra c): Når lovgivningen kræver, at vi opbevarer eller behandler oplysninger."
+    ],
+    "howWeUseHeading": "Hvordan vi bruger dine data",
+    "howWeUseItems": [
+      "Til at besvare tilbudsforespørgsler og kundehenvendelser",
+      "Til at behandle jobansøgninger",
+      "Til at forebygge misbrug og beskytte hjemmesiden og vores kommunikation",
+      "Til at forstå, hvilke sider der er nyttige, når du har givet samtykke til analyse",
+      "For at overholde juridiske og regulatoriske forpligtelser"
+    ],
+    "retentionHeading": "Opbevaring af data",
+    "retentionIntro": "Vi opbevarer kun personoplysninger så længe det er nødvendigt for de beskrevne formål eller som krævet ved lov. Specifikt:",
+    "retentionItems": [
+      "Kontakt­henvendelser: Gennemgås og slettes som udgangspunkt fra vores postkasser og relaterede kopier 2 år efter sidste kontakt. Hvis et aktivt forretningsforhold eller et lovkrav kræver længere opbevaring, gemmer vi kun det nødvendige og noterer årsagen.",
+      "Jobansøgninger: Slettes som udgangspunkt 6 måneder efter, at stillingen er besat, eller 6 måneder efter modtagelse eller seneste kontakt ved uopfordrede ansøgninger, medmindre du samtykker til længere opbevaring.",
+      "Sikkerhedsdata: IP-oplysninger til kontaktformularens kortvarige beskyttelse mod gentagne henvendelser opbevares i applikationshukommelsen og ikke i en kontakt-database.",
+      "Analysedata: Indsamles kun efter samtykke og beskrives af Vercel som cookiefri og anonymiserede; se vores cookiepolitik."
+    ],
+    "dataSharingHeading": "Deling af data",
+    "dataSharingIntro": "Vi sælger ikke dine personoplysninger. Vi kan dele data med:",
+    "dataSharingItems": [
+      "Vercel (hosting og formularens servermiljø): Er vært for hjemmesiden og kører kontaktformularen på serveren. Vercel kan som led i tjenesten behandle de indsendte formulardata og tekniske oplysninger om anmodningen. Vercel er en amerikansk virksomhed, og behandling kan ske i USA og andre lande efter de relevante aftalevilkår og sikkerhedsforanstaltninger.",
+      "Resend (e-mail-levering): Leverer kontaktformularens beskeder, herunder den besøgendes kontaktoplysninger, besked, svaradresse og relaterede e-mailmetadata. Resend oplyser, at den primære behandling foregår i USA; valg af Irland som afsenderregion gør ikke kundedata EU-begrænsede. Overførsler er omfattet af Resends databehandleraftale og de sikkerhedsforanstaltninger, der beskrives dér.",
+      "Microsoft 365 (e-mail og samarbejde): Er vært for vores e-mailkonti, hvor henvendelser fra kontaktformularen, jobansøgninger og øvrig korrespondance modtages og opbevares. Data opbevares i EU/EFTA-området.",
+      "Offentlige myndigheder: Når det kræves ved lov eller for at beskytte vores rettigheder."
+    ],
+    "dataSharingDpaNote": "Se leverandørernes detaljerede databehandleraftaler: <vercel>Vercels databehandleraftale</vercel> og <resend>Resends databehandleraftale</resend>.",
+    "dataSharingNote": "Vi bruger kun leverandører, der er nødvendige for at drive hjemmesiden og håndtere henvendelser. Før offentliggørelse og når en leverandør ændres, verificerer vi leverandørens aftale, behandlingssteder, underdatabehandlere og opbevaring i vores interne fortegnelse over databehandlere. Hvis personoplysninger overføres uden for EU/EØS, anvendes den relevante leverandøraftale og et gyldigt GDPR-overførselsgrundlag, f.eks. EU's standardkontraktbestemmelser, hvor det kræves.",
+    "yourRightsHeading": "Dine rettigheder",
+    "yourRightsIntro": "I henhold til GDPR har du ret til:",
+    "yourRightsItems": [
+      "Indsigt — Anmod om en kopi af de personoplysninger, vi har om dig.",
+      "Berigtigelse — Anmod om rettelse af urigtige data.",
+      "Sletning — Anmod om sletning af dine data (\"retten til at blive glemt\").",
+      "Begrænsning — Anmod om begrænsning af databehandling.",
+      "Dataportabilitet — Anmod om dine data i et struktureret, maskinlæsbart format.",
+      "Indsigelse — Gør indsigelse mod behandling baseret på legitim interesse.",
+      "Tilbagetrækning af samtykke — Træk tidligere givet samtykke tilbage til enhver tid."
+    ],
+    "yourRightsContact": "For at udøve dine rettigheder, kontakt os på linimatic@linimatic.dk. Vi svarer inden for en måned, medmindre en lovlig forlængelse gælder.",
+    "complaintsHeading": "Klager",
+    "complaintsText": "Hvis du mener, at dine databeskyttelsesrettigheder er blevet krænket, har du ret til at indgive en klage til Datatilsynet:",
+    "changesHeading": "Ændringer af denne politik",
+    "changesText": "Vi kan opdatere denne privatlivspolitik fra tid til anden. Datoen \"sidst opdateret\" øverst afspejler den seneste revision. Vi opfordrer dig til at gennemgå denne side regelmæssigt."
+  },
+  "cookiePolicyPage": {
+    "eyebrow": "Juridisk",
+    "title": "Cookiepolitik",
+    "lastUpdated": "Sidst opdateret: august 2026",
+    "whatAreCookiesHeading": "Hvad er cookies?",
+    "whatAreCookiesText": "Cookies er små tekstfiler, der placeres på din enhed, når du besøger en hjemmeside. De bruges bredt til at få hjemmesider til at fungere mere effektivt og give information til ejerne af hjemmesiden. I henhold til EU-regulering (ePrivacy-direktivet og GDPR) er vi forpligtet til at indhente dit samtykke, inden vi placerer ikke-nødvendige cookies.",
+    "howWeUseHeading": "Hvordan vi bruger cookies",
+    "howWeUseText": "Vi bruger to kategorier: nødvendige, som altid er slået til, og analyse, som kun bruges, hvis du siger ja. Vi bruger ingen cookies til markedsføring, og vi deler ikke data med annoncenetværk. Du kan altid ændre dit valg via “Cookieindstillinger” nederst på siden.",
+    "necessaryHeading": "Nødvendige cookies",
+    "necessaryText": "Disse cookies er nødvendige for, at hjemmesiden fungerer korrekt. De understøtter grundlæggende funktioner og husker dine cookiepræferencer. Hjemmesiden kan ikke fungere korrekt uden dem, og de kan ikke deaktiveres.",
+    "tableCookie": "Cookie",
+    "tablePurpose": "Formål",
+    "tableDuration": "Varighed",
+    "consentCookiePurpose": "Gemmer dine cookiepræferencer",
+    "consentCookieDuration": "1 år",
+    "localeCookiePurpose": "Husker dit sprogvalg",
+    "localeCookieDuration": "Session",
+    "popupStoragePurpose": "Husker, at du har lukket vinduet om vores zink-temadage, så det ikke vises igen med det samme",
+    "popupStorageDuration": "Indtil du rydder din browser",
+    "storageNote": "Den sidste linje i skemaet er ikke en cookie, men en note gemt lokalt i din browser. Den indeholder kun et tidspunkt, og den sendes aldrig til os eller til andre.",
+    "analyticsHeading": "Analyse af besøg",
+    "analyticsText": "Hvis du siger ja til analyse, indlæser vi Vercel Analytics for at måle besøg og forstå, hvilke sider der er nyttige. Den indlæses ikke, hvis du siger nej. Vercel beskriver tjenesten som cookiefri og anonymiseret; Vercels egne privatlivsoplysninger forklarer, hvordan analysedata behandles.",
+    "managingHeading": "Administration af dine præferencer",
+    "managingText1": "Når du første gang besøger vores hjemmeside, vises et cookiebanner, der giver dig mulighed for at acceptere alle cookies, afvise alle ikke-nødvendige cookies eller tilpasse dine præferencer efter kategori.",
+    "managingText2": "Du kan til enhver tid ændre dit valg eller trække dit samtykke tilbage via linket \"Cookieindstillinger\" nederst på alle sider.",
+    "managingText3": "Du kan også styre cookies via dine browserindstillinger. De fleste browsere giver dig mulighed for at afvise eller slette cookies. Metoderne varierer fra browser til browser — se din browsers hjælpedokumentation.",
+    "thirdPartyHeading": "Tredjeparter",
+    "thirdPartyText": "Vi bruger ingen annoncenetværk, sociale medie-knapper, kort eller videoer, der sætter cookies på vores sider, og skrifttyperne leveres fra vores egen server. Vercel er vært for hjemmesiden og kører kontaktformularen; hvis du har sagt ja til analyse, måler Vercel også besøg. Resend leverer kontaktformularens beskeder til vores virksomhedsmail, hvor de opbevares i Linimatics postkasse. Tjenesterne kan behandle data uden for EU/EØS som beskrevet i vores privatlivspolitik.",
+    "contactHeading": "Kontakt",
+    "contactText": "Hvis du har spørgsmål om vores brug af cookies, kontakt os på:"
+  },
+  "zinkTemadagPage": {
+    "breadcrumb": "Zink Temadag",
+    "eyebrow": "Gratis temadag — ca. 4 timer",
+    "heading": "Temadag om zinktrykstøbning",
+    "intro": "Få praktisk viden om mulighederne med zinktrykstøbning – fra materialevalg og konstruktion til produktion og færdigt emne.\n\nLinimatic afholder gratis temadage for konstruktører, projektledere og indkøbere i vores produktion i Helsinge. Du er velkommen til at medbringe en potentiel komponent eller en konkret problemstilling, som vi kan gennemgå på dagen. Se agenda nedenfor.",
+    "agendaHeading": "Program",
+    "agenda": [
+      "Zink i almindelighed — og hvor det kommer fra",
+      "Zink sammenlignet med aluminium og plast",
+      "Støbeprocessen",
+      "Rundvisning i produktionen",
+      "Hvornår skal man vælge zink?",
+      "Konstruktion i zink — muligheder og begrænsninger",
+      "CO2-aftryk",
+      "Overfladebehandling",
+      "Støbeværktøjer",
+      "Muligheder for prototyper"
+    ],
+    "agendaNote": "Programmet kan altid justeres og tilpasses deltagerne.",
+    "datesHeading": "Næste planlagte temadage",
+    "dates": ["20.05.2026", "16.09.2026"],
+    "datesNote": "Afholdes hos Linimatic i Helsinge",
+    "datePastLabel": "Afholdt",
+    "contactHeading": "Book en temadag",
+    "contactDescription": "Kontakt Jan V. Jørgensen for at booke en kommende temadag eller for mere information.",
+    "contactName": "Jan V. Jørgensen",
+    "contactRole": "Administrerende direktør",
+    "contactPhone": "+45 2343 3667",
+    "contactEmail": "jaj@linimatic.dk",
+    "heroImageAlt": "Deltagere følger med i oplæg på en temadag med noter i hånden"
+  },
+  "zinkTemadagPopup": {
+    "eyebrow": "Kommende arrangement",
+    "heading": "Temadage om zink hos Linimatic",
+    "description": "Gratis temadag for konstruktører, projektledere og indkøbere. Se de næste planlagte datoer.",
+    "cta": "Se datoer",
+    "close": "Luk",
+    "imageAlt": "Stablede zinkbarrer klar til omsmeltning"
+  }
+}

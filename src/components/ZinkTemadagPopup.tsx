@@ -1,0 +1,98 @@
+"use client";
+
+import { useState, useEffect, useCallback } from "react";
+import Image from "next/image";
+import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/routing";
+import { useConsentDecided } from "@/components/CookieConsent";
+
+const STORAGE_KEY = "zink_temadag_popup_seen_at";
+const REAPPEAR_AFTER_MS = 7 * 24 * 60 * 60 * 1000; // once a week, like the old site
+const SHOW_DELAY_MS = 2500;
+
+export function ZinkTemadagPopup() {
+  const [visible, setVisible] = useState(false);
+  const consentDecided = useConsentDecided();
+  const t = useTranslations("zinkTemadagPopup");
+
+  useEffect(() => {
+    // The cookie banner owns the screen until the visitor has answered it. On a
+    // phone this panel sits exactly on top of the accept/reject buttons, so
+    // showing it earlier would make the consent choice unreachable.
+    if (!consentDecided) return;
+    const lastSeen = Number(localStorage.getItem(STORAGE_KEY) ?? 0);
+    if (Date.now() - lastSeen < REAPPEAR_AFTER_MS) return;
+    const timer = setTimeout(() => setVisible(true), SHOW_DELAY_MS);
+    return () => clearTimeout(timer);
+  }, [consentDecided]);
+
+  const dismiss = useCallback(() => {
+    localStorage.setItem(STORAGE_KEY, String(Date.now()));
+    setVisible(false);
+  }, []);
+
+  useEffect(() => {
+    if (!visible) return;
+    const handleKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") dismiss();
+    };
+    window.addEventListener("keydown", handleKey);
+    return () => window.removeEventListener("keydown", handleKey);
+  }, [visible, dismiss]);
+
+  if (!visible) return null;
+
+  // z-90 keeps this below the cookie banner (z-100): reopening cookie settings
+  // from the footer while this panel is open must not leave the banner covered.
+  return (
+    <div
+      role="dialog"
+      aria-label={t("heading")}
+      className="fixed z-[90] bottom-4 left-4 sm:bottom-6 sm:left-6 w-[calc(100vw-2rem)] max-w-sm bg-white shadow-2xl overflow-hidden animate-slide-in-left"
+    >
+      <div className="relative aspect-square bg-zinc-900">
+        <Image
+          src="/images/zink-temadag/zinc-ingots.png"
+          alt={t("imageAlt")}
+          fill
+          priority
+          className="object-cover"
+          sizes="384px"
+        />
+        <button
+          onClick={dismiss}
+          aria-label={t("close")}
+          className="absolute top-3 right-3 flex items-center justify-center h-8 w-8 rounded-full bg-zinc-950/50 text-white hover:bg-zinc-950/70 transition-colors"
+        >
+          <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M6 18 18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+
+      <div className="p-6 sm:p-7">
+        <div className="flex items-center gap-3 mb-3">
+          <div className="w-6 h-px bg-ember" />
+          <span className="text-[10px] tracking-[0.3em] uppercase text-zinc-600 font-[family-name:var(--font-mono)]">
+            {t("eyebrow")}
+          </span>
+        </div>
+        <h3 className="text-lg font-bold text-zinc-900 tracking-[-0.02em] leading-tight font-[family-name:var(--font-display)]">
+          {t("heading")}
+        </h3>
+        <p className="mt-2 text-sm text-zinc-600 leading-relaxed">{t("description")}</p>
+
+        <Link
+          href="/zink-temadag"
+          onClick={dismiss}
+          className="group mt-5 inline-flex items-center gap-3 bg-ember hover:bg-ember-light px-5 py-2.5 text-xs font-semibold tracking-wide uppercase text-zinc-950 transition-all"
+        >
+          {t("cta")}
+          <svg className="h-4 w-4 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+          </svg>
+        </Link>
+      </div>
+    </div>
+  );
+}

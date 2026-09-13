@@ -1,0 +1,349 @@
+import type { Metadata } from "next";
+import { buildMetadata, type Locale } from "@/lib/seo";
+import Image from "next/image";
+import { getTranslations, setRequestLocale } from "next-intl/server";
+import { routing } from "@/i18n/routing";
+import { Link } from "@/i18n/routing";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { NEWS_POSTS, formatNewsDate } from "@/lib/routes";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "meta" });
+  return buildMetadata({
+    locale: locale as Locale,
+    path: "/about",
+    title: t("about.title"),
+    description: t("about.description"),
+    absoluteTitle: true,
+  });
+}
+
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }));
+}
+
+const teamPhotos = [
+  "/images/team/jan-v-jorgensen.jpg",
+  "/images/team/torben-m-jensen.jpg",
+  "/images/team/rene-johnsen.jpg",
+];
+
+export default async function AboutPage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations("aboutPage");
+  const tNews = await getTranslations("newsPage");
+
+  const latestNews = NEWS_POSTS.slice(0, 3);
+
+  const stats = t.raw("stats") as Array<{ value: string; label: string }>;
+  const certifications = t.raw("certifications") as Array<{
+    name: string;
+    detail: string;
+  }>;
+  const industries = t.raw("industries") as Array<{
+    name: string;
+    clients: string;
+  }>;
+  const teamMembers = t.raw("team.members") as Array<{
+    name: string;
+    role: string;
+    phone: string;
+    email: string;
+  }>;
+
+  return (
+    <>
+      <Breadcrumbs items={[{ label: t("breadcrumb"), href: "/about" }]} />
+
+      {/* Hero */}
+      <section className="bg-zinc-50 pb-20">
+        <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div>
+              <div className="flex items-center gap-4 mb-6">
+                <div className="w-8 h-px bg-ember" />
+                <span className="text-[11px] tracking-[0.3em] uppercase text-zinc-600 font-[family-name:var(--font-mono)]">
+                  {t("eyebrow")}
+                </span>
+              </div>
+              <h1 className="text-4xl sm:text-5xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
+                {t("heading")}
+              </h1>
+              <div className="mt-8 space-y-4 text-base text-zinc-600 leading-relaxed max-w-xl">
+                {(t.raw("story") as string[]).map((paragraph, i) => (
+                  <p key={i}>{paragraph}</p>
+                ))}
+              </div>
+            </div>
+            <div className="relative aspect-[4/3] overflow-hidden">
+              <Image
+                src="/images/services/facility-2022.jpg"
+                alt={t("facilityAlt")}
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 100vw, 50vw"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Key Facts */}
+      <section className="bg-zinc-950 grain">
+        <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
+          {/* Divider is derived from the index at each breakpoint so an item that
+              starts a wrapped row never draws a left border. */}
+          <div className="grid grid-cols-2 sm:grid-cols-3 xl:grid-cols-5">
+            {stats.map((stat, i) => (
+              <div
+                key={stat.label}
+                className={`py-6 sm:py-8 lg:py-10 border-zinc-800 ${
+                  i % 2 === 0 ? "border-l-0 pl-0" : "border-l pl-5"
+                } ${i % 3 === 0 ? "sm:border-l-0 sm:pl-0" : "sm:border-l sm:pl-6"} ${
+                  i === 0 ? "xl:border-l-0 xl:pl-0" : "xl:border-l xl:pl-8"
+                }`}
+              >
+                <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-white tracking-tight font-[family-name:var(--font-mono)]">
+                  {stat.value}
+                </div>
+                <div className="mt-1 text-[11px] tracking-[0.15em] uppercase text-zinc-400 font-[family-name:var(--font-mono)]">
+                  {stat.label}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Certifications */}
+      <section className="bg-white py-14 sm:py-16 lg:py-20">
+        <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
+          <div className="flex items-center gap-4 mb-8">
+            <div className="w-8 h-px bg-ember" />
+            <span className="text-[11px] tracking-[0.3em] uppercase text-zinc-600 font-[family-name:var(--font-mono)]">
+              {t("certificationsEyebrow")}
+            </span>
+          </div>
+          <h2 className="text-3xl sm:text-4xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-10">
+            {t("certificationsHeading")}
+          </h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {certifications.map((cert) => (
+              <div
+                key={cert.name}
+                className="border border-zinc-200 p-6 hover:border-zinc-300 transition-colors"
+              >
+                <h3 className="text-base font-semibold text-zinc-900 font-[family-name:var(--font-display)]">
+                  {cert.name}
+                </h3>
+                <p className="mt-2 text-sm text-zinc-600">{cert.detail}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Sustainability */}
+      <section className="bg-zinc-50 py-14 sm:py-16 lg:py-20 border-t border-zinc-200">
+        <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
+          <div className="max-w-3xl">
+            <div className="flex items-center gap-4 mb-8">
+              <div className="w-8 h-px bg-ember" />
+              <span className="text-[11px] tracking-[0.3em] uppercase text-zinc-600 font-[family-name:var(--font-mono)]">
+                {t("sustainabilityEyebrow")}
+              </span>
+            </div>
+            <h2 className="text-3xl sm:text-4xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-6">
+              {t("sustainabilityHeading")}
+            </h2>
+            <div className="space-y-4 text-base text-zinc-600 leading-relaxed">
+              <p>{t("sustainability.p1")}</p>
+              <p>{t("sustainability.p2")}</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Industries Served */}
+      <section className="bg-white py-14 sm:py-16 lg:py-20 border-t border-zinc-200">
+        <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
+          <h2 className="text-3xl sm:text-4xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-4">
+            {t("industriesHeading")}
+          </h2>
+          <p className="text-base text-zinc-600 leading-relaxed max-w-2xl mb-10">
+            {t("industriesDescription")}
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {industries.map((industry) => (
+              <div key={industry.name} className="pb-6 border-b border-zinc-200">
+                <h3 className="text-base font-semibold text-zinc-900 font-[family-name:var(--font-display)]">
+                  {industry.name}
+                </h3>
+                <p className="mt-1 text-sm text-ember font-[family-name:var(--font-mono)]">
+                  {industry.clients}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Team */}
+      <section className="bg-zinc-50 py-14 sm:py-16 lg:py-20 border-t border-zinc-200">
+        <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
+          <div className="text-center max-w-3xl mx-auto mb-12">
+            <h2 className="text-3xl sm:text-4xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)]">
+              {t("team.heading")}
+            </h2>
+            <p className="mt-4 text-lg text-zinc-600 leading-relaxed">
+              {t("team.description")}
+            </p>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
+            {teamMembers.map((member, i) => (
+              <div key={member.name} className="text-center">
+                <div className="w-28 h-28 mx-auto mb-5 overflow-hidden bg-zinc-200 relative">
+                  <Image
+                    src={teamPhotos[i]}
+                    alt={member.name}
+                    fill
+                    className="object-cover object-top"
+                    sizes="112px"
+                  />
+                </div>
+                <h3 className="text-base font-semibold text-zinc-900 font-[family-name:var(--font-display)]">
+                  {member.name}
+                </h3>
+                <p className="text-sm text-zinc-600">{member.role}</p>
+                <div className="mt-3 flex flex-col gap-1">
+                  <a
+                    href={`tel:${member.phone.replace(/\s/g, "")}`}
+                    className="text-xs text-zinc-600 hover:text-ember transition-colors font-[family-name:var(--font-mono)]"
+                  >
+                    {member.phone}
+                  </a>
+                  <a
+                    href={`mailto:${member.email}`}
+                    className="text-xs text-zinc-600 hover:text-ember transition-colors"
+                  >
+                    {member.email}
+                  </a>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Latest news — also the only route into the news section on narrow
+          widths, where the header's About dropdown is not rendered. */}
+      {latestNews.length > 0 && (
+        <section className="bg-white py-14 sm:py-16 lg:py-20 border-t border-zinc-200">
+          <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
+            <div className="flex flex-wrap items-end justify-between gap-4 mb-10">
+              <h2 className="text-3xl sm:text-4xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)]">
+                {tNews("latestHeading")}
+              </h2>
+              <Link
+                href="/about/news"
+                className="group inline-flex items-center gap-2 text-sm font-semibold text-zinc-900 hover:text-ember transition-colors"
+              >
+                {tNews("backToOverview")}
+                <svg
+                  className="h-4 w-4 transition-transform group-hover:translate-x-1"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  strokeWidth={2}
+                  stroke="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3"
+                  />
+                </svg>
+              </Link>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
+              {latestNews.map((post) => (
+                <Link
+                  key={post.slug}
+                  href={`/about/news/${post.slug}`}
+                  className="group block"
+                >
+                  {post.image && (
+                    <div className="relative aspect-[16/9] overflow-hidden bg-zinc-200">
+                      <Image
+                        src={post.image}
+                        alt=""
+                        fill
+                        className="object-cover transition-transform duration-700 group-hover:scale-105"
+                        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                      />
+                    </div>
+                  )}
+                  <time
+                    dateTime={post.date}
+                    className="mt-4 block text-[11px] tracking-[0.2em] uppercase text-ember font-[family-name:var(--font-mono)]"
+                  >
+                    {formatNewsDate(post.date, locale)}
+                  </time>
+                  <h3 className="mt-2 text-lg font-semibold text-zinc-900 leading-tight font-[family-name:var(--font-display)] group-hover:text-ember transition-colors">
+                    {tNews(`items.${post.slug}.title`)}
+                  </h3>
+                  <p className="mt-2 text-sm text-zinc-600 leading-relaxed">
+                    {tNews(`items.${post.slug}.excerpt`)}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* CTA */}
+      <section className="bg-zinc-950 grain py-14 sm:py-16 lg:py-20 relative">
+        <div className="relative mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20 text-center">
+          <h2 className="text-3xl sm:text-4xl font-bold text-white tracking-[-0.02em] font-[family-name:var(--font-display)]">
+            {t("ctaHeading")}
+          </h2>
+          <p className="mt-4 text-lg text-zinc-400 max-w-lg mx-auto">
+            {t("ctaDescription")}
+          </p>
+          <div className="mt-8">
+            <Link
+              href="/contact"
+              className="group inline-flex items-center justify-center gap-3 bg-ember hover:bg-ember-light px-8 py-4 text-sm font-semibold tracking-wide uppercase text-zinc-950 transition-all"
+            >
+              {t("ctaButton")}
+              <svg
+                className="h-4 w-4 transition-transform group-hover:translate-x-1"
+                fill="none"
+                viewBox="0 0 24 24"
+                strokeWidth={2}
+                stroke="currentColor"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3"
+                />
+              </svg>
+            </Link>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}
