@@ -61,7 +61,7 @@ function addMark(id, node) {
   box.setAttribute('data-selection-mark', '');
   box.setAttribute('data-selection-id', id);
   box.setAttribute('aria-hidden', 'true');
-  box.style.cssText = 'position:fixed;pointer-events:none;z-index:2147483646;border:2px dashed #c2410c;box-sizing:border-box;background:transparent;color:#c2410c;font:11px/1.4 system-ui;display:flex;align-items:flex-start;justify-content:flex-start;padding:2px;';
+  box.style.cssText = 'position:fixed;pointer-events:none;z-index:2147483646;border:2px dashed #c2410c;box-sizing:border-box;background:linear-gradient(#c2410c,#c2410c) 0 0/22px 22px no-repeat;color:#fff;font:700 13px/22px system-ui;text-align:left;padding:0 0 0 7px;';
   document.documentElement.appendChild(box);
   marks.push({id: id, node: node, box: box});
   layoutMarks();
