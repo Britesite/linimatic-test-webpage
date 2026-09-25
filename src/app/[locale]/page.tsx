@@ -124,10 +124,10 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
             <div className="lg:col-start-1 lg:row-start-1 lg:self-end">
               <HeroEyebrow text={t('hero.eyebrow')} className="hidden lg:flex mb-8" />
               <h1 className="animate-fade-up delay-1">
-                <span className="block text-4xl sm:text-5xl lg:text-6xl xl:text-[4.5rem] font-bold text-zinc-900 hyphens-auto [overflow-wrap:break-word] leading-[0.92] tracking-[-0.03em] font-[family-name:var(--font-display)]">
+                <span className="block text-5xl sm:text-6xl lg:text-7xl xl:text-[5.5rem] font-bold text-zinc-900 hyphens-auto [overflow-wrap:break-word] leading-[0.92] tracking-[-0.03em] font-[family-name:var(--font-display)]">
                   {t('hero.headline1')}
                 </span>
-                <span className="block text-4xl sm:text-5xl lg:text-6xl xl:text-[4.5rem] font-bold hyphens-auto [overflow-wrap:break-word] leading-[0.92] tracking-[-0.03em] font-[family-name:var(--font-display)] mt-1">
+                <span className="block text-5xl sm:text-6xl lg:text-7xl xl:text-[5.5rem] font-bold hyphens-auto [overflow-wrap:break-word] leading-[0.92] tracking-[-0.03em] font-[family-name:var(--font-display)] mt-1">
                   {t('hero.headline2')} <span className="text-transparent bg-clip-text bg-gradient-to-r from-ember via-ember-light to-ember">{t('hero.headlineAccent')}</span>
                 </span>
               </h1>
