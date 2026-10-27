@@ -279,7 +279,8 @@
     "address": {
       "street": "Bomose Allé 12",
       "postalCity": "DK-3200 Helsinge",
-      "country": "Danmark"
+      "country": "Danmark",
+      "directions": "Find vej"
     },
     "phone": "+45 4876 4040",
     "email": "linimatic@linimatic.dk",
@@ -745,6 +746,7 @@
     },
     "yourContacts": "Dine kontakter",
     "companyDetails": "Virksomhedsoplysninger",
+    "directions": "Find vej",
     "hours": "Åbningstider",
     "hoursWeekday": "Mandag–fredag: 07:00–16:00",
     "hoursWeekend": "Lørdag–søndag: Lukket"
