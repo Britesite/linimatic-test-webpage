@@ -20,7 +20,6 @@ import {
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { JsonLd } from "@/components/JsonLd";
-import { CookieConsent } from "@/components/CookieConsent";
 import { ConsentAnalytics } from "@/components/ConsentAnalytics";
 import { ZinkTemadagPopup } from "@/components/ZinkTemadagPopup";
 
@@ -173,7 +172,6 @@ export default async function LocaleLayout({
           <Header />
           <main>{children}</main>
           <Footer />
-          <CookieConsent />
           <ConsentAnalytics />
           <ZinkTemadagPopup />
         </NextIntlClientProvider>

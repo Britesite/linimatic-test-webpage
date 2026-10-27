@@ -1,7 +1,6 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/routing";
-import { CookieSettingsButton } from "@/components/CookieSettingsButton";
 
 const serviceHrefs = [
   "/services/prototyping",
@@ -131,7 +130,6 @@ export function Footer() {
           <div className="flex flex-wrap justify-center gap-x-6 gap-y-2 sm:gap-8 text-[11px] text-zinc-600 font-[family-name:var(--font-mono)] tracking-wide">
             <Link href="/privacy" className="hover:text-zinc-400 transition-colors">{t("privacy")}</Link>
             <Link href="/cookies" className="hover:text-zinc-400 transition-colors">{t("cookies")}</Link>
-            <CookieSettingsButton />
           </div>
         </div>
       </div>
