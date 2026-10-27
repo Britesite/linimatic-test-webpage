@@ -22,7 +22,6 @@ const staticRoutes: StaticRoute[] = [
   { path: "/services", priority: 0.9, changeFrequency: "monthly" },
   { path: "/cases", priority: 0.8, changeFrequency: "weekly" },
   { path: "/why-zinc", priority: 0.8, changeFrequency: "monthly" },
-  { path: "/pricing", priority: 0.7, changeFrequency: "monthly" },
   { path: "/about", priority: 0.7, changeFrequency: "monthly" },
   { path: "/about/news", priority: 0.6, changeFrequency: "weekly" },
   { path: "/about/sustainability", priority: 0.6, changeFrequency: "monthly" },

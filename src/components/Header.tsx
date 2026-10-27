@@ -35,7 +35,6 @@ const navKeys = [
   { key: "services", href: "/services", hasDropdown: true },
   { key: "cases", href: "/cases" },
   { key: "whyZinc", href: "/why-zinc" },
-  { key: "pricing", href: "/pricing" },
   { key: "zinkers", href: "/zinkers" },
   { key: "about", href: "/about", hasDropdown: true },
   { key: "sustainability", href: "/about/sustainability", hasDropdown: true },
