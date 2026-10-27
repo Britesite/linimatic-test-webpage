@@ -69,12 +69,12 @@ three languages, and the menus below. Removing a page also needs a redirect (see
 
 ## Contact details are duplicated on purpose — change every copy
 
-- Phone `+45 4876 4040` and `linimatic@linimatic.dk`: as `tel:`/`mailto:` links in
+- Phone `+45 12 34 56 78` and `linimatic@linimatic.dk`: as `tel:`/`mailto:` links in
   `src/components/Footer.tsx`, as visible text under `contactPage` / `contactPeoplePage` /
   `footer` in all three messages files, and in the structured data in `src/lib/seo.ts`.
 - Individual staff phone numbers and emails: `contactPeoplePage` in the messages files.
 - `public/llms.txt` repeats the phone number and address for AI assistants — change it there too.
-- Search every form a number can take (`+45 4876 4040`, `+4548764040`) before saying it is
+- Search every form a number can take (`+45 12 34 56 78`, `+4512345678`) before saying it is
   changed everywhere.
 - Where contact-form submissions are delivered is code in `src/app/actions/contact.ts`
   (`CONTACT_RECIPIENTS`); treat it as agency-owned — do not change it for the owner.
