@@ -234,7 +234,7 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
                 {t('valueChain.eyebrow')}
               </span>
             </div>
-            <h2 className="text-4xl sm:text-5xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
+            <h2 className="text-[2.5rem] sm:text-5xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
               {t('valueChain.heading')}
             </h2>
             <p className="mt-4 text-base text-zinc-600 leading-relaxed max-w-2xl">
@@ -332,7 +332,7 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
                 <div className="w-8 h-px bg-ember" />
                 <span className="text-[11px] tracking-[0.3em] uppercase text-zinc-400 font-[family-name:var(--font-mono)]">{t('cases.eyebrow')}</span>
               </div>
-              <h2 className="text-4xl sm:text-5xl font-bold text-white tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">{t('cases.heading')}</h2>
+              <h2 className="text-[2.5rem] sm:text-5xl font-bold text-white tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">{t('cases.heading')}</h2>
             </div>
             <Link href="/cases" className="group inline-flex items-center gap-3 text-sm font-medium text-zinc-400 hover:text-white transition-colors">
               <span className="border-b border-zinc-700 group-hover:border-zinc-400 pb-px transition-colors">{t('cases.allCases')}</span>
@@ -376,7 +376,7 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
               <span className="text-[11px] tracking-[0.3em] uppercase text-zinc-600 font-[family-name:var(--font-mono)]">{t('team.eyebrow')}</span>
               <div className="w-8 h-px bg-ember" />
             </div>
-            <h2 className="text-3xl sm:text-4xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)]">{t('team.heading')}</h2>
+            <h2 className="text-4xl sm:text-4xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)]">{t('team.heading')}</h2>
             <p className="mt-5 text-lg text-zinc-600 leading-relaxed">{t('team.description')}</p>
           </div>
 
@@ -413,7 +413,7 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
         </div>
         <div className="relative mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20 py-20 sm:py-24 lg:py-28 xl:py-36">
           <div className="max-w-2xl">
-            <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">{t('cta.heading')}</h2>
+            <h2 className="text-[2.5rem] sm:text-5xl lg:text-6xl font-bold text-white tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">{t('cta.heading')}</h2>
             <p className="mt-6 text-lg text-zinc-400 leading-relaxed max-w-lg">{t('cta.description')}</p>
             <div className="mt-4 inline-flex items-center gap-2 text-sm text-ember font-[family-name:var(--font-mono)]">
               <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>

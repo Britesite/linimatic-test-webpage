@@ -56,7 +56,7 @@ export default async function NewsPage({
                 {t("eyebrow")}
               </span>
             </div>
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
+            <h1 className="text-[2.5rem] sm:text-5xl lg:text-6xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
               {t("heading")}
             </h1>
             <p className="mt-6 text-lg text-zinc-600 leading-relaxed max-w-2xl">
@@ -98,7 +98,7 @@ export default async function NewsPage({
                       >
                         {formatNewsDate(post.date, locale)}
                       </time>
-                      <h2 className="mt-3 text-2xl sm:text-3xl font-bold text-zinc-900 tracking-[-0.02em] leading-tight font-[family-name:var(--font-display)] group-hover:text-ember transition-colors">
+                      <h2 className="mt-3 text-3xl sm:text-3xl font-bold text-zinc-900 tracking-[-0.02em] leading-tight font-[family-name:var(--font-display)] group-hover:text-ember transition-colors">
                         {t(`items.${post.slug}.title`)}
                       </h2>
                       <p className="mt-4 text-base text-zinc-600 leading-relaxed max-w-2xl">
@@ -133,7 +133,7 @@ export default async function NewsPage({
       {/* CTA */}
       <section className="bg-zinc-950 grain py-14 sm:py-16 lg:py-20 relative">
         <div className="relative mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20 text-center">
-          <h2 className="text-3xl sm:text-4xl font-bold text-white tracking-[-0.02em] font-[family-name:var(--font-display)]">
+          <h2 className="text-4xl sm:text-4xl font-bold text-white tracking-[-0.02em] font-[family-name:var(--font-display)]">
             {t("ctaHeading")}
           </h2>
           <p className="mt-4 text-lg text-zinc-400 max-w-lg mx-auto">

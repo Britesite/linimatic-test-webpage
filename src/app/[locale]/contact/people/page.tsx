@@ -70,7 +70,7 @@ export default async function ContactPeoplePage({
                 {t("eyebrow")}
               </span>
             </div>
-            <h1 className="text-4xl sm:text-5xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
+            <h1 className="text-[2.5rem] sm:text-5xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
               {t("heading")}
             </h1>
             <p className="mt-4 text-lg text-zinc-600">{t("intro")}</p>
