@@ -329,7 +329,7 @@ export function useCookieConsent(): CookiePreferences {
 export function useConsentDecided(): boolean | null {
   return useSyncExternalStore(
     subscribeToConsent,
-    () => true,
-    () => true
+    () => framedByEditor() || readConsentCache() !== null,
+    () => null
   );
 }
