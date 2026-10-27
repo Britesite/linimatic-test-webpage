@@ -18,6 +18,7 @@
 
   --color-ember: #D4702A;
   --color-ember-light: #E4884A;
+  --color-ember-dark: #C0651F;
   --color-steel: #7B93AB;
   --color-steel-light: #A6B8CA;
 }
@@ -40,6 +41,7 @@
 
   --color-ember: var(--color-ember);
   --color-ember-light: var(--color-ember-light);
+  --color-ember-dark: var(--color-ember-dark);
   --color-steel: var(--color-steel);
   --color-steel-light: var(--color-steel-light);
 
