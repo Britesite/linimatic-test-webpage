@@ -221,6 +221,18 @@
   },
   "clients": {
     "trustedBy": "Trusted by",
+    "testimonials": [
+      {
+        "quote": "We are incredibly pleased with the projects we've run together with Linimatic A/S. Most recently, we collaborated on a new handle that includes a zinc part manufactured by Linimatic. As a result, we can now manufacture the plastic part ourselves and pre-assemble it, so the entire handle is now made in Denmark instead of, as before, in Asia.",
+        "author": "Camilla Burke Vedsmand",
+        "role": "Managing Director, Ditlev Burke Industrial Tools A/S"
+      },
+      {
+        "quote": "Things just run smoothly, and a clear advantage is that we don't have to keep renegotiating.",
+        "author": "Lars Daugaard Pedersen",
+        "role": "Strategic Buyer, VELUX"
+      }
+    ],
     "logos": [
       { "name": "Bang & Olufsen" },
       { "name": "One Collection" },
