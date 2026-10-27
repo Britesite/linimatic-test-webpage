@@ -605,24 +605,6 @@
     "ctaButton": "Kontaktieren Sie uns, um loszulegen"
   },
   "aboutPage": {
-    "ourTeam": {
-      "heading": "Unser Team",
-      "description": "Lernen Sie einige der Menschen hinter Linimatic kennen.",
-      "members": [
-        {
-          "name": "Anna",
-          "role": "Inhaberin"
-        },
-        {
-          "name": "Peter",
-          "role": "Zimmermann"
-        },
-        {
-          "name": "Sara",
-          "role": "Büro"
-        }
-      ]
-    },
     "breadcrumb": "Über uns",
     "eyebrow": "Seit 1967",
     "heading": "Dänemarks größte spezialisierte Zinkdruckgießerei.",

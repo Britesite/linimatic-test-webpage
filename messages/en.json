@@ -602,24 +602,6 @@
     "ctaButton": "Contact Us to Get Started"
   },
   "aboutPage": {
-    "ourTeam": {
-      "heading": "Our team",
-      "description": "Meet some of the people behind Linimatic.",
-      "members": [
-        {
-          "name": "Anna",
-          "role": "Owner"
-        },
-        {
-          "name": "Peter",
-          "role": "Carpenter"
-        },
-        {
-          "name": "Sara",
-          "role": "Office"
-        }
-      ]
-    },
     "breadcrumb": "About",
     "eyebrow": "Since 1967",
     "heading": "Denmark\u2019s largest dedicated zinc die-casting foundry.",
