@@ -223,32 +223,6 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
         </div>
       </section>
 
-      {/* ═══════════════════════════════════ CTA ═══════════════════════════════════ */}
-      <section className="bg-zinc-950 grain relative overflow-hidden">
-        <div className="absolute inset-0">
-          <Image src="/images/services/facility-2022.jpg" alt="" fill className="object-cover opacity-10" sizes="100vw" />
-        </div>
-        <div className="relative mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20 py-20 sm:py-24 lg:py-28 xl:py-36">
-          <div className="max-w-2xl">
-            <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">{t('cta.heading')}</h2>
-            <p className="mt-6 text-lg text-zinc-400 leading-relaxed max-w-lg">{t('cta.description')}</p>
-            <div className="mt-4 inline-flex items-center gap-2 text-sm text-ember font-[family-name:var(--font-mono)]">
-              <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>
-              {t('cta.responsePromise')}
-            </div>
-            <div className="mt-10 flex flex-col sm:flex-row gap-4">
-              <Link href="/contact" className="group inline-flex items-center justify-center gap-3 bg-ember hover:bg-ember-light px-8 py-4 text-sm font-semibold tracking-wide uppercase text-zinc-950 transition-all">
-                {t('cta.getInTouch')}
-                <svg className="h-4 w-4 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" /></svg>
-              </Link>
-              <a href="tel:+4548764040" className="inline-flex items-center justify-center gap-3 border border-zinc-600 hover:border-zinc-400 px-8 py-4 text-sm font-semibold tracking-wide text-zinc-300 hover:text-white transition-all font-[family-name:var(--font-mono)]">
-                {t('cta.phone')}
-              </a>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* ═══════════════════════════════════ VALUE CHAIN ═══════════════════════════════════ */}
       <section className="bg-white py-16 sm:py-20 lg:py-24 xl:py-32 relative overflow-hidden">
         <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
@@ -432,6 +406,31 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
         </div>
       </section>
 
+      {/* ═══════════════════════════════════ CTA ═══════════════════════════════════ */}
+      <section className="bg-zinc-950 grain relative overflow-hidden">
+        <div className="absolute inset-0">
+          <Image src="/images/services/facility-2022.jpg" alt="" fill className="object-cover opacity-10" sizes="100vw" />
+        </div>
+        <div className="relative mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20 py-20 sm:py-24 lg:py-28 xl:py-36">
+          <div className="max-w-2xl">
+            <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">{t('cta.heading')}</h2>
+            <p className="mt-6 text-lg text-zinc-400 leading-relaxed max-w-lg">{t('cta.description')}</p>
+            <div className="mt-4 inline-flex items-center gap-2 text-sm text-ember font-[family-name:var(--font-mono)]">
+              <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>
+              {t('cta.responsePromise')}
+            </div>
+            <div className="mt-10 flex flex-col sm:flex-row gap-4">
+              <Link href="/contact" className="group inline-flex items-center justify-center gap-3 bg-ember hover:bg-ember-light px-8 py-4 text-sm font-semibold tracking-wide uppercase text-zinc-950 transition-all">
+                {t('cta.getInTouch')}
+                <svg className="h-4 w-4 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" /></svg>
+              </Link>
+              <a href="tel:+4548764040" className="inline-flex items-center justify-center gap-3 border border-zinc-600 hover:border-zinc-400 px-8 py-4 text-sm font-semibold tracking-wide text-zinc-300 hover:text-white transition-all font-[family-name:var(--font-mono)]">
+                {t('cta.phone')}
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
     </>
   );
 }
