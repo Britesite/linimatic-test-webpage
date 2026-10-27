@@ -117,11 +117,26 @@
   },
   "stats": {
     "items": [
-      { "value": "1967", "label": "Gegründet" },
-      { "value": "ISO 9002", "label": "Seit 1993" },
-      { "value": "100%", "label": "Dänische Produktion" },
-      { "value": "199 kWp", "label": "Solaranlage" },
-      { "value": "30+", "label": "Spezialisten" }
+      {
+        "value": "1967",
+        "label": "Gegründet"
+      },
+      {
+        "value": "ISO 9002",
+        "label": "Seit 1993"
+      },
+      {
+        "value": "100%",
+        "label": "Dänische Produktion"
+      },
+      {
+        "value": "199 kWp",
+        "label": "Solaranlage"
+      },
+      {
+        "value": "30+",
+        "label": "Spezialisten"
+      }
     ]
   },
   "valueChain": {
@@ -193,7 +208,14 @@
       }
     ]
   },
-  "industryTags": ["Automotive", "Möbel & Design", "Beleuchtung", "Bau & HVAC", "Elektronik", "Industrie"],
+  "industryTags": [
+    "Automotive",
+    "Möbel & Design",
+    "Beleuchtung",
+    "Bau & HVAC",
+    "Elektronik",
+    "Industrie"
+  ],
   "team": {
     "eyebrow": "Ihre Ansprechpartner",
     "heading": "Sprechen Sie mit den Menschen, die die Arbeit machen",
@@ -237,13 +259,27 @@
       }
     ],
     "logos": [
-      { "name": "Bang & Olufsen" },
-      { "name": "One Collection" },
-      { "name": "VELUX" },
-      { "name": "HOWE" },
-      { "name": "Montana" },
-      { "name": "Frandsen" },
-      { "name": "ClimaWin" }
+      {
+        "name": "Bang & Olufsen"
+      },
+      {
+        "name": "One Collection"
+      },
+      {
+        "name": "VELUX"
+      },
+      {
+        "name": "HOWE"
+      },
+      {
+        "name": "Montana"
+      },
+      {
+        "name": "Frandsen"
+      },
+      {
+        "name": "ClimaWin"
+      }
     ]
   },
   "cta": {
@@ -251,11 +287,11 @@
     "description": "Senden Sie uns Ihre Zeichnungen oder Spezifikationen und wir sagen Ihnen genau, was machbar ist — einfach oder komplex.",
     "getInTouch": "Kontaktieren Sie uns, um loszulegen",
     "phone": "+45 4876 4040",
-    "responsePromise": "Antwort innerhalb von 24\u00a0Stunden"
+    "responsePromise": "Antwort innerhalb von 24 Stunden"
   },
   "footer": {
     "logoAlt": "Linimatic — Innovativer Zinkdruckguss",
-    "brandDescription": "Dänemarks größte spezialisierte Zinkdruckgießerei. Präzisions-Zamak-Bauteile \u2014 gefertigt in Dänemark, vom Prototyp bis zur Serienproduktion.",
+    "brandDescription": "Dänemarks größte spezialisierte Zinkdruckgießerei. Präzisions-Zamak-Bauteile — gefertigt in Dänemark, vom Prototyp bis zur Serienproduktion.",
     "linkedInAriaLabel": "Linimatic auf LinkedIn",
     "servicesHeading": "Leistungen",
     "serviceLinks": [
@@ -283,7 +319,7 @@
     },
     "phone": "+45 4876 4040",
     "email": "linimatic@linimatic.dk",
-    "copyright": "\u00a9 {year} Linimatic A/S · USt-IdNr. DK-20254386",
+    "copyright": "© {year} Linimatic A/S · USt-IdNr. DK-20254386",
     "privacy": "Datenschutz",
     "cookies": "Cookies",
     "cookieSettings": "Cookie-Einstellungen"
@@ -329,27 +365,27 @@
       },
       {
         "title": "Druckguss",
-        "description": "9 robotisierte Gießzellen im 24-Stunden-Betrieb. Teile von 1\u2009g bis 4\u2009kg in Zamak 2, 3, 5 und 8 mit Gussmaßtoleranzen bis \u00b10,05\u2009mm.",
-        "specs": "20 – 315T · Zamak 2/3/5/8 · \u00b10,05\u2009mm im Guss"
+        "description": "9 robotisierte Gießzellen im 24-Stunden-Betrieb. Teile von 1 g bis 4 kg in Zamak 2, 3, 5 und 8 mit Gussmaßtoleranzen bis ±0,05 mm.",
+        "specs": "20 – 315T · Zamak 2/3/5/8 · ±0,05 mm im Guss"
       },
       {
         "title": "CNC-Nachbearbeitung",
-        "description": "Hauseigenes Fräsen, Bohren, Gewindeschneiden und Entgraten. Teile gehen vom Guss zur Bearbeitung, ohne das Gebäude zu verlassen \u2014 Rückverfolgbarkeit erhalten, Durchlaufzeit verkürzt.",
+        "description": "Hauseigenes Fräsen, Bohren, Gewindeschneiden und Entgraten. Teile gehen vom Guss zur Bearbeitung, ohne das Gebäude zu verlassen — Rückverfolgbarkeit erhalten, Durchlaufzeit verkürzt.",
         "specs": "Volle CNC · Gleitschleifen · Enge sekundäre Toleranzen"
       },
       {
         "title": "Oberflächenbehandlung & Beschichtung",
-        "description": "Verchromen, Pulverlackieren, Nasslackieren, E-Coat und Lasergravur. Klasse\u00a0A-Oberflächen direkt aus dem Gusswerkzeug bei 0,8\u2009Ra\u2009\u03bcm.",
+        "description": "Verchromen, Pulverlackieren, Nasslackieren, E-Coat und Lasergravur. Klasse A-Oberflächen direkt aus dem Gusswerkzeug bei 0,8 Ra μm.",
         "specs": "Chrom · Pulverlack · Nasslack · Lasergravur"
       },
       {
         "title": "Qualität & Inspektion",
-        "description": "KMG-verifizierte Maße, SPC-überwachte Prozesssteuerung und vollständige PPAP-Dokumentation. ISO 9001-zertifiziert seit 1993 \u2014 über 30 Jahre auditierte Qualitätssysteme.",
+        "description": "KMG-verifizierte Maße, SPC-überwachte Prozesssteuerung und vollständige PPAP-Dokumentation. ISO 9001-zertifiziert seit 1993 — über 30 Jahre auditierte Qualitätssysteme.",
         "specs": "ISO 9001 · KMG · SPC · PPAP · Volle Rückverfolgbarkeit"
       },
       {
         "title": "Montage & Zusammenbau",
-        "description": "Wir \u00fcbernehmen Montage und Zusammenbau von zinkgegossenen Komponenten mit weiteren Teilen \u2014 inklusive Qualit\u00e4tskontrolle, Kennzeichnung, Verpackung und kundenspezifischer Verpackung.",
+        "description": "Wir übernehmen Montage und Zusammenbau von zinkgegossenen Komponenten mit weiteren Teilen — inklusive Qualitätskontrolle, Kennzeichnung, Verpackung und kundenspezifischer Verpackung.",
         "specs": "Montage · Kennzeichnung · Verpackung · Qualitätskontrolle"
       }
     ],
@@ -366,7 +402,7 @@
       },
       {
         "service": "Druckguss",
-        "keySpecs": "9 Gießzellen, 20 – 315T · Zamak 2/3/5/8 · \u00b10,05\u2009mm · 1\u2009g \u2013 4\u2009kg",
+        "keySpecs": "9 Gießzellen, 20 – 315T · Zamak 2/3/5/8 · ±0,05 mm · 1 g – 4 kg",
         "certifications": "ISO 9001"
       },
       {
@@ -462,14 +498,20 @@
     "comparison": {
       "heading": "Zink vs. die Alternativen",
       "description": "Direkter Vergleich von Zinkdruckguss gegenüber Aluminium, Magnesium und Kunststoff-Spritzguss. Die Daten zeigen, warum Zink die Nase vorn hat, wenn Präzision, Oberflächenqualität und Werkzeugwirtschaftlichkeit die entscheidenden Faktoren sind.",
-      "headers": ["Eigenschaft", "Zink", "Aluminium", "Magnesium", "Kunststoff"],
+      "headers": [
+        "Eigenschaft",
+        "Zink",
+        "Aluminium",
+        "Magnesium",
+        "Kunststoff"
+      ],
       "rows": [
         {
           "property": "Erreichbare Toleranz",
-          "zinc": "\u00b10,05 mm",
-          "aluminum": "\u00b10,1 mm",
-          "magnesium": "\u00b10,08 mm",
-          "plastic": "\u00b10,1 mm"
+          "zinc": "±0,05 mm",
+          "aluminum": "±0,1 mm",
+          "magnesium": "±0,08 mm",
+          "plastic": "±0,1 mm"
         },
         {
           "property": "Werkzeugstandzeit (Schuss)",
@@ -494,10 +536,10 @@
         },
         {
           "property": "Oberflächengüte (Ra)",
-          "zinc": "0,8 \u03bcm",
-          "aluminum": "1,6 \u03bcm",
-          "magnesium": "1,2 \u03bcm",
-          "plastic": "0,2 \u03bcm"
+          "zinc": "0,8 μm",
+          "aluminum": "1,6 μm",
+          "magnesium": "1,2 μm",
+          "plastic": "0,2 μm"
         },
         {
           "property": "Zugfestigkeit",
@@ -514,7 +556,7 @@
           "plastic": "Begrenzt"
         }
       ],
-    "disclaimer": "Der Vergleich bezieht sich auf funktional gleichwertige Bauteile, die in Serienproduktion gefertigt werden. Die Werte sind Richtwerte, da das Ergebnis von der Konstruktion und Größe des Bauteils, der gewählten Legierung, dem Werkzeug und dem Produktionsaufbau abhängt."
+      "disclaimer": "Der Vergleich bezieht sich auf funktional gleichwertige Bauteile, die in Serienproduktion gefertigt werden. Die Werte sind Richtwerte, da das Ergebnis von der Konstruktion und Größe des Bauteils, der gewählten Legierung, dem Werkzeug und dem Produktionsaufbau abhängt."
     },
     "alloys": {
       "heading": "Zamak-Legierungsübersicht",
@@ -609,19 +651,32 @@
     "eyebrow": "Seit 1967",
     "heading": "Dänemarks größte spezialisierte Zinkdruckgießerei.",
     "story": [
-      "Linimatic ist eine dänische Zinkdruckgießerei, die auf das Druckgießen von Zinkteilen für die Industrie spezialisiert ist. Seit 1967 fertigen wir Komponenten aus Zink in Helsinge, Dänemark, mit Fokus auf komplexe Geometrien, enge Toleranzen, hochwertiges Finish und stabile Qualität.",
-      "Als Dänemarks größte spezialisierte Zinkdruckgießerei unterstützen wir Unternehmen in ganz Dänemark und Europa bei der Entwicklung und Produktion technischer Zinkteile mit hohen Anforderungen an Präzision, Funktion und Oberfläche. Unsere Erfahrung im Zinkdruckguss macht uns zu einem starken Partner, wenn das Teil anspruchsvoll ist und die Lösung in der Serienproduktion zuverlässig funktionieren muss. Wir liefern sogar an Kunden bis nach China.",
-      "Bei Linimatic vereinen wir die entscheidenden Prozesse bis zur Oberflächenbehandlung unter einem Dach. Das gibt Kontrolle über Qualität, Prozess, Lieferung und Dokumentation vom ersten Muster bis zum fertigen Teil aus Zink. Nachgelagerte Prozesse und die Oberflächenbehandlung erfolgen in enger Zusammenarbeit mit festen, spezialisierten Unterlieferanten.",
-      "Unsere Kunden wählen Linimatic, wenn sie druckgegossene Zinkteile mit dänischer Produktion, hoher Qualität und wettbewerbsfähigen Preisen benötigen.",
-      "Die Besten für das Schwierigste ist nicht nur ein Slogan. Es ist die Art, wie wir mit Zinkdruckguss arbeiten."
+      "Bei Linimatic gießen wir Zink. Das tun wir seit 1967 in Helsinge, und heute sind wir Dänemarks größte spezialisierte Zinkdruckgießerei. Wir lieben die Teile, die andere für schwierig halten: komplexe Geometrien, enge Toleranzen und eine schöne Oberfläche.",
+      "Die entscheidenden Prozesse haben wir unter einem Dach, sodass wir Qualität, Lieferung und Dokumentation selbst im Griff haben – vom ersten Muster bis zum fertigen Teil. Die Oberflächenbehandlung erledigen wir gemeinsam mit unseren festen, spezialisierten Partnern.",
+      "Unsere Kunden in Dänemark, Europa und bis nach China wählen uns, weil sie dänische Qualität zu einem fairen Preis wollen. „Die Besten für das Schwierigste“ ist für uns nicht nur ein Slogan – so gehen wir jeden Tag an die Arbeit."
     ],
     "facilityAlt": "Linimatic Produktionsstätte in Helsinge, Dänemark",
     "stats": [
-      { "value": "1967", "label": "Gegründet" },
-      { "value": "ISO 9001", "label": "Seit 1993" },
-      { "value": "100%", "label": "Dänische Produktion" },
-      { "value": "199 kWp", "label": "Solaranlage" },
-      { "value": "30+", "label": "Spezialisten" }
+      {
+        "value": "1967",
+        "label": "Gegründet"
+      },
+      {
+        "value": "ISO 9001",
+        "label": "Seit 1993"
+      },
+      {
+        "value": "100%",
+        "label": "Dänische Produktion"
+      },
+      {
+        "value": "199 kWp",
+        "label": "Solaranlage"
+      },
+      {
+        "value": "30+",
+        "label": "Spezialisten"
+      }
     ],
     "certificationsEyebrow": "Standards",
     "certificationsHeading": "Zertifizierungen & Compliance",
@@ -646,7 +701,7 @@
       "p2": "Wir investieren in energieeffiziente Anlagen, LED-Hallenbeleuchtung und Wärmerückgewinnungssysteme. Unsere bleifreie Zinkers-Produktlinie zeigt, dass Umweltverantwortung und Produktleistung keine Gegensätze sind. Für Einkaufsteams mit Nachhaltigkeitsberichtspflichten stellen wir verifizierte Daten zu Recyclingquoten, Energieverbrauch und Abfallkennzahlen zur Verfügung."
     },
     "industriesHeading": "Vertraut in allen Branchen",
-    "industriesDescription": "Zinkdruckguss eignet sich für jede Branche, in der Präzision, Oberflächenqualität und Zuverlässigkeit entscheidend sind. Hier sind einige Sektoren, in denen wir tätig sind\u2009\u2014\u2009aber auch wenn Ihre Branche nicht aufgeführt ist, freuen wir uns auf Ihre Anfrage.",
+    "industriesDescription": "Zinkdruckguss eignet sich für jede Branche, in der Präzision, Oberflächenqualität und Zuverlässigkeit entscheidend sind. Hier sind einige Sektoren, in denen wir tätig sind — aber auch wenn Ihre Branche nicht aufgeführt ist, freuen wir uns auf Ihre Anfrage.",
     "industries": [
       {
         "name": "Möbel & Design",
@@ -701,7 +756,7 @@
       ]
     },
     "ctaHeading": "Besuchen Sie uns in Helsinge.",
-    "ctaDescription": "Besichtigen Sie die Anlage, treffen Sie das Team und besprechen Sie Ihr Projekt persönlich. Wir sind 60\u2009km nördlich von Kopenhagen.",
+    "ctaDescription": "Besichtigen Sie die Anlage, treffen Sie das Team und besprechen Sie Ihr Projekt persönlich. Wir sind 60 km nördlich von Kopenhagen.",
     "ctaButton": "Kontaktieren Sie uns, um loszulegen"
   },
   "contactPage": {
@@ -885,7 +940,10 @@
         "challenge": "\"Wir sind mit den Projekten, die wir in Zusammenarbeit mit Linimatic A/S durchgeführt haben, sehr zufrieden. Zuletzt haben wir an einem neuen Griff mit einem von Linimatic hergestellten Zinkteil zusammengearbeitet. Das Ergebnis ist, dass wir jetzt das Kunststoffteil selbst herstellen und vormontieren können, so dass der gesamte Griff in Dänemark und nicht wie bisher in Asien hergestellt wird\", sagt Camilla Burke Vedsmand, Geschäftsführerin von Ditlev Burke Industrial Tools A/S mit Sitz in Asnæs auf Seeland.",
         "approach": "\"Wenn man, wie bei Linimatic, eine automatisierte Produktionslinie hat, konnten wir aus eigener Erfahrung feststellen, dass es möglich ist, mit Asien zu konkurrieren\", sagt Camilla Burke Vedsmand. Als weitere Vorteile der Partnerschaft nennt sie die enge Zusammenarbeit, die Qualität und die Zuverlässigkeit: \"Die Kommunikation innerhalb der Landesgrenzen ist einfach viel schneller und sorgt so für Fortschritte bei den Projekten. Dies war eine wichtige Motivation für die Entwicklung einer langfristigen Zusammenarbeit mit Linimatic in Nordseeland.\" \"Für uns ist es wichtig, dass wir die Aufgaben mit demselben einheitlichen Verständnis und Ansatz angehen. Linimatic A/S ist technisch äußerst versiert, und wir freuen uns besonders, dass die Zusammenarbeit auch unsere Philosophie unterstützt, Arbeitsplätze in Dänemark zu erhalten\", fügt sie hinzu.",
         "result": "Der gesamte Griff wird heute in Dänemark statt in Asien hergestellt.",
-        "capabilities": ["die-casting", "quality"]
+        "capabilities": [
+          "die-casting",
+          "quality"
+        ]
       },
       "velux-kanban": {
         "metaTitle": "VELUX — Forecast-Vereinbarung und Roboterautomatisierung",
@@ -897,7 +955,10 @@
         "challenge": "\"Natürlich gibt es eine Preisvereinbarung mit eingebautem Schutz für beide Parteien, zum Beispiel gegenüber Schwankungen bei Rohstoffpreisen und Wechselkursen. Aber vielleicht noch wichtiger: Die Vereinbarung ermöglicht es Linimatic auch, die Produktionskapazität zu planen und anzupassen und dadurch schnell, in der vereinbarten Qualität und zum vereinbarten Zeitpunkt zu liefern,\" sagt Lars Daugaard Pedersen, strategischer Einkäufer bei VELUX.",
         "approach": "\"Wir sind natürlich immer auf der Suche nach Einsparungen und haben mit Linimatic über Möglichkeiten gesprochen, den Preis etwas zu senken. Linimatic schlug vor, einen Roboter in die Produktionslinie zu integrieren. Wir mussten nicht für den Roboter selbst bezahlen, sondern nur eine kleine Investition in einen speziellen Greifer tätigen, der auf unsere Teile abgestimmt ist. Mit dem Roboter sparen wir jetzt die Lohnkosten für den Bediener, der zuvor unser Teil handhabte, und das Ergebnis ist eine ordentliche Einsparung,\" erklärt Lars Daugaard Pedersen. \"Die Dinge laufen einfach — und ein klarer Vorteil ist, dass wir nicht ständig verhandeln müssen. Wir haben ein wirklich gutes Sparring mit den Technikern von Linimatic, und es gibt immer Raum für eine neue Idee.\"",
         "result": "Eine enge, reibungslose Zusammenarbeit für beide Seiten — ohne ständige Neuverhandlungen, mit laufendem Sparring und Wissensaustausch zwischen Linimatic und VELUX.",
-        "capabilities": ["die-casting", "quality"]
+        "capabilities": [
+          "die-casting",
+          "quality"
+        ]
       },
       "frandsen-downlight": {
         "metaTitle": "Frandsen — von China nach Dänemark in kürzester Zeit",
@@ -909,7 +970,10 @@
         "challenge": "\"Wir hatten sehr wenig Zeit, eine Alternative zu finden. Es sah wirklich schwierig aus. Aber als wir Linimatic kontaktierten und Torben von dem Projekt erzählten, sagte er nur: 'Kein Problem, wir schaffen das!' Und er sagte es auf eine so ruhige Art. Und sie haben es geschafft — wir waren ehrlich gesagt sehr überrascht, wie gut es funktioniert hat,\" erzählt Andreas Olesen, Konstruktionsingenieur bei Frandsen Project.",
         "approach": "\"Es war wirklich ein extrem schneller Prozess — ich muss zugeben, ich habe es selbst kaum geglaubt. Einer der Vorteile war, dass die Leuchten in einem einzigen Prozess gegossen werden konnten, wodurch Zeit gespart wurde. Am Ende hatten wir also einen reibungsloseren, schnelleren Prozess — und ein smarteres Produkt, hergestellt direkt hier in Dänemark,\" sagt Andreas Olesen. \"Der schnelle Prozess ist für dieses Projekt definitiv einzigartig. Es wurde ein Zeitplan erstellt, und nur kleine Abweichungen waren erlaubt, um auf Kurs zu bleiben. Und die wenigen Dinge, die dennoch abwichen, hat Linimatic mit einer Wochenendschicht und extremer Flexibilität gelöst. Es ist sehr deutlich, dass sie im Projektmanagement kompetent sind — eine wirklich positive Erfahrung für uns bei diesem Projekt. Man weiß genau, wie lange alles dauert — sie steuern die Prozesse zu 100 %.\"",
         "result": "Die Leuchten wurden pünktlich für den Start auf dem US-Markt geliefert, hergestellt in Dänemark statt in China — und Frandsen setzt inzwischen zunehmend auf Linimatic für weitere Projekte.",
-        "capabilities": ["prototyping", "die-casting"]
+        "capabilities": [
+          "prototyping",
+          "die-casting"
+        ]
       },
       "one-collection-finn-juhl": {
         "metaTitle": "One Collection — der Finn-Juhl-Tisch neu aufgelegt in Zinkdruckguss",
@@ -921,7 +985,10 @@
         "challenge": "\"Beschläge sind oft ein notwendiges Übel. Aber bei Finn Juhl haben die Beschläge eine technische Funktion, und sie sind auch Teil des visuellen Designs. Das stellt Hersteller vor besondere Herausforderungen. Je einfacher die Dinge aussehen, desto komplizierter können sie in der Herstellung sein. Das haben wir tatsächlich erlebt,\" sagt Henrik Sørensen, Geschäftsführer von One Collection.",
         "approach": "\"Durch die Herstellung der Beschläge in Zinkdruckguss konnten wir den gewünschten visuellen Ausdruck erzielen — und gleichzeitig ein hohes Maß an Präzision erreichen. Es war auch möglich, das Finn-Juhl-Logo direkt beim Gießen mit einzugießen, wodurch wir uns einen Arbeitsschritt sparten,\" sagt Henrik Sørensen und fährt fort: \"Die Zusammenarbeit während des Prozesses ist in hohem Maße ein Dialog. Linimatic verfügt über Kompetenzen, die wir nicht haben, und die wurden einbezogen. Außerdem ist es wichtig, Engagement und Leidenschaft zu spüren — dass der Lieferant das Produkt ebenfalls spannend findet.\"",
         "result": "Der neue Finn-Juhl-Esstisch 'Nyhavn' (Modell FJ 5360) wurde mit den präzisionsgegossenen Zinkbeschlägen eingeführt — mit dem Finn-Juhl-Logo direkt im Beschlag eingegossen — und auf der Design-Messe in Mailand am 13. April 2015 ausgestellt.",
-        "capabilities": ["die-casting", "quality"]
+        "capabilities": [
+          "die-casting",
+          "quality"
+        ]
       }
     }
   },
@@ -986,17 +1053,32 @@
       "specsHeading": "Prototypen-Kapazitäten auf einen Blick",
       "specsNote": "Gesamtdauer: 2-4 Wochen",
       "specs": [
-        { "label": "Schritt 01", "value": "Abklärung" },
-        { "label": "Schritt 02", "value": "Guss" },
-        { "label": "Schritt 03", "value": "CNC-Bearbeitung" },
-        { "label": "Schritt 04", "value": "Fertiger Prototyp" },
-        { "label": "Gesamtdauer", "value": "2-4 Wochen" }
+        {
+          "label": "Schritt 01",
+          "value": "Abklärung"
+        },
+        {
+          "label": "Schritt 02",
+          "value": "Guss"
+        },
+        {
+          "label": "Schritt 03",
+          "value": "CNC-Bearbeitung"
+        },
+        {
+          "label": "Schritt 04",
+          "value": "Fertiger Prototyp"
+        },
+        {
+          "label": "Gesamtdauer",
+          "value": "2-4 Wochen"
+        }
       ],
-      "advantagesHeading": "Warum Sie beim Produktionsgie\u00dfer prototypen sollten",
+      "advantagesHeading": "Warum Sie beim Produktionsgießer prototypen sollten",
       "advantages": {
         "p1": "In manchen Fällen kann ein Zink-Prototyp eine gute und kostengünstige Lösung sein, um Ihre Idee und die Eignung des Materials für genau Ihre Anwendung zu überprüfen — bevor Sie in das endgültige Produktionswerkzeug investieren."
       },
-      "faqHeading": "H\u00e4ufig gestellte Fragen",
+      "faqHeading": "Häufig gestellte Fragen",
       "faq": [
         {
           "question": "Wie schnell kann ich einen Prototyp in Zink bekommen?",
@@ -1008,15 +1090,15 @@
         }
       ],
       "relatedHeading": "Verwandte Leistungen",
-      "ctaHeading": "Bereit f\u00fcr den Prototypenstart?",
+      "ctaHeading": "Bereit für den Prototypenstart?",
       "ctaDescription": "Kontaktieren Sie uns, damit wir gemeinsam prüfen können, ob Prototypen in Zink die richtige Lösung für Ihr Projekt sind — mit ehrlichem Feedback zu Prozess, Zeitplan und Preis.",
       "ctaButton": "Zeichnung senden"
     },
     "dieCasting": {
       "title": "Druckguss",
-      "eyebrow": "D\u00e4nemarks gr\u00f6\u00dfte Zinkgie\u00dferei",
-      "overview": "Druckguss ist der Kern von allem, was wir tun. In unserer Gießerei in Helsinge laufen 9 robotisierte Gießzellen rund um die Uhr und produzieren Zinkteile von 1 Gramm bis 4 Kilo — von kleinen Präzisionsteilen bis zu großen, komplexen Bauteilen. Der Prozess wird laufend überwacht, sodass die Qualität vom ersten bis zum letzten Schuss gleich bleibt. Mit Gusstoleranzen bis \u00b10,05\u2009mm direkt aus der Form können viele Teile ganz ohne Nachbearbeitung verwendet werden. Das macht uns zur größten spezialisierten Zinkdruckgießerei Dänemarks — und zur natürlichen Wahl, wenn das Bauteil schwierig ist und die Anforderungen hoch sind.",
-      "processHeading": "Von der fl\u00fcssigen Legierung zum fertigen Gussteil",
+      "eyebrow": "Dänemarks größte Zinkgießerei",
+      "overview": "Druckguss ist der Kern von allem, was wir tun. In unserer Gießerei in Helsinge laufen 9 robotisierte Gießzellen rund um die Uhr und produzieren Zinkteile von 1 Gramm bis 4 Kilo — von kleinen Präzisionsteilen bis zu großen, komplexen Bauteilen. Der Prozess wird laufend überwacht, sodass die Qualität vom ersten bis zum letzten Schuss gleich bleibt. Mit Gusstoleranzen bis ±0,05 mm direkt aus der Form können viele Teile ganz ohne Nachbearbeitung verwendet werden. Das macht uns zur größten spezialisierten Zinkdruckgießerei Dänemarks — und zur natürlichen Wahl, wenn das Bauteil schwierig ist und die Anforderungen hoch sind.",
+      "processHeading": "Von der flüssigen Legierung zum fertigen Gussteil",
       "process": [
         {
           "step": "Schmelzen der Legierung",
@@ -1024,7 +1106,7 @@
         },
         {
           "step": "Hochdruckinjektion - Schuss",
-          "description": "Flüssiges Zink wird mit einem Druck von bis zu 200\u2009MPa in das gehärtete Formwerkzeug eingespritzt. Füllzeiten unter 50\u2009ms gewährleisten eine optimale Kavitätsfüllung auch bei dünnwandigen und geometrisch komplexen Teilen, mit minimaler Porosität."
+          "description": "Flüssiges Zink wird mit einem Druck von bis zu 200 MPa in das gehärtete Formwerkzeug eingespritzt. Füllzeiten unter 50 ms gewährleisten eine optimale Kavitätsfüllung auch bei dünnwandigen und geometrisch komplexen Teilen, mit minimaler Porosität."
         },
         {
           "step": "Roboterentnahme & Wiederverwendung",
@@ -1036,25 +1118,49 @@
         }
       ],
       "specsEyebrow": "Technische Spezifikationen",
-      "specsHeading": "Gie\u00dfereikapazit\u00e4ten und Legierungsdaten",
+      "specsHeading": "Gießereikapazitäten und Legierungsdaten",
       "specsNote": "",
       "specs": [
-        { "label": "Gießzellen", "value": "9 robotisierte" },
-        { "label": "Schlie\u00dfkraft", "value": "20 \u2013 315T" },
-        { "label": "Teilegewicht", "value": "1\u2009g \u2013 4\u2009kg" },
-        { "label": "Gusstoleranz", "value": "\u00b10,05\u2009mm" },
-        { "label": "Zykluszeit", "value": "7 \u2013 \u221e Sekunden" },
-        { "label": "Legierungen", "value": "Zamak 2 / 3 / 5 / 8" },
-        { "label": "Betrieb", "value": "24 Stunden" },
-        { "label": "Werkzeugstandzeit", "value": "1M+ Sch\u00fcsse" }
+        {
+          "label": "Gießzellen",
+          "value": "9 robotisierte"
+        },
+        {
+          "label": "Schließkraft",
+          "value": "20 – 315T"
+        },
+        {
+          "label": "Teilegewicht",
+          "value": "1 g – 4 kg"
+        },
+        {
+          "label": "Gusstoleranz",
+          "value": "±0,05 mm"
+        },
+        {
+          "label": "Zykluszeit",
+          "value": "7 – ∞ Sekunden"
+        },
+        {
+          "label": "Legierungen",
+          "value": "Zamak 2 / 3 / 5 / 8"
+        },
+        {
+          "label": "Betrieb",
+          "value": "24 Stunden"
+        },
+        {
+          "label": "Werkzeugstandzeit",
+          "value": "1M+ Schüsse"
+        }
       ],
-      "advantagesHeading": "Warum wir bei Linimatic die Besten f\u00fcr das Schwerste sind",
+      "advantagesHeading": "Warum wir bei Linimatic die Besten für das Schwerste sind",
       "advantages": {
         "p1": "Unsere 9 robotisierten Gießzellen decken den gesamten Tonnagebereich ab — von 20T für kleine Präzisionsbauteile bis 315T für große Strukturteile — alle mit Roboterhandling. Dieser einzigartige Fokus gibt uns das tiefe Prozesswissen, das für den Guss komplexer Teile nötig ist.",
         "p2": "Unsere Erfahrung mit der Simulation des Gussprozesses ist in der Branche selten. Wir simulieren Füllung, Erstarrung und Porosität, noch bevor das Werkzeug gefertigt wird — so erhalten wir ein optimiertes Gusswerkzeug schon beim ersten Schuss. Das ermöglicht uns den Guss sehr komplexer Produkte, bei denen andere aufgeben müssen. Dieselbe Erfahrung macht uns zur natürlichen Wahl für High-End-Produkte und andere anspruchsvolle Projekte — einschließlich komplexer Lösungen zum Eingießen von Bauteilen aus anderen Metallen direkt im Gussprozess, bei denen Toleranzen und Materialzusammenspiel exakt aufeinander abgestimmt sein müssen.",
         "p3": "Viele Bauteile unserer Kunden gehen anschließend in die Oberflächenbehandlung und eine gründliche visuelle Endkontrolle, bevor sie einsatzbereit sind. Damit haben wir langjährige Erfahrung — von der Wahl der richtigen Nachbehandlung bis zur letzten Kontrolle von Aussehen und Oberfläche, bevor das Teil das Haus verlässt."
       },
-      "faqHeading": "H\u00e4ufig gestellte Fragen",
+      "faqHeading": "Häufig gestellte Fragen",
       "faq": [
         {
           "question": "Was ist Druckguss?",
@@ -1062,31 +1168,31 @@
         },
         {
           "question": "Welche Zamak-Legierung sollte ich verwenden?",
-          "answer": "Rund 95 % unserer Gussteile werden in Zamak 5 gefertigt — unserer Standardlegierung mit einer starken, ausgewogenen Kombination aus Festigkeit, Duktilität und Gießbarkeit (331\u2009MPa Zugfestigkeit). Die restlichen 5 % gießen wir in Zamak 8, das wir einsetzen, wenn die Festigkeit von Zamak 5 nicht ausreicht — es ist die stärkste und kriechbeständigste Zinklegierung, die wir verarbeiten (374\u2009MPa). Darüber hinaus können wir auch in Zamak 2 gießen, das die höchste Härte bietet und sich für Lagerflächen eignet, oder in Zamak 3, das die besten Beschichtungseigenschaften hat. Wir beraten Sie bei der richtigen Wahl im Rahmen der DFM-Prüfung Ihrer Zeichnung."
+          "answer": "Rund 95 % unserer Gussteile werden in Zamak 5 gefertigt — unserer Standardlegierung mit einer starken, ausgewogenen Kombination aus Festigkeit, Duktilität und Gießbarkeit (331 MPa Zugfestigkeit). Die restlichen 5 % gießen wir in Zamak 8, das wir einsetzen, wenn die Festigkeit von Zamak 5 nicht ausreicht — es ist die stärkste und kriechbeständigste Zinklegierung, die wir verarbeiten (374 MPa). Darüber hinaus können wir auch in Zamak 2 gießen, das die höchste Härte bietet und sich für Lagerflächen eignet, oder in Zamak 3, das die besten Beschichtungseigenschaften hat. Wir beraten Sie bei der richtigen Wahl im Rahmen der DFM-Prüfung Ihrer Zeichnung."
         },
         {
-          "question": "Welche Teilegr\u00f6\u00dfen k\u00f6nnen Sie gie\u00dfen?",
-          "answer": "Wir gießen Teile von 1\u2009g bis 4\u2009kg in unseren 9 Gießzellen. Die optimale Maschine wird anhand von Teilgewicht, projizierter Fläche und erforderlicher Schließkraft ausgewählt. Die Anzahl der Kavitäten wird anhand der Anforderungen an Qualität, Komplexität und Effizienz festgelegt."
+          "question": "Welche Teilegrößen können Sie gießen?",
+          "answer": "Wir gießen Teile von 1 g bis 4 kg in unseren 9 Gießzellen. Die optimale Maschine wird anhand von Teilgewicht, projizierter Fläche und erforderlicher Schließkraft ausgewählt. Die Anzahl der Kavitäten wird anhand der Anforderungen an Qualität, Komplexität und Effizienz festgelegt."
         },
         {
-          "question": "Wie lange h\u00e4lt ein Zinkdruckguss-Werkzeug?",
+          "question": "Wie lange hält ein Zinkdruckguss-Werkzeug?",
           "answer": "Zinkdruckguss-Werkzeuge überschreiten regelmäßig 1 Million Schuss — 5 bis 10-mal länger als Aluminium-Druckguss-Werkzeuge. Der Grund ist, dass Zinks niedrigere Gießtemperatur (385 °C gegenüber 660 °C bei Aluminium) erheblich weniger Thermospannungen im Werkzeugstahl erzeugt. Alle Werkzeuge werden im Rahmen unseres Wartungsprogramms gepflegt."
         },
         {
           "question": "Welche Toleranzen kann Zinkdruckguss erreichen?",
-          "answer": "Gussmaßtoleranzen bis ±0,05\u2009mm sind auf unseren Maschinen Standard. Für Merkmale, die engere Kontrolle erfordern, kann die CNC-Nachbearbeitung noch höhere Präzision erzielen. Wir erstellen Toleranzempfehlungen nach Merkmaltyp (linear, Bohrung, Ebenheit) im Rahmen der DFM-Prüfung."
+          "answer": "Gussmaßtoleranzen bis ±0,05 mm sind auf unseren Maschinen Standard. Für Merkmale, die engere Kontrolle erfordern, kann die CNC-Nachbearbeitung noch höhere Präzision erzielen. Wir erstellen Toleranzempfehlungen nach Merkmaltyp (linear, Bohrung, Ebenheit) im Rahmen der DFM-Prüfung."
         }
       ],
       "relatedHeading": "Verwandte Leistungen",
       "ctaHeading": "Gussangebot anfordern",
-      "ctaDescription": "Senden Sie uns Ihre Teilezeichnung und Volumenanforderungen. Wir empfehlen die richtige Legierung, kalkulieren die Werkzeugkosten und erstellen einen St\u00fcckpreis \u2014 innerhalb von 48 Stunden.",
+      "ctaDescription": "Senden Sie uns Ihre Teilezeichnung und Volumenanforderungen. Wir empfehlen die richtige Legierung, kalkulieren die Werkzeugkosten und erstellen einen Stückpreis — innerhalb von 48 Stunden.",
       "ctaButton": "Gussangebot anfordern"
     },
     "postProcessing": {
       "title": "CNC-Nachbearbeitung",
       "eyebrow": "Hauseigene CNC-Bearbeitung seit über 20 Jahren",
       "overview": "Auch wenn sich sehr enge Toleranzen direkt im Druckgussprozess erreichen lassen, erfordern manche Teile eine Nachbearbeitung, um die gewünschte Toleranz an Flächen, Bohrungen und gefrästen Gewinden zu erreichen. Deshalb ist die CNC-Bearbeitung seit über 20 Jahren einer unserer hauseigenen Prozesse: Die Teile gehen vom Guss zum fertigen, geprüften Teil, ohne das Gebäude zu verlassen — und ohne externe Lieferanten dazwischen. Unser Bearbeitungszentrum übernimmt Fräsen, Bohren, Gewindeschneiden und Gewindefräsen — alles unter demselben Dach wie der Guss.",
-      "processHeading": "Der Produktionsablauf \u2014 vom Angebot zum fertigen Teil",
+      "processHeading": "Der Produktionsablauf — vom Angebot zum fertigen Teil",
       "process": [
         {
           "step": "Prozessplanung",
@@ -1106,25 +1212,43 @@
         }
       ],
       "specsEyebrow": "Technische Spezifikationen",
-      "specsHeading": "Bearbeitungskapazit\u00e4ten",
+      "specsHeading": "Bearbeitungskapazitäten",
       "specsNote": "",
       "specs": [
-        { "label": "Operationen", "value": "Fr\u00e4sen / Bohren / Gewinde" },
-        { "label": "Entgraten", "value": "Nach Oberflächenanforderung" },
-        { "label": "Gusstoleranz", "value": "\u00b10,05\u2009mm" },
-        { "label": "Erfahrung", "value": "20+ Jahre hauseigene CNC" },
-        { "label": "Standort", "value": "Selbes Geb\u00e4ude wie Gie\u00dferei" },
-        { "label": "R\u00fcckverfolgbarkeit", "value": "Chargenniveau erhalten" }
+        {
+          "label": "Operationen",
+          "value": "Fräsen / Bohren / Gewinde"
+        },
+        {
+          "label": "Entgraten",
+          "value": "Nach Oberflächenanforderung"
+        },
+        {
+          "label": "Gusstoleranz",
+          "value": "±0,05 mm"
+        },
+        {
+          "label": "Erfahrung",
+          "value": "20+ Jahre hauseigene CNC"
+        },
+        {
+          "label": "Standort",
+          "value": "Selbes Gebäude wie Gießerei"
+        },
+        {
+          "label": "Rückverfolgbarkeit",
+          "value": "Chargenniveau erhalten"
+        }
       ],
-      "advantagesHeading": "Ein Lieferant \u2014 eine Verantwortung",
+      "advantagesHeading": "Ein Lieferant — eine Verantwortung",
       "advantages": {
         "p1": "Wenn Guss, CNC-Bearbeitung und Entgraten im selben Haus stattfinden, gibt es einen Lieferanten und eine Verantwortung für den gesamten Ablauf. Keine Koordination zwischen Gießerei und Maschinenwerkstatt, kein Transport zwischen Lieferanten — und keine Qualitätslücken zwischen den Schritten. Die Teile gehen in Stunden statt Wochen vom Guss zur Bearbeitung."
       },
-      "faqHeading": "H\u00e4ufig gestellte Fragen",
+      "faqHeading": "Häufig gestellte Fragen",
       "faq": [
         {
-          "question": "M\u00fcssen Zinkdruckgussteile bearbeitet werden?",
-          "answer": "Nicht immer. Viele Merkmale können auf Endtoleranz gegossen werden (±0,05\u2009mm im Guss). Bearbeitung ist jedoch typischerweise für Gewindebohrungen, Präzisionsbohrungen, kritische Passungsflächen oder jedes Merkmal erforderlich, bei dem die Konstruktionstoleranz enger ist als das, was der Gussprozess zuverlässig erreichen kann."
+          "question": "Müssen Zinkdruckgussteile bearbeitet werden?",
+          "answer": "Nicht immer. Viele Merkmale können auf Endtoleranz gegossen werden (±0,05 mm im Guss). Bearbeitung ist jedoch typischerweise für Gewindebohrungen, Präzisionsbohrungen, kritische Passungsflächen oder jedes Merkmal erforderlich, bei dem die Konstruktionstoleranz enger ist als das, was der Gussprozess zuverlässig erreichen kann."
         },
         {
           "question": "Können Sie Gewinde in Zinkdruckgussteile fräsen?",
@@ -1132,7 +1256,7 @@
         },
         {
           "question": "Welche Toleranzen kann die Nachbearbeitung erreichen?",
-          "answer": "CNC-Nachbearbeitung von Zinkdruckgussteilen kann Toleranzen erheblich enger als den Gussstandard von ±0,05\u2009mm erreichen. Die erreichbare Toleranz hängt vom spezifischen Merkmaltyp, der Bauteilgeometrie und der Aufspannung ab. Wir spezifizieren erreichbare Toleranzen während der DFM-Prüfung."
+          "answer": "CNC-Nachbearbeitung von Zinkdruckgussteilen kann Toleranzen erheblich enger als den Gussstandard von ±0,05 mm erreichen. Die erreichbare Toleranz hängt vom spezifischen Merkmaltyp, der Bauteilgeometrie und der Aufspannung ab. Wir spezifizieren erreichbare Toleranzen während der DFM-Prüfung."
         },
         {
           "question": "Welche Entgratungsmethoden verwenden Sie?",
@@ -1140,15 +1264,15 @@
         }
       ],
       "relatedHeading": "Verwandte Leistungen",
-      "ctaHeading": "Pr\u00e4zision \u00fcber die Gusstoleranz hinaus?",
-      "ctaDescription": "Sagen Sie uns, welche Merkmale engere Toleranzen ben\u00f6tigen, und wir planen die Bearbeitungsstrategie gemeinsam mit dem Werkzeugdesign \u2014 bevor Stahl geschnitten wird.",
+      "ctaHeading": "Präzision über die Gusstoleranz hinaus?",
+      "ctaDescription": "Sagen Sie uns, welche Merkmale engere Toleranzen benötigen, und wir planen die Bearbeitungsstrategie gemeinsam mit dem Werkzeugdesign — bevor Stahl geschnitten wird.",
       "ctaButton": "Toleranzen besprechen"
     },
     "surfaceTreatment": {
-      "title": "Oberfl\u00e4chenbehandlung & Beschichtung",
+      "title": "Oberflächenbehandlung & Beschichtung",
       "eyebrow": "Das Finish, das das Produkt definiert",
       "overview": "Zink eignet sich gut für eine Vielzahl von Oberflächenbehandlungen, bei denen sich Funktion, Haltbarkeit und optisches Erscheinungsbild an das fertige Produkt anpassen lassen. Bei Linimatic arbeiten wir mit erfahrenen Spezialisten für Oberflächenbehandlung in Dänemark und im Ausland zusammen, sodass wir Lösungen anbieten können, die Ihren Anforderungen an Finish, Korrosionsschutz und Anwendung entsprechen.\n\nEine Oberflächenbehandlung kann Zinkteilen ein starkes optisches Erscheinungsbild verleihen, die Widerstandsfähigkeit erhöhen und vor Korrosion schützen. Das macht druckgegossene, oberflächenbehandelte Zinkteile für viele verschiedene Branchen geeignet, unter anderem Industrie, technische Komponenten, Möbelindustrie, Interieur, Design und Bauindustrie.",
-      "processHeading": "Vom Rohgussteil zur fertigen Oberfl\u00e4che",
+      "processHeading": "Vom Rohgussteil zur fertigen Oberfläche",
       "process": [
         {
           "step": "Zink – ideal für anspruchsvolle Oberflächenbehandlung",
@@ -1171,20 +1295,44 @@
       "specsHeading": "Verfügbare Oberflächentypen",
       "specsNote": "",
       "specs": [
-        { "label": "Dekorativ und funktional", "value": "Chrom" },
-        { "label": "Funktionaler Korrosionsschutz", "value": "Passivierung" },
-        { "label": "Schützend und dekorativ – volle RAL-Palette", "value": "Pulverlackierung" },
-        { "label": "Dekorativ und schützend", "value": "Nasslackierung" },
-        { "label": "Korrosionsschützend, dekorativ", "value": "Delta Seal Schwarz" },
-        { "label": "Dekorativ, verschleißfest", "value": "PVD" },
-        { "label": "Dekorativ, korrosionsschützend", "value": "Vernickelung" },
-        { "label": "Gleichmäßiger, dünner Korrosionsschutz", "value": "KTL" }
+        {
+          "label": "Dekorativ und funktional",
+          "value": "Chrom"
+        },
+        {
+          "label": "Funktionaler Korrosionsschutz",
+          "value": "Passivierung"
+        },
+        {
+          "label": "Schützend und dekorativ – volle RAL-Palette",
+          "value": "Pulverlackierung"
+        },
+        {
+          "label": "Dekorativ und schützend",
+          "value": "Nasslackierung"
+        },
+        {
+          "label": "Korrosionsschützend, dekorativ",
+          "value": "Delta Seal Schwarz"
+        },
+        {
+          "label": "Dekorativ, verschleißfest",
+          "value": "PVD"
+        },
+        {
+          "label": "Dekorativ, korrosionsschützend",
+          "value": "Vernickelung"
+        },
+        {
+          "label": "Gleichmäßiger, dünner Korrosionsschutz",
+          "value": "KTL"
+        }
       ],
       "advantagesHeading": "Die Oberflächenbehandlung beginnt bereits beim Gießen",
       "advantages": {
         "p1": "Linimatic kennt das Bauteil, den Werkstoff und die Anforderungen bereits aus dem Gussprozess. Dadurch können wir sicherstellen, dass Konstruktion, Guss, Vorbehandlung und Oberflächenbehandlung aufeinander abgestimmt sind. Wir koordinieren die Oberflächenbehandlung bei sorgfältig ausgewählten und freigegebenen Unterauftragnehmern und übernehmen die abschließende Qualitätskontrolle und Verpackung bei Linimatic. So erhalten Sie eine einzige, vollständige Lieferung und einen verantwortlichen Ansprechpartner."
       },
-      "faqHeading": "H\u00e4ufig gestellte Fragen",
+      "faqHeading": "Häufig gestellte Fragen",
       "faq": [
         {
           "question": "Welche Oberflächenbehandlungen können bei Zinkdruckguss angewendet werden?",
@@ -1220,15 +1368,15 @@
         }
       ],
       "relatedHeading": "Verwandte Leistungen",
-      "ctaHeading": "Bestimmtes Finish ben\u00f6tigt?",
-      "ctaDescription": "Teilen Sie uns Ihre Oberfl\u00e4chenanforderungen mit \u2014 dekorativ, funktional oder beides \u2014 und wir empfehlen die richtige Behandlung f\u00fcr Ihre Anwendung und Ihr Volumen.",
-      "ctaButton": "Oberfl\u00e4chenoptionen besprechen"
+      "ctaHeading": "Bestimmtes Finish benötigt?",
+      "ctaDescription": "Teilen Sie uns Ihre Oberflächenanforderungen mit — dekorativ, funktional oder beides — und wir empfehlen die richtige Behandlung für Ihre Anwendung und Ihr Volumen.",
+      "ctaButton": "Oberflächenoptionen besprechen"
     },
     "quality": {
-      "title": "Qualit\u00e4t & Zertifizierung",
+      "title": "Qualität & Zertifizierung",
       "eyebrow": "Mehr als 30 Jahre zertifiziertes Qualitätsmanagement",
       "overview": "Linimatic ist seit 1993 nach ISO 9001 zertifiziert. Unser Qualitätsmanagementsystem bildet den Rahmen für alle unsere Geschäftsprozesse – von der Prüfung der Kundenanforderungen und Spezifikationen über Einkauf, Wareneingang, Produktion und Qualitätskontrolle bis hin zur Lieferung. Alle Prozesse werden nach festgelegten Verfahren und Prüfplänen durchgeführt, sodass die Qualität während des gesamten Ablaufs gesteuert und dokumentiert wird.",
-      "processHeading": "So sichern wir Qualit\u00e4t in jedem Schritt",
+      "processHeading": "So sichern wir Qualität in jedem Schritt",
       "process": [
         {
           "step": "Wareneingangskontrolle",
@@ -1252,27 +1400,51 @@
         }
       ],
       "specsEyebrow": "Technische Spezifikationen",
-      "specsHeading": "Qualit\u00e4tsinfrastruktur",
+      "specsHeading": "Qualitätsinfrastruktur",
       "specsNote": "",
       "specs": [
-        { "label": "Zertifizierung", "value": "ISO 9001 seit 1993" },
-        { "label": "Dimensionskontrolle", "value": "KMG (3D-Koordinate)" },
-        { "label": "Prozesssteuerung", "value": "SPC in Echtzeit" },
-        { "label": "Dokumentation", "value": "PPAP Stufe 1\u20133" },
-        { "label": "R\u00fcckverfolgbarkeit", "value": "Chargenniveau" },
-        { "label": "Erstmuster", "value": "EMPB / FAI-Berichte" },
-        { "label": "Produktion", "value": "Laufende Eigen- / QC-Kontrolle" },
-        { "label": "Kalibrierung", "value": "Spezielle Messausrüstung" }
+        {
+          "label": "Zertifizierung",
+          "value": "ISO 9001 seit 1993"
+        },
+        {
+          "label": "Dimensionskontrolle",
+          "value": "KMG (3D-Koordinate)"
+        },
+        {
+          "label": "Prozesssteuerung",
+          "value": "SPC in Echtzeit"
+        },
+        {
+          "label": "Dokumentation",
+          "value": "PPAP Stufe 1–3"
+        },
+        {
+          "label": "Rückverfolgbarkeit",
+          "value": "Chargenniveau"
+        },
+        {
+          "label": "Erstmuster",
+          "value": "EMPB / FAI-Berichte"
+        },
+        {
+          "label": "Produktion",
+          "value": "Laufende Eigen- / QC-Kontrolle"
+        },
+        {
+          "label": "Kalibrierung",
+          "value": "Spezielle Messausrüstung"
+        }
       ],
       "advantagesHeading": "Was bedeutet ISO 9001 für Sie als Kunde?",
       "advantages": {
         "p1": "Ein zertifiziertes Qualitätsmanagementsystem gibt Ihnen die Gewissheit, dass Anforderungen, Spezifikationen und Änderungen während des gesamten Ablaufs systematisch gehandhabt werden. Abweichungen werden erfasst, die Ursache untersucht und Korrekturmaßnahmen umgesetzt – wodurch das Risiko einer Wiederholung verringert wird.",
         "p2": "Kurz gesagt bedeutet das mehr Liefersicherheit, weniger Qualitätsprobleme und eine besser vorhersehbare Produktion."
       },
-      "faqHeading": "H\u00e4ufig gestellte Fragen",
+      "faqHeading": "Häufig gestellte Fragen",
       "faq": [
         {
-          "question": "Welche Qualit\u00e4tszertifizierungen hat Linimatic?",
+          "question": "Welche Qualitätszertifizierungen hat Linimatic?",
           "answer": "Linimatic ist seit 1993 ISO 9001-zertifiziert — über 30 Jahre ununterbrochenes, unabhängig auditiertes Qualitätsmanagement. Die Zertifizierung deckt die vollständige Wertschöpfungskette ab: Wareneingangskontrolle, Druckguss, CNC-Zerspanung, Oberflächenbehandlung, Montage und Endkontrolle."
         },
         {
@@ -1284,14 +1456,14 @@
           "answer": "Die Qualität wird während der gesamten Produktion gemäß einem festgelegten Prüfplan für das jeweilige Bauteil und den jeweiligen Prozess kontrolliert. Die laufende Eigenkontrolle der Bediener wird durch Stichproben der Qualitätsabteilung ergänzt. Sofern vereinbart, werden zudem SPC-Messungen zur Überwachung der Prozessstabilität sowie Kontrollen auf der Koordinatenmessmaschine eingesetzt."
         },
         {
-          "question": "Welche R\u00fcckverfolgbarkeit bieten Sie pro Charge?",
+          "question": "Welche Rückverfolgbarkeit bieten Sie pro Charge?",
           "answer": "Jede Charge ist vom Rohmaterial (Legierungs-Schmelznummer, Lieferantenzertifikat) über den Guss (Maschine, Werkzeug, Datum, Schicht, Prozessparameter) bis zur Zerspanung, Beschichtung, Inspektion und dem Versand rückverfolgbar."
         }
       ],
       "relatedHeading": "Verwandte Leistungen",
-      "ctaHeading": "Unser Qualit\u00e4tssystem auditieren?",
-      "ctaDescription": "Wir begr\u00fc\u00dfen Kundenaudits und Werksbesuche. Kontaktieren Sie uns, um eine Qualit\u00e4tspr\u00fcfung zu vereinbaren oder unser aktuelles ISO-Zertifikat und unsere Kapazit\u00e4tsdokumentation anzufordern.",
-      "ctaButton": "Qualit\u00e4tsdokumentation anfordern"
+      "ctaHeading": "Unser Qualitätssystem auditieren?",
+      "ctaDescription": "Wir begrüßen Kundenaudits und Werksbesuche. Kontaktieren Sie uns, um eine Qualitätsprüfung zu vereinbaren oder unser aktuelles ISO-Zertifikat und unsere Kapazitätsdokumentation anzufordern.",
+      "ctaButton": "Qualitätsdokumentation anfordern"
     },
     "assembly": {
       "title": "Montage & Zusammenbau",
@@ -1320,22 +1492,40 @@
       "specsHeading": "Montage & Zusammenbau",
       "specsNote": "",
       "specs": [
-        { "label": "Montage", "value": "Montage & Zusammenbau" },
-        { "label": "S\u00e4tze & Teilsysteme", "value": "Montages\u00e4tze / Ersatzteils\u00e4tze" },
-        { "label": "Verpackung", "value": "Standard / kundenspezifisch" },
-        { "label": "Kennzeichnung", "value": "Kundenspezifische Kennzeichnung" },
-        { "label": "Qualit\u00e4t", "value": "Qualit\u00e4tskontrolle vor Lieferung" },
-        { "label": "Lieferung", "value": "Einsatzbereit oder lieferbereit" }
+        {
+          "label": "Montage",
+          "value": "Montage & Zusammenbau"
+        },
+        {
+          "label": "Sätze & Teilsysteme",
+          "value": "Montagesätze / Ersatzteilsätze"
+        },
+        {
+          "label": "Verpackung",
+          "value": "Standard / kundenspezifisch"
+        },
+        {
+          "label": "Kennzeichnung",
+          "value": "Kundenspezifische Kennzeichnung"
+        },
+        {
+          "label": "Qualität",
+          "value": "Qualitätskontrolle vor Lieferung"
+        },
+        {
+          "label": "Lieferung",
+          "value": "Einsatzbereit oder lieferbereit"
+        }
       ],
       "advantagesHeading": "Der Vorteil eines einzigen Lieferanten",
       "advantages": {
         "p1": "Wenn Montage und Zusammenbau bei demselben Lieferanten erfolgen, der die Komponenten gegossen hat, müssen Sie nicht selbst mehrere Schritte koordinieren.",
         "p2": "Durch die Bündelung mehrerer Prozesse bei einem Lieferanten erhalten Sie eine einfachere Logistik, weniger Handhabungsschritte und eine effizientere Lieferkette."
       },
-      "faqHeading": "H\u00e4ufig gestellte Fragen",
+      "faqHeading": "Häufig gestellte Fragen",
       "faq": [
         {
-          "question": "K\u00f6nnen Sie Zinkkomponenten mit anderen Teilen kombinieren?",
+          "question": "Können Sie Zinkkomponenten mit anderen Teilen kombinieren?",
           "answer": "Ja. Wir können die Montage und den Zusammenbau von zinkgegossenen Komponenten mit weiteren Teilen übernehmen, sodass Sie fertig montierte Einheiten erhalten, die einsatzbereit oder lieferbereit sind."
         },
         {
@@ -1364,7 +1554,7 @@
     "description": "Bei Linimatic arbeiten wir mit Technik, Präzision und Lösungen, die einen Unterschied machen. Wir suchen fähige Menschen mit Verantwortungsbewusstsein, Neugier und Lust, Teil eines starken Teams zu sein.\n\nSehen Sie sich unten unsere offenen Stellen an – wir freuen uns, von Ihnen zu hören.",
     "heroImageAlt": "Linimatic Produktionshalle in Helsinge, Dänemark",
     "whyHeading": "Warum Linimatic?",
-    "whyDescription": "Unser Standort ist Helsinge, Nordseeland \u2014 nah genug an Kopenhagen zum Pendeln, weit genug entfernt für Ruhe. Das macht uns besonders.",
+    "whyDescription": "Unser Standort ist Helsinge, Nordseeland — nah genug an Kopenhagen zum Pendeln, weit genug entfernt für Ruhe. Das macht uns besonders.",
     "perks": [
       {
         "title": "Handwerk und fortschrittliche Technologie",
@@ -1380,7 +1570,7 @@
       },
       {
         "title": "Kontinuierliche Entwicklung",
-        "description": "Neue Maschinen, neue Legierungen, neue Verfahren \u2014 das Fachgebiet entwickelt sich und wir uns mit. Schulung und Kompetenzentwicklung gehören zum Job."
+        "description": "Neue Maschinen, neue Legierungen, neue Verfahren — das Fachgebiet entwickelt sich und wir uns mit. Schulung und Kompetenzentwicklung gehören zum Job."
       }
     ],
     "positionsEyebrow": "Offene Stellen",
@@ -1389,8 +1579,8 @@
     "requirementsLabel": "Was wir suchen",
     "contactLabel": "Kontakt",
     "applyButton": "Jetzt bewerben",
-    "applySubject": "Bewerbung \u2014 {position} \u2014 Linimatic",
-    "noPositions": "Derzeit keine offenen Stellen \u2014 aber wir sind immer an qualifizierten Fachkräften interessiert. Senden Sie uns eine Initiativbewerbung.",
+    "applySubject": "Bewerbung — {position} — Linimatic",
+    "noPositions": "Derzeit keine offenen Stellen — aber wir sind immer an qualifizierten Fachkräften interessiert. Senden Sie uns eine Initiativbewerbung.",
     "positions": [
       {
         "title": "Maschinist, Industrietechniker oder Werkzeugmacher — Formenbau",
@@ -1438,7 +1628,7 @@
     "openApplicationDescription": "Wir sind immer an qualifizierten Fachkräften in den Bereichen Fertigung, Technik, Qualität und Vertrieb interessiert. Senden Sie uns Ihren Lebenslauf und erzählen Sie uns, was Sie mitbringen.",
     "openApplicationButton": "Initiativbewerbung senden",
     "learnMoreButton": "Mehr über uns erfahren",
-      "privacyNotice": "Wenn Sie eine Bewerbung per E-Mail senden, verarbeitet Linimatic A/S Ihre Angaben, um die Bewerbung zu prüfen. Wir bewahren Bewerbungen 6 Monate nach Besetzung der Stelle auf, oder 6 Monate nach Eingang oder dem letzten Kontakt bei Initiativbewerbungen, sofern Sie keiner längeren Speicherung zustimmen. Details finden Sie in unserer <link>Datenschutzerklärung</link>."
+    "privacyNotice": "Wenn Sie eine Bewerbung per E-Mail senden, verarbeitet Linimatic A/S Ihre Angaben, um die Bewerbung zu prüfen. Wir bewahren Bewerbungen 6 Monate nach Besetzung der Stelle auf, oder 6 Monate nach Eingang oder dem letzten Kontakt bei Initiativbewerbungen, sofern Sie keiner längeren Speicherung zustimmen. Details finden Sie in unserer <link>Datenschutzerklärung</link>."
   },
   "sustainabilityPage": {
     "breadcrumb": "Nachhaltigkeit",
@@ -1576,7 +1766,7 @@
     "yourRightsItems": [
       "Auskunft — Fordern Sie eine Kopie der personenbezogenen Daten an, die wir über Sie gespeichert haben.",
       "Berichtigung — Fordern Sie die Korrektur unrichtiger Daten an.",
-      "Löschung — Fordern Sie die Löschung Ihrer Daten an (\u201eRecht auf Vergessenwerden\u201c).",
+      "Löschung — Fordern Sie die Löschung Ihrer Daten an („Recht auf Vergessenwerden“).",
       "Einschränkung — Fordern Sie die Einschränkung der Datenverarbeitung an.",
       "Datenübertragbarkeit — Fordern Sie Ihre Daten in einem strukturierten, maschinenlesbaren Format an.",
       "Widerspruch — Widersprechen Sie der Verarbeitung auf Grundlage berechtigter Interessen.",
@@ -1586,7 +1776,7 @@
     "complaintsHeading": "Beschwerden",
     "complaintsText": "Wenn Sie der Ansicht sind, dass Ihre Datenschutzrechte verletzt wurden, haben Sie das Recht, eine Beschwerde bei der dänischen Datenschutzbehörde (Datatilsynet) einzureichen:",
     "changesHeading": "Änderungen dieser Richtlinie",
-    "changesText": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Das Datum \u201ezuletzt aktualisiert\u201c oben zeigt die jüngste Überarbeitung an. Wir empfehlen Ihnen, diese Seite regelmäßig zu überprüfen."
+    "changesText": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Das Datum „zuletzt aktualisiert“ oben zeigt die jüngste Überarbeitung an. Wir empfehlen Ihnen, diese Seite regelmäßig zu überprüfen."
   },
   "cookiePolicyPage": {
     "eyebrow": "Rechtliches",
@@ -1639,7 +1829,10 @@
     ],
     "agendaNote": "Das Programm kann jederzeit an die Teilnehmer angepasst werden.",
     "datesHeading": "Nächste geplante Infotage",
-    "dates": ["20.05.2026", "16.09.2026"],
+    "dates": [
+      "20.05.2026",
+      "16.09.2026"
+    ],
     "datesNote": "Findet bei Linimatic in Helsinge statt",
     "datePastLabel": "Stattgefunden",
     "contactHeading": "Infotag buchen",
