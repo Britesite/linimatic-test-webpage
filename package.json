@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test:contact": "node --experimental-strip-types --test src/app/actions/contact-format.test.ts src/app/actions/rate-limit.test.ts"
+    "test:contact": "node --experimental-strip-types --test src/app/actions/contact-format.test.ts src/app/actions/rate-limit.test.ts",
+    "site-guide": "node scripts/site-guide.mjs",
+    "check": "node scripts/check.mjs"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
