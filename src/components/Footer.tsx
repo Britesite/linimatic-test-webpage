@@ -17,6 +17,7 @@ const companyLinkEntries: { key: string; href: string }[] = [
   { key: "news", href: "/about/news" },
   { key: "cases", href: "/cases" },
   { key: "whyZinc", href: "/why-zinc" },
+  { key: "pricing", href: "/pricing" },
   { key: "careers", href: "/jobs" },
   { key: "zinkers", href: "/zinkers" },
 ];

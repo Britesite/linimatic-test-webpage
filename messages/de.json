@@ -55,6 +55,10 @@
     "zinkTemadag": {
       "title": "Zink-Infotag — kostenloses Seminar zum Zinkdruckguss",
       "description": "Kostenloser Infotag für Konstrukteure, Projektleiter und Einkäufer über die Möglichkeiten des Zinkdruckgusses. Nächste geplante Termine und Anmeldung."
+    },
+    "pricing": {
+      "title": "Preise und Pakete – Zink-Druckguss",
+      "description": "Die drei Pakete von Linimatic: Prototypen, Serienfertigung und Komplettservice. Zeichnung senden und innerhalb von 48 Stunden ein Angebot erhalten."
     }
   },
   "notFound": {
@@ -71,6 +75,7 @@
       "services": "Leistungen",
       "cases": "Referenzen",
       "whyZinc": "Warum Zink",
+      "pricing": "Preise",
       "zinkers": "Sinkers",
       "about": "Über uns",
       "sustainability": "Nachhaltigkeit",
@@ -272,6 +277,7 @@
       "news": "Neuigkeiten",
       "cases": "Referenzen",
       "whyZinc": "Warum Zink",
+      "pricing": "Preise",
       "careers": "Jobs",
       "zinkers": "Sinkers"
     },
@@ -1657,5 +1663,45 @@
     "cta": "Termine ansehen",
     "close": "Schließen",
     "imageAlt": "Gestapelte Zinkbarren, bereit zum Einschmelzen"
+  },
+  "pricingPage": {
+    "breadcrumb": "Preise",
+    "eyebrow": "Preise",
+    "heading": "Drei Pakete – finden Sie das passende für Ihr Projekt",
+    "intro": "Der Preis für Zinkteile hängt von Teilegewicht, Legierung, Zykluszeit und Nachbearbeitung ab. Hier sind drei Möglichkeiten der Zusammenarbeit – senden Sie uns Ihre Zeichnung und Sie erhalten ein konkretes Angebot.",
+    "packages": [
+      {
+        "name": "Prototyp",
+        "tagline": "Für alle, die ein Teil testen möchten, bevor sie in Serienwerkzeuge investieren.",
+        "price": "Preis auf Anfrage",
+        "features": [
+          "Prototypen Ihrer Teile",
+          "Beratung zur gussgerechten Konstruktion",
+          "Angebot innerhalb von 48 Stunden"
+        ]
+      },
+      {
+        "name": "Serienfertigung",
+        "tagline": "Für alle, die Teile in gleichbleibender Qualität und größeren Mengen brauchen.",
+        "price": "Preis auf Anfrage",
+        "features": [
+          "Zink-Druckguss",
+          "CNC-Nachbearbeitung",
+          "Qualitätssicherung und Zertifizierung"
+        ]
+      },
+      {
+        "name": "Komplettservice",
+        "tagline": "Für alle, die das fertige Teil geliefert bekommen möchten – alles unter einem Dach.",
+        "price": "Preis auf Anfrage",
+        "features": [
+          "Alles aus der Serienfertigung",
+          "Oberflächenbehandlung und Beschichtung",
+          "Montage und Zusammenbau"
+        ]
+      }
+    ],
+    "button": "Angebot anfordern",
+    "note": "Die Preise sind individuell, weil jedes Teil anders ist. Kontaktieren Sie uns, wir melden uns mit einem Angebot."
   }
 }

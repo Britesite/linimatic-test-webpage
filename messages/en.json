@@ -55,6 +55,10 @@
     "zinkTemadag": {
       "title": "Zinc Info Day — free zinc die-casting seminar",
       "description": "Free info day for designers, project managers and buyers on the possibilities of zinc die-casting. See the next scheduled dates and book a seat."
+    },
+    "pricing": {
+      "title": "Pricing and packages – zinc die casting",
+      "description": "See Linimatic's three packages: prototypes, series production and full service. Send your drawing and get a quote within 48 hours."
     }
   },
   "notFound": {
@@ -71,6 +75,7 @@
       "services": "Services",
       "cases": "Cases",
       "whyZinc": "Why Zinc",
+      "pricing": "Pricing",
       "zinkers": "Sinkers",
       "about": "About",
       "sustainability": "Sustainability",
@@ -269,6 +274,7 @@
       "news": "News",
       "cases": "Cases",
       "whyZinc": "Why Zinc",
+      "pricing": "Pricing",
       "careers": "Jobs",
       "zinkers": "Sinkers"
     },
@@ -1654,5 +1660,45 @@
     "cta": "See dates",
     "close": "Close",
     "imageAlt": "Stacked zinc ingots ready for remelting"
+  },
+  "pricingPage": {
+    "breadcrumb": "Pricing",
+    "eyebrow": "Pricing",
+    "heading": "Three packages – find the one that fits your project",
+    "intro": "The price of zinc parts depends on part weight, alloy, cycle time and finishing. Here are three ways to work with us – send your drawing and you will get a specific quote.",
+    "packages": [
+      {
+        "name": "Prototype",
+        "tagline": "For when you want to test a part before investing in production tooling.",
+        "price": "Price on quotation",
+        "features": [
+          "Prototypes of your parts",
+          "Advice on design for casting",
+          "Quote within 48 hours"
+        ]
+      },
+      {
+        "name": "Series production",
+        "tagline": "For when you need parts in stable quality and larger volumes.",
+        "price": "Price on quotation",
+        "features": [
+          "High-pressure zinc die casting",
+          "CNC post-processing",
+          "Quality assurance and certification"
+        ]
+      },
+      {
+        "name": "Full service",
+        "tagline": "For when you want the finished part delivered – everything under one roof.",
+        "price": "Price on quotation",
+        "features": [
+          "Everything in series production",
+          "Surface treatment and coating",
+          "Assembly and mounting"
+        ]
+      }
+    ],
+    "button": "Get a quote",
+    "note": "Prices are individual because every part is different. Contact us and we will come back with a quote."
   }
 }

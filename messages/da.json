@@ -55,6 +55,10 @@
     "zinkTemadag": {
       "title": "Zink Temadag — gratis temadag om zinktrykstøbning",
       "description": "Gratis temadag for konstruktører, projektledere og indkøbere om mulighederne i zinktrykstøbning. Se næste planlagte datoer og book en plads."
+    },
+    "pricing": {
+      "title": "Priser og pakker – zinktrykstøbning",
+      "description": "Se Linimatics tre pakker: prototyper, serieproduktion og fuld service. Send din tegning, så får du et tilbud inden for 48 timer."
     }
   },
   "notFound": {
@@ -71,6 +75,7 @@
       "services": "Ydelser",
       "cases": "Cases",
       "whyZinc": "Hvorfor zink",
+      "pricing": "Priser",
       "zinkers": "Sinkers",
       "about": "Om os",
       "sustainability": "Bæredygtighed",
@@ -272,6 +277,7 @@
       "news": "Nyheder",
       "cases": "Cases",
       "whyZinc": "Hvorfor zink",
+      "pricing": "Priser",
       "careers": "Job",
       "zinkers": "Sinkers"
     },
@@ -1658,5 +1664,45 @@
     "cta": "Se datoer",
     "close": "Luk",
     "imageAlt": "Stablede zinkbarrer klar til omsmeltning"
+  },
+  "pricingPage": {
+    "breadcrumb": "Priser",
+    "eyebrow": "Priser",
+    "heading": "Tre pakker – find den, der passer til dit projekt",
+    "intro": "Prisen på zinkemner afhænger af emnets vægt, legering, cyklustid og efterbehandling. Her er tre måder at arbejde sammen med os på – send din tegning, så får du et konkret tilbud.",
+    "packages": [
+      {
+        "name": "Prototype",
+        "tagline": "Til dig, der vil afprøve et emne, før du investerer i serieværktøj.",
+        "price": "Pris efter tilbud",
+        "features": [
+          "Prototyper af dine emner",
+          "Rådgivning om design til støbning",
+          "Tilbud inden for 48 timer"
+        ]
+      },
+      {
+        "name": "Serieproduktion",
+        "tagline": "Til dig, der skal have emner i stabil kvalitet og større mængder.",
+        "price": "Pris efter tilbud",
+        "features": [
+          "Højtryksstøbning i zink",
+          "CNC-efterbearbejdning",
+          "Kvalitetssikring og certificering"
+        ]
+      },
+      {
+        "name": "Fuld service",
+        "tagline": "Til dig, der vil have det færdige emne leveret – alt under ét tag.",
+        "price": "Pris efter tilbud",
+        "features": [
+          "Alt fra serieproduktion",
+          "Overfladebehandling og coating",
+          "Montage og samling"
+        ]
+      }
+    ],
+    "button": "Få et tilbud",
+    "note": "Priserne er individuelle, fordi hvert emne er forskelligt. Kontakt os, så vender vi tilbage med et tilbud."
   }
 }
