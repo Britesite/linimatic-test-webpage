@@ -111,7 +111,7 @@ export default async function JobsPage({
                   {t("eyebrow")}
                 </span>
               </div>
-              <h1 className="text-[2.5rem] sm:text-5xl lg:text-6xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
+              <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
                 {t("heading")}
               </h1>
               {t("description")
@@ -148,7 +148,7 @@ export default async function JobsPage({
                 {t("positionsEyebrow")}
               </span>
             </div>
-            <h2 className="text-4xl sm:text-4xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)]">
+            <h2 className="text-3xl sm:text-4xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)]">
               {t("positionsHeading")}
             </h2>
           </div>
@@ -289,7 +289,7 @@ export default async function JobsPage({
       <section className="bg-zinc-50 py-14 sm:py-16 lg:py-20 border-t border-zinc-200">
         <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
           <div className="mb-12">
-            <h2 className="text-4xl sm:text-4xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)]">
+            <h2 className="text-3xl sm:text-4xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)]">
               {t("whyHeading")}
             </h2>
             <p className="mt-4 text-base text-zinc-600 leading-relaxed max-w-2xl">
@@ -319,7 +319,7 @@ export default async function JobsPage({
       <section className="bg-zinc-950 grain py-14 sm:py-16 lg:py-20 relative">
         <div className="relative mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
           <div className="max-w-2xl mx-auto text-center">
-            <h2 className="text-4xl sm:text-4xl font-bold text-white tracking-[-0.02em] font-[family-name:var(--font-display)]">
+            <h2 className="text-3xl sm:text-4xl font-bold text-white tracking-[-0.02em] font-[family-name:var(--font-display)]">
               {t("openApplicationHeading")}
             </h2>
             <p className="mt-4 text-lg text-zinc-400 leading-relaxed">

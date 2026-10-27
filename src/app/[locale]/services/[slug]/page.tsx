@@ -194,7 +194,7 @@ export default async function ServiceDetailPage({
                   {t("eyebrow")}
                 </span>
               </div>
-              <h1 className="text-[2.5rem] sm:text-5xl lg:text-6xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
+              <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
                 {t("title")}
               </h1>
               <div className="mt-6 max-w-2xl space-y-4">
@@ -262,7 +262,7 @@ export default async function ServiceDetailPage({
       {/* Process */}
       <section className="bg-white py-14 sm:py-16 lg:py-20 border-t border-zinc-200">
         <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
-          <h2 className="text-3xl sm:text-3xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-10">
+          <h2 className="text-2xl sm:text-3xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-10">
             {t("processHeading")}
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -292,7 +292,7 @@ export default async function ServiceDetailPage({
               {t("specsEyebrow")}
             </span>
           </div>
-          <h2 className="text-3xl sm:text-3xl font-bold text-white tracking-[-0.02em] font-[family-name:var(--font-display)] mb-10">
+          <h2 className="text-2xl sm:text-3xl font-bold text-white tracking-[-0.02em] font-[family-name:var(--font-display)] mb-10">
             {t("specsHeading")}
           </h2>
           {specsNote && (
@@ -319,7 +319,7 @@ export default async function ServiceDetailPage({
       <section className="bg-white py-14 sm:py-16 lg:py-20 border-t border-zinc-200">
         <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
           <div className="max-w-3xl">
-            <h2 className="text-3xl sm:text-3xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-6">
+            <h2 className="text-2xl sm:text-3xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-6">
               {t("advantagesHeading")}
             </h2>
             <div className="space-y-4 text-base text-zinc-600 leading-relaxed">
@@ -335,7 +335,7 @@ export default async function ServiceDetailPage({
       <section className="bg-zinc-50 py-14 sm:py-16 lg:py-20 border-t border-zinc-200">
         <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
           <div className="max-w-3xl">
-            <h2 className="text-3xl sm:text-3xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-10">
+            <h2 className="text-2xl sm:text-3xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-10">
               {t("faqHeading")}
             </h2>
             <div className="space-y-8">
@@ -390,7 +390,7 @@ export default async function ServiceDetailPage({
       {/* CTA */}
       <section className="bg-zinc-950 grain py-14 sm:py-16 lg:py-20 relative">
         <div className="relative mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20 text-center">
-          <h2 className="text-4xl sm:text-4xl font-bold text-white tracking-[-0.02em] font-[family-name:var(--font-display)]">
+          <h2 className="text-3xl sm:text-4xl font-bold text-white tracking-[-0.02em] font-[family-name:var(--font-display)]">
             {t("ctaHeading")}
           </h2>
           <p className="mt-4 text-lg text-zinc-400 max-w-lg mx-auto">

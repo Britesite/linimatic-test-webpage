@@ -23,7 +23,7 @@ export default function NotFound() {
                 404
               </span>
             </div>
-            <h1 className="text-[2.5rem] sm:text-5xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05]">
+            <h1 className="text-4xl sm:text-5xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05]">
               This page does not exist
             </h1>
             <p className="mt-4 text-lg text-zinc-600">

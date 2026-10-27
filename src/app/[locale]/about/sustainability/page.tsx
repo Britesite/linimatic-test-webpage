@@ -50,7 +50,7 @@ export default async function SustainabilityPage({
             {t("eyebrow")}
           </span>
         </div>
-        <h1 className="text-[2.5rem] sm:text-5xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-8">
+        <h1 className="text-4xl sm:text-5xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-8">
           {t("title")}
         </h1>
         <p className="text-base text-zinc-600 leading-relaxed">{t("intro")}</p>

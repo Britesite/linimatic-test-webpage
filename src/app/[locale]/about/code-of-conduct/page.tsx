@@ -67,7 +67,7 @@ export default async function CodeOfConductPage({
             {t("eyebrow")}
           </span>
         </div>
-        <h1 className="text-[2.5rem] sm:text-5xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-4">
+        <h1 className="text-4xl sm:text-5xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-4">
           {t("title")}
         </h1>
         <p className="text-sm text-zinc-600 font-[family-name:var(--font-mono)] mb-12">

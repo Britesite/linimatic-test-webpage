@@ -118,7 +118,7 @@ export default async function ZinkTemadagPage({
                   {t("eyebrow")}
                 </span>
               </div>
-              <h1 className="text-[2.5rem] sm:text-5xl lg:text-6xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
+              <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-zinc-900 tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">
                 {t("heading")}
               </h1>
               <div className="mt-6 space-y-4">
@@ -189,7 +189,7 @@ export default async function ZinkTemadagPage({
       {/* Agenda */}
       <section className="bg-white py-14 sm:py-16 lg:py-20 border-t border-zinc-200">
         <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
-          <h2 className="text-3xl sm:text-3xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-10">
+          <h2 className="text-2xl sm:text-3xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)] mb-10">
             {t("agendaHeading")}
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-10 gap-y-5 max-w-4xl">
