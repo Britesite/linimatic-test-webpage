@@ -594,6 +594,10 @@
         {
           "question": "How much does zinc die-casting cost?",
           "answer": "Tooling cost depends on part complexity and number of cavities, typically ranging from €10,000 to €80,000. However, zinc dies last over 1 million shots — 5–10× longer than aluminium dies — dramatically reducing per-part tooling cost at volume. Piece prices depend on part weight, alloy, cycle time, and secondary operations. Send us your drawing for a specific quote — we respond within 48 hours."
+        },
+        {
+          "question": "Do you provide quotes?",
+          "answer": "Yes, always free and without obligation."
         }
       ]
     },
