@@ -5,7 +5,6 @@ import {getTranslations, setRequestLocale} from 'next-intl/server';
 import {Link, routing} from '@/i18n/routing';
 import {buildMetadata, type Locale} from '@/lib/seo';
 import {HeroImageFader} from '@/components/HeroImageFader';
-import {TestimonialFader} from '@/components/TestimonialFader';
 
 /** Images/video that crossfade in the hero slot. Add more entries here to include them in the rotation. */
 const heroItems = [
@@ -104,8 +103,6 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
   const caseItems = t.raw('cases.items') as Array<{title: string; client: string; metric: string; result: string}>;
   const chainSteps = t.raw('valueChain.steps') as Array<{number: string; label: string; title: string; description: string; specs: string}>;
   const clientNames = t.raw('clients.logos') as Array<{name: string}>;
-  const testimonials = (t.raw('clients.testimonials') as Array<{quote: string; author: string; role: string}>)
-    .filter((item) => !isPlaceholder(item.quote));
   const teamMembers = t.raw('team.members') as Array<{name: string; role: string; phone: string; email: string}>;
 
   return (
@@ -305,21 +302,6 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
               <svg className="h-4 w-4 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" /></svg>
             </Link>
           </div>
-        </div>
-      </section>
-
-      {/* ═══════════════════════════════════ TESTIMONIAL ═══════════════════════════════════ */}
-      <section className="bg-zinc-50 py-12 sm:py-16 border-y border-zinc-200">
-        <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
-          {testimonials.length === 0 ? (
-            <div className="max-w-3xl mx-auto">
-              <Placeholder>
-                <strong>Customer testimonial needed.</strong> A quote from an engineering director or procurement manager at a named client (e.g. Fritz Hansen, VELUX, B&O) about reliability, complex geometry expertise, or the one-roof value chain. This single element can be more persuasive than any other section on the page.
-              </Placeholder>
-            </div>
-          ) : (
-            <TestimonialFader items={testimonials} />
-          )}
         </div>
       </section>
 

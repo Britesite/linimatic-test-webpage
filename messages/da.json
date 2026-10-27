@@ -224,18 +224,6 @@
   },
   "clients": {
     "trustedBy": "Betroet af",
-    "testimonials": [
-      {
-        "quote": "Vi er utroligt glade for de projekter, vi har kørt i samarbejde med Linimatic A/S. Senest har vi samarbejdet om et nyt håndtag, som indeholder en zinkdel, der er fremstillet af Linimatic. Resultatet er, at vi nu selv kan fremstille plastdelen og formontere den, så hele håndtaget bliver fremstillet i Danmark i stedet for som tidligere i Asien.",
-        "author": "Camilla Burke Vedsmand",
-        "role": "Administrerende direktør, Ditlev Burke Industrial Tools A/S"
-      },
-      {
-        "quote": "Tingene kører bare, og en klar fordel er, at vi ikke behøver at forhandle hele tiden.",
-        "author": "Lars Daugaard Pedersen",
-        "role": "Strategisk indkøber, VELUX"
-      }
-    ],
     "logos": [
       { "name": "Bang & Olufsen" },
       { "name": "One Collection" },

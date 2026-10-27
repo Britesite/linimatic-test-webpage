@@ -224,18 +224,6 @@
   },
   "clients": {
     "trustedBy": "Das Vertrauen von",
-    "testimonials": [
-      {
-        "quote": "Wir sind unglaublich zufrieden mit den Projekten, die wir gemeinsam mit Linimatic A/S durchgeführt haben. Zuletzt haben wir bei einem neuen Griff zusammengearbeitet, der ein von Linimatic gefertigtes Zinkteil enthält. Das Ergebnis ist, dass wir das Kunststoffteil jetzt selbst herstellen und vormontieren können, sodass der gesamte Griff nun in Dänemark statt wie zuvor in Asien hergestellt wird.",
-        "author": "Camilla Burke Vedsmand",
-        "role": "Geschäftsführerin, Ditlev Burke Industrial Tools A/S"
-      },
-      {
-        "quote": "Es läuft einfach rund, und ein klarer Vorteil ist, dass wir nicht ständig neu verhandeln müssen.",
-        "author": "Lars Daugaard Pedersen",
-        "role": "Strategischer Einkäufer, VELUX"
-      }
-    ],
     "logos": [
       { "name": "Bang & Olufsen" },
       { "name": "One Collection" },
