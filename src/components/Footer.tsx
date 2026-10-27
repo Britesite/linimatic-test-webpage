@@ -107,16 +107,6 @@ export function Footer() {
               <p>{t("address.street")}</p>
               <p>{t("address.postalCity")}</p>
               <p>{t("address.country")}</p>
-              <p>
-                <a
-                  href="https://www.google.com/maps/search/?api=1&query=Linimatic+A%2FS+Bomose+All%C3%A9+12+3200+Helsinge"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-ember underline underline-offset-2"
-                >
-                  {t("address.directions")}
-                </a>
-              </p>
               <div className="pt-3 space-y-2">
                 <p>
                   <a href="tel:+4548764040" className="font-[family-name:var(--font-mono)] text-zinc-300 hover:text-ember transition-colors">

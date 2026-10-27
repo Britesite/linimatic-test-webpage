@@ -142,16 +142,6 @@ export default async function ContactPage({
                   <p>Bomose Allé 12</p>
                   <p>DK-3200 Helsinge</p>
                   <p>Denmark</p>
-                  <p>
-                    <a
-                      href="https://www.google.com/maps/search/?api=1&query=Linimatic+A%2FS+Bomose+All%C3%A9+12+3200+Helsinge"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-ember underline underline-offset-2"
-                    >
-                      {t("directions")}
-                    </a>
-                  </p>
                   <div className="pt-2 space-y-1">
                     <p>
                       <a
