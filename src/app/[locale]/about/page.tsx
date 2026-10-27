@@ -61,6 +61,11 @@ export default async function AboutPage({
     email: string;
   }>;
 
+  const ourTeam = t.raw("ourTeam.members") as Array<{
+    name: string;
+    role: string;
+  }>;
+
   return (
     <>
       <Breadcrumbs items={[{ label: t("breadcrumb"), href: "/about" }]} />
@@ -239,6 +244,36 @@ export default async function AboutPage({
                     {member.email}
                   </a>
                 </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Our team */}
+      <section className="bg-white py-14 sm:py-16 lg:py-20 border-t border-zinc-200">
+        <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
+          <div className="text-center max-w-3xl mx-auto mb-12">
+            <h2 className="text-3xl sm:text-4xl font-bold text-zinc-900 tracking-[-0.02em] font-[family-name:var(--font-display)]">
+              {t("ourTeam.heading")}
+            </h2>
+            <p className="mt-4 text-lg text-zinc-600 leading-relaxed">
+              {t("ourTeam.description")}
+            </p>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 lg:gap-8 max-w-md sm:max-w-2xl lg:max-w-4xl mx-auto">
+            {ourTeam.map((member) => (
+              <div key={member.name} className="text-center">
+                <div
+                  aria-hidden="true"
+                  className="w-28 h-28 mx-auto mb-5 bg-zinc-100 flex items-center justify-center text-4xl font-bold text-ember font-[family-name:var(--font-display)]"
+                >
+                  {member.name.charAt(0)}
+                </div>
+                <h3 className="text-base font-semibold text-zinc-900 font-[family-name:var(--font-display)]">
+                  {member.name}
+                </h3>
+                <p className="text-sm text-zinc-600">{member.role}</p>
               </div>
             ))}
           </div>

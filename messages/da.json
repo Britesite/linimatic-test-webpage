@@ -605,6 +605,24 @@
     "ctaButton": "Kontakt os for at komme i gang"
   },
   "aboutPage": {
+    "ourTeam": {
+      "heading": "Vores team",
+      "description": "Mød nogle af dem, du kan møde hos Linimatic.",
+      "members": [
+        {
+          "name": "Anna",
+          "role": "Indehaver"
+        },
+        {
+          "name": "Peter",
+          "role": "Tømrer"
+        },
+        {
+          "name": "Sara",
+          "role": "Kontor"
+        }
+      ]
+    },
     "breadcrumb": "Om os",
     "eyebrow": "Siden 1967",
     "heading": "Danmarks største dedikerede zinktrykstøberi.",
