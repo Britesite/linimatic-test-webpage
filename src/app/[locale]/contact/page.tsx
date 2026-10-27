@@ -173,7 +173,6 @@ export default async function ContactPage({
                 </h2>
                 <div className="text-sm text-zinc-600 space-y-1">
                   <p>{t("hoursWeekday")}</p>
-                  <p>{t("hoursFriday")}</p>
                   <p className="text-zinc-600">{t("hoursWeekend")}</p>
                 </div>
               </div>

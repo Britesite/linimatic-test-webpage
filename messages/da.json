@@ -746,8 +746,7 @@
     "yourContacts": "Dine kontakter",
     "companyDetails": "Virksomhedsoplysninger",
     "hours": "Åbningstider",
-    "hoursWeekday": "Mandag–torsdag: 08:00–16:00",
-    "hoursFriday": "Fredag: 08:00–14:00",
+    "hoursWeekday": "Mandag–fredag: 07:00–16:00",
     "hoursWeekend": "Lørdag–søndag: Lukket"
   },
   "contactTabs": {

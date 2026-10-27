@@ -108,20 +108,12 @@ function organizationSchema(description: string) {
   telephone: "+45 4876 4040",
   email: "linimatic@linimatic.dk",
   vatID: "DK20254386",
-  openingHoursSpecification: [
-    {
-      "@type": "OpeningHoursSpecification",
-      dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday"],
-      opens: "08:00",
-      closes: "16:00",
-    },
-    {
-      "@type": "OpeningHoursSpecification",
-      dayOfWeek: "Friday",
-      opens: "08:00",
-      closes: "14:00",
-    },
-  ],
+  openingHoursSpecification: {
+    "@type": "OpeningHoursSpecification",
+    dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    opens: "07:00",
+    closes: "16:00",
+  },
   numberOfEmployees: {
     "@type": "QuantitativeValue",
     minValue: 50,

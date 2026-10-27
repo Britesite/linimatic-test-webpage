@@ -746,8 +746,7 @@
     "yourContacts": "Ihre Ansprechpartner",
     "companyDetails": "Firmenangaben",
     "hours": "Geschäftszeiten",
-    "hoursWeekday": "Montag–Donnerstag: 08:00–16:00",
-    "hoursFriday": "Freitag: 08:00–14:00",
+    "hoursWeekday": "Montag–Freitag: 07:00–16:00",
     "hoursWeekend": "Samstag–Sonntag: Geschlossen"
   },
   "contactTabs": {

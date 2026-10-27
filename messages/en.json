@@ -743,8 +743,7 @@
     "yourContacts": "Your Contacts",
     "companyDetails": "Company Details",
     "hours": "Office Hours",
-    "hoursWeekday": "Monday–Thursday: 08:00–16:00",
-    "hoursFriday": "Friday: 08:00–14:00",
+    "hoursWeekday": "Monday\u2013Friday: 07:00\u201316:00",
     "hoursWeekend": "Saturday\u2013Sunday: Closed"
   },
   "contactTabs": {
