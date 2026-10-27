@@ -224,7 +224,7 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
       </section>
 
       {/* ═══════════════════════════════════ VALUE CHAIN ═══════════════════════════════════ */}
-      <section className="bg-white py-16 sm:py-20 lg:py-24 xl:py-32 relative overflow-hidden">
+      <section className="bg-white py-20 sm:py-28 lg:py-32 xl:py-40 relative overflow-hidden">
         <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
           {/* Header */}
           <div className="mb-10 sm:mb-14 lg:mb-16">
@@ -309,7 +309,7 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
       </section>
 
       {/* ═══════════════════════════════════ TESTIMONIAL ═══════════════════════════════════ */}
-      <section className="bg-zinc-50 py-12 sm:py-16 border-y border-zinc-200">
+      <section className="bg-zinc-50 py-16 sm:py-20 border-y border-zinc-200">
         <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
           {testimonials.length === 0 ? (
             <div className="max-w-3xl mx-auto">
@@ -324,7 +324,7 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
       </section>
 
       {/* ═══════════════════════════════════ CASES ═══════════════════════════════════ */}
-      <section className="bg-zinc-950 grain py-16 sm:py-20 lg:py-24 xl:py-32 relative">
+      <section className="bg-zinc-950 grain py-20 sm:py-28 lg:py-32 xl:py-40 relative">
         <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
           <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-6 mb-10 sm:mb-14 lg:mb-16">
             <div>
@@ -368,7 +368,7 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
       </section>
 
       {/* ═══════════════════════════════════ TEAM ═══════════════════════════════════ */}
-      <section className="bg-zinc-50 py-16 sm:py-20 lg:py-24 xl:py-32 border-t border-zinc-200">
+      <section className="bg-zinc-50 py-20 sm:py-28 lg:py-32 xl:py-40 border-t border-zinc-200">
         <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
           <div className="text-center max-w-3xl mx-auto mb-10 sm:mb-14 lg:mb-16">
             <div className="flex items-center justify-center gap-4 mb-5">
@@ -411,7 +411,7 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
         <div className="absolute inset-0">
           <Image src="/images/services/facility-2022.jpg" alt="" fill className="object-cover opacity-10" sizes="100vw" />
         </div>
-        <div className="relative mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20 py-20 sm:py-24 lg:py-28 xl:py-36">
+        <div className="relative mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20 py-24 sm:py-32 lg:py-36 xl:py-44">
           <div className="max-w-2xl">
             <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white tracking-[-0.02em] leading-[1.05] font-[family-name:var(--font-display)]">{t('cta.heading')}</h2>
             <p className="mt-6 text-lg text-zinc-400 leading-relaxed max-w-lg">{t('cta.description')}</p>
