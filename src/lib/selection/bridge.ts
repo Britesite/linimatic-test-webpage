@@ -1,7 +1,11 @@
-export function selectionBridgeScript(parentOrigin: string): string {
+// `commit` is the commit this build was made from. A preview patch names the
+// build it was measured from and is ignored by any other, so a page without a
+// known commit (null) never shows provisional text.
+export function selectionBridgeScript(parentOrigin: string, commit: string | null | undefined = process.env.VERCEL_GIT_COMMIT_SHA): string {
   const origin = new URL(parentOrigin);
   if (origin.protocol !== "https:" || origin.origin !== parentOrigin) throw new Error("invalid_selection_origin");
-  return `(function(parentOrigin){${BRIDGE}})(${JSON.stringify(parentOrigin).replace(/</g, "\\u003c")});`;
+  const builtCommit = commit && /^[0-9a-f]{40}$/.test(commit) ? commit : null;
+  return `(function(parentOrigin,builtCommit){${BRIDGE}})(${JSON.stringify(parentOrigin).replace(/</g, "\\u003c")},${JSON.stringify(builtCommit)});`;
 }
 
 const BRIDGE = String.raw`
@@ -89,18 +93,27 @@ function disable() { pending = null; unbind(); clearMarks(); }
 // source while the build that will really carry it is still running. Only
 // whole text nodes and a few text attributes that equal the built text are
 // touched, never markup; the app clears it, or the reload onto the finished
-// build replaces the page.
-var patchKey = null, patchText = [], patchedNodes = new Map(), patchedAttrs = new Map(), patchObserver = null, patchTimer = null, patchReported = -1;
+// build replaces the page. A patch is measured from one build, so it is
+// accepted only by a page of that build (builtCommit).
+var patchKey = null, patchText = new Map(), patchedNodes = new Map(), patchedAttrs = new Map();
+var patchObserver = null, patchTimer = null, patchReported = -1, patchQueue = [];
 var patchAttrs = ['alt', 'title', 'aria-label', 'placeholder'];
+var patchSkip = /^(script|style|noscript|template|textarea|select|option|iframe|object|embed)$/;
 function squash(value) { return String(value == null ? '' : value).replace(/\s+/g, ' ').trim(); }
 function patchFor(value) {
+  var entries = patchText.get(value);
+  if (!entries) return null;
   var lang = String(document.documentElement.getAttribute('lang') || '').toLowerCase();
-  for (var i = 0; i < patchText.length; i++) {
-    var entry = patchText[i];
-    if (entry.locale && lang && lang !== entry.locale && lang.indexOf(entry.locale + '-') !== 0) continue;
-    if (entry.from === value) return entry.to;
+  for (var i = 0; i < entries.length; i++) {
+    var locale = entries[i].locale;
+    if (locale && lang && lang !== locale && lang.indexOf(locale + '-') !== 0) continue;
+    return entries[i].to;
   }
   return null;
+}
+function patchExcluded(node) {
+  return patchSkip.test(node.tagName.toLowerCase()) || node.hasAttribute('data-selection-overlay') || node.hasAttribute('data-private')
+    || (node.hasAttribute('contenteditable') && node.getAttribute('contenteditable') !== 'false');
 }
 function patchNode(node) {
   if (node.nodeType === 3) {
@@ -113,11 +126,7 @@ function patchNode(node) {
     node.textContent = value;
     return;
   }
-  if (node.nodeType !== 1) return;
-  var tag = node.tagName.toLowerCase();
-  if (/^(script|style|noscript|template|textarea|select|option|iframe|object|embed)$/.test(tag)
-    || node.hasAttribute('data-selection-overlay') || node.hasAttribute('data-private')
-    || (node.hasAttribute('contenteditable') && node.getAttribute('contenteditable') !== 'false')) return;
+  if (node.nodeType !== 1 || patchExcluded(node)) return;
   for (var i = 0; i < patchAttrs.length; i++) {
     var name = patchAttrs[i], current = node.getAttribute(name);
     if (current === null) continue;
@@ -129,32 +138,60 @@ function patchNode(node) {
     patchedAttrs.set(node, seen);
     node.setAttribute(name, next);
   }
-  var children = Array.from(node.childNodes);
-  for (var c = 0; c < children.length; c++) patchNode(children[c]);
+  for (var child = 0; child < node.childNodes.length; child++) patchNode(node.childNodes[child]);
+}
+// A node the page changed or added: patched only when nothing above it is
+// off limits, which the walk from the body checks on its way down.
+function patchChanged(node) {
+  var start = node.nodeType === 1 ? node : node.parentElement, reached = false;
+  for (var current = start; current; current = current.parentElement) {
+    if (current === document.body) { reached = true; break; }
+    if (patchExcluded(current)) return;
+  }
+  if (reached) patchNode(node);
 }
 function patchCount() {
   var count = 0;
-  patchedNodes.forEach(function(record, node) { if (inDocument(node.parentElement) && node.textContent === record.value) count++; });
+  patchedNodes.forEach(function(record, node) {
+    if (!inDocument(node.parentElement)) { patchedNodes.delete(node); return; }
+    if (node.textContent === record.value) count++;
+  });
   patchedAttrs.forEach(function(seen, node) {
-    if (!inDocument(node)) return;
+    if (!inDocument(node)) { patchedAttrs.delete(node); return; }
     Object.keys(seen).forEach(function(name) { if (node.getAttribute(name) === seen[name].value) count++; });
   });
   return count;
 }
-function applyPatch() {
+function applyPatch(key, everything) {
+  if (key !== patchKey || !document.body) return;
   patchTimer = null;
-  if (!patchKey || !document.body) return;
-  patchNode(document.body);
+  var queue = patchQueue; patchQueue = [];
+  if (everything || queue.length > 500) patchNode(document.body);
+  else queue.forEach(patchChanged);
   var count = patchCount();
   if (count === patchReported || (count === 0 && patchReported < 0)) return;
   patchReported = count;
   window.parent.postMessage({type: 'website-preview:applied', version: 1, key: patchKey, count: count}, parentOrigin);
 }
+function startPatch(key) {
+  if (key !== patchKey) return;
+  if (typeof MutationObserver !== 'undefined') {
+    patchObserver = new MutationObserver(function(records) {
+      records.forEach(function(record) {
+        if (record.type === 'characterData') patchQueue.push(record.target);
+        else Array.from(record.addedNodes || []).forEach(function(node) { patchQueue.push(node); });
+      });
+      if (patchQueue.length && patchTimer === null) patchTimer = setTimeout(function() { applyPatch(key, false); }, 60);
+    });
+    patchObserver.observe(document.body, {childList: true, subtree: true, characterData: true});
+  }
+  applyPatch(key, true);
+}
 function clearPatch() {
   if (patchObserver) patchObserver.disconnect();
   patchObserver = null;
   clearTimeout(patchTimer); patchTimer = null;
-  patchKey = null; patchText = []; patchReported = -1;
+  patchKey = null; patchText = new Map(); patchReported = -1; patchQueue = [];
   patchedNodes.forEach(function(record, node) { if (node.textContent === record.value) node.textContent = record.original; });
   patchedAttrs.forEach(function(seen, node) {
     Object.keys(seen).forEach(function(name) { if (node.getAttribute(name) === seen[name].value) node.setAttribute(name, seen[name].original); });
@@ -166,26 +203,29 @@ function previewMessage(data) {
   if (data.version !== 1) return;
   var keys = Object.keys(data).sort().join(',');
   if (data.type === 'website-preview:clear') { if (keys === 'type,version') clearPatch(); return; }
-  if (data.type !== 'website-preview:patch' || keys !== 'key,text,type,version' || !/^[0-9a-f]{40}$/.test(data.key)
+  if (data.type !== 'website-preview:patch' || keys !== 'base,key,text,type,version' || !/^[0-9a-f]{40}$/.test(data.key)
+    || !builtCommit || data.base !== builtCommit
     || !Array.isArray(data.text) || data.text.length < 1 || data.text.length > 200) return;
-  var entries = [];
+  var entries = new Map();
   for (var i = 0; i < data.text.length; i++) {
     var entry = data.text[i];
     if (!entry || typeof entry !== 'object' || Array.isArray(entry)) return;
     var entryKeys = Object.keys(entry).sort().join(',');
     if ((entryKeys !== 'from,to' && entryKeys !== 'from,locale,to') || !boundedPatchText(entry.from) || !boundedPatchText(entry.to)
       || (entry.locale !== undefined && !/^[a-z]{2,3}(-[a-z0-9]{2,8})?$/.test(entry.locale))) return;
-    entries.push({from: squash(entry.from), to: entry.to, locale: entry.locale || null});
+    var from = squash(entry.from);
+    if (!entries.has(from)) entries.set(from, []);
+    entries.get(from).push({to: entry.to, locale: entry.locale || null});
   }
   clearPatch();
-  patchKey = data.key; patchText = entries;
-  if (typeof MutationObserver !== 'undefined') {
-    patchObserver = new MutationObserver(function() {
-      if (patchTimer === null) patchTimer = setTimeout(applyPatch, 60);
-    });
-    patchObserver.observe(document.body, {childList: true, subtree: true, characterData: true});
-  }
-  applyPatch();
+  var key = data.key;
+  patchKey = key; patchText = entries;
+  // Changing server-rendered text while the page is still hydrating makes
+  // React throw the subtree away and render it again; wait until it has loaded
+  // and had a moment to settle.
+  var begin = function() { setTimeout(function() { startPatch(key); }, 300); };
+  if (document.readyState && document.readyState !== 'complete') window.addEventListener('load', begin, {once: true});
+  else begin();
 }
 window.addEventListener('message', function(event) {
   if (event.source !== window.parent || event.origin !== parentOrigin) return;
