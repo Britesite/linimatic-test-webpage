@@ -85,9 +85,115 @@ function clearMarks() {
   marks = [];
 }
 function disable() { pending = null; unbind(); clearMarks(); }
+// A provisional view of text the owner's helper has already changed in the
+// source while the build that will really carry it is still running. Only
+// whole text nodes and a few text attributes that equal the built text are
+// touched, never markup; the app clears it, or the reload onto the finished
+// build replaces the page.
+var patchKey = null, patchText = [], patchedNodes = new Map(), patchedAttrs = new Map(), patchObserver = null, patchTimer = null, patchReported = -1;
+var patchAttrs = ['alt', 'title', 'aria-label', 'placeholder'];
+function squash(value) { return String(value == null ? '' : value).replace(/\s+/g, ' ').trim(); }
+function patchFor(value) {
+  var lang = String(document.documentElement.getAttribute('lang') || '').toLowerCase();
+  for (var i = 0; i < patchText.length; i++) {
+    var entry = patchText[i];
+    if (entry.locale && lang && lang !== entry.locale && lang.indexOf(entry.locale + '-') !== 0) continue;
+    if (entry.from === value) return entry.to;
+  }
+  return null;
+}
+function patchNode(node) {
+  if (node.nodeType === 3) {
+    var raw = String(node.textContent || ''), done = patchedNodes.get(node);
+    if (done && done.value === raw) return;
+    var to = patchFor(squash(raw));
+    if (to === null) { if (done) patchedNodes.delete(node); return; }
+    var value = raw.match(/^\s*/)[0] + to + raw.match(/\s*$/)[0];
+    patchedNodes.set(node, {original: raw, value: value});
+    node.textContent = value;
+    return;
+  }
+  if (node.nodeType !== 1) return;
+  var tag = node.tagName.toLowerCase();
+  if (/^(script|style|noscript|template|textarea|select|option|iframe|object|embed)$/.test(tag)
+    || node.hasAttribute('data-selection-overlay') || node.hasAttribute('data-private')
+    || (node.hasAttribute('contenteditable') && node.getAttribute('contenteditable') !== 'false')) return;
+  for (var i = 0; i < patchAttrs.length; i++) {
+    var name = patchAttrs[i], current = node.getAttribute(name);
+    if (current === null) continue;
+    var seen = patchedAttrs.get(node) || {};
+    if (seen[name] && seen[name].value === current) continue;
+    var next = patchFor(squash(current));
+    if (next === null) { delete seen[name]; continue; }
+    seen[name] = {original: current, value: next};
+    patchedAttrs.set(node, seen);
+    node.setAttribute(name, next);
+  }
+  var children = Array.from(node.childNodes);
+  for (var c = 0; c < children.length; c++) patchNode(children[c]);
+}
+function patchCount() {
+  var count = 0;
+  patchedNodes.forEach(function(record, node) { if (inDocument(node.parentElement) && node.textContent === record.value) count++; });
+  patchedAttrs.forEach(function(seen, node) {
+    if (!inDocument(node)) return;
+    Object.keys(seen).forEach(function(name) { if (node.getAttribute(name) === seen[name].value) count++; });
+  });
+  return count;
+}
+function applyPatch() {
+  patchTimer = null;
+  if (!patchKey || !document.body) return;
+  patchNode(document.body);
+  var count = patchCount();
+  if (count === patchReported || (count === 0 && patchReported < 0)) return;
+  patchReported = count;
+  window.parent.postMessage({type: 'website-preview:applied', version: 1, key: patchKey, count: count}, parentOrigin);
+}
+function clearPatch() {
+  if (patchObserver) patchObserver.disconnect();
+  patchObserver = null;
+  clearTimeout(patchTimer); patchTimer = null;
+  patchKey = null; patchText = []; patchReported = -1;
+  patchedNodes.forEach(function(record, node) { if (node.textContent === record.value) node.textContent = record.original; });
+  patchedAttrs.forEach(function(seen, node) {
+    Object.keys(seen).forEach(function(name) { if (node.getAttribute(name) === seen[name].value) node.setAttribute(name, seen[name].original); });
+  });
+  patchedNodes = new Map(); patchedAttrs = new Map();
+}
+function boundedPatchText(value) { return typeof value === 'string' && value.length > 0 && value.length <= 2000; }
+function previewMessage(data) {
+  if (data.version !== 1) return;
+  var keys = Object.keys(data).sort().join(',');
+  if (data.type === 'website-preview:clear') { if (keys === 'type,version') clearPatch(); return; }
+  if (data.type !== 'website-preview:patch' || keys !== 'key,text,type,version' || !/^[0-9a-f]{40}$/.test(data.key)
+    || !Array.isArray(data.text) || data.text.length < 1 || data.text.length > 200) return;
+  var entries = [];
+  for (var i = 0; i < data.text.length; i++) {
+    var entry = data.text[i];
+    if (!entry || typeof entry !== 'object' || Array.isArray(entry)) return;
+    var entryKeys = Object.keys(entry).sort().join(',');
+    if ((entryKeys !== 'from,to' && entryKeys !== 'from,locale,to') || !boundedPatchText(entry.from) || !boundedPatchText(entry.to)
+      || (entry.locale !== undefined && !/^[a-z]{2,3}(-[a-z0-9]{2,8})?$/.test(entry.locale))) return;
+    entries.push({from: squash(entry.from), to: entry.to, locale: entry.locale || null});
+  }
+  clearPatch();
+  patchKey = data.key; patchText = entries;
+  if (typeof MutationObserver !== 'undefined') {
+    patchObserver = new MutationObserver(function() {
+      if (patchTimer === null) patchTimer = setTimeout(applyPatch, 60);
+    });
+    patchObserver.observe(document.body, {childList: true, subtree: true, characterData: true});
+  }
+  applyPatch();
+}
 window.addEventListener('message', function(event) {
   if (event.source !== window.parent || event.origin !== parentOrigin) return;
   var data = event.data;
+  if (data && typeof data === 'object' && !Array.isArray(data) && typeof data.type === 'string' && data.type.indexOf('website-preview:') === 0) {
+    previewMessage(data);
+    return;
+  }
   var isUnmark = !!data && typeof data === 'object' && data.type === 'website-selection:unmark';
   if (!data || typeof data !== 'object' || Array.isArray(data)
     || Object.keys(data).sort().join(',') !== (isUnmark ? 'id,nonce,target,type,version' : 'id,nonce,type,version')
