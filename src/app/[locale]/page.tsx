@@ -223,6 +223,16 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
         </div>
       </section>
 
+      {/* ═══════════════════════════════════ WORKSHOP IMAGE ═══════════════════════════════════ */}
+      <section className="bg-white pt-12 sm:pt-16">
+        <figure className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
+          <div className="relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden bg-zinc-200">
+            <Image src="/images/services/workshop-shavings-tools.webp" alt={t('hero.workshopImageAlt')} fill className="object-cover" sizes="(max-width: 1800px) 100vw, 1800px" />
+          </div>
+          <figcaption className="mt-2 text-xs text-zinc-600 font-[family-name:var(--font-mono)]">{t('hero.workshopImageCaption')}</figcaption>
+        </figure>
+      </section>
+
       {/* ═══════════════════════════════════ VALUE CHAIN ═══════════════════════════════════ */}
       <section className="bg-white py-16 sm:py-20 lg:py-24 xl:py-32 relative overflow-hidden">
         <div className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
