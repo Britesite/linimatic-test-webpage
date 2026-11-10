@@ -97,7 +97,9 @@ function disable() { pending = null; unbind(); clearMarks(); }
 // build replaces the page. A patch is measured from one build, so it is
 // accepted only by a page of that build (builtCommit).
 var patchKey = null, patchText = new Map(), patchImages = new Map(), patchedNodes = new Map(), patchedAttrs = new Map(), patchedImages = new Map();
-var patchObserver = null, patchTimer = null, patchReported = -1, patchQueue = [];
+// Each accepted patch is one run; clearing ends it, so a start or a timer
+// left over from an earlier run finds itself out of date and does nothing.
+var patchRun = 0, patchObserver = null, patchTimer = null, patchReported = -1, patchQueue = [];
 var patchAttrs = ['alt', 'title', 'aria-label', 'placeholder'];
 var patchSkip = /^(script|style|noscript|template|textarea|select|option|iframe|object|embed)$/;
 function squash(value) { return String(value == null ? '' : value).replace(/\s+/g, ' ').trim(); }
@@ -191,8 +193,8 @@ function patchCount() {
   });
   return count;
 }
-function applyPatch(key, everything) {
-  if (key !== patchKey || !document.body) return;
+function applyPatch(run, everything) {
+  if (run !== patchRun || !document.body) return;
   patchTimer = null;
   var queue = patchQueue; patchQueue = [];
   if (everything || queue.length > 500) patchNode(document.body);
@@ -202,26 +204,26 @@ function applyPatch(key, everything) {
   patchReported = count;
   window.parent.postMessage({type: 'website-preview:applied', version: 1, key: patchKey, count: count}, parentOrigin);
 }
-function startPatch(key) {
-  if (key !== patchKey) return;
+function startPatch(run) {
+  if (run !== patchRun) return;
   if (typeof MutationObserver !== 'undefined') {
     patchObserver = new MutationObserver(function(records) {
       records.forEach(function(record) {
         if (record.type === 'characterData' || record.type === 'attributes') patchQueue.push(record.target);
         else Array.from(record.addedNodes || []).forEach(function(node) { patchQueue.push(node); });
       });
-      if (patchQueue.length && patchTimer === null) patchTimer = setTimeout(function() { applyPatch(key, false); }, 60);
+      if (patchQueue.length && patchTimer === null) patchTimer = setTimeout(function() { applyPatch(run, false); }, 60);
     });
     var watch = {childList: true, subtree: true, characterData: true};
     if (patchImages.size) { watch.attributes = true; watch.attributeFilter = ['src', 'srcset']; }
     patchObserver.observe(document.body, watch);
   }
-  applyPatch(key, true);
+  applyPatch(run, true);
 }
 function clearPatch() {
   if (patchObserver) patchObserver.disconnect();
   patchObserver = null;
-  clearTimeout(patchTimer); patchTimer = null;
+  clearTimeout(patchTimer); patchTimer = null; patchRun++;
   patchKey = null; patchText = new Map(); patchImages = new Map(); patchReported = -1; patchQueue = [];
   patchedNodes.forEach(function(record, node) { if (node.textContent === record.value) node.textContent = record.original; });
   patchedAttrs.forEach(function(seen, node) {
@@ -265,12 +267,12 @@ function previewMessage(data) {
     entries.get(from).push({to: entry.to, locale: entry.locale || null});
   }
   clearPatch();
-  var key = data.key;
-  patchKey = key; patchText = entries; patchImages = pictures;
+  var run = patchRun;
+  patchKey = data.key; patchText = entries; patchImages = pictures;
   // Changing server-rendered text while the page is still hydrating makes
   // React throw the subtree away and render it again; wait until it has loaded
   // and had a moment to settle.
-  var begin = function() { setTimeout(function() { startPatch(key); }, 300); };
+  var begin = function() { setTimeout(function() { startPatch(run); }, 300); };
   if (document.readyState && document.readyState !== 'complete') window.addEventListener('load', begin, {once: true});
   else begin();
 }
