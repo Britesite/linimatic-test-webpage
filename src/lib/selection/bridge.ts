@@ -89,13 +89,14 @@ function clearMarks() {
   marks = [];
 }
 function disable() { pending = null; unbind(); clearMarks(); }
-// A provisional view of text the owner's helper has already changed in the
-// source while the build that will really carry it is still running. Only
-// whole text nodes and a few text attributes that equal the built text are
-// touched, never markup; the app clears it, or the reload onto the finished
+// A provisional view of text and pictures the owner's helper has already
+// changed in the source while the build that will really carry them is still
+// running. Only whole text nodes and a few text attributes that equal the
+// built text are touched, and the source of an img that loads a changed
+// picture, never markup; the app clears it, or the reload onto the finished
 // build replaces the page. A patch is measured from one build, so it is
 // accepted only by a page of that build (builtCommit).
-var patchKey = null, patchText = new Map(), patchedNodes = new Map(), patchedAttrs = new Map();
+var patchKey = null, patchText = new Map(), patchImages = new Map(), patchedNodes = new Map(), patchedAttrs = new Map(), patchedImages = new Map();
 var patchObserver = null, patchTimer = null, patchReported = -1, patchQueue = [];
 var patchAttrs = ['alt', 'title', 'aria-label', 'placeholder'];
 var patchSkip = /^(script|style|noscript|template|textarea|select|option|iframe|object|embed)$/;
@@ -115,6 +116,29 @@ function patchExcluded(node) {
   return patchSkip.test(node.tagName.toLowerCase()) || node.hasAttribute('data-selection-overlay') || node.hasAttribute('data-private')
     || (node.hasAttribute('contenteditable') && node.getAttribute('contenteditable') !== 'false');
 }
+// The site address an img loads: its own path, or the one next/image wraps.
+function imagePath(value) {
+  if (typeof value !== 'string' || value.charAt(0) !== '/' || value.charAt(1) === '/') return null;
+  try {
+    var url = new URL(value, 'https://site.invalid');
+    if (url.pathname !== '/_next/image') return decodeURI(url.pathname);
+    var inner = url.searchParams.get('url');
+    return inner && inner.charAt(0) === '/' && inner.charAt(1) !== '/' ? inner.split('?')[0] : null;
+  } catch (error) { return null; }
+}
+function patchImage(node) {
+  var current = node.getAttribute('src'), done = patchedImages.get(node);
+  if (done && done.value === current) {
+    // The built srcset would win over the new picture if the page put it back.
+    if (node.hasAttribute('srcset')) { done.srcset = node.getAttribute('srcset'); node.removeAttribute('srcset'); }
+    return;
+  }
+  var to = patchImages.get(imagePath(current));
+  if (!to) { if (done) patchedImages.delete(node); return; }
+  patchedImages.set(node, {src: current, srcset: node.getAttribute('srcset'), value: to});
+  node.removeAttribute('srcset');
+  node.setAttribute('src', to);
+}
 function patchNode(node) {
   if (node.nodeType === 3) {
     var raw = String(node.textContent || ''), done = patchedNodes.get(node);
@@ -127,6 +151,7 @@ function patchNode(node) {
     return;
   }
   if (node.nodeType !== 1 || patchExcluded(node)) return;
+  if (patchImages.size && node.tagName.toLowerCase() === 'img') patchImage(node);
   for (var i = 0; i < patchAttrs.length; i++) {
     var name = patchAttrs[i], current = node.getAttribute(name);
     if (current === null) continue;
@@ -160,6 +185,10 @@ function patchCount() {
     if (!inDocument(node)) { patchedAttrs.delete(node); return; }
     Object.keys(seen).forEach(function(name) { if (node.getAttribute(name) === seen[name].value) count++; });
   });
+  patchedImages.forEach(function(record, node) {
+    if (!inDocument(node)) { patchedImages.delete(node); return; }
+    if (node.getAttribute('src') === record.value) count++;
+  });
   return count;
 }
 function applyPatch(key, everything) {
@@ -178,12 +207,14 @@ function startPatch(key) {
   if (typeof MutationObserver !== 'undefined') {
     patchObserver = new MutationObserver(function(records) {
       records.forEach(function(record) {
-        if (record.type === 'characterData') patchQueue.push(record.target);
+        if (record.type === 'characterData' || record.type === 'attributes') patchQueue.push(record.target);
         else Array.from(record.addedNodes || []).forEach(function(node) { patchQueue.push(node); });
       });
       if (patchQueue.length && patchTimer === null) patchTimer = setTimeout(function() { applyPatch(key, false); }, 60);
     });
-    patchObserver.observe(document.body, {childList: true, subtree: true, characterData: true});
+    var watch = {childList: true, subtree: true, characterData: true};
+    if (patchImages.size) { watch.attributes = true; watch.attributeFilter = ['src', 'srcset']; }
+    patchObserver.observe(document.body, watch);
   }
   applyPatch(key, true);
 }
@@ -191,21 +222,37 @@ function clearPatch() {
   if (patchObserver) patchObserver.disconnect();
   patchObserver = null;
   clearTimeout(patchTimer); patchTimer = null;
-  patchKey = null; patchText = new Map(); patchReported = -1; patchQueue = [];
+  patchKey = null; patchText = new Map(); patchImages = new Map(); patchReported = -1; patchQueue = [];
   patchedNodes.forEach(function(record, node) { if (node.textContent === record.value) node.textContent = record.original; });
   patchedAttrs.forEach(function(seen, node) {
     Object.keys(seen).forEach(function(name) { if (node.getAttribute(name) === seen[name].value) node.setAttribute(name, seen[name].original); });
   });
-  patchedNodes = new Map(); patchedAttrs = new Map();
+  patchedImages.forEach(function(record, node) {
+    if (node.getAttribute('src') !== record.value) return;
+    node.setAttribute('src', record.src);
+    if (record.srcset !== null) node.setAttribute('srcset', record.srcset);
+  });
+  patchedNodes = new Map(); patchedAttrs = new Map(); patchedImages = new Map();
 }
 function boundedPatchText(value) { return typeof value === 'string' && value.length > 0 && value.length <= 2000; }
 function previewMessage(data) {
   if (data.version !== 1) return;
   var keys = Object.keys(data).sort().join(',');
   if (data.type === 'website-preview:clear') { if (keys === 'type,version') clearPatch(); return; }
-  if (data.type !== 'website-preview:patch' || keys !== 'base,key,text,type,version' || !/^[0-9a-f]{40}$/.test(data.key)
-    || !builtCommit || data.base !== builtCommit
-    || !Array.isArray(data.text) || data.text.length < 1 || data.text.length > 200) return;
+  if (data.type !== 'website-preview:patch' || (keys !== 'base,key,text,type,version' && keys !== 'base,images,key,text,type,version')
+    || !/^[0-9a-f]{40}$/.test(data.key) || !builtCommit || data.base !== builtCommit
+    || !Array.isArray(data.text) || data.text.length > 200) return;
+  // A picture arrives as its own bytes, so the page never fetches anything
+  // on the app's say-so.
+  var sent = data.images === undefined ? [] : data.images, pictures = new Map();
+  if (!Array.isArray(sent) || sent.length > 8 || data.text.length + sent.length < 1) return;
+  for (var p = 0; p < sent.length; p++) {
+    var image = sent[p];
+    if (!image || typeof image !== 'object' || Array.isArray(image) || Object.keys(image).sort().join(',') !== 'from,src'
+      || typeof image.from !== 'string' || image.from.length > 500 || imagePath(image.from) !== image.from
+      || typeof image.src !== 'string' || image.src.length > 6000000 || !/^data:image\/(jpeg|png|webp|avif|gif);base64,[A-Za-z0-9+\/]+=*$/.test(image.src)) return;
+    pictures.set(image.from, image.src);
+  }
   var entries = new Map();
   for (var i = 0; i < data.text.length; i++) {
     var entry = data.text[i];
@@ -219,7 +266,7 @@ function previewMessage(data) {
   }
   clearPatch();
   var key = data.key;
-  patchKey = key; patchText = entries;
+  patchKey = key; patchText = entries; patchImages = pictures;
   // Changing server-rendered text while the page is still hydrating makes
   // React throw the subtree away and render it again; wait until it has loaded
   // and had a moment to settle.
