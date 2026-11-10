@@ -227,7 +227,7 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
       <section className="bg-white pt-12 sm:pt-16">
         <figure className="mx-auto max-w-[1800px] px-6 sm:px-10 lg:px-16 xl:px-20">
           <div className="relative aspect-[16/9] sm:aspect-[21/9] overflow-hidden bg-zinc-200">
-            <Image src="/images/services/metal-tube-end-cap-closeup.webp" alt={t('hero.workshopImageAlt')} fill className="object-cover" sizes="(max-width: 1800px) 100vw, 1800px" />
+            <Image src="/images/services/product-detail-closeup.webp" alt={t('hero.workshopImageAlt')} fill className="object-cover" sizes="(max-width: 1800px) 100vw, 1800px" />
           </div>
           <figcaption className="mt-2 text-xs text-zinc-600 font-[family-name:var(--font-mono)]">{t('hero.workshopImageCaption')}</figcaption>
         </figure>
